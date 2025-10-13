@@ -1172,7 +1172,7 @@
         unlockCost="0"
         tooltip="@WEAP-OTS14-NAME"
         description="@WEAP-OTS14-DESC"
-        img="data/models/signatures/hk416_ui.dds"
+        img="data/models/signatures/ots14_ui.dds"
         animationSet="rifle"
     >
 		<MobilityModifiers moveSpeedModifierPercent="-3" turnSpeedModifierPercent="0" />
@@ -1256,7 +1256,7 @@
         unlockCost="0"
         tooltip="@WEAP-OM50-NAME"
         description="@WEAP-OM50-DESC"
-        img="data/models/signatures/hk416_ui.dds"
+        img="data/models/signatures/om50_ui.dds"
         animationSet="rifle"
     >
 		<MobilityModifiers
@@ -1337,7 +1337,7 @@
         unlockCost="6"
         tooltip="@WEAP-HARE-NAME"
         description="@WEAP-HARE-DESC"
-        img="data/models/weapons/sword_ui.dds"
+        img="data/models/signatures/hare_ui.dds"
         animationSet="melee"
     >
 		<MobilityModifiers
@@ -1396,7 +1396,7 @@
         unlockCost="0"
         tooltip="@WEAP-CURVA-NAME"
         description="@WEAP-CURVA-DESC"
-        img="data/models/signatures/hk416_ui.dds"
+        img="data/models/signatures/curva_ui.dds"
         animationSet="pistol"
     >
 		<MobilityModifiers moveSpeedModifierPercent="0" turnSpeedModifierPercent="0" />
@@ -1481,7 +1481,7 @@
         unlockCost="0"
         tooltip="@WEAP-VEPR12-NAME"
         description="@WEAP-VEPR12-DESC"
-        img="data/models/signatures/hk416_ui.dds"
+        img="data/models/signatures/vepr12_ui.dds"
         animationSet="shotgun_m1014"
     >
 		<MobilityModifiers

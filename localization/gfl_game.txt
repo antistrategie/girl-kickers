@@ -188,7 +188,7 @@
 @doctrine_gfl_cqc_descr=Close quarters battle subroutines. Significantly improves melee stun duration, damage output, strike speed, and overall mobility.
 
 @doctrine_gfl_overwhelming_name=Overwhelming Force
-@doctrine_gfl_overwhelming_descr=Maximum force authorization with precision targeting protocols. Drastically increases melee lethality and attack speed. Enables critical backstab techniques and improves point-blank engagement effectiveness.
+@doctrine_gfl_overwhelming_descr=Maximum force authorization with precision targeting protocols. Drastically increases melee lethality and attack speed, improving point-blank engagement effectiveness.
 
 @doctrine_gfl_rapideploy_name=Rapid Deployment
 @doctrine_gfl_rapideploy_descr=Mobility optimization for rifle-equipped units. Increases movement speed while maintaining combat readiness. Reduces weapon ready and guard times significantly.
