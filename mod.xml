@@ -12,46 +12,32 @@ What do you say, Commander?[/code]
 This mod imports tactical dolls from Girls&apos; Frontline 2: Exilium as playable units in Door Kickers. Each doll comes equipped with their signature weapon and is grouped by their faction affiliations for tactical operations.
 
 [h3]Units[/h3]
-Task Force DEFY
-[list]
-[*] Alva
-[*] Voymastina
-[/list]
-
-H.I.D.E 404
-[list]
-[*] Klukai
-[*] Mechty
-[*] Andoris
-[*] Belka
-[*] Leva
-[*] Lenna
-[*] Vector
-[/list]
-
-Zucchero Café
-[list]
-[*] Springfield
-[*] Makiatto
-[*] Centaureissi
-[*] Sharkry
-[/list]
+[b]Task Force DEFY:[/b] Alva, Voymastina
+[b]H.I.D.E 404:[/b] Klukai, Mechty, Andoris, Belka, Leva, Lenna, Vector
+[b]Zucchero Café:[/b] Springfield, Makiatto, Centaureissi, Sharkry
+[b]Groza Squad:[/b] Groza, Nemesis, Krolik, Colphne, Vepley
 
 [i]Note: Only dolls currently available in GFL2 are/will be included.[/i]
 
 [h3]To-do[/h3]
 This mod is an early work in progress with several elements still incomplete or missing, such as:
 [list]
-[*] UI elements
-[*] Sound/voice overs
+[*] Additional units
+[*] UI art and other UI elements
+[*] Sounds and voice overs
 [*] Weapon customisation
-[*] Unit doctrines
 [*] Tuning numbers and balancing
 [/list]
 
 Want to help or contribute? Visit the [url=https://github.com/beanpuppy/girl-kickers]GitHub repository[/url]
 
+[h3]Known Limitations[/h3]
+Door Kickers 2 expects uniform model sizes, causing visual issues when importing GFL2 dolls with varying heights and builds. Tall, skinny dolls like Nemesis and short dolls like Colphne are particularly affected by these scaling requirements. Some elements like Nemesis&apos;s cape were removed due to skeletal rigging constraints. I&apos;m working to minimise these issues while keeping dolls in their correct outfits.
+
+Due to these limitations, models are optimised for the default top-down view rather than freelook mode. Any visual issues only visible in freelook will not be considered bugs.
+
 [h3]Credits[/h3]
+Special thanks to:
 [list]
 [*] MICA Team - Girls&apos; Frontline 2: Exilium
 [*] kenji1997 - AssetStudio fork for model extraction

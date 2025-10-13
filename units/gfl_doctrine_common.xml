@@ -208,7 +208,7 @@ Buffs and debuffs - Apply doctrine effects to other humans, permanent or tempora
         description="@doctrine_gfl_optimized_descr"
         texturePrefix="data/textures/gui/doctrines/doctrine_empty"
     >
-		<EquipmentModifier conditioning="15" efficiencyPercent="40" />
+		<EquipmentModifier conditioning="5" efficiencyPercent="40" />
 		<EquipmentModifier
             target="ExplosiveCharge"
             changeInTime="-100"
@@ -280,7 +280,6 @@ Buffs and debuffs - Apply doctrine effects to other humans, permanent or tempora
             meleeStunBonus="50"
             meleeSpeedAdd="100"
         />
-		<Enable name="Backstabbing" />
 		<AttackTypeModifier minRange="0" maxRange="3" critChanceAdd="25" />
 	</Node>
 
@@ -292,7 +291,7 @@ Buffs and debuffs - Apply doctrine effects to other humans, permanent or tempora
     >
 		<Enable name="SpeedyRifles" value="15" />
 		<EquipmentModifier target="rifle" readyTime="-60" guardTime="-40" />
-		<EquipmentModifier conditioning="10" />
+		<EquipmentModifier conditioning="4" />
 	</Node>
 
 	<Node
