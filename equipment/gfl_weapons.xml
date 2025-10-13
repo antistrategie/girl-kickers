@@ -1201,7 +1201,12 @@
             accuracyStartDist="8"
             accuracyEndDist="45"
             suppressionScale="1.0"
+            suppressArea="1"
         />
+
+		<AttackTypesSuppressiveFire>
+			<AttackType name="AreaSuppression_Auto" rangeMeters="9999" />
+		</AttackTypesSuppressiveFire>
 
 		<Params
             caliberInfoText="@firearm_caliber_762x39_name"
