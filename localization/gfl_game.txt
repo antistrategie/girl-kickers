@@ -160,7 +160,7 @@
 @menu_doctrine_branch_remolder=PATTERN REMOLDER
 
 @doctrine_gfl_defy_femalegorilla_name=The Female Gorilla
-@doctrine_gfl_defy_femalegorilla_descr=Voymastina intimidates anyone in her presense. Enemies within her raduis gain reduced accuracy, supression recovery, and aim time.
+@doctrine_gfl_defy_femalegorilla_descr=Voymastina intimidates anyone in her presense. Enemies within her radius gain reduced accuracy, supression recovery, and aim time.
 @buff_gfl_defy_femalegorillabuff=Intimidated by Voymastina
 
 @doctrine_gfl_defy_alphaprotocol_name=Alpha Protocol

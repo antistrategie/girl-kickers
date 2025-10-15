@@ -116,7 +116,7 @@
 		<ConcealmentModifier add="-1" />
 
 		<Params>
-			<ProtectionArc degrees="90" coveragePercent="70" piercingProtectionLevel="75" />
+			<ProtectionArc degrees="90" coveragePercent="65" piercingProtectionLevel="70" />
 			<ProtectionArc
                 degrees="180"
                 coveragePercent="50"
