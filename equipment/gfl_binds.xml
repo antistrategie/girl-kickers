@@ -132,10 +132,12 @@
 
     <Bind to="GFL-DOLL-AK15">
         <eqp name="GFL-WEAP-AK15" />
+        <eqp name="GFL-GEAR-MEDIC-GRENADE" />
     </Bind>
 
     <Bind to="GFL-DOLL-AN94">
         <eqp name="GFL-WEAP-AN94" />
+        <eqp name="GFL-GEAR-MEDIC-GRENADE" />
     </Bind>
 
 	<Bind to="GFL-UNIT-DEFY">
@@ -174,8 +176,6 @@
         <eqp name="Breacher Shotgun" />
         <eqp name="AT4 Rocket Launcher" />
         <eqp name="RPG 26 CIA BOps" />
-        <eqp name="M320HE" />
-        <eqp name="M320HEDP" />
 
 		<!-- NVG -->
 		<eqp name="NVG" />
@@ -207,6 +207,7 @@
 
     <Bind to="GFL-DOLL-G36K">
         <eqp name="GFL-WEAP-G36K" />
+        <eqp name="GFL-GEAR-MEDIC-GRENADE" />
     </Bind>
 
     <Bind to="GFL-DOLL-G28">
@@ -261,8 +262,6 @@
         <eqp name="Breacher Shotgun" />
         <eqp name="AT4 Rocket Launcher" />
         <eqp name="RPG 26 CIA BOps" />
-        <eqp name="M320HE" />
-        <eqp name="M320HEDP" />
 
 		<!-- NVG -->
 		<eqp name="NVG" />
@@ -294,6 +293,7 @@
 
     <Bind to="GFL-DOLL-G36">
         <eqp name="GFL-WEAP-G36" />
+        <eqp name="GFL-GEAR-MEDIC-GRENADE" />
     </Bind>
 
     <Bind to="GFL-DOLL-XCR">
@@ -336,8 +336,6 @@
         <eqp name="Breacher Shotgun" />
         <eqp name="AT4 Rocket Launcher" />
         <eqp name="RPG 26 CIA BOps" />
-        <eqp name="M320HE" />
-        <eqp name="M320HEDP" />
 
 		<!-- NVG -->
 		<eqp name="NVG" />
@@ -461,6 +459,7 @@
     	<eqp name="GFL_ReactiveShielding" />
     	<eqp name="GFL_CombatMatrix" />
     	<eqp name="GFL_HardenedCore" />
+        <eqp name="GFL-GEAR-MEDIC-GRENADE" />
     </Bind>
 
     <Bind to="GFL-DOLL-VEPR12">
@@ -497,6 +496,7 @@
 		<eqp name="Slap Charge" />
 		<eqp name="Slap Charge Kit" />
 		<eqp name="TEC Torch" />
+		<eqp name="GFL-GEAR-MEDIC-GRENADE" />
 
 		<!-- Gear -->
 		<eqp name="Spy Camera" />
@@ -506,8 +506,6 @@
         <eqp name="Breacher Shotgun" />
         <eqp name="AT4 Rocket Launcher" />
         <eqp name="RPG 26 CIA BOps" />
-        <eqp name="M320HE" />
-        <eqp name="M320HEDP" />
 
 		<!-- NVG -->
 		<eqp name="NVG" />

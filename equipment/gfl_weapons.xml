@@ -564,14 +564,13 @@
             diffuseTex="data/models/signatures/m1903.dds"
         />
 
-
 		<ModifiableParams
             numPellets="1"
             roundsPerMagazine="5"
             closedBolt="1"
-            cyclicReload="1"
-            reloadTime="2800"
-            reloadEmptyTime="3500"
+            cyclicReload="0"
+            reloadTime="3200"
+            reloadEmptyTime="3800"
             changeInTime="900"
             changeOutTime="800"
             readyTime="400"
@@ -1282,9 +1281,9 @@
             numPellets="1"
             roundsPerMagazine="5"
             closedBolt="1"
-            cyclicReload="1"
-            reloadTime="3200"
-            reloadEmptyTime="4000"
+            cyclicReload="0"
+            reloadTime="4000"
+            reloadEmptyTime="4500"
             changeInTime="1000"
             changeOutTime="900"
             readyTime="650"

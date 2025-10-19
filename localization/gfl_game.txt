@@ -323,3 +323,7 @@
 
 @doctrine_gfl_groza_readtheroom_name=Read the Room
 @doctrine_gfl_groza_readtheroom_descr=Different backgrounds provide different perspectives. Each member notices what others might miss; Movement patterns, structural weaknesses, tactical opportunities. Pre-mission assessment reveals enemy positions before entry.
+
+@GEAR-MEDIC-GRENADE-NAME=2x Medic Grenade
+@GEAR-MEDIC-GRENADE-DESC=Experimental grenade that repairs damage to all units within the blast radius. Use with caution in mixed engagements to avoid healing enemy units.
+@GEAR-MEDIC-GRENADE-TTIP=Throw medic grenade
