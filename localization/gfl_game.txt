@@ -327,3 +327,23 @@
 @GEAR-MEDIC-GRENADE-NAME=2x Medic Grenade
 @GEAR-MEDIC-GRENADE-DESC=Experimental grenade that repairs damage to all units within the blast radius. Use with caution in mixed engagements to avoid healing enemy units.
 @GEAR-MEDIC-GRENADE-TTIP=Throw medic grenade
+
+@WEAP-PKPSP-NAME=PKP-SP GPMG
+@WEAP-PKPSP-DESC=The PKP Pecheneg is a Russian 7.62×54mmR general-purpose machine gun featuring a heavy, forced-air-cooled barrel with radial cooling ribs. The PKP-SP is a modernized variant with Picatinny rails for accessories.
+@firearm_caliber_762x54_name=7.62×54mmR
+
+@WEAP-SPAS12-NAME=SPAS-12
+@WEAP-SPAS12-DESC=The Franchi SPAS-12 is an Italian dual-mode combat shotgun that can operate as either semi-automatic or pump-action. Chambered in 12 gauge, it became iconic through its appearances in action films and video games.
+
+@WEAP-TYPE97-NAME=Type 97 Shotgun
+@WEAP-TYPE97-DESC=The Hawk Industries Type 97 is a Chinese 12 gauge shotgun with dual-mode operation. It uses a 5-round detachable box magazine and can switch between gas-operated semi-automatic and pump-action modes.
+
+@WEAP-PA15-NAME=MAB PA-15
+@WEAP-PA15-DESC=The MAB PA-15 is a French semi-automatic pistol chambered in 9×19mm Parabellum. It features a 15-round magazine and served with various military and law enforcement agencies.
+
+@WEAP-MP5-NAME=MP5
+@WEAP-MP5-DESC=The Heckler & Koch MP5 is a 9×19mm submachine gun developed in the 1960s. Adopted by over forty nations, it's one of the world's most recognized submachine guns with over 100 variants.
+
+@WEAP-VSK94-NAME=VSK-94
+@WEAP-VSK94-DESC=The VSK-94 is a Russian suppressed sniper rifle chambered in 9×39mm subsonic ammunition. Developed from the 9A-91, it features an integral suppressor and serves as a designated marksman rifle for covert operations.
+@firearm_caliber_939_name=9×39mm
