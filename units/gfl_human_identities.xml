@@ -128,4 +128,47 @@
         gender="0"
         customName="VEPLEY"
     />
+
+    <Portrait
+        tex="data/textures/portraits/gfl_pkpsp.dds"
+        unit="GFL-UNIT-ELMOCE"
+        class="GFL-DOLL-PKPSP"
+        gender="0"
+        customName="PERITYA"
+    />
+    <Portrait
+        tex="data/textures/portraits/gfl_spas12.dds"
+        unit="GFL-UNIT-ELMOCE"
+        class="GFL-DOLL-SPAS12"
+        gender="0"
+        customName="SABRINA"
+    />
+    <Portrait
+        tex="data/textures/portraits/gfl_type97.dds"
+        unit="GFL-UNIT-ELMOCE"
+        class="GFL-DOLL-TYPE97"
+        gender="0"
+        customName="QIUHUA"
+    />
+    <Portrait
+        tex="data/textures/portraits/gfl_mp5.dds"
+        unit="GFL-UNIT-ELMOCE"
+        class="GFL-DOLL-MP5"
+        gender="0"
+        customName="PERI"
+    />
+    <Portrait
+        tex="data/textures/portraits/gfl_pa15.dds"
+        unit="GFL-UNIT-ELMOCE"
+        class="GFL-DOLL-PA15"
+        gender="0"
+        customName="FLORENCE"
+    />
+    <Portrait
+        tex="data/textures/portraits/gfl_vsk94.dds"
+        unit="GFL-UNIT-ELMOCE"
+        class="GFL-DOLL-VSK94"
+        gender="0"
+        customName="NIKKETA"
+    />
 </HumanIdentities>

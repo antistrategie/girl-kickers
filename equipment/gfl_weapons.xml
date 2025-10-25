@@ -1554,7 +1554,7 @@
 
 <!-- PKP-SP GPMG -->
 	<Bind eqp="GFL-WEAP-PKPSP">
-		<to name="762x54RFMJ_PKM" />
+		<to name="762x54RFMJ_PKP" />
 
 		<to name="IronSights" />
 		<to name="M68CCO" />
@@ -1574,8 +1574,8 @@
         animationSet="rifle"
     >
 		<MobilityModifiers
-            moveSpeedModifierPercent="-12"
-            turnSpeedModifierPercent="-4"
+            moveSpeedModifierPercent="-14"
+            turnSpeedModifierPercent="-5"
         />
 		<ConcealmentModifier add="-5" />
 
@@ -1610,7 +1610,7 @@
             caliberInfoText="@firearm_caliber_762x54_name"
             operationInfoText="@firearm_operation_fullauto_name"
             ejectingShellEntity="BulletCasingLarge"
-            magazineEntity="m4_mag"
+            magazineEntity="m2401_mag"
             ai_rangeMin="5.0"
             ai_rangeOptimal="25.0"
             ai_rangeMax="70.0"
@@ -1819,90 +1819,6 @@
 		</Sounds>
 	</Firearm>
 
-<!-- PA-15 -->
-	<Bind eqp="GFL-WEAP-PA15">
-		<to name="919FMJM882_Mp5ASMG" />
-		<to name="919FMJM1152_Mp5ASMG" />
-		<to name="919JHPM1153_Mp5ASMG" />
-
-		<to name="IronSights" />
-		<to name="M68CCO" />
-		<to name="Holosight" />
-	</Bind>
-
-	<Firearm
-        name="GFL-WEAP-PA15"
-        inventoryBinding="SecondaryWeapon"
-        category="pistol"
-        unlockCost="0"
-        tooltip="@WEAP-PA15-NAME"
-        description="@WEAP-PA15-DESC"
-        img="data/models/signatures/g36_ui.dds"
-        animationSet="pistol"
-    >
-		<MobilityModifiers moveSpeedModifierPercent="0" turnSpeedModifierPercent="0" />
-		<ConcealmentModifier add="1" />
-
-		<RenderObject3D
-            model="data/models/signatures/pa15.khm"
-            attachSlot="prop_hip_pistol"
-            skipGOSSAO="true"
-            diffuseTex="data/models/signatures/pa15.dds"
-        />
-
-		<ModifiableParams
-            numPellets="1"
-            roundsPerMagazine="15"
-            closedBolt="1"
-            cyclicReload="0"
-            reloadTime="1800"
-            reloadEmptyTime="2400"
-            changeInTime="300"
-            changeOutTime="200"
-            readyTime="260"
-            guardTime="130"
-            accuracyStart="85"
-            accuracyEnd="35"
-            accuracyStartDist="0"
-            accuracyEndDist="15"
-            suppressionScale="0.7"
-        />
-
-		<Params
-            caliberInfoText="@firearm_caliber_9x19_name"
-            operationInfoText="@firearm_operation_semiauto_name"
-            ejectingShellEntity="BulletCasingSmall"
-            magazineEntity="pm63_mag"
-            ai_rangeMin="0.0"
-            ai_rangeOptimal="5.0"
-            ai_rangeMax="12.0"
-            ai_stopWhenShooting="false"
-        />
-
-		<AttackTypes>
-			<AttackType name="Rangers_PistolAimedFireShort9mil" rangeMeters="6" />
-			<AttackType name="Rangers_PistolAimedFire9mil" rangeMeters="12" />
-			<AttackType name="Rangers_PistolAimedFireLong9milXX" rangeMeters="9999" />
-		</AttackTypes>
-
-		<MuzzleFlash lightTemplate="ShotLightLarge" tracerTemplate="Tracer_Pistol">
-			<Flare particles="FX_MUZZLE_FLASH_PISTOL_01" />
-			<Flare particles="FX_MUZZLE_FLASH_PISTOL_02" />
-			<Flare particles="FX_MUZZLE_FLASH_PISTOL_03" />
-			<Flare particles="FX_MUZZLE_FLASH_PISTOL_04" />
-		</MuzzleFlash>
-
-		<Sounds>
-			<Equip name="pistol_eqp" />
-			<Unequip name="pistol_neqp" />
-			<Reload name="pistol_reld" />
-			<ReloadEmpty name="pistol_reldempt" />
-			<Fire name="m9_fire" />
-			<ShellDrop name="pistol_shell_drop" />
-			<Empty name="gen_empty" />
-		</Sounds>
-	</Firearm>
-
 <!-- MP5 -->
 	<Bind eqp="GFL-WEAP-MP5">
 		<to name="919FMJM882_Mp5ASMG" />
@@ -1984,6 +1900,90 @@
 			<ReloadEmpty name="smg_reldempt" />
 			<Fire name="mp5a_fire" />
 			<ShellDrop name="smg_shell_drop" />
+			<Empty name="gen_empty" />
+		</Sounds>
+	</Firearm>
+
+<!-- PA-15 -->
+	<Bind eqp="GFL-WEAP-PA15">
+		<to name="919FMJM882_Mp5ASMG" />
+		<to name="919FMJM1152_Mp5ASMG" />
+		<to name="919JHPM1153_Mp5ASMG" />
+
+		<to name="IronSights" />
+		<to name="M68CCO" />
+		<to name="Holosight" />
+	</Bind>
+
+	<Firearm
+        name="GFL-WEAP-PA15"
+        inventoryBinding="SecondaryWeapon"
+        category="pistol"
+        unlockCost="0"
+        tooltip="@WEAP-PA15-NAME"
+        description="@WEAP-PA15-DESC"
+        img="data/models/signatures/g36_ui.dds"
+        animationSet="pistol"
+    >
+		<MobilityModifiers moveSpeedModifierPercent="0" turnSpeedModifierPercent="0" />
+		<ConcealmentModifier add="1" />
+
+		<RenderObject3D
+            model="data/models/signatures/pa15.khm"
+            attachSlot="prop_hip_pistol"
+            skipGOSSAO="true"
+            diffuseTex="data/models/signatures/pa15.dds"
+        />
+
+		<ModifiableParams
+            numPellets="1"
+            roundsPerMagazine="15"
+            closedBolt="1"
+            cyclicReload="0"
+            reloadTime="1800"
+            reloadEmptyTime="2400"
+            changeInTime="300"
+            changeOutTime="200"
+            readyTime="260"
+            guardTime="130"
+            accuracyStart="85"
+            accuracyEnd="35"
+            accuracyStartDist="0"
+            accuracyEndDist="15"
+            suppressionScale="0.7"
+        />
+
+		<Params
+            caliberInfoText="@firearm_caliber_9x19_name"
+            operationInfoText="@firearm_operation_semiauto_name"
+            ejectingShellEntity="BulletCasingSmall"
+            magazineEntity="pm63_mag"
+            ai_rangeMin="0.0"
+            ai_rangeOptimal="5.0"
+            ai_rangeMax="12.0"
+            ai_stopWhenShooting="false"
+        />
+
+		<AttackTypes>
+			<AttackType name="Rangers_PistolAimedFireShort9mil" rangeMeters="6" />
+			<AttackType name="Rangers_PistolAimedFire9mil" rangeMeters="12" />
+			<AttackType name="Rangers_PistolAimedFireLong9milXX" rangeMeters="9999" />
+		</AttackTypes>
+
+		<MuzzleFlash lightTemplate="ShotLightLarge" tracerTemplate="Tracer_Pistol">
+			<Flare particles="FX_MUZZLE_FLASH_PISTOL_01" />
+			<Flare particles="FX_MUZZLE_FLASH_PISTOL_02" />
+			<Flare particles="FX_MUZZLE_FLASH_PISTOL_03" />
+			<Flare particles="FX_MUZZLE_FLASH_PISTOL_04" />
+		</MuzzleFlash>
+
+		<Sounds>
+			<Equip name="pistol_eqp" />
+			<Unequip name="pistol_neqp" />
+			<Reload name="pistol_reld" />
+			<ReloadEmpty name="pistol_reldempt" />
+			<Fire name="m9_fire" />
+			<ShellDrop name="pistol_shell_drop" />
 			<Empty name="gen_empty" />
 		</Sounds>
 	</Firearm>

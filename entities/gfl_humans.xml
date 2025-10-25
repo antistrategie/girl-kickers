@@ -683,7 +683,7 @@
 			<Equipment>
 				<Item name="GFL-WEAP-CURVA" />
 				<Item name="Flashbang" />
-				<Item name="Frag Grenade" />
+				<Item name="GFL-GEAR-MEDIC-GRENADE" />
 				<Item name="FeetOfSteel" />
 				<Item name="GFL_ReactiveShielding" />
 			</Equipment>
@@ -720,6 +720,249 @@
 
 			<Equipment>
 				<Item name="GFL-WEAP-VEPR12" />
+				<Item name="IronSights" />
+				<Item name="M9 Pistol" />
+				<Item name="IronSights_Pistol" />
+				<Item name="Flashbang" />
+				<Item name="Frag Grenade" />
+				<Item name="FeetOfSteel" />
+				<Item name="GFL_ReactiveShielding" />
+			</Equipment>
+		</Human>
+	</Entity>
+
+	<Entity name="ELMOCE-PKPSP" type="Human" editorAutoHeight="false">
+		<RenderObject3D
+            model="data/models/dolls/pkpsp.khm"
+            diffuseTex="data/models/dolls/pkpsp.dds"
+        />
+
+		<Breakable
+            template="GenericTrooperGibs"
+            breakOnDamage="explosive"
+            deleteOnDeath="false"
+        />
+		<PhysicalParams health="250" />
+
+		<Human type="GoodGuy" unit="GFL-UNIT-ELMOCE" class="GFL-DOLL-PKPSP">
+			<Id
+                name="ELMOCE-PKPSP"
+                portrait="data/textures/portraits/gfl_pkpsp.dds"
+                gender="0"
+                voicePack="cia_female"
+            />
+			<FOV degrees="120" distanceMeters="999" eyeRadiusMeters="0.6" />
+			<Brain suppressionRecovery="60" />
+
+			<Mobility>
+				<MoveSpeed min="1.1" defaultMetersPerSec="2.5" max="10" />
+				<TurnSpeed min="6" defaultMetersPerSec="13" max="20" />
+			</Mobility>
+
+			<Equipment>
+				<Item name="GFL-WEAP-PKPSP" />
+				<Item name="IronSights" />
+				<Item name="M9 Pistol" />
+				<Item name="IronSights_Pistol" />
+				<Item name="Flashbang" />
+				<Item name="Frag Grenade" />
+				<Item name="FeetOfSteel" />
+				<Item name="GFL_ReactiveShielding" />
+			</Equipment>
+		</Human>
+	</Entity>
+
+	<Entity name="ELMOCE-SPAS12" type="Human" editorAutoHeight="false">
+		<RenderObject3D
+            model="data/models/dolls/spas12.khm"
+            diffuseTex="data/models/dolls/spas12.dds"
+        />
+
+		<Breakable
+            template="GenericTrooperGibs"
+            breakOnDamage="explosive"
+            deleteOnDeath="false"
+        />
+		<PhysicalParams health="225" />
+
+		<Human type="GoodGuy" unit="GFL-UNIT-ELMOCE" class="GFL-DOLL-SPAS12">
+			<Id
+                name="ELMOCE-SPAS12"
+                portrait="data/textures/portraits/gfl_spas12.dds"
+                gender="0"
+                voicePack="cia_female"
+            />
+			<FOV degrees="120" distanceMeters="999" eyeRadiusMeters="0.6" />
+			<Brain suppressionRecovery="60" />
+
+			<Mobility>
+				<MoveSpeed min="1.3" defaultMetersPerSec="2.8" max="10" />
+				<TurnSpeed min="6" defaultMetersPerSec="13" max="20" />
+			</Mobility>
+
+			<Equipment>
+				<Item name="GFL-WEAP-SPAS12" />
+				<Item name="IronSights" />
+				<Item name="M9 Pistol" />
+				<Item name="IronSights_Pistol" />
+				<Item name="Flashbang" />
+				<Item name="Frag Grenade" />
+				<Item name="FeetOfSteel" />
+				<Item name="GFL_ReactiveShielding" />
+			</Equipment>
+		</Human>
+	</Entity>
+
+	<Entity name="ELMOCE-TYPE97" type="Human" editorAutoHeight="false">
+		<RenderObject3D
+            model="data/models/dolls/type97.khm"
+            diffuseTex="data/models/dolls/type97.dds"
+        />
+
+		<Breakable
+            template="GenericTrooperGibs"
+            breakOnDamage="explosive"
+            deleteOnDeath="false"
+        />
+		<PhysicalParams health="225" />
+
+		<Human type="GoodGuy" unit="GFL-UNIT-ELMOCE" class="GFL-DOLL-TYPE97">
+			<Id
+                name="ELMOCE-TYPE97"
+                portrait="data/textures/portraits/gfl_type97.dds"
+                gender="0"
+                voicePack="cia_female"
+            />
+			<FOV degrees="120" distanceMeters="999" eyeRadiusMeters="0.6" />
+			<Brain suppressionRecovery="60" />
+
+			<Mobility>
+				<MoveSpeed min="1.3" defaultMetersPerSec="2.8" max="10" />
+				<TurnSpeed min="6" defaultMetersPerSec="13" max="20" />
+			</Mobility>
+
+			<Equipment>
+				<Item name="GFL-WEAP-TYPE97" />
+				<Item name="IronSights" />
+				<Item name="M9 Pistol" />
+				<Item name="IronSights_Pistol" />
+				<Item name="Flashbang" />
+				<Item name="Frag Grenade" />
+				<Item name="FeetOfSteel" />
+				<Item name="GFL_ReactiveShielding" />
+			</Equipment>
+		</Human>
+	</Entity>
+
+	<Entity name="ELMOCE-MP5" type="Human" editorAutoHeight="false">
+		<RenderObject3D
+            model="data/models/dolls/mp5.khm"
+            diffuseTex="data/models/dolls/mp5.dds"
+        />
+
+		<Breakable
+            template="GenericTrooperGibs"
+            breakOnDamage="explosive"
+            deleteOnDeath="false"
+        />
+		<PhysicalParams health="175" />
+
+		<Human type="GoodGuy" unit="GFL-UNIT-ELMOCE" class="GFL-DOLL-MP5">
+			<Id
+                name="ELMOCE-MP5"
+                portrait="data/textures/portraits/gfl_mp5.dds"
+                gender="0"
+                voicePack="cia_female"
+            />
+			<FOV degrees="120" distanceMeters="999" eyeRadiusMeters="0.6" />
+			<Brain suppressionRecovery="60" />
+
+			<Mobility>
+				<MoveSpeed min="1.3" defaultMetersPerSec="2.8" max="10" />
+				<TurnSpeed min="6" defaultMetersPerSec="13" max="20" />
+			</Mobility>
+
+			<Equipment>
+				<Item name="GFL-WEAP-MP5" />
+				<Item name="IronSights" />
+				<Item name="M9 Pistol" />
+				<Item name="IronSights_Pistol" />
+				<Item name="Flashbang" />
+				<Item name="Frag Grenade" />
+				<Item name="FeetOfSteel" />
+				<Item name="GFL_ReactiveShielding" />
+			</Equipment>
+		</Human>
+	</Entity>
+
+	<Entity name="ELMOCE-PA15" type="Human" editorAutoHeight="false">
+		<RenderObject3D
+            model="data/models/dolls/pa15.khm"
+            diffuseTex="data/models/dolls/pa15.dds"
+        />
+
+		<Breakable
+            template="GenericTrooperGibs"
+            breakOnDamage="explosive"
+            deleteOnDeath="false"
+        />
+		<PhysicalParams health="175" />
+
+		<Human type="GoodGuy" unit="GFL-UNIT-ELMOCE" class="GFL-DOLL-PA15">
+			<Id
+                name="ELMOCE-PA15"
+                portrait="data/textures/portraits/gfl_pa15.dds"
+                gender="0"
+                voicePack="cia_female"
+            />
+			<FOV degrees="120" distanceMeters="999" eyeRadiusMeters="0.6" />
+			<Brain suppressionRecovery="60" />
+
+			<Mobility>
+				<MoveSpeed min="1.3" defaultMetersPerSec="2.8" max="10" />
+				<TurnSpeed min="6" defaultMetersPerSec="13" max="20" />
+			</Mobility>
+
+			<Equipment>
+				<Item name="GFL-WEAP-PA15" />
+				<Item name="Flashbang" />
+				<Item name="GFL-GEAR-MEDIC-GRENADE" />
+				<Item name="FeetOfSteel" />
+				<Item name="GFL_ReactiveShielding" />
+			</Equipment>
+		</Human>
+	</Entity>
+
+	<Entity name="ELMOCE-VSK94" type="Human" editorAutoHeight="false">
+		<RenderObject3D
+            model="data/models/dolls/vsk94.khm"
+            diffuseTex="data/models/dolls/vsk94.dds"
+        />
+
+		<Breakable
+            template="GenericTrooperGibs"
+            breakOnDamage="explosive"
+            deleteOnDeath="false"
+        />
+		<PhysicalParams health="200" />
+
+		<Human type="GoodGuy" unit="GFL-UNIT-ELMOCE" class="GFL-DOLL-VSK94">
+			<Id
+                name="ELMOCE-VSK94"
+                portrait="data/textures/portraits/gfl_vsk94.dds"
+                gender="0"
+                voicePack="cia_female"
+            />
+			<FOV degrees="135" distanceMeters="999" eyeRadiusMeters="0.6" />
+			<Brain suppressionRecovery="70" />
+
+			<Mobility>
+				<MoveSpeed min="1.3" defaultMetersPerSec="2.2" max="10" />
+				<TurnSpeed min="6" defaultMetersPerSec="13" max="20" />
+			</Mobility>
+
+			<Equipment>
+				<Item name="GFL-WEAP-VSK94" />
 				<Item name="IronSights" />
 				<Item name="M9 Pistol" />
 				<Item name="IronSights_Pistol" />
