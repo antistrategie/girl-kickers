@@ -39,6 +39,7 @@ This mod imports tactical dolls from Girls&apos; Frontline 2: Exilium as playabl
 [b]Groza Squad:[/b] Groza, Nemesis, Krolik, Colphne, Vepley
 
 
+[b]Elmo Combined Echelon:[/b] Peritya, Sabrina, Qiuhua, Peri, Florence, Nikketa
 
 [i]Note: Only dolls currently available in GFL2 are/will be included.[/i]
 
@@ -81,10 +82,16 @@ Due to these limitations, models are optimised for the default top-down view rat
 [h3]Credits[/h3]
 
 Contributors:
+
 [list]
+
 [*] beanpuppy
+
 [*] Housenflou
+
 [/list]
+
+
 
 Special thanks to:
 
@@ -97,9 +104,12 @@ Special thanks to:
 [*] [url=https://www.instagram.com/luwiss96/]Luwis96[/url] - Commissioned weapon UI images
 
 [*] Everyone giving suggestions and reporting bugs
+
 [/list]"
-    changeNotes="Add voice lines for Alva and Voymastina.
-Fix &quot;Weapon Transistion Drills&quot; doctrine not applying."
+    changeNotes="Add Elmo Combined Echelon unit.
+
+Balance changes:
+- Squad leaders and breachers (and Voymastina) can now kick down locked doors in one kick (requires remaking squad)."
     languageMod=""
     tags="Playable Units,Equipment,UI"
     ugcId="3580762170"
