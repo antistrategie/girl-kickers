@@ -7,8 +7,22 @@
         customName="ALVA"
     />
 	<Portrait
+        tex="data/textures/portraits/gfl_an94.dds"
+        unit="GFL-UNIT-GIRL"
+        class="GFL-DOLL-AN94"
+        gender="0"
+        customName="ALVA"
+    />
+	<Portrait
         tex="data/textures/portraits/gfl_ak15.dds"
         unit="GFL-UNIT-DEFY"
+        class="GFL-DOLL-AK15"
+        gender="0"
+        customName="VOYMASTINA"
+    />
+	<Portrait
+        tex="data/textures/portraits/gfl_ak15.dds"
+        unit="GFL-UNIT-GIRL"
         class="GFL-DOLL-AK15"
         gender="0"
         customName="VOYMASTINA"
@@ -22,8 +36,22 @@
         customName="KLUKAI"
     />
 	<Portrait
+        tex="data/textures/portraits/gfl_hk416.dds"
+        unit="GFL-UNIT-GIRL"
+        class="GFL-DOLL-HK416"
+        gender="0"
+        customName="KLUKAI"
+    />
+	<Portrait
         tex="data/textures/portraits/gfl_g11.dds"
         unit="GFL-UNIT-404"
+        class="GFL-DOLL-G11"
+        gender="0"
+        customName="MECHTY"
+    />
+	<Portrait
+        tex="data/textures/portraits/gfl_g11.dds"
+        unit="GFL-UNIT-GIRL"
         class="GFL-DOLL-G11"
         gender="0"
         customName="MECHTY"
@@ -36,8 +64,22 @@
         customName="ANDORIS"
     />
 	<Portrait
+        tex="data/textures/portraits/gfl_g36k.dds"
+        unit="GFL-UNIT-GIRL"
+        class="GFL-DOLL-G36K"
+        gender="0"
+        customName="ANDORIS"
+    />
+	<Portrait
         tex="data/textures/portraits/gfl_g28.dds"
         unit="GFL-UNIT-404"
+        class="GFL-DOLL-G28"
+        gender="0"
+        customName="BELKA"
+    />
+	<Portrait
+        tex="data/textures/portraits/gfl_g28.dds"
+        unit="GFL-UNIT-GIRL"
         class="GFL-DOLL-G28"
         gender="0"
         customName="BELKA"
@@ -50,6 +92,13 @@
         customName="LEVA"
     />
 	<Portrait
+        tex="data/textures/portraits/gfl_ump45.dds"
+        unit="GFL-UNIT-GIRL"
+        class="GFL-DOLL-UMP45"
+        gender="0"
+        customName="LEVA"
+    />
+	<Portrait
         tex="data/textures/portraits/gfl_ump9.dds"
         unit="GFL-UNIT-404"
         class="GFL-DOLL-UMP9"
@@ -57,8 +106,22 @@
         customName="LENNA"
     />
 	<Portrait
+        tex="data/textures/portraits/gfl_ump9.dds"
+        unit="GFL-UNIT-GIRL"
+        class="GFL-DOLL-UMP9"
+        gender="0"
+        customName="LENNA"
+    />
+	<Portrait
         tex="data/textures/portraits/gfl_vector.dds"
         unit="GFL-UNIT-404"
+        class="GFL-DOLL-VECTOR"
+        gender="0"
+        customName="VECTOR"
+    />
+	<Portrait
+        tex="data/textures/portraits/gfl_vector.dds"
+        unit="GFL-UNIT-GIRL"
         class="GFL-DOLL-VECTOR"
         gender="0"
         customName="VECTOR"
@@ -72,8 +135,22 @@
         customName="SPRINGFIELD"
     />
 	<Portrait
+        tex="data/textures/portraits/gfl_m1903.dds"
+        unit="GFL-UNIT-GIRL"
+        class="GFL-DOLL-M1903"
+        gender="0"
+        customName="SPRINGFIELD"
+    />
+	<Portrait
         tex="data/textures/portraits/gfl_wa2000.dds"
         unit="GFL-UNIT-CAFE"
+        class="GFL-DOLL-WA2000"
+        gender="0"
+        customName="MAKIATTO"
+    />
+	<Portrait
+        tex="data/textures/portraits/gfl_wa2000.dds"
+        unit="GFL-UNIT-GIRL"
         class="GFL-DOLL-WA2000"
         gender="0"
         customName="MAKIATTO"
@@ -86,8 +163,22 @@
         customName="CENTAUREISSI"
     />
 	<Portrait
+        tex="data/textures/portraits/gfl_g36.dds"
+        unit="GFL-UNIT-GIRL"
+        class="GFL-DOLL-G36"
+        gender="0"
+        customName="CENTAUREISSI"
+    />
+	<Portrait
         tex="data/textures/portraits/gfl_xcr.dds"
         unit="GFL-UNIT-CAFE"
+        class="GFL-DOLL-XCR"
+        gender="0"
+        customName="SHARKRY"
+    />
+	<Portrait
+        tex="data/textures/portraits/gfl_xcr.dds"
+        unit="GFL-UNIT-GIRL"
         class="GFL-DOLL-XCR"
         gender="0"
         customName="SHARKRY"
@@ -101,8 +192,22 @@
         customName="GROZA"
     />
 	<Portrait
+        tex="data/textures/portraits/gfl_ots14.dds"
+        unit="GFL-UNIT-GIRL"
+        class="GFL-DOLL-OTS14"
+        gender="0"
+        customName="GROZA"
+    />
+	<Portrait
         tex="data/textures/portraits/gfl_om50.dds"
         unit="GFL-UNIT-GROZA"
+        class="GFL-DOLL-OM50"
+        gender="0"
+        customName="NEMESIS"
+    />
+	<Portrait
+        tex="data/textures/portraits/gfl_om50.dds"
+        unit="GFL-UNIT-GIRL"
         class="GFL-DOLL-OM50"
         gender="0"
         customName="NEMESIS"
@@ -115,6 +220,13 @@
         customName="KROLIK"
     />
 	<Portrait
+        tex="data/textures/portraits/gfl_hare.dds"
+        unit="GFL-UNIT-GIRL"
+        class="GFL-DOLL-HARE"
+        gender="0"
+        customName="KROLIK"
+    />
+	<Portrait
         tex="data/textures/portraits/gfl_curva.dds"
         unit="GFL-UNIT-GROZA"
         class="GFL-DOLL-CURVA"
@@ -122,8 +234,22 @@
         customName="COLPHNE"
     />
 	<Portrait
+        tex="data/textures/portraits/gfl_curva.dds"
+        unit="GFL-UNIT-GIRL"
+        class="GFL-DOLL-CURVA"
+        gender="0"
+        customName="COLPHNE"
+    />
+	<Portrait
         tex="data/textures/portraits/gfl_vepr12.dds"
         unit="GFL-UNIT-GROZA"
+        class="GFL-DOLL-VEPR12"
+        gender="0"
+        customName="VEPLEY"
+    />
+	<Portrait
+        tex="data/textures/portraits/gfl_vepr12.dds"
+        unit="GFL-UNIT-GIRL"
         class="GFL-DOLL-VEPR12"
         gender="0"
         customName="VEPLEY"
@@ -137,8 +263,22 @@
         customName="PERITYA"
     />
     <Portrait
+        tex="data/textures/portraits/gfl_pkpsp.dds"
+        unit="GFL-UNIT-GIRL"
+        class="GFL-DOLL-PKPSP"
+        gender="0"
+        customName="PERITYA"
+    />
+    <Portrait
         tex="data/textures/portraits/gfl_spas12.dds"
         unit="GFL-UNIT-ELMOCE"
+        class="GFL-DOLL-SPAS12"
+        gender="0"
+        customName="SABRINA"
+    />
+    <Portrait
+        tex="data/textures/portraits/gfl_spas12.dds"
+        unit="GFL-UNIT-GIRL"
         class="GFL-DOLL-SPAS12"
         gender="0"
         customName="SABRINA"
@@ -151,8 +291,22 @@
         customName="QIUHUA"
     />
     <Portrait
+        tex="data/textures/portraits/gfl_type97.dds"
+        unit="GFL-UNIT-GIRL"
+        class="GFL-DOLL-TYPE97"
+        gender="0"
+        customName="QIUHUA"
+    />
+    <Portrait
         tex="data/textures/portraits/gfl_mp5.dds"
         unit="GFL-UNIT-ELMOCE"
+        class="GFL-DOLL-MP5"
+        gender="0"
+        customName="PERI"
+    />
+    <Portrait
+        tex="data/textures/portraits/gfl_mp5.dds"
+        unit="GFL-UNIT-GIRL"
         class="GFL-DOLL-MP5"
         gender="0"
         customName="PERI"
@@ -165,8 +319,22 @@
         customName="FLORENCE"
     />
     <Portrait
+        tex="data/textures/portraits/gfl_pa15.dds"
+        unit="GFL-UNIT-GIRL"
+        class="GFL-DOLL-PA15"
+        gender="0"
+        customName="FLORENCE"
+    />
+    <Portrait
         tex="data/textures/portraits/gfl_vsk94.dds"
         unit="GFL-UNIT-ELMOCE"
+        class="GFL-DOLL-VSK94"
+        gender="0"
+        customName="NIKKETA"
+    />
+    <Portrait
+        tex="data/textures/portraits/gfl_vsk94.dds"
+        unit="GFL-UNIT-GIRL"
         class="GFL-DOLL-VSK94"
         gender="0"
         customName="NIKKETA"

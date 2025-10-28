@@ -5,7 +5,7 @@
         description="@GFL-UNIT-DEFY-DESC"
         flagTex="data/textures/gfl_defy_bg.dds"
         flagColor="E4E4E4"
-        movie="data/movies/unlock_swat.ogv"
+        movie="data/movies/gfl_unlock_defy.ogv"
         rndNameEntry="@#GFL-UNIT-DEFY-NAME-RND"
         voicepack="commander_eng"
         incapacitationChance="90"
@@ -153,7 +153,7 @@
         description="@GFL-UNIT-404-DESC"
         flagTex="data/textures/gfl_404_bg.dds"
         flagColor="888888"
-        movie="data/movies/unlock_swat.ogv"
+        movie="data/movies/gfl_unlock_404.ogv"
         rndNameEntry="@#GFL-UNIT-404-NAME-RND"
         voicepack="commander_eng"
         incapacitationChance="85"
@@ -343,7 +343,7 @@
         description="@GFL-UNIT-CAFE-DESC"
         flagTex="data/textures/gfl_cafe_bg.dds"
         flagColor="D67849"
-        movie="data/movies/unlock_swat.ogv"
+        movie="data/movies/gfl_unlock_cafe.ogv"
         rndNameEntry="@#GFL-UNIT-CAFE-NAME-RND"
         voicepack="commander_eng"
         incapacitationChance="85"
@@ -506,7 +506,7 @@
         description="@GFL-UNIT-GROZA-DESC"
         flagTex="data/textures/gfl_groza_bg.dds"
         flagColor="a1251f"
-        movie="data/movies/unlock_swat.ogv"
+        movie="data/movies/gfl_unlock_groza.ogv"
         rndNameEntry="@#GFL-UNIT-GROZA-NAME-RND"
         voicepack="commander_eng"
         incapacitationChance="80"
@@ -680,7 +680,7 @@
         description="@GFL-UNIT-ELMOCE-DESC"
         flagTex="data/textures/gfl_elmoce_bg.dds"
         flagColor="ac7d0d"
-        movie="data/movies/unlock_swat.ogv"
+        movie="data/movies/gfl_unlock_elmoce.ogv"
         rndNameEntry="@#GFL-UNIT-ELMOCE-NAME-RND"
         voicepack="commander_eng"
         incapacitationChance="80"
@@ -848,7 +848,11 @@
                 </Node>
             </Node>
 
-            <Node name="GFL_ELMOCE_ZoneReconnaissance" minSquadLevel="10" numLevels="2" />
+            <Node
+                name="GFL_ELMOCE_ZoneReconnaissance"
+                minSquadLevel="10"
+                numLevels="2"
+            />
             <Node name="GFL_ELMOCE_SurvivalInstinct" minSquadLevel="10" />
             <Node name="GFL_ELMOCE_IndependentOperators" minSquadLevel="10" />
             <Node name="GFL_ELMOCE_VeteranMarksmanship" minSquadLevel="10" />

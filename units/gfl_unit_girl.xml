@@ -1,0 +1,332 @@
+<Units>
+    <Unit
+        name="GFL-UNIT-GIRL"
+        nameUI="@GFL-UNIT-GIRL-NAME"
+        description="@GFL-UNIT-GIRL-DESC"
+        flagTex="data/textures/gfl_girl_bg.dds"
+        flagColor="E3F6FD"
+        movie="data/movies/gfl_unlock_girl.ogv"
+        rndNameEntry="@#GFL-UNIT-GIRL-NAME-RND"
+        voicepack="commander_eng"
+        incapacitationChance="60"
+        incapacitationChanceCrit="30"
+    >
+        <Classes>
+            <!-- DEFY Squad - Slots 0-1 -->
+            <Class
+                name="GFL-DOLL-AN94"
+                nameUI="@DOLL-AN94-NAME"
+                description="@DOLL-AN94-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+            <Class
+                name="GFL-DOLL-AK15"
+                nameUI="@DOLL-AK15-NAME"
+                description="@DOLL-AK15-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+
+            <!-- 404 Squad - Slots 2-8 -->
+            <Class
+                name="GFL-DOLL-HK416"
+                nameUI="@DOLL-HK416-NAME"
+                description="@DOLL-HK416-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+            <Class
+                name="GFL-DOLL-G11"
+                nameUI="@DOLL-G11-NAME"
+                description="@DOLL-G11-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+            <Class
+                name="GFL-DOLL-G36K"
+                nameUI="@DOLL-G36K-NAME"
+                description="@DOLL-G36K-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+            <Class
+                name="GFL-DOLL-G28"
+                nameUI="@DOLL-G28-NAME"
+                description="@DOLL-G28-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+            <Class
+                name="GFL-DOLL-UMP45"
+                nameUI="@DOLL-UMP45-NAME"
+                description="@DOLL-UMP45-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+            <Class
+                name="GFL-DOLL-UMP9"
+                nameUI="@DOLL-UMP9-NAME"
+                description="@DOLL-UMP9-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+            <Class
+                name="GFL-DOLL-VECTOR"
+                nameUI="@DOLL-VECTOR-NAME"
+                description="@DOLL-VECTOR-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+
+            <!-- CAFE Squad - Slots 9-12 -->
+            <Class
+                name="GFL-DOLL-M1903"
+                nameUI="@DOLL-M1903-NAME"
+                description="@DOLL-M1903-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+            <Class
+                name="GFL-DOLL-WA2000"
+                nameUI="@DOLL-WA2000-NAME"
+                description="@DOLL-WA2000-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+            <Class
+                name="GFL-DOLL-G36"
+                nameUI="@DOLL-G36-NAME"
+                description="@DOLL-G36-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+            <Class
+                name="GFL-DOLL-XCR"
+                nameUI="@DOLL-XCR-NAME"
+                description="@DOLL-XCR-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+
+            <!-- GROZA Squad - Slots 13-17 -->
+            <Class
+                name="GFL-DOLL-OTS14"
+                nameUI="@DOLL-OTS14-NAME"
+                description="@DOLL-OTS14-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+            <Class
+                name="GFL-DOLL-OM50"
+                nameUI="@DOLL-OM50-NAME"
+                description="@DOLL-OM50-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+            <Class
+                name="GFL-DOLL-HARE"
+                nameUI="@DOLL-HARE-NAME"
+                description="@DOLL-HARE-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+            <Class
+                name="GFL-DOLL-CURVA"
+                nameUI="@DOLL-CURVA-NAME"
+                description="@DOLL-CURVA-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+            <Class
+                name="GFL-DOLL-VEPR12"
+                nameUI="@DOLL-VEPR12-NAME"
+                description="@DOLL-VEPR12-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+
+            <!-- ELMOCE Squad - Slots 18-23 -->
+            <Class
+                name="GFL-DOLL-PKPSP"
+                nameUI="@DOLL-PKPSP-NAME"
+                description="@DOLL-PKPSP-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+            <Class
+                name="GFL-DOLL-SPAS12"
+                nameUI="@DOLL-SPAS12-NAME"
+                description="@DOLL-SPAS12-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+            <Class
+                name="GFL-DOLL-TYPE97"
+                nameUI="@DOLL-TYPE97-NAME"
+                description="@DOLL-TYPE97-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+            <Class
+                name="GFL-DOLL-MP5"
+                nameUI="@DOLL-MP5-NAME"
+                description="@DOLL-MP5-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+            <Class
+                name="GFL-DOLL-PA15"
+                nameUI="@DOLL-PA15-NAME"
+                description="@DOLL-PA15-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+            <Class
+                name="GFL-DOLL-VSK94"
+                nameUI="@DOLL-VSK94-NAME"
+                description="@DOLL-VSK94-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+        </Classes>
+
+        <TrooperRanks>
+            <Rank
+                name="@agent_rank_0"
+                xpNeeded="0"
+                badgeTex="data/textures/gui/customization/cia_rank_01.dds"
+            />
+            <Rank
+                name="@agent_rank_1"
+                xpNeeded="700"
+                badgeTex="data/textures/gui/customization/cia_rank_02.dds"
+            />
+            <Rank
+                name="@agent_rank_2"
+                xpNeeded="2300"
+                badgeTex="data/textures/gui/customization/cia_rank_03.dds"
+            />
+            <Rank
+                name="@agent_rank_3"
+                xpNeeded="5600"
+                badgeTex="data/textures/gui/customization/cia_rank_04.dds"
+            />
+            <Rank
+                name="@agent_rank_4"
+                xpNeeded="11800"
+                badgeTex="data/textures/gui/customization/cia_rank_05.dds"
+            />
+            <Rank
+                name="@agent_rank_5"
+                xpNeeded="22400"
+                badgeTex="data/textures/gui/customization/cia_rank_06.dds"
+            />
+            <Rank
+                name="@agent_rank_6"
+                xpNeeded="38400"
+                badgeTex="data/textures/gui/customization/cia_rank_07.dds"
+            />
+            <Rank
+                name="@agent_rank_7"
+                xpNeeded="60200"
+                badgeTex="data/textures/gui/customization/cia_rank_08.dds"
+            />
+            <Rank
+                name="@agent_rank_8"
+                xpNeeded="86400"
+                badgeTex="data/textures/gui/customization/cia_rank_09.dds"
+            />
+            <Rank
+                name="@agent_rank_9"
+                xpNeeded="126400"
+                badgeTex="data/textures/gui/customization/cia_rank_10.dds"
+            />
+        </TrooperRanks>
+
+        <Ranks>
+            <Rank xpNeeded="0" badgeTex="" />
+            <Rank xpNeeded="4000" badgeTex="" />
+            <Rank xpNeeded="9000" badgeTex="" />
+            <Rank xpNeeded="14980" badgeTex="" />
+            <Rank xpNeeded="21920" badgeTex="" />
+            <Rank xpNeeded="29800" badgeTex="" />
+            <Rank xpNeeded="38600" badgeTex="" />
+            <Rank xpNeeded="48310" badgeTex="" />
+            <Rank xpNeeded="58900" badgeTex="" />
+            <Rank xpNeeded="70360" badgeTex="" />
+        </Ranks>
+    </Unit>
+</Units>

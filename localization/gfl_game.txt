@@ -1,3 +1,7 @@
+@GFL-UNIT-GIRL-NAME=Girls' Frontline
+@GFL-UNIT-GIRL-DESC="We need to head to the frontline... the GIRLS' FRONTLINE 2: EXILIUM"\n                                ― Shikikan (probably)
+@#GFL-UNIT-GIRL-NAME-RND=Girls' Frontline
+
 @GFL-UNIT-DEFY-NAME=Task Force DEFY
 @GFL-UNIT-DEFY-DESC=An elite team of newer model Tactical Dolls capable of great autonomy in the field, hence the name of the team. They form the most effective combat squad in the Neo-Soviet Union.
 @#GFL-UNIT-DEFY-NAME-RND=Task Force DEFY
