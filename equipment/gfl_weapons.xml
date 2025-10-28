@@ -622,6 +622,7 @@
 		<to name="300WM_WA2000_FMJ" />
 		<to name="300WM_WA2000_Match" />
 
+		<to name="IronSights" />
 		<to name="M150RCO" />
 		<to name="SpecterDR" />
 		<to name="LPVO_6X" />
@@ -2004,7 +2005,7 @@
 	</Bind>
 	<Firearm
         name="GFL-WEAP-VSK94"
-        inventoryBinding="PrimaryWeaponMuzzle"
+        inventoryBinding="PrimaryWeapon"
         category="dmr"
         unlockCost="0"
         tooltip="@WEAP-VSK94-NAME"

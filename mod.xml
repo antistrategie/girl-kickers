@@ -38,7 +38,6 @@ This mod imports tactical dolls from Girls&apos; Frontline 2: Exilium as playabl
 
 [b]Groza Squad:[/b] Groza, Nemesis, Krolik, Colphne, Vepley
 
-
 [b]Elmo Combined Echelon:[/b] Peritya, Sabrina, Qiuhua, Peri, Florence, Nikketa
 
 [i]Note: Only dolls currently available in GFL2 are/will be included.[/i]
@@ -106,15 +105,9 @@ Special thanks to:
 [*] Everyone giving suggestions and reporting bugs
 
 [/list]"
-    changeNotes="Light LEAKS through the CRACKS. My mind is BRIGHTER than it EVER was. THE HIGHER I RISE THE MORE I SEE.
-
-GODDAMN THE SUN.
-
----
-
-Add the long awaited unified Girl&apos;s Frontline unit that includes all dolls in ONE squad (no doctrines yet).
-Add unlock movies for all units.
-Remove .git directory from mod to reduce file size by over 500MB (I did not realise it was getting this big... oopsie poopsie!)."
+    changeNotes="Fix Sabrina not having equipment.
+Fix WA2000 not able to add iron sights.
+Fix VSK94 not being able to be equipped."
     languageMod=""
     tags="Playable Units,Equipment,UI"
     ugcId="3580762170"

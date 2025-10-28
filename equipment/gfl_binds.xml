@@ -1418,8 +1418,8 @@
         <eqp name="GFL_OcularEnhancement" />
     </Bind>
 
-    <Bind to="GFL-DOLL-SABS12">
-        <eqp name="GFL-WEAP-SABS12" />
+    <Bind to="GFL-DOLL-SPAS12">
+        <eqp name="GFL-WEAP-SPAS12" />
 
         <eqp name="GFL_ReactiveShielding" />
         <eqp name="GFL_CombatMatrix" />
