@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/beanpuppy/girl-kickers/refs/heads/main/mod_image.jpg" alt="logo">
+  <img src="https://raw.githubusercontent.com/beanpuppy/girl-kickers/refs/heads/main/mod/mod_image.jpg" alt="logo">
 </div>
 
 # Girl Kickers
@@ -9,8 +9,10 @@ Girls' Frontline mod for Door Kickers 2.
 
 ### Clone the Repository
 
+This repository contains large binary files (models, textures, voice files). For faster cloning, use a shallow clone:
+
 ```bash
-git clone https://github.com/beanpuppy/girl-kickers.git
+git clone --depth 1 https://github.com/beanpuppy/girl-kickers.git
 cd girl-kickers
 ```
 
