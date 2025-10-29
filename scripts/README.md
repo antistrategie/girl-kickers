@@ -36,7 +36,7 @@ The `transcribe_voices.py` script uses OpenAI Whisper for speech-to-text, which 
 uv pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/rocm6.2
 ```
 
-### For NVIDIA GPUs (CUDA)
+### For NVIDIA 🤮 GPUs (CUDA)
 
 ```bash
 uv pip install torch torchvision torchaudio
