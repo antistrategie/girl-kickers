@@ -1,2 +1,6 @@
 .venv
 .ruff_cache
+
+# AssetStudio (extracted from zip)
+tools/Asset Studio/
+tools/gfl2.map

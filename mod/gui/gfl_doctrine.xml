@@ -2876,11 +2876,19 @@
                     />
 				</Item>
 			</StaticImage>
-			<Item name="GFL_ELMOCE_ImpromptuCatAndMouse" origin="100 -160" align="lt"> </Item>
+			<Item
+                name="GFL_ELMOCE_ImpromptuCatAndMouse"
+                origin="100 -160"
+                align="lt"
+            > </Item>
 			<Item name="GFL_ELMOCE_HotOilProtection" origin="-100 -160" align="rt"> </Item>
 			<Item name="GFL_ELMOCE_FragrantStirFry" origin="100 -340" align="lt" />
 			<Item name="GFL_ELMOCE_VentureCapital" origin="-100 -340" align="rt"> </Item>
-			<Item name="GFL_ELMOCE_MasochisticHallucination" origin="100 -520" align="lt"> </Item>
+			<Item
+                name="GFL_ELMOCE_MasochisticHallucination"
+                origin="100 -520"
+                align="lt"
+            > </Item>
 			<Item name="GFL_ELMOCE_RighteousVerdict" origin="-100 -520" align="rt"> </Item>
 		</Item>
 		<Item name="support" align="rt" sizeX="400" sizeY="780" origin="-20 -70">
@@ -3156,7 +3164,11 @@
 
 			<Item name="GFL_ELMOCE_ZoneReconnaissance" origin="-300 -220" align="t"> </Item>
 			<Item name="GFL_ELMOCE_SurvivalInstinct" origin="-100 -220" align="t"> </Item>
-			<Item name="GFL_ELMOCE_IndependentOperators" origin="100 -220" align="t"> </Item>
+			<Item
+                name="GFL_ELMOCE_IndependentOperators"
+                origin="100 -220"
+                align="t"
+            > </Item>
 			<Item name="GFL_ELMOCE_VeteranMarksmanship" origin="300 -220" align="t"> </Item>
 		</Item>
 	</Item>
