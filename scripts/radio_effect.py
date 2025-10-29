@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Apply radio/walkie-talkie effect to audio files using bandpass filtering and compression"""
+"""
+Apply radio/walkie-talkie effect to audio files using bandpass filtering and compression
+Made for use with voice lines from https://github.com/beanpuppy/gfl2-voice
+"""
 
 import numpy as np
 import soundfile as sf
