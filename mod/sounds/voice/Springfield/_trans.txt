@@ -1,0 +1,229 @@
+# Voice Line Translations for Springfield
+# Generated automatically using OpenAI Whisper
+# Total files: 75
+
+VO_Springfield_Series_Battle_Start.wav
+  It's fine.
+
+VO_Springfield_Series_Cancel.wav
+  Leave it to me.
+
+VO_Springfield_Series_Chosen.wav
+  Roger that.
+
+VO_Springfield_Series_Chosen_Auto.wav
+  Yes!
+
+VO_Springfield_Series_Daily_001.wav
+  Thanks to Sharkly, sales are growing steadily this month. I have to do my best too!
+
+VO_Springfield_Series_Daily_002.wav
+  There are many ways to put coffee beans depending on the variety. The temperature of the water, the temperature of the water... All of them are essential for delicious coffee. Recently, I've been organizing such know-how, but are you interested?
+
+VO_Springfield_Series_Daily_003.wav
+  The world's oldest cafe was born with the idea that people wanted to create a place where they could exchange coffee. Did you know?
+
+VO_Springfield_Series_Daily_004.wav
+  No matter how busy you are, please be careful of your health.
+
+VO_Springfield_Series_Daily_005.wav
+  I'm planning a safe trip for all of you, but how about you come with me, Commander?
+
+VO_Springfield_Series_Daily_006.wav
+  Hmm... Ah, Commander. I'm thinking of a new cake menu, would you like to hear my opinion?
+
+VO_Springfield_Series_Daily_007.wav
+  Not only the Hermogon, but also the dolls need to be maintained and repaired. Mayrin-san, are you okay?
+
+VO_Springfield_Series_Daily_008.wav
+  101 degrees for 9 minutes and 23 seconds... Oh, Commander, is this it? I'm learning the new double-sword technique.
+
+VO_Springfield_Series_Daily_009.wav
+  Do you want some sugar? Ah, it's dangerous to take too much like Macchiato-san, so please don't copy me.
+
+VO_Springfield_Series_Daily_010.wav
+  Customers who are chased by time, customers who enjoy time. The morning and afternoon are the busiest times, but which one is the commander?
+
+VO_Springfield_Series_Die.wav
+  It's okay.
+
+VO_Springfield_Series_Hit.wav
+  I gave you an effective blow.
+
+VO_Springfield_Series_Hitted.wav
+  Thank you for watching!
+
+VO_Springfield_Series_Kill.wav
+  Please be careful on your way home.
+
+VO_Springfield_Series_Lose.wav
+  There's a next time. Please don't be depressed.
+
+VO_Springfield_Series_Set_Click.wav
+  Ready to go.
+
+VO_Springfield_Series_Set_Fall.wav
+  The番 wert 요 nearest
+
+VO_Springfield_Series_Skill01.wav
+  Let's make some tea.
+
+VO_Springfield_Series_Skill02.wav
+  How about dessert?
+
+VO_Springfield_Series_Tone_Positive_001.wav
+  Huh?
+
+VO_Springfield_Series_Tone_Positive_003.wav
+  Here you go.
+
+VO_Springfield_Series_Tone_Positive_006.wav
+  Farewell.
+
+VO_Springfield_Series_Tone_Positive_007.wav
+  Oh my!
+
+VO_Springfield_Series_Tone_Positive_008.wav
+  It's dangerous.
+
+VO_Springfield_Series_Tone_Positive_009.wav
+  Please calm down.
+
+VO_Springfield_Series_Ultimate.wav
+  Thank you for waiting!
+
+VO_Springfield_Series_Up_001.wav
+  I accept.
+
+VO_Springfield_Series_Up_002.wav
+  Is it a new weapon?
+
+VO_Springfield_Series_Up_004.wav
+  Let's march forward together towards the same goal!
+
+VO_Springfield_Series_Up_005.wav
+  Souvenir Completed
+
+VO_Springfield_Series_Up_006.wav
+  The firepower has been strengthened.
+
+VO_Springfield_Series_Up_008.wav
+  It's a rational combination.
+
+VO_Springfield_Series_Win.wav
+  It ended faster than expected.
+
+VO_Springfield_Single_Acquire_R_001.wav
+  Phrase 1 Verse 2
+
+VO_Springfield_Single_Acquire_SSR_001.wav
+  It's been a year since I last saw you. I still remember the feeling I felt when I met you again. Like the spring sun that gently falls.
+
+VO_Springfield_Single_Anniversary_001.wav
+  It's not easy to lead people, but the Commander has been doing it all along. We will continue to follow you.
+
+VO_Springfield_Single_Birthday_R_001.wav
+  Happy birthday, Commander. I have cake and champagne ready. Now, it's party time.
+
+VO_Springfield_Single_Birthday_SSR_001.wav
+  Please blow out the candle with your wishes. I will grant any wish.
+
+VO_Springfield_Single_Birthday_SSR_002.wav
+  It's your birthday again. After the reunion, I feel like the days are passing by so fast. It would be nice if we could spend important days together in the future. Happy birthday, Commander.
+
+VO_Springfield_Single_Children_001.wav
+  Today, a parent-child event will be held in the satellite city. Sharkly is looking at the ticket for the theme park with a face that seems to want something. Would you like to participate later?
+
+VO_Springfield_Single_Christmas_001.wav
+  I entrusted the present to Santa for the commander. Is it okay to have a child? Please check the pillow tomorrow morning.
+
+VO_Springfield_Single_Christmas_002.wav
+  Commander, I decorated the break room today. I also prepared a real Christmas tree, so please take it with you after work. Everyone is waiting. Yes, I'm looking forward to it too.
+
+VO_Springfield_Single_Duanwu_001.wav
+  There is a Chinese restaurant near Zucchero, and the manager there gave me herbs. It has the effect of healing. I left it outside the command room for a while, so if you like. The health and good luck of the commander is a common wish of everyone.
+
+VO_Springfield_Single_Friendliness_001.wav
+  Afternoon tea is your treat until the paperwork on the desk is finished.
+
+VO_Springfield_Single_Friendliness_002.wav
+  Tomorrow's schedule? It's not decided yet, but I'll open it as much as possible for the commander.
+
+VO_Springfield_Single_Friendliness_003.wav
+  Zucchero has received various requests, so if you are busy, please call me without hesitation.
+
+VO_Springfield_Single_Friendliness_004.wav
+  I feel a little different while I'm spending time with you. Huh? You don't feel that way? I-Is that so?
+
+VO_Springfield_Single_Friendliness_005.wav
+  Sandwiches and apple pies. Which do you prefer? I'll prepare them according to your taste.
+
+VO_Springfield_Single_Friendliness_006.wav
+  Do you like poker? Intellectual games are the best way to get to know each other. Please help me even when you have time.
+
+VO_Springfield_Single_Friendliness_007.wav
+  Tea and coffee are full of the sweetness and aroma of bitterness. You should be able to get something after overcoming the hardships.
+
+VO_Springfield_Single_Friendliness_008.wav
+  The presence of a home that can survive the rain and wind is the most important thing. The Elmo for you was the Zucchero for me.
+
+VO_Springfield_Single_Friendliness_009.wav
+  The most important thing in blending is to find the right combination of beans. If the beans are too different, it will have a unique flavor, but if you combine similar beans, the taste will not change. Looking at it this way, we are the best blend.
+
+VO_Springfield_Single_Friendliness_010.wav
+  The stronger the rain and wind, the more grateful the quietness of the room is. When you're tired, don't hesitate to stop by the Zucchero.
+
+VO_Springfield_Single_Friendliness_011.wav
+  The reason why I opened a cafe? Well... In this chaotic world, I want to treasure the freedom to drink coffee. Is that what you said?
+
+VO_Springfield_Single_Friendliness_012.wav
+  When I'm next to you, it feels like I'm sitting on the edge of the window where the clear blue sky can be seen. Don't you feel that way?
+
+VO_Springfield_Single_Friendliness_013.wav
+  When I think that I can meet you every day from now on, my feelings become clear.
+
+VO_Springfield_Single_Login_001.wav
+  Welcome back, Commander. How about some hot coffee?
+
+VO_Springfield_Single_MidAutumn_001.wav
+  I heard from Mayrin that today is a day for everyone to gather. I have a habit of eating mooncakes, so I prepared four kinds of flavors. Which one do you want to eat, Commander?
+
+VO_Springfield_Single_MidAutumn_002.wav
+  But I wish that people would not be long in the sun. We must be apart from each other and fight together. After experiencing the true separation, I began to understand the feelings of the poet who wrote this poem. However, this feeling has never been in the Kanji.
+
+VO_Springfield_Single_NewYear_001.wav
+  Good morning, Commander. Since it's a day off, I've made Zucchero work overtime. As usual, are you busy with work? Or are you going out for a walk? I'll be with you.
+
+VO_Springfield_Single_NewYear_002.wav
+  Happy New Year, Commander. I never thought that the day would come when we would be treated like a luxury by getting older together like this. But can you be a little more selfish with me?
+
+VO_Springfield_Single_Obon_001.wav
+  I heard that the souls of the deceased will return to the present life today. Is there anyone who wants to sneak in? Let's go on a tour together tonight.
+
+VO_Springfield_Single_Obtain_SSR_001.wav
+  Another day to fight with the Commander... Is this the rumored Elmo? I finally saw the real thing!
+
+VO_Springfield_Single_Passive_SSR_001.wav
+  Do you want some sugar?
+
+VO_Springfield_Single_SpringFes_001.wav
+  Mayling-san told me that if I give you a year-end ball with a red envelope, good luck will come, so I prepared some for you. Would you like to give it to me instead? Do you give a year-end ball to an adult to a child? That's why.
+
+VO_Springfield_Single_SpringFes_002.wav
+  Happy New Year, Commander. Today, I have prepared a new menu that is like dumplings and dumplings. If you have any other requests, please feel free to ask. Oh, and here it is. Here is your New Year's gift.
+
+VO_Springfield_Single_ThanksGiving_001.wav
+  The person I want to thank the most right now is you, Commander. Why? Fufu, it's a secret.
+
+VO_Springfield_Single_Title_001.wav
+  Dolls Front Line 2 Exilium
+
+VO_Springfield_Single_Valentine_001.wav
+  Which do you prefer, tea or coffee? But I think it's a good idea to make some wine today.
+
+VO_Springfield_Single_Valentine_002.wav
+  Good morning, Commander. Do you know what day it is today? Yes, it's the busiest day of the year for you. I think I'm going to eat a lot of sweets, so I prepared hot milk. Of course, there is also the first chocolate today.
+
+VO_Springfield_Single_WhiteVale_001.wav
+  Commander? Are you here to see me? If you do that, I'll be expecting it. As a return gift.
+

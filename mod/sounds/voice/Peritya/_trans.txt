@@ -1,0 +1,220 @@
+# Voice Line Translations for Peritya
+# Generated automatically using OpenAI Whisper
+# Total files: 72
+
+VO_Peritya_Series_Battle_Start.wav
+  Be careful!
+
+VO_Peritya_Series_Battle_Start_2.wav
+  Goodbye.
+
+VO_Peritya_Series_Battle_Start_3.wav
+  I'll delete it.
+
+VO_Peritya_Series_Chosen.wav
+  Roger!
+
+VO_Peritya_Series_Chosen_2.wav
+  Is that so?
+
+VO_Peritya_Series_Daily_001.wav
+  Nice to meet you. Ah, it wasn't the first time?
+
+VO_Peritya_Series_Daily_002.wav
+  Today's clouds are in a mysterious shape.
+
+VO_Peritya_Series_Daily_003.wav
+  My eyes? Don't worry about it. I won't use it with care.
+
+VO_Peritya_Series_Daily_004.wav
+  Caloric... Is it a kind of food that I've heard of somewhere?
+
+VO_Peritya_Series_Daily_005.wav
+  Um, what is it? Ah, this strange accessory? Come to think of it, I promised someone something. Hmm? Who was it?
+
+VO_Peritya_Series_Daily_006.wav
+  Drawing is fun, isn't it? If you write down things you're about to forget, you'll remember them again. Oh, right! What do you think of my drawing?
+
+VO_Peritya_Series_Daily_007.wav
+  That mission is very important. Hm? What was that mission?
+
+VO_Peritya_Series_Daily_008.wav
+  All suspicious targets should be eliminated. Of course, it's about this delicious candy.
+
+VO_Peritya_Series_Daily_009.wav
+  The beauty of the current delves into everything in this world.
+
+VO_Peritya_Series_Daily_010.wav
+  Record important information and erase unnecessary information.
+
+VO_Peritya_Series_Hit.wav
+  Now!
+
+VO_Peritya_Series_HittedLast_4.wav
+  Not yet!
+
+VO_Peritya_Series_Kill.wav
+  Destruction successful!
+
+VO_Peritya_Series_Lose.wav
+  Failure... Mission... Overcomplete success... This me... I failed...
+
+VO_Peritya_Series_Skill01.wav
+  Repent of your impure actions!
+
+VO_Peritya_Series_Skill02.wav
+  You can't avoid it? You'll get hurt.
+
+VO_Peritya_Series_Ultimate.wav
+  As you wish.
+
+VO_Peritya_Series_Up_001.wav
+  What is this?
+
+VO_Peritya_Series_Up_002.wav
+  Thank you very much!
+
+VO_Peritya_Series_Up_003.wav
+  This performance is...
+
+VO_Peritya_Series_Up_004.wav
+  I'm very grateful.
+
+VO_Peritya_Series_Up_005.wav
+  Thank you very much. Have I already thanked you?
+
+VO_Peritya_Series_Up_006.wav
+  Yes, I remember.
+
+VO_Peritya_Series_Up_007.wav
+  It was a wonderful experience.
+
+VO_Peritya_Series_Up_008.wav
+  This feeling... Somehow... It's nostalgic...?
+
+VO_Peritya_Series_Win.wav
+  It's a natural result. Unfortunately, you have come this far.
+
+VO_Peritya_Single_Acquire_R_001.wav
+  One year is the time the earth orbits the sun. 365 days in a day. It's been a while since I started observing you. But I've never hated it. How many surprises will I be able to enjoy in the future?
+
+VO_Peritya_Single_Acquire_SR_001.wav
+  I feel like I've been here for a long time. And I've met something I've never seen before. Gray snow. If I make a snowman with this snow, I'm sure it'll be fun.
+
+VO_Peritya_Single_Acquire_SSR_001.wav
+  To celebrate our friendship that has lasted for a year, why don't we celebrate it together according to human manners?
+
+VO_Peritya_Single_Anniversary_001.wav
+  Fox ears in the break room, have you noticed? Yes, I thought it would suit you, Commander. Ah, today is a special day, so I should call you.
+
+VO_Peritya_Single_Birthday_R_001.wav
+  Happy birthday. Next time, please celebrate me too. Come to think of it, what is a birthday?
+
+VO_Peritya_Single_Birthday_SR_001.wav
+  Happy birthday, Commander. I hope you're doing well today.
+
+VO_Peritya_Single_Birthday_SSR_001.wav
+  Happy birthday, Commander. You're not going to open it? If it's this present, it's no doubt that it will remain in your memory.
+
+VO_Peritya_Single_Birthday_SSR_002.wav
+  Happy birthday. This day was written on every notebook, so it must be a very important day. Hmm? Why did you think it was important?
+
+VO_Peritya_Single_Children_001.wav
+  Today is a holiday for children. If you want to get a quiet moment, you don't have to give a lot of toys and sweets. But you must have been quiet when you were little. Like you now.
+
+VO_Peritya_Single_Christmas_001.wav
+  Merry Christmas! ...Celebration, huh? People before the war would make a fire in winter, and they would lay on the fluffy carpet and spend it wrapped in blankets. I want to experience something like that with you someday.
+
+VO_Peritya_Single_Christmas_002.wav
+  Merry Christmas, Commander! I placed a Christmas tree and socks in the space module. I also put presents for you in the socks. Of course, the contents of the present are data. I hope you will be happy with the data present.
+
+VO_Peritya_Single_Duanwu_001.wav
+  There is a special teaching in the word theory that you drink a drink called Yu-O-Shu to prevent diseases. Hmm, I wonder what it tastes like. Would you like to try it?
+
+VO_Peritya_Single_Friendliness_001.wav
+  Do you need anything? Are you a conductor? The music is Bierglo気
+
+VO_Peritya_Single_Friendliness_002.wav
+  You are the commander, aren't you? Understood. Record storage complete.
+
+VO_Peritya_Single_Friendliness_003.wav
+  Don't worry, you're not the target of the mission. For now...
+
+VO_Peritya_Single_Friendliness_004.wav
+  This world is pure white, but the hole of horror that was made by being steamed continues. Who is in the hole of horror? Well, it doesn't matter.
+
+VO_Peritya_Single_Friendliness_005.wav
+  The collapse storm is a valuable scene to record in your mind. Value... From this word created by humans, I feel a slight intention to push the outside of the meaning.
+
+VO_Peritya_Single_Friendliness_006.wav
+  You look happy today. Then, can I try my plan?
+
+VO_Peritya_Single_Friendliness_007.wav
+  Even if you're the commander, you're not allowed to touch my accessories.
+
+VO_Peritya_Single_Friendliness_008.wav
+  Have you ever observed the world from a higher place? For example, from above the orbit base.
+
+VO_Peritya_Single_Friendliness_009.wav
+  Oh, you're injured? Humans can't easily replace parts, so this is a bit troublesome.
+
+VO_Peritya_Single_Friendliness_010.wav
+  I heard that humans show more reactions and possibilities when faced with danger. You are still insufficient, as I observed. Yes, I look forward to your actions when faced with danger.
+
+VO_Peritya_Single_Friendliness_011.wav
+  If you look at the endless canyon, the quietest place in the Yellow Area is this mobile base where you are. This is a good place to rest.
+
+VO_Peritya_Single_Friendliness_012.wav
+  Even in this world of ignorance, I hope your figure will be engraved in this mental forever.
+
+VO_Peritya_Single_Friendliness_013.wav
+  If you need to record information, is there any other way to save it other than writing it down in a note or mental? Yes, if you treat your important information as an existence, it will be against human manners.
+
+VO_Peritya_Single_Login_001.wav
+  Commander? Hello.
+
+VO_Peritya_Single_MidAutumn_001.wav
+  The cake, which is like a round chocolate with a traditional pattern, is a food that can be said to be the epitome of this day. It is called moon-shaped moon cake, and it is filled with wishes of the family. Why do humans want to tie emotions and food together?
+
+VO_Peritya_Single_MidAutumn_002.wav
+  Humans have a lot of anniversaries to spend together. No, I don't want to. The moon, being with the commander, It's fun for me.
+
+VO_Peritya_Single_NewYear_001.wav
+  Hmm, what is the motive for giving a special meaning to a normal day? Anyway, happy new year!
+
+VO_Peritya_Single_NewYear_002.wav
+  It's been a new year again. I don't feel particularly special, but... Oh, right. There was something I could only say today. Happy New Year! Phew... I said it.
+
+VO_Peritya_Single_Obon_001.wav
+  Human fantasies are interesting. What cannot be proven by science is interpreted as a fantasy, and we create creatures that do not exist, and we are afraid of them. I want to experience that feeling too. Do you also think that fantasies are scary?
+
+VO_Peritya_Single_Obtain_R_001.wav
+  I look forward to your performance. Shiki... Kan...
+
+VO_Peritya_Single_Obtain_SR_001.wav
+  I heard your call firmly.
+
+VO_Peritya_Single_Obtain_SSR_001.wav
+  You can take a break.
+
+VO_Peritya_Single_SpringFes_001.wav
+  It's a pretty lively day. It seems that a doll called Corfen is going to explode from now on. It feels refreshing. I have to turn off the hearing system before turning on the fire.
+
+VO_Peritya_Single_SpringFes_002.wav
+  Hmmm.... How about spending time in the fluffy bed and blanket? Ha! No euh! You couldn't sleep because of the sound of the Charge last night... Aaaaaah.... Shall we sleep together, Commander?
+
+VO_Peritya_Single_ThanksGiving_001.wav
+  Oh? Today seems to be a very important day. I want to convey my gratitude, not by following the instructions. Thank you for providing me with many valuable observation objects so far.
+
+VO_Peritya_Single_Title_001.wav
+  Dolls Front Line 2 Exilium
+
+VO_Peritya_Single_Valentine_001.wav
+  Today is a day to convey my feelings to those who care about me and those who love me. I'm sure you'll receive a lot of presents. If you can afford it, please check your communication terminal. There is a message for you hidden in the code.
+
+VO_Peritya_Single_Valentine_002.wav
+  It's my first time making it, but it's surprisingly interesting to make chocolate. Commander, I did my best to make it, so I hope you will be happy.
+
+VO_Peritya_Single_WhiteVale_001.wav
+  Hm? A cube puzzle pendant? It doesn't seem like a common return on White Day. But it's very beautiful. I was able to decode all the passwords on the previous communication terminal.
+

@@ -1,0 +1,226 @@
+# Voice Line Translations for Macqiato
+# Generated automatically using OpenAI Whisper
+# Total files: 74
+
+VO_Macqiato_Series_Battle_Start.wav
+  Is this enough?
+
+VO_Macqiato_Series_Cancel.wav
+  Naaah, come on!
+
+VO_Macqiato_Series_Chosen.wav
+  Progress is necessary!
+
+VO_Macqiato_Series_Daily_001.wav
+  Your base is like this. It's not bad... Of course, it's nothing compared to Zucchero.
+
+VO_Macqiato_Series_Daily_002.wav
+  Hey, hey, you! Are you listening to me? Hey, what's wrong with you, bear? If you're not feeling well, you should rest!
+
+VO_Macqiato_Series_Daily_003.wav
+  I made this with the recipe sent by Saint-Aurécie. If you don't mind... I-I didn't make it for you!
+
+VO_Macqiato_Series_Daily_004.wav
+  Ah, you're so fluffy and you're crying like a cat. W-What are you looking at? I don't like cats. I just happened to be in your sight.
+
+VO_Macqiato_Series_Daily_005.wav
+  Hey, you! Your whole body is covered in sand! If you're going out, at least wear protective clothing! What if you get hurt, you idiot! I-I'm not worried about you!
+
+VO_Macqiato_Series_Daily_006.wav
+  So she's the rumored Vepri. Hmph, Sharklin can't even talk about people.
+
+VO_Macqiato_Series_Daily_007.wav
+  My name? I just named it based on my mood. Don't, don't make weird imaginations! It's not like I like caramel macchiato or anything! It's not a simple reason!
+
+VO_Macqiato_Series_Daily_008.wav
+  B-by the way, why didn't you say anything at that time? If you don't want to answer, it's fine.
+
+VO_Macqiato_Series_Daily_009.wav
+  I can't investigate you. Eh? Did you hear from Springfield? I-I just happened to see it when I was collecting information about the Yellow Area! T-That's why, don't misunderstand me!
+
+VO_Macqiato_Series_Daily_010.wav
+  Recently, you're getting closer to other people. There's no deep meaning to it. Look, we're friends, aren't we? Springfield said that talking will shorten the distance.
+
+VO_Macqiato_Series_Die.wav
+  It's not over yet!
+
+VO_Macqiato_Series_Hit.wav
+  Disappear!
+
+VO_Macqiato_Series_Hitted_3.wav
+  Thank you for watching!
+
+VO_Macqiato_Series_Hitted_5.wav
+  Hup!
+
+VO_Macqiato_Series_Kill.wav
+  It's easy!
+
+VO_Macqiato_Series_Lose.wav
+  A while ago... I'm sorry.
+
+VO_Macqiato_Series_Set_Click.wav
+  Leave it to me!
+
+VO_Macqiato_Series_Set_Fall.wav
+  Nothing is the Wash.
+
+VO_Macqiato_Series_Skill01.wav
+  I'll finish it!
+
+VO_Macqiato_Series_Skill02.wav
+  Now!
+
+VO_Macqiato_Series_Tone_Negative_001.wav
+  unimaginable
+
+VO_Macqiato_Series_Tone_Positive_001.wav
+  I love you!
+
+VO_Macqiato_Series_Tone_Positive_002.wav
+  I'm in the way!
+
+VO_Macqiato_Series_Tone_Positive_004.wav
+  Disappear!
+
+VO_Macqiato_Series_Tone_Positive_005.wav
+  How annoying!
+
+VO_Macqiato_Series_Tone_Positive_007.wav
+  Useless!
+
+VO_Macqiato_Series_Ultimate.wav
+  I said I'm not letting you get away!
+
+VO_Macqiato_Series_Up_001.wav
+  Hmph, we're starting
+
+VO_Macqiato_Series_Up_002.wav
+  This isn't enough!
+
+VO_Macqiato_Series_Up_003.wav
+  It suits me perfectly!
+
+VO_Macqiato_Series_Up_004.wav
+  Of course!
+
+VO_Macqiato_Series_Up_005.wav
+  You have eyes to see!
+
+VO_Macqiato_Series_Up_006.wav
+  Excellent!
+
+VO_Macqiato_Series_Up_007.wav
+  I'll leave it to you next time.
+
+VO_Macqiato_Series_Win.wav
+  You should be grateful to me like you used to be.
+
+VO_Macqiato_Single_Acquire_SSR_001.wav
+  Already a year? I can't believe I'm feeling this early. Could it be that I'm with you? No, no, no, that's not it. Ah, yes. Anyway, I'll be in your care from now on. And I won't forgive you for leaving without saying anything.
+
+VO_Macqiato_Single_Anniversary_001.wav
+  It's our first anniversary, so why don't we have a more special way of spending it? It might be a boring line, but when I'm in pain, I always get over it, and I'll always be with you.
+
+VO_Macqiato_Single_Birthday_SSR_001.wav
+  Hey, today is a special day, so please be a little more happy. Why? Because today is your birthday! Anyway, happy birthday. I left the present at the desk, so don't forget it.
+
+VO_Macqiato_Single_Birthday_SSR_002.wav
+  I think I've gained more experience in this year. It's my birthday once a year, so I'll praise you today. So don't get too excited.
+
+VO_Macqiato_Single_Children_001.wav
+  W-What? Children's day has nothing to do with me! Even if I like sweets... It's not like that!
+
+VO_Macqiato_Single_Christmas_001.wav
+  Dot Sight? But even though it's a festival, I can't wear a ribbon... I-I don't hate it! You prepared it, so I can accept it!
+
+VO_Macqiato_Single_Christmas_002.wav
+  Christmas party? I'm not interested. Do you have one? I-I guess so. If I think about it, I might go with you sometimes... Hey, don't laugh!
+
+VO_Macqiato_Single_Duanwu_001.wav
+  Yes, I'm here. Meirin said she'd be your bodyguard. I'm always on a dangerous mission, so please hold it. It's fine if you don't see it.
+
+VO_Macqiato_Single_Friendliness_001.wav
+  Hey, you're too close. Move!
+
+VO_Macqiato_Single_Friendliness_002.wav
+  If you have any trouble, just tell me. I-It depends on my mood if I can help you.
+
+VO_Macqiato_Single_Friendliness_003.wav
+  You've been acting so tough lately? You should have done more requests. N-No! I'm not worried about you!
+
+VO_Macqiato_Single_Friendliness_004.wav
+  You failed your mission? How many years have you been on a mission? I can't believe you're taking information for granted. This time, take me with you.
+
+VO_Macqiato_Single_Friendliness_005.wav
+  Commander, how is it? Do you miss me? You've been calling me like this since you were in Griffin. It's been 10 years since then.
+
+VO_Macqiato_Single_Friendliness_006.wav
+  I'm not getting along with everyone? That's not true! Human relationships are just a pain in the ass!
+
+VO_Macqiato_Single_Friendliness_007.wav
+  You need a huge endurance and absolute technique to shoot. Of course, I have both of them.
+
+VO_Macqiato_Single_Friendliness_008.wav
+  You want to see my gun? I don't mind if you do, but... You have to handle it carefully!
+
+VO_Macqiato_Single_Friendliness_009.wav
+  The yellow area at night is cold. You seem to be in a bad mood lately, but you're not cold, are you? Be sure to take precautions against colds, idiot!
+
+VO_Macqiato_Single_Friendliness_010.wav
+  To me, Zucchero is a very important place. I didn't know how to get along with people until now, and when I was in Griffin, I could only talk to you. What am I... Forget about that now!
+
+VO_Macqiato_Single_Friendliness_011.wav
+  To tell you the truth, if you could just call me when you're away from Griffin... N-Nothing!
+
+VO_Macqiato_Single_Friendliness_012.wav
+  If you can't stay in the Yellow Area, come to the Green Area and visit me. I have a house. It's not a large area, but it's enough for two people to live in. If I get a job and make money... I'm just asking if you can. If you can!
+
+VO_Macqiato_Single_Friendliness_013.wav
+  Be more honest? How am I not honest? In front of you, this is more... I can't!
+
+VO_Macqiato_Single_Login_001.wav
+  Don't be so slow, hurry up and come!
+
+VO_Macqiato_Single_MidAutumn_001.wav
+  The Mid-Autumn Festival is the day everyone gathers, right? Hmph, I don't need that. I can meet the person I want to meet every day... Wait, what are you grinning at? Look at the full moon! Don't look at me!
+
+VO_Macqiato_Single_MidAutumn_002.wav
+  It seems that the Mid-Autumn Festival is coming to an end. So, tonight, stay with me, okay? If you refuse, I won't forgive you.
+
+VO_Macqiato_Single_NewYear_001.wav
+  You don't have any plans tonight, do you? Springfield and the others have prepared a new year's present for you, so let's open it together. What? I just don't want to waste Springfield's love. Don't misunderstand me.
+
+VO_Macqiato_Single_NewYear_002.wav
+  After today's mission, why don't we go eat together? There's a restaurant in a town nearby that's running late. It's not like I'm trying to get old with you or anything!
+
+VO_Macqiato_Single_Obon_001.wav
+  The day to find the person I love... I don't have that kind of person. If I have to say, I want the day to live without anyone finding me to last forever.
+
+VO_Macqiato_Single_Obtain_SSR_001.wav
+  A joka.. I did it. Did you find it? Take it to space right now.
+
+VO_Macqiato_Single_Passive_SSR_001.wav
+  eliminating
+
+VO_Macqiato_Single_SpringFes_001.wav
+  Meirin gave me a lot of fireworks... Um, well... I can't use them all by myself! So, you know... Come to the roof right now with your protective clothing!
+
+VO_Macqiato_Single_SpringFes_002.wav
+  It's a new year, so how about a few more days off? In fact, I got a pair show experience at the luxury resort. It's a waste if it's just me, so I'll take you with me.
+
+VO_Macqiato_Single_ThanksGiving_001.wav
+  Yeah, you seem to be in good shape today. The bear is not terrible, and the hair is not disturbed. It's a suitable outfit for the festival. But your clothes are a little sweaty. Come here, I'll fix it for you. That's good. And don't forget that there is an event for the Thanksgiving today.
+
+VO_Macqiato_Single_Title_001.wav
+  Dolls Front Line 2 Exilium
+
+VO_Macqiato_Single_Valentine_001.wav
+  What are you looking at? Do you think I'm going to prepare a present for you on a day like this? Wait! I'm only going to say it once, so listen carefully! I... I like the clothes you're wearing right now, don't I?
+
+VO_Macqiato_Single_Valentine_002.wav
+  Huh? Chocolate? I wouldn't prepare something so ordinary! And... Eh? You didn't get it? The one behind me? Stop! Don't come any closer!
+
+VO_Macqiato_Single_WhiteVale_001.wav
+  Hm? Why are you wearing clothes on a day like this? In times like this, you're probably making chocolate or candy yourself! On Valentine's Day, I praised your clothes, so I'm wearing the same clothes? Y-You... You're an idiot!
+

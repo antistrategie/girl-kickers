@@ -1,0 +1,253 @@
+# Voice Line Translations for Vepley
+# Generated automatically using OpenAI Whisper
+# Total files: 83
+
+VO_Vepley_Lobby_Welcome.wav
+  Ah, Commander! Korfen-chan said she wanted to teach you how to dance!
+
+VO_Vepley_Series_Battle_Start.wav
+  That's it!
+
+VO_Vepley_Series_Battle_Start_2.wav
+  lovers
+
+VO_Vepley_Series_Battle_Start_3.wav
+  Look at me!
+
+VO_Vepley_Series_Battle_Start_4.wav
+  Perfect!
+
+VO_Vepley_Series_Cancel_2.wav
+  Huh?
+
+VO_Vepley_Series_Chosen.wav
+  Ho ho!
+
+VO_Vepley_Series_Daily_001.wav
+  Fufu, la la la. Oh, it's a song I used to sing a lot. Do you like it, Commander? You don't like it?
+
+VO_Vepley_Series_Daily_002.wav
+  Hmm... Should I go for the cute type on the next stage, or the bold sexy type? What do you think, Commander?
+
+VO_Vepley_Series_Daily_003.wav
+  Oh, but I still have to practice on the second night overnight .
+
+VO_Vepley_Series_Daily_004.wav
+  Uuuh, I don't want to go to the maintenance alone. Huh? No, I'm not scared of the dark! Don't treat me like a child!
+
+VO_Vepley_Series_Daily_005.wav
+  You said you don't need milk for the vapour, right? Even if you drink it, your body won't grow! Geez, Charo-chan, you don't listen to what people say at all.
+
+VO_Vepley_Series_Daily_006.wav
+  Huh? The sound system is off... Could it be that the sound system identification module is broken? No way... What should I do?
+
+VO_Vepley_Series_Daily_007.wav
+  Uu... I'm sorry, Captain Rosa. I'll try to dance better... Eh? Isn't that the problem?
+
+VO_Vepley_Series_Daily_008.wav
+  It's my job to cheer everyone up!
+
+VO_Vepley_Series_Daily_009.wav
+  Wow, the weather is so nice! Today, I'm going to go on a outdoor dive after a long time!
+
+VO_Vepley_Series_Daily_010.wav
+  Eh? No, no, no, no! I can't take it to Beppuri! I can't take it! I can't take it!
+
+VO_Vepley_Series_Hit.wav
+  Why?
+
+VO_Vepley_Series_HittedLast.wav
+  Wow!
+
+VO_Vepley_Series_HittedLast_2.wav
+  Ouch!
+
+VO_Vepley_Series_HittedLast_3.wav
+  Wow!
+
+VO_Vepley_Series_Hitted_2.wav
+  Oh!
+
+VO_Vepley_Series_Hitted_5.wav
+  Ah!
+
+VO_Vepley_Series_Kill.wav
+  Yay!
+
+VO_Vepley_Series_Lose.wav
+  Eh? W-Wait a minute! Vepri, you can't keep up with the rhythm!
+
+VO_Vepley_Series_Set_Fall.wav
+  I've landed!
+
+VO_Vepley_Series_Set_Fall_2.wav
+  W-What do you think!?
+
+VO_Vepley_Series_Skill01.wav
+  Everyone, cheer up!
+
+VO_Vepley_Series_Skill02.wav
+  Target locked on! BANG!
+
+VO_Vepley_Series_Tone_Negative_001.wav
+  Here once
+
+VO_Vepley_Series_Tone_Negative_002.wav
+  O-Ouch!
+
+VO_Vepley_Series_Ultimate.wav
+  Pay attention to Depli!
+
+VO_Vepley_Series_Up_001.wav
+  Ufufu... I'm glad I got my power up, but...
+
+VO_Vepley_Series_Up_002.wav
+  I'll protect you guys!
+
+VO_Vepley_Series_Up_003.wav
+  Ta-da! Kawaii-Saga has been raised!
+
+VO_Vepley_Series_Up_004.wav
+  I have to control my strength properly...
+
+VO_Vepley_Series_Up_005.wav
+  It's not enough at all! I have to work harder!
+
+VO_Vepley_Series_Up_006.wav
+  It would be great if Vapley was serious!
+
+VO_Vepley_Series_Up_007.wav
+  Can you get even stronger?
+
+VO_Vepley_Series_Up_008.wav
+  You're more dependent on Beverly, aren't you?
+
+VO_Vepley_Series_Win.wav
+  How's the look? Yeah, perfect! Commander, when's the next performance? Vepri is always on standby!
+
+VO_Vepley_Single_Acquire_R_001.wav
+  I had so much fun in this year! Thank you, Commander! Hey, let me hear how you feel! Was it fun being with me?
+
+VO_Vepley_Single_Acquire_SR_001.wav
+  Wow, it's been a year since I met the Commander! Yeah, I've been performing, and this is my favorite place! Ehehe, because... There's the Commander!
+
+VO_Vepley_Single_Acquire_SSR_001.wav
+  It's a year anniversary after we met, right? Today is an important day, of course I remember it. From now on, please continue to support me!
+
+VO_Vepley_Single_Battleend_001.wav
+  Huh? What's the next move?
+
+VO_Vepley_Single_Battlestart_001.wav
+  The performance is about to begin! Everyone in the audience, please don't go wild!
+
+VO_Vepley_Single_Birthday_R_001.wav
+  Eh? Today? Oh, a park in a new area? Fufufu, I knew you'd remember! Commander, happy birthday!
+
+VO_Vepley_Single_Birthday_SR_001.wav
+  Commander, let's sing a birthday song! Eh? But today is a very important day, right? Happy birthday!
+
+VO_Vepley_Single_Birthday_SSR_001.wav
+  Happy Birthday! It's been a while since I've been invited to a special event! A present? It's a special service limited to Vepri!
+
+VO_Vepley_Single_Birthday_SSR_002.wav
+  I've prepared a birthday dance for you, Commander! Ta-da! Cake Step! Happy birthday, Commander!
+
+VO_Vepley_Single_Children_001.wav
+  Commander? What's wrong? Don't tell me you brought candy for Vepri? Vepri is not a child!
+
+VO_Vepley_Single_Christmas_001.wav
+  Shhh, Commander, it's a secret! You know, Pepli hid a lucky shoe under the command post. Today is the birthday of the shoe man. If you don't find that lucky shoe, you can be happy all year round!
+
+VO_Vepley_Single_Christmas_002.wav
+  Ouch, I found you, Commander! Today's Beverly is an Idol Santa who delivers presents instead of Santa! Umm, here it is! Let's take a look inside the present!
+
+VO_Vepley_Single_Duanwu_001.wav
+  Commander, a little more here! Alright, I've decided on the beverage! I'll apply the sake I got from Meirin to your face later! Then I can protect you from... ...a ghost? ...or something like that!
+
+VO_Vepley_Single_Friendliness_001.wav
+  Ah, it's the Commander! Korfen-chan said she wants to teach Beppuri how to dance! Commander, do you want to join us?
+
+VO_Vepley_Single_Friendliness_002.wav
+  Eh? Carry my luggage? Sorry, I just couldn't let go of my hand. It's true! Yes, I have a lot of plans!
+
+VO_Vepley_Single_Friendliness_003.wav
+  Hmm... What do you mean by not fun?
+
+VO_Vepley_Single_Friendliness_004.wav
+  Fufu, fufufu. Hm? You like it? That's good. It's just that the commander didn't seem to be feeling well. Hehe. Do you want to play something fun with me?
+
+VO_Vepley_Single_Friendliness_005.wav
+  Hmm, the sound is different. Why is that? Commander, please come with me to the maintenance room.
+
+VO_Vepley_Single_Friendliness_006.wav
+  Hmm... Oh, Commander! Don't steal! Beppuri will be able to endure until she finishes her practice! It's a new song I've been waiting for!
+
+VO_Vepley_Single_Friendliness_007.wav
+  If I go to the mission, I won't be able to meet the commander again... Okay, let's finish this quickly and go home!
+
+VO_Vepley_Single_Friendliness_008.wav
+  Hehehe, no, not really. I just want to be with you, Commander. Eh? Commander, what did you just say?
+
+VO_Vepley_Single_Friendliness_009.wav
+  Commander, Commander! Will you come to the break room later? Beppu-ri, I want to sing the new song you just heard to the Commander!
+
+VO_Vepley_Single_Friendliness_010.wav
+  Hmm? What's wrong, Commander? Umm... If you can cheer me up, I'll do anything! Because I love you so much, Commander!
+
+VO_Vepley_Single_Friendliness_011.wav
+  ? I... the visibility has gone down? ... The... signal looks as m, sending something outان
+
+VO_Vepley_Single_Friendliness_012.wav
+  Commander, umm... Umm... If the next performance succeeds... Umm... No, it's nothing! If it succeeds, I'll tell you!
+
+VO_Vepley_Single_Friendliness_013.wav
+  Ah, Commander, if you stare at me like that, I'll get nervous. I-It's not a guarantee! Commander, will you stay by my side?
+
+VO_Vepley_Single_Login_001.wav
+  Yes! Weply's stage is still in full swing today!
+
+VO_Vepley_Single_MidAutumn_001.wav
+  Uuuh, Commander, I failed. This is a lantern made by Pepli, do you know what it is? Uuuh, it's Pippa-san!
+
+VO_Vepley_Single_MidAutumn_002.wav
+  I learned from Meiling that the Chushu Festival is a day when the family spends time together, but since the Beppuris are always together, is the Chushu Festival every day? Hmm, I don't know. But I know that the blood is delicious!
+
+VO_Vepley_Single_NewYear_001.wav
+  A new year? Of course! It's decided by a new live tour plan! Commander, please look forward to the activities of Vepri this year as well!
+
+VO_Vepley_Single_NewYear_002.wav
+  Happy New Year! I hope you can have a good time every year from now on, Commander! There's a Vepri live at the party tonight, so don't forget to come and see it!
+
+VO_Vepley_Single_Obon_001.wav
+  Ah, ah, ah! Alright! The module is in order! The body... Function in order! The repli is ready! Eh? What are you doing? It's the final check before the performance, Commander! There's a ghost concert today, right?
+
+VO_Vepley_Single_Obtain_R_001.wav
+  Tada! Reply-chan has appeared!
+
+VO_Vepley_Single_Obtain_SR_001.wav
+  I can do a new performance? I'm super excited!
+
+VO_Vepley_Single_Obtain_SSR_001.wav
+  It's finally my turn! Bethly-chan, standby OK! Where's the camera? I can go anytime!
+
+VO_Vepley_Single_SpringFes_001.wav
+  Don Don Don Don Don Don Cha! Ah, Commander! I'm practicing my special dance right now! I'm going to show it to everyone tonight! It's Meirin's traditional dance! Umm... It's called Shishi-mai... It's a dance that imitates a lion!
+
+VO_Vepley_Single_SpringFes_002.wav
+  Bam! Bam! Bam! I love the bomb shelter that Vepri Meirin made for me! I wonder if I can use it for tonight's live! I'll have the Commander light it up at the performance mountain!
+
+VO_Vepley_Single_Title_001.wav
+  Dolls Front Line 2 Exilium
+
+VO_Vepley_Single_Ultimate_SR_001.wav
+  Showtime!
+
+VO_Vepley_Single_Valentine_001.wav
+  A love event huh... Huh? Come to think of it, that strange feeling... Huh? No, it's not! In other words... Pepli... About the Commander... Ah, Commander!? Um, umm... Happy Valentine's, Commander!
+
+VO_Vepley_Single_Valentine_002.wav
+  Commander! Ta-da! Happy Valentine's Day! I never thought I'd get chocolate from an idol on a curtain call! Huh? It's melting? I'm sorry! It seems like it melted because of the body temperature while I was dancing...
+
+VO_Vepley_Single_WhiteVale_001.wav
+  I-I can't believe that you hate me! Because I'm an idol! Idols are loved, right? But, why are you still... Ah, Commander! You came to give me a present?
+

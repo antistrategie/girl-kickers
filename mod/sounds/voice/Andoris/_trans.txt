@@ -1,0 +1,232 @@
+# Voice Line Translations for Andoris
+# Generated automatically using OpenAI Whisper
+# Total files: 76
+
+VO_Andoris_Series_Battle_Start.wav
+  This will be useful for everyone.
+
+VO_Andoris_Series_Cancel.wav
+  fixing completed
+
+VO_Andoris_Series_Chosen.wav
+  Yes, Commander.
+
+VO_Andoris_Series_Chosen_Auto.wav
+  Huh?
+
+VO_Andoris_Series_Daily_001.wav
+  Hehe, do your best today too, Commander.
+
+VO_Andoris_Series_Daily_002.wav
+  Here's your freshly brewed coffee. Commander, you can do overtime, but your body is the capital. Don't rely on caffeine alone.
+
+VO_Andoris_Series_Daily_003.wav
+  ...The captain of the Kurukai again scolded me for being too spoiled. Eh? You think so too, Commander? I don't think I'm spoiled at all though...
+
+VO_Andoris_Series_Daily_004.wav
+  Dale and Mayrin seem to be good at solving problems that I tend to freeze, but... Even if it's impossible now, if it's those two, they'll find a solution someday. That's what I believe.
+
+VO_Andoris_Series_Daily_005.wav
+  Commander, why don't you join me in training when you're free? If you practice, the data you can give to the technicians will increase, and I think you'll be able to improve your precision assist program.
+
+VO_Andoris_Series_Daily_006.wav
+  The combination of sweets and coffee is excellent, but I'm not good at making sweets. Hmm... Captain Glowza seems to be good at it, so I wonder if I can teach him next time.
+
+VO_Andoris_Series_Daily_007.wav
+  What do you do when you're free? That's right. I'm getting a gun. I got it. I have to take care of it.
+
+VO_Andoris_Series_Daily_008.wav
+  If something happens, don't hesitate to tell me, Commander.
+
+VO_Andoris_Series_Daily_009.wav
+  When I was in the green area? Hmm... I've been in trouble many times. Well, for me who is in 404 now, it's just a joke.
+
+VO_Andoris_Series_Daily_010.wav
+  Hm? Are you tired? If you're okay, I'll massage your shoulders, how is it? I think it'll be a little easier.
+
+VO_Andoris_Series_Die.wav
+  I need to practice more...
+
+VO_Andoris_Series_Hit.wav
+  It'll end soon.
+
+VO_Andoris_Series_Hitted.wav
+  ...! ........ .........
+
+VO_Andoris_Series_Hitted_3.wav
+  Ah!
+
+VO_Andoris_Series_Hitted_5.wav
+  What!?
+
+VO_Andoris_Series_Kill.wav
+  Did you defeat it? I'm glad.
+
+VO_Andoris_Series_Lose.wav
+  Ah, don't be so depressed. Let's do our best again.
+
+VO_Andoris_Series_Set_Click.wav
+  Dokkun!
+
+VO_Andoris_Series_Set_Fall.wav
+  Sorry.
+
+VO_Andoris_Series_Skill01.wav
+  How about this?
+
+VO_Andoris_Series_Skill02.wav
+  Be careful of your feet.
+
+VO_Andoris_Series_Tone_Negative_001.wav
+  U agh!!
+
+VO_Andoris_Series_Tone_Positive_002.wav
+  I won't let you escape!
+
+VO_Andoris_Series_Tone_Positive_005.wav
+  Now!
+
+VO_Andoris_Series_Tone_Positive_006.wav
+  Don't run away.
+
+VO_Andoris_Series_Tone_Positive_007.wav
+  What a hoping to. As I leave the dungeon, I run towards washroom that next to heaven. Everyone passed away, and I was waiting, to be placed in the certain certain counselor. As I start pee, in the middle of the room is a男子小洗手間 and私の横滴装着た女人が 下にいました 。 No more soon.
+
+VO_Andoris_Series_Tone_Positive_008.wav
+  Are you scared?
+
+VO_Andoris_Series_Tone_Positive_010.wav
+  Roger that!
+
+VO_Andoris_Series_Ultimate.wav
+  Is this okay?
+
+VO_Andoris_Series_Up_001.wav
+  Thank you.
+
+VO_Andoris_Series_Up_002.wav
+  iscermine
+
+VO_Andoris_Series_Up_003.wav
+  I see.
+
+VO_Andoris_Series_Up_006.wav
+  I'll remember that.
+
+VO_Andoris_Series_Win.wav
+  I hope it's as you expected, Commander.
+
+VO_Andoris_Single_Acquire_R_001.wav
+  It's been a year, it's fast. Thank you always, Commander. The warm memories of 404 and Elmo will always remain in my mind.
+
+VO_Andoris_Single_Acquire_SSR_001.wav
+  Huh? It's been another year since I met the Commander. That's fast. The experience of fighting together and living together this year is irreplaceable for me.
+
+VO_Andoris_Single_Anniversary_001.wav
+  Time flies fast, but I have to cherish the days we spend together. Happy 1st anniversary, Commander!
+
+VO_Andoris_Single_Birthday_R_001.wav
+  Happy birthday, Commander! You don't have to worry about getting old. Ageing is a privilege for humans, and it's also a weapon.
+
+VO_Andoris_Single_Birthday_SSR_001.wav
+  Today is a day to commemorate, so let's make memories together! Here you go! A present! Happy birthday, Commander!
+
+VO_Andoris_Single_Birthday_SSR_002.wav
+  Happy birthday! I made a birthday cake for you for the first time! It looks weird, but it tastes okay! Yes, Commander? Ahhhhhhh!
+
+VO_Andoris_Single_Children_001.wav
+  When I hear the laughter echoing in the Elmo, I sometimes remember when I was working at school. Children's Day is still a cake for children. How about you, Commander?
+
+VO_Andoris_Single_Christmas_001.wav
+  Fufufu... Fufufu... Fufufu... Eh? Commander... Ah, this is... I was practicing singing to surprise you... Umm... I wonder if I sang well... Merry Christmas, Commander!
+
+VO_Andoris_Single_Christmas_002.wav
+  Merry Christmas, Commander! Here, this is a present from me. This horn? I found it in the warehouse. It's perfect for Christmas, right?
+
+VO_Andoris_Single_Duanwu_001.wav
+  I heard from Mayrin that mochi rice is a strange ingredient. It's chewy and there are various foods. You know, I made too much blood rolls. I hope you help me eat.
+
+VO_Andoris_Single_Friendliness_001.wav
+  Is there anything you want me to do? You don't have to hesitate.
+
+VO_Andoris_Single_Friendliness_002.wav
+  Recently, there's a lot of information that needs to be sorted out, so it takes a long time to categorize it. ... It's okay. I won't freeze it to this extent.
+
+VO_Andoris_Single_Friendliness_003.wav
+  Huh? Are you... injured? I'll bring an ambulance.
+
+VO_Andoris_Single_Friendliness_004.wav
+  Meirin bought coffee beans. How about it later, Commander? It smells pretty good.
+
+VO_Andoris_Single_Friendliness_005.wav
+  Phew... I'm glad everyone's safe. I'm used to fighting, but when I think of my friends getting hurt, I'm still nervous. Am I worrying too much?
+
+VO_Andoris_Single_Friendliness_006.wav
+  I've been reading some information about organizing information recently, and I have a little concern. I can talk to you when I'm free, so I wonder if I can talk to you slowly next time.
+
+VO_Andoris_Single_Friendliness_007.wav
+  I heard a lot about the former Commander from the manager of Springfield the other day. So I thought, I wish I could have met the Commander sooner.
+
+VO_Andoris_Single_Friendliness_008.wav
+  I've finally been able to get on the field for shooting training recently. I want you to know that for the first time.
+
+VO_Andoris_Single_Friendliness_009.wav
+  You like taking pictures? If you can capture any moment in a picture, no matter how long it takes, you can remember it just by opening the album, right?
+
+VO_Andoris_Single_Friendliness_010.wav
+  I know I'm a bit of a pain in the ass, but I'm still trying my best. If we do more missions together, we can have a deeper connection with you.
+
+VO_Andoris_Single_Friendliness_011.wav
+  It's rare to have such a quiet time like this, but I'm satisfied just being with you.
+
+VO_Andoris_Single_Friendliness_012.wav
+  The pollution is critical to the environment, and humans are weak. Be very careful not to follow any rules, and to not have a석 informação while you eat.
+
+VO_Andoris_Single_Friendliness_013.wav
+  When I'm by your side, it feels warm. I want to be here forever. Where you are is my other home.
+
+VO_Andoris_Single_Login_001.wav
+  Let's have a fun day today!
+
+VO_Andoris_Single_MidAutumn_001.wav
+  I heard a lot about the Chushu theory from Meirin. There are people who stole the medicine of the immortal and climbed the moon to become goddesses. Meirin said that the moon was eating the moon.
+
+VO_Andoris_Single_MidAutumn_002.wav
+  The moon is beautiful today, Commander. I've prepared a mooncake and tea, would you like to join me?
+
+VO_Andoris_Single_NewYear_001.wav
+  Today is an important day, so I thought I'd prepare something. Here, a new coffee. I'm glad you like it. Happy New Year, Commander.
+
+VO_Andoris_Single_NewYear_002.wav
+  It's already New Year, time flies. Happy New Year! I'm looking forward to working with you this year, Commander!
+
+VO_Andoris_Single_Obon_001.wav
+  Obon is a day to remember the dead. There is an old man who used to take care of me, If there is really a soul, My gratitude will surely reach you.
+
+VO_Andoris_Single_Obtain_SSR_001.wav
+  It's an honor to meet you, Commander. I've heard a lot about you.
+
+VO_Andoris_Single_Passive_SSR_001.wav
+  How about it?
+
+VO_Andoris_Single_SpringFes_001.wav
+  Today's Elmo is always in a festive mood, and it's more lively than usual. Umm... This is a muffler. Meirin said that New Year's is a gift. So... Happy New Year, Commander!
+
+VO_Andoris_Single_SpringFes_002.wav
+  I'm currently decorating the Hermo building for the Spring Festival. It's like a family gathering together for the New Year. Commander, happy Spring Festival!
+
+VO_Andoris_Single_ThanksGiving_001.wav
+  Today is the thanksgiving day! When I was in Zucchero, every year at the thanksgiving, I made pumpkin pie with the Springfield store manager. The inside of the store was full of good scent. I'm thinking of making it again this year, but how about the commander?
+
+VO_Andoris_Single_Title_001.wav
+  Dolls Front Line 2 Exilium
+
+VO_Andoris_Single_Valentine_001.wav
+  I left the disk in the command room earlier. Yeah. For now, Valentine's presents. I put everything I want to say to the commander.
+
+VO_Andoris_Single_Valentine_002.wav
+  Commander, why are you hiding here? I see, everyone loves you, Commander. Then, instead of keeping it a secret, would you like to eat my chocolate first?
+
+VO_Andoris_Single_WhiteVale_001.wav
+  Here you go. This is chocolate. It's said that sugar boosts dopamine secretion and makes you feel better. Commander, you should eat chocolate today, too. Don't forget the bad things.
+

@@ -1,0 +1,145 @@
+# Voice Line Translations for Voymastina
+# Generated automatically using OpenAI Whisper
+# Total files: 47
+
+VO_Voymastina_Series_Battle_Start.wav
+  Is that your best?
+
+VO_Voymastina_Series_Chosen.wav
+  Sorry, Leo.
+
+VO_Voymastina_Series_Chosen_Auto.wav
+  Start the engine!
+
+VO_Voymastina_Series_Daily_001.wav
+  Do you know what the word countermeasure means, Commander? No, I don't understand why Dr. Shaw made such a logical design. To obey the order unconditionally, this is the greatest advantage of a doll.
+
+VO_Voymastina_Series_Daily_002.wav
+  I have no reason to doubt that Alba is an excellent captain. This is the reason why I obey without hesitation.
+
+VO_Voymastina_Series_Daily_003.wav
+  I prefer silence, but... If that's what you wish, I'll gladly come and talk to you.
+
+VO_Voymastina_Series_Daily_004.wav
+  The only thing that can make a doll the best is not just her performance. Her tactics, efficiency, experience... All of them are essential.
+
+VO_Voymastina_Series_Daily_005.wav
+  There is not often a daily conversation in the countermeasure. Even if there is, it will be about them.
+
+VO_Voymastina_Series_Die.wav
+  Don't worry about it.
+
+VO_Voymastina_Series_Dying.wav
+  Two magazines.
+
+VO_Voymastina_Series_Hit.wav
+  It's a wasteful struggle.
+
+VO_Voymastina_Series_Hitted_2.wav
+  lol
+
+VO_Voymastina_Series_Hitted_4.wav
+  Ugh!
+
+VO_Voymastina_Series_Hitted_5.wav
+  Ugh!
+
+VO_Voymastina_Series_Kill.wav
+  Next!
+
+VO_Voymastina_Series_Lose.wav
+  It's all my fault.
+
+VO_Voymastina_Series_Set_Click.wav
+  It's a wise decision.
+
+VO_Voymastina_Series_Set_Fall.wav
+  What do you need?
+
+VO_Voymastina_Series_Shield_Broken.wav
+  Is that all you've got?
+
+VO_Voymastina_Series_Skill01.wav
+  How about you fall down now?
+
+VO_Voymastina_Series_Skill02.wav
+  Even if you run away?
+
+VO_Voymastina_Series_Tone_Positive_001.wav
+  Here.
+
+VO_Voymastina_Series_Ultimate.wav
+  Terminator maximum output!
+
+VO_Voymastina_Series_Up_001.wav
+  Is this all you've got?
+
+VO_Voymastina_Series_Up_002.wav
+  I can still get stronger!
+
+VO_Voymastina_Series_Up_003.wav
+  It's not enough for the performance alone.
+
+VO_Voymastina_Series_Up_004.wav
+  As expected of Doctor Shaw's development.
+
+VO_Voymastina_Series_Up_005.wav
+  Let's get rid of all the obstacles that stand in our way.
+
+VO_Voymastina_Series_Win.wav
+  Please tell me your next goal.
+
+VO_Voymastina_Single_Birthday_SSR_001.wav
+  Today is a special day. Do you have any requests? Even if you wish to sabotage the training, I'll close my eyes for today.
+
+VO_Voymastina_Single_Christmas_001.wav
+  Merry Christmas. Alba said that it would be better to hide the present under the pillow as a surprise, but for me, giving it to someone else is more convenient.
+
+VO_Voymastina_Single_Friendliness_001.wav
+  I've analyzed the test data for the last few times. Please take a look if you like.
+
+VO_Voymastina_Single_Friendliness_002.wav
+  I will not doubt your decision. However, when you pass the test, please let me decide the details of the plan.
+
+VO_Voymastina_Single_Friendliness_003.wav
+  Please let me know when you depart. I will perform the final check of the armor.
+
+VO_Voymastina_Single_Friendliness_004.wav
+  Don't be too far away from me. My office is the safest place for me to be.
+
+VO_Voymastina_Single_Friendliness_005.wav
+  Do you have a lot of work? No, I can't finish it in return, but I think I can give you efficient advice.
+
+VO_Voymastina_Single_Friendliness_006.wav
+  The next mission is very dangerous. If you insist on going, I'll join you.
+
+VO_Voymastina_Single_Friendliness_007.wav
+  Excuse me, but why are you planning to talk to me at night? This will affect your sleep time... No, if it is your order, I will accept it with respect.
+
+VO_Voymastina_Single_Friendliness_008.wav
+  I did say that I don't need a new commander for the counterattack, but... If you're my opponent, I'll gladly use you.
+
+VO_Voymastina_Single_Login_001.wav
+  It's the same as usual today. I've already sent out the schedule. If there's no other reason, let's get to it right away.
+
+VO_Voymastina_Single_MidAutumn_001.wav
+  You're a Chushu-setsu, Commander. No, don't worry about me. Just being able to reunite with you is enough.
+
+VO_Voymastina_Single_NewYear_001.wav
+  Happy New Year. I don't know why humans are celebrating the Earth's evolution, but I'm sure there's a reason why it's still a tradition.
+
+VO_Voymastina_Single_Obtain_SSR_001.wav
+  I'm sorry, Commander. From now on, I will not be a second-generation doll, but I will focus on my abilities.
+
+VO_Voymastina_Single_Passive_SSR_001.wav
+  Is that surprising?
+
+VO_Voymastina_Single_SpringFes_001.wav
+  Happy New Year. What is it? If it were my salary, I would have given it all to you.
+
+VO_Voymastina_Single_Title_001.wav
+  Dolls Front Line 2 Exilium
+
+VO_Voymastina_Single_Valentine_001.wav
+  Chocolate? Of course I made it, but... I considered the number of times you received it, and also planned the chocolate consumption plan. For your health, I will always protect the amount of the dose written in the document.
+

@@ -1,0 +1,220 @@
+# Voice Line Translations for Clukay
+# Generated automatically using OpenAI Whisper
+# Total files: 72
+
+VO_Clukay_Series_Battle_Start.wav
+  Are you scared?
+
+VO_Clukay_Series_Chosen.wav
+  It's because of training.
+
+VO_Clukay_Series_Chosen_Auto.wav
+  It's no big deal.
+
+VO_Clukay_Series_Daily_001.wav
+  What are you doing? I think you can tell by looking at me. I have a lot to do as the captain of the preponderance, preparation for the request, and pre-investigation of the materials for the fee application. I don't have a reliable assistant like Groza or Mary.
+
+VO_Clukay_Series_Daily_002.wav
+  After Andris came, the mucity's habit of skipping the loop became terrible. Commander, is there any good way to educate him?
+
+VO_Clukay_Series_Daily_003.wav
+  I've been observing you until now, but my team management philosophy is different from Groza and Riva. Well, I can't say that 404 is the best.
+
+VO_Clukay_Series_Daily_004.wav
+  Are all the current bike designers part-time jobs? All the cars that have been announced this year are good in terms of specs, and the design is not a piece of the essence. I say that there is supply because there is demand, but there is only a sigh that there are people who buy such a thing.
+
+VO_Clukay_Series_Daily_005.wav
+  Low-pollution pillows, coffee siphons, and summer blankets? Haa... They're buying unnecessary things again because I don't like them...
+
+VO_Clukay_Series_Daily_006.wav
+  I realized after I threw away the useless hesitation I had held back in the past. I'm the only one who can pull 404. The future of 404 will be the proof that I can be perfect.
+
+VO_Clukay_Series_Daily_007.wav
+  The weak are not needed in 404. Even if they don't want it, I'll make them the strongest combat dolls.
+
+VO_Clukay_Series_Daily_008.wav
+  Seriously, how can I raise those Bonkura to become elite dolls?
+
+VO_Clukay_Series_Daily_009.wav
+  It was a surprising harvest, but as I was using it on missions, I gradually started to like large bikes.
+
+VO_Clukay_Series_Daily_010.wav
+  I finally lost to Bioka. She always follows me around and when I'm annoying, she's not there. There's no one as naive as her in the orbit base, right?
+
+VO_Clukay_Series_Hit.wav
+  I love you.
+
+VO_Clukay_Series_Hitted_5.wav
+  Thank you for watching!
+
+VO_Clukay_Series_Kill.wav
+  Target silent.
+
+VO_Clukay_Series_Lose.wav
+  ... equal export范... It's an indecision... autor sharper, right? if this is one of her kind reports then i will tell on her she was looking down on me
+
+VO_Clukay_Series_Set_Click.wav
+  Actions begin!
+
+VO_Clukay_Series_Set_Fall.wav
+  Attention!
+
+VO_Clukay_Series_Shield_Broken.wav
+  Damn it!
+
+VO_Clukay_Series_Skill01.wav
+  Learn the reality!
+
+VO_Clukay_Series_Skill02.wav
+  I'll give you a hand.
+
+VO_Clukay_Series_Tone_Positive_003.wav
+  Continue.
+
+VO_Clukay_Series_Tone_Positive_004.wav
+  Not bad.
+
+VO_Clukay_Series_Tone_Positive_009.wav
+  What can I say...
+
+VO_Clukay_Series_Tone_Positive_010.wav
+  Give up.
+
+VO_Clukay_Series_Ultimate.wav
+  If you're going to give up, then do it now.
+
+VO_Clukay_Series_Up_002.wav
+  Not bad.
+
+VO_Clukay_Series_Up_004.wav
+  It's not enough yet.
+
+VO_Clukay_Series_Up_005.wav
+  I need to add more training.
+
+VO_Clukay_Series_Up_006.wav
+  Not yet.
+
+VO_Clukay_Series_Win.wav
+  Fufu, I'm lucky to have turned 404 into an enemy.
+
+VO_Clukay_Single_Acquire_R_001.wav
+  It's true that it's been a year since we met, but I don't think it's something to celebrate. Let's celebrate even when it's the fifth year. This is a mission, so failure is not allowed.
+
+VO_Clukay_Single_Acquire_SR_001.wav
+  It's been a year since we've been in a partnership. It's about time we got through the meeting, right? From now on, we'll be more strict. Commander, please do your best to stay with me.
+
+VO_Clukay_Single_Acquire_SSR_001.wav
+  It's been a year since then. When I'm with you, I feel like time goes by so fast. I guess that's why you're the same no matter how many years pass.
+
+VO_Clukay_Single_Anniversary_001.wav
+  In this year, we have established a good relationship. In the nature of 404, even if the position of the commander changes, it will not be a
+
+VO_Clukay_Single_Birthday_R_001.wav
+  Happy birthday. What's with that smile? I'll tell you, but please don't relax because it's your birthday.
+
+VO_Clukay_Single_Birthday_SR_001.wav
+  Happy birthday. Please maintain a good relationship this year. ...No way. There are many organizations that want to establish a cooperative relationship with 404. The Commander is a blessed person.
+
+VO_Clukay_Single_Birthday_SSR_001.wav
+  Commander, I left something in the break room. What? It's a birthday present. Did you think it was a request? Wait, no! Not now! I'll see it when I'm away.
+
+VO_Clukay_Single_Birthday_SSR_002.wav
+  Today was a special day, right? Here, this. Eh? You don't have a heart? Ah... Commander, today is your birthday. Is there anything else special?
+
+VO_Clukay_Single_Children_001.wav
+  The balloon Misty and Bioka had, did you give it to them? Haa, you're not a child, so you're not going to be a good commander... Eh? I have a part in it too... Th-That kind of child-slaughtering toy... W-Well, it might be just right for decorating the room...
+
+VO_Clukay_Single_Christmas_001.wav
+  Commander, would you like me to decorate this candy cane on the tree? A little more to the left... Yes, yes, that's fine. And... this... Ah, that's something you don't need to decorate. I prepared it in excess... It's a top star. Merry Christmas.
+
+VO_Clukay_Single_Christmas_002.wav
+  Merry Christmas, Commander. Is this it? This is... It's called Gingerbread Man, and it was made by Andrés and a beautician... I-I also made it myself. Yes. I made it just like you. Shall we eat it?
+
+VO_Clukay_Single_Duanwu_001.wav
+  ... Tie this tight... Alright, now it's a square triangle. Hm? Can I make the shape of the bloodstain more freely? As an elite doll, I don't intend to accept such a good job. The bloodstain in your hand too. Here, I'll fix the shape, so please give it to me quickly.
+
+VO_Clukay_Single_Friendliness_001.wav
+  I still have work to do, so please do as you please, Commander.
+
+VO_Clukay_Single_Friendliness_002.wav
+  I'm currently drawing a design draft of the bike's custom design, but are you familiar with the bike?
+
+VO_Clukay_Single_Friendliness_003.wav
+  Commander, if possible, would you like to introduce your familiar dark blocker? The 404's purchase route is unstable recently, so I will definitely return this loan.
+
+VO_Clukay_Single_Friendliness_004.wav
+  I've been seeing old friends lately, and they all said I've changed. Do you think so, Commander?
+
+VO_Clukay_Single_Friendliness_005.wav
+  Commander, you were looking at our mock training earlier. How is the 404's ability?
+
+VO_Clukay_Single_Friendliness_006.wav
+  Groza, Nemesis, they're all excellent dolls. Yes, as you can imagine, we're calculating the amount of money for the Elmo. Of course, it's not a waste of time to hire a commander who's lost his way.
+
+VO_Clukay_Single_Friendliness_007.wav
+  Commander, would you like to go for a drive? I got something good from the previous mission and I put it on my bike, so I want to try it right away.
+
+VO_Clukay_Single_Friendliness_008.wav
+  HKM4, 416, and KURUKAI. The only thing that has changed is not just the name. I once made a distinction in the past, but now it doesn't matter anymore. You understand this feeling, right? Commander.
+
+VO_Clukay_Single_Friendliness_009.wav
+  Commander, you came to the right place. For the next request, you need to wear a suit, so if possible, you can decide on your own. It's just a job, so don't imagine anything strange.
+
+VO_Clukay_Single_Friendliness_010.wav
+  What is this? Reward? Commander, 404 and I are not that cheap. You still don't understand? This time I just wanted to help. I don't need that kind of money.
+
+VO_Clukay_Single_Friendliness_011.wav
+  Welcome back. Um, why are you looking at me like an idiot? Eh? Were you laughing? Me? You-you must be mistaken. You've gotten a little blind, Commander.
+
+VO_Clukay_Single_Friendliness_012.wav
+  Now, would you mind not talking about your request? Please let me rest for a bit. I feel somewhat at ease in front of you, Commander. Well, it's not bad.
+
+VO_Clukay_Single_Friendliness_013.wav
+  You're looking at another doll again... Is it really that good? Well, I'll find out who's the best for you later.
+
+VO_Clukay_Single_Login_001.wav
+  You're late. I've been waiting.
+
+VO_Clukay_Single_MidAutumn_001.wav
+  Andris said today is a day of chaos, so Bioka is trying to party at 404. Haa, they're going to be a pain in the ass again, so how about the commander?
+
+VO_Clukay_Single_MidAutumn_002.wav
+  Commander, you saw the message I sent, right? Because they ordered a huge mooncake, we had no choice but to eat it together. Everyone is waiting for you. Me? Of course I was waiting for you too. I'm already used to waiting for you, Commander.
+
+VO_Clukay_Single_NewYear_001.wav
+  Commander, when did you get there? I'm working on a plan for next year. It's a secret of 404, so don't try to erase it... Eh? You saw my name? That's because you're an important collaborator of 404, so it's natural that your name is on it.
+
+VO_Clukay_Single_NewYear_002.wav
+  Thank you for your help last year, Commander. Let's cooperate more closely this year. Of course, there is no exemption.
+
+VO_Clukay_Single_Obon_001.wav
+  Obon... There's no one to hurt, and it's a holiday that I don't really feel. And, rather than drowning in the past, it's better to protect what you have now, so you won't regret it later, right?
+
+VO_Clukay_Single_Obtain_SSR_001.wav
+  I'm the head of the 404th Gen, the elite doll Kuru. It's been a while, Commander.
+
+VO_Clukay_Single_Passive_SSR_001.wav
+  Beware of surroundings
+
+VO_Clukay_Single_SpringFes_001.wav
+  Commander, I'm writing a Tsuiren right now, but according to Meirin, it's best to use the same number of letters and vowels in the paper and the letter of the letter and add the meaning of blessing. If you divide the code name of the 404 members, it's exactly the same number of letters, so you can also put the year of the gold... What are you laughing at? Nothing is wrong, right?
+
+VO_Clukay_Single_SpringFes_002.wav
+  Happy New Year, Commander. What was I doing? I was just making a paper cutout to decorate the window, but... The time it takes is because I'm pursuing perfection. W-Wait, those failure plans are something I plan to throw away later! Please don't look!
+
+VO_Clukay_Single_ThanksGiving_001.wav
+  What a troublesome holiday. There are a lot of thanks from companies that have been in contact with 404 since morning. The text looks like a one-off message, and I don't feel any sincerity at all. Eh? You want to thank me? You mean the Commander? We're not that hard on you...
+
+VO_Clukay_Single_Title_001.wav
+  Dolls Front Line 2 Exilium
+
+VO_Clukay_Single_Valentine_001.wav
+  Here, chocolate. Of course it's handmade. You can tell by that, right? The way it's wrapped is so good that it looks like it's on the market? Huh... You've gotten so much that you can tell, Commander.
+
+VO_Clukay_Single_Valentine_002.wav
+  Yes, Commander. This is my chocolate. Yes, the taste and shape are perfect. The volume has also increased considerably, so I will probably not eat any other chocolates today. Then, please ride my bike next time. I will take you to a good place.
+
+VO_Clukay_Single_WhiteVale_001.wav
+  How is Valentine's Day and White Day different? No, I don't want any rewards. Yes, it's to learn human manners. I'm prepared for it, right?
+

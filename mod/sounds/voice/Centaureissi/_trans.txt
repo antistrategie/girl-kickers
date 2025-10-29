@@ -1,0 +1,238 @@
+# Voice Line Translations for Centaureissi
+# Generated automatically using OpenAI Whisper
+# Total files: 78
+
+VO_Centaureissi_Series_Battle_Start.wav
+  Operationしぁ、 we żyむ
+
+VO_Centaureissi_Series_Battle_Start_2.wav
+  It's time for work.
+
+VO_Centaureissi_Series_Battle_Start_3.wav
+  Understood.
+
+VO_Centaureissi_Series_Battle_Start_4.wav
+  I'm glad to hear that.
+
+VO_Centaureissi_Series_Battle_Start_5.wav
+  Certainly, Master.
+
+VO_Centaureissi_Series_Battle_Start_6.wav
+  No problem.
+
+VO_Centaureissi_Series_Cancel.wav
+  I'm waiting.
+
+VO_Centaureissi_Series_Chosen.wav
+  I'd like you to meet a patient.
+
+VO_Centaureissi_Series_Chosen_2.wav
+  You're always welcome.
+
+VO_Centaureissi_Series_Chosen_3.wav
+  Gomei Leo
+
+VO_Centaureissi_Series_Daily_001.wav
+  Sometimes I think I'm too strict with others, but what do you think, Master?
+
+VO_Centaureissi_Series_Daily_002.wav
+  It's good to be energetic, but I want Sharkly to balance his work and live activities a little more.
+
+VO_Centaureissi_Series_Daily_003.wav
+  There are more and more ways to get and get to dolls. But that has nothing to do with the work of the cafe.
+
+VO_Centaureissi_Series_Daily_004.wav
+  Macchiato often gets fired from his missions. I don't believe in her abilities, but I'm always worried.
+
+VO_Centaureissi_Series_Daily_005.wav
+  The aelmogon seems a little strange, so I wonder if I should leave it as a easy-to-grow plant. I also recommend potosus, which can easily grow.
+
+VO_Centaureissi_Series_Daily_006.wav
+  The manager never makes friends, oder just makes customers smile.
+
+VO_Centaureissi_Series_Daily_007.wav
+  I'll excuse myself while I'm at work, Master. The heat will cause a decrease in judgment, so please leave the rest to me.
+
+VO_Centaureissi_Series_Daily_008.wav
+  As always, Groza is reliable. No matter how difficult the mission is, she will be fine.
+
+VO_Centaureissi_Series_Daily_009.wav
+  I am currently cleaning the bridge. Please rest assured. I will not miss any dust.
+
+VO_Centaureissi_Series_Daily_010.wav
+  Master, here's your sweets. I've also prepared some tea and coffee, so please enjoy them as you like.
+
+VO_Centaureissi_Series_Hit.wav
+  It's cleaning time!
+
+VO_Centaureissi_Series_HittedLast_2.wav
+  Grandpa... Yeah...
+
+VO_Centaureissi_Series_Hitted_2.wav
+  Ah!
+
+VO_Centaureissi_Series_Hitted_3.wav
+  Ah!
+
+VO_Centaureissi_Series_Hitted_4.wav
+  lol
+
+VO_Centaureissi_Series_Hitted_5.wav
+  !! ... ... Nn! ... It's trying 80% of the time, 100%. H... Now, he's exhausted... Could you guys calm down, please...? Ehhh, but... depth and order be the most important thing here.
+
+VO_Centaureissi_Series_Kill.wav
+  Nepal Options Motherland
+
+VO_Centaureissi_Series_Lose.wav
+  Master, please leave first. I will take care of you...
+
+VO_Centaureissi_Series_Skill01.wav
+  Disinfect the objects!
+
+VO_Centaureissi_Series_Skill02.wav
+  Leave the rest to me!
+
+VO_Centaureissi_Series_Ultimate.wav
+  Tea time time!
+
+VO_Centaureissi_Series_Up_001.wav
+  Not enough yet.
+
+VO_Centaureissi_Series_Up_002.wav
+  Let's increase the strength a little more.
+
+VO_Centaureissi_Series_Up_003.wav
+  can still be improved.
+
+VO_Centaureissi_Series_Up_004.wav
+  I'll meet your expectations.
+
+VO_Centaureissi_Series_Up_005.wav
+  Training complete.
+
+VO_Centaureissi_Series_Up_006.wav
+  To protect everyone.
+
+VO_Centaureissi_Series_Up_007.wav
+  Comereo
+
+VO_Centaureissi_Series_Up_008.wav
+  This is also the job of a maid.
+
+VO_Centaureissi_Series_Win.wav
+  I'm glad that you all made it back safely, even though you won.
+
+VO_Centaureissi_Single_Acquire_R_001.wav
+  In the past year spent with Master, I've realized my own weakness. I will continue to be diligent and do my best for Master.
+
+VO_Centaureissi_Single_Acquire_SSR_001.wav
+  It's been a year since I've served Master today. I look forward to working with you in the future.
+
+VO_Centaureissi_Single_Anniversary_001.wav
+  Thank you for your hard work for a year, Master. I am honored to have met and used a person like you.
+
+VO_Centaureissi_Single_Birthday_R_001.wav
+  Do you remember what day it is today? I remember. Happy birthday, Master.
+
+VO_Centaureissi_Single_Birthday_SSR_001.wav
+  Happy birthday, Master. How about a shortcake for today's afternoon tea? We have all the ingredients, so if you have any favorite flavor, please let me know.
+
+VO_Centaureissi_Single_Birthday_SSR_002.wav
+  Master, happy birthday. I have already prepared the cake. No, it's not a hassle. Being by your side is the greatest joy of my life.
+
+VO_Centaureissi_Single_Children_001.wav
+  Today, I prepared a present for the children. It's for Master. Ah, I didn't know you were treating children. I happened to find candy that would suit Master's taste.
+
+VO_Centaureissi_Single_Christmas_001.wav
+  Master, please wait a little longer for the decoration. There are still places that have not been repaired yet, so this tree is the main character of the day. It doesn't have to be perfectly finished.
+
+VO_Centaureissi_Single_Christmas_002.wav
+  It seems that it will snow tonight, so I have prepared some hot wine. If you warm your hands here, it may be a little easier to open the gift box.
+
+VO_Centaureissi_Single_Duanwu_001.wav
+  Depending on the ingredients, there are sweet and salty ones, so I think that the blood roll is also called a sweet. I didn't know what Master liked, so I prepared a variety of blood rolls.
+
+VO_Centaureissi_Single_Friendliness_001.wav
+  Are you satisfied with my recent work?
+
+VO_Centaureissi_Single_Friendliness_002.wav
+  Looks like you're a little tired. Shall we put in some coffee?
+
+VO_Centaureissi_Single_Friendliness_003.wav
+  Leave the cleaning to me. I can't let Master's hands get in the way of this.
+
+VO_Centaureissi_Single_Friendliness_004.wav
+  Please take a look. The pothos I planted the other day has sprouted. I plan to split the money later, but would you like to join me?
+
+VO_Centaureissi_Single_Friendliness_005.wav
+  Master, I'll massage your shoulders, so please rest for a while with the documents.
+
+VO_Centaureissi_Single_Friendliness_006.wav
+  Is it okay if I don't hold back that much? I'm a maid and you're the landlord. It's natural to be sincere, so please don't mind.
+
+VO_Centaureissi_Single_Friendliness_007.wav
+  The recipe for dinner I had last night? I don't mind showing it to you, but who are you shaking your arm with?
+
+VO_Centaureissi_Single_Friendliness_008.wav
+  Master, is it because you don't let me clean your room all the time that my cleaning work is not enough? Or is there something that I can't see in my room?
+
+VO_Centaureissi_Single_Friendliness_009.wav
+  I will wait here, no matter when you return. Waiting for your master is also a maid's job. This is my way of repaying you.
+
+VO_Centaureissi_Single_Friendliness_010.wav
+  I was told by my former employer, that I should not fight anymore. I know that you cannot leave the battle, but please promise me this. No matter what important mission it is, I will come back alive.
+
+VO_Centaureissi_Single_Friendliness_011.wav
+  If necessary, I will take the weapon. If someone appears to hurt Master and the Elmogos, I will draw the trigger without hesitation.
+
+VO_Centaureissi_Single_Friendliness_012.wav
+  Master's smile is the most important thing in my memory. Because I have memories that I have been holding on to with you, I can find meaning in what I have done.
+
+VO_Centaureissi_Single_Friendliness_013.wav
+  Why do you call me Master? Because of the old relationship with the landlord and when I went to military school, I'm sensitive to the upper and lower relationships, and because it's my only problem that I can't use for anyone else.
+
+VO_Centaureissi_Single_Login_001.wav
+  Welcome back, Master. Today, I have prepared Darjeeling, which I harvested in the lab. It has a delicate scent that is close to natural. I'm glad you like it.
+
+VO_Centaureissi_Single_MidAutumn_001.wav
+  The mooncake is similar to a cake, but the process was quite complicated. I'm sorry for giving you a raw example. Eh? Is it delicious? Is it really?
+
+VO_Centaureissi_Single_MidAutumn_002.wav
+  I've never tried a gold-plated candy before. Lady Mayling said it would smell like a 10-year-old. It was really true. Tonight, I'll have tea and this candy. Let's have a good time.
+
+VO_Centaureissi_Single_NewYear_001.wav
+  Even if it's the end of the year, if you need anything, please apply. This is also the role of a maid, so don't hesitate.
+
+VO_Centaureissi_Single_NewYear_002.wav
+  You're really determined from the start, Master. Then I will also support you as usual.
+
+VO_Centaureissi_Single_Obon_001.wav
+  A person you want to steal from? Of course there is. She was the person I used to use before, and she was an excellent person who never lost to Master. I hope this tower will deliver my gratitude.
+
+VO_Centaureissi_Single_Obtain_R_001.wav
+  I have arrived at the center. How about a cup of tea today, Master?
+
+VO_Centaureissi_Single_Passive_SSR_001.wav
+  I'm with you.
+
+VO_Centaureissi_Single_SpringFes_001.wav
+  Even if you're going to celebrate the new year with a blank mind, today's grand cleaning is indispensable. Don't you feel like the Hermes is more beautiful than usual, Master?
+
+VO_Centaureissi_Single_SpringFes_002.wav
+  Thank you for your hard work, Master. No need to worry. Including the menu after the year-end meal, the dinner tonight is already prepared. Please, feel at ease and welcome the new year.
+
+VO_Centaureissi_Single_ThanksGiving_001.wav
+  Master, I've prepared a lot of turkey dishes with zucchini. As a highlight event, there is also a pumpkin race, so if you are interested, I will continue the entry right away.
+
+VO_Centaureissi_Single_Title_001.wav
+  Dolls Front Line 2 Exilium
+
+VO_Centaureissi_Single_Valentine_001.wav
+  Master, here's your dessert. It tastes different from usual? No way, you should've diluted the chocolate... No, it's nothing. Anyway, I'd be happy if you liked it.
+
+VO_Centaureissi_Single_Valentine_002.wav
+  I have prepared hot chocolate for today's afternoon tea. Please enjoy it to your liking. Is this a heart? I just drew a latte art to look good.
+
+VO_Centaureissi_Single_WhiteVale_001.wav
+  Is this a gift from Master? No way... It's natural for a maid to give something to her master. I'm so grateful... Is that not it? Then this is... I'm sorry. I'm going to show you something embarrassing, so I'll take my seat.
+

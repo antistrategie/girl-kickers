@@ -1,0 +1,166 @@
+# Voice Line Translations for Alva
+# Generated automatically using OpenAI Whisper
+# Total files: 54
+
+VO_Alva_10_VO_Alva_Series_Tone_Positive_002.wav
+  Target confirmed.
+
+VO_Alva_11_VO_Alva_Series_Tone_Positive_003.wav
+  Begin attack.
+
+VO_Alva_12_VO_Alva_Series_Tone_Positive_004.wav
+  To prepare for fighting
+
+VO_Alva_13_VO_Alva_Series_Tone_Positive_005.wav
+  Genchaku
+
+VO_Alva_14_VO_Alva_Series_Tone_Positive_006.wav
+  I'll do it.
+
+VO_Alva_15_VO_Alva_Series_Tone_Positive_007.wav
+  Mission accomplished.
+
+VO_Alva_16_VO_Alva_Series_Up_001.wav
+  Thank you very much.
+
+VO_Alva_17_VO_Alva_Series_Up_002.wav
+  I will use this power correctly.
+
+VO_Alva_18_VO_Alva_Series_Up_003.wav
+  Performance improved.
+
+VO_Alva_19_VO_Alva_Series_Up_004.wav
+  It's something that I need as the captain.
+
+VO_Alva_1_VO_Alva_Series_Daily_001.wav
+  No matter what orders you give, the counterattack will always meet your expectations.
+
+VO_Alva_20_VO_Alva_Series_Up_005.wav
+  Doctor Shaw's designs are transcending time.
+
+VO_Alva_21_VO_Alva_Single_Birthday_SSR_001.wav
+  Happy birthday. I wanted to prepare something more special, but... I think this automatic knife is good, Tina. It's okay. I won't open it on my own.
+
+VO_Alva_22_VO_Alva_Single_Christmas_001.wav
+  Santa Claus shouldn't exist, but for some reason there's a present under the pillow. Well, you probably left it. I've prepared it too. I'm glad you like it.
+
+VO_Alva_23_VO_Alva_Single_Friendliness_001.wav
+  Um... I'm sorry. I'm still a little nervous. It's been 10 years, so I have a lot to talk about.
+
+VO_Alva_24_VO_Alva_Single_Friendliness_002.wav
+  If there is something that changes after time, there is something that does not change like us.
+
+VO_Alva_25_VO_Alva_Single_Friendliness_003.wav
+  I didn't know you had any connection with the Revenge Squad and Griffin, but... It seems you have something that attracts people and dolls.
+
+VO_Alva_26_VO_Alva_Single_Friendliness_004.wav
+  I remember the times. The Frankfurt 10 years ago. I only know two people like you.
+
+VO_Alva_27_VO_Alva_Single_Friendliness_005.wav
+  We left the security office, but sometimes we receive work from the security office. We are in a cooperative relationship. After independence, I finally understood why Riva was always in trouble with the capital.
+
+VO_Alva_28_VO_Alva_Single_Friendliness_006.wav
+  Why don't you call her by her name? I've learned of her code name and her role as the captain, but... I haven't given her a new name, so I'll leave it to you.
+
+VO_Alva_29_VO_Alva_Single_Friendliness_007.wav
+  Sometimes, I imagine that all the battles are over. Opening a bookstore, or hunting cats. If you came to the store, I wouldn't be so happy.
+
+VO_Alva_2_VO_Alva_Series_Daily_002.wav
+  The name comes from... Alpha Volk. It's a wolf that leads a flock. She gave it to me.
+
+VO_Alva_30_VO_Alva_Single_Friendliness_008.wav
+  Voimastina said that new members are not required, but I agree with her. If I were to welcome you... Commander, you are the only one I can count on.
+
+VO_Alva_31_VO_Alva_Series_Hit_VO_Alva_Single_Hit_001.wav
+  Project takes care of.
+
+VO_Alva_32_VO_Alva_Series_Kill_VO_Alva_Single_Kill_001.wav
+  Target silent.
+
+VO_Alva_33_VO_Alva_Single_Login_001.wav
+  Good morning, Commander. I've organized today's schedule.
+
+VO_Alva_34_VO_Alva_Series_Lose_VO_Alva_Single_Lose_001.wav
+  Retreat. It's all my fault. I will never repeat the same mistake.
+
+VO_Alva_35_VO_Alva_Single_MidAutumn_001.wav
+  Today is a day of chaos. It will be an irreplaceable memory to be able to spend time with you and the people of the Elmo. I wanted to show this view to her.
+
+VO_Alva_36_VO_Alva_Single_NewYear_001.wav
+  Happy New Year. I wanted to wear red clothes with you, but you refused. Unexpected? That's right. I forgot about the battle and dreamed of enjoying this kind of event.
+
+VO_Alva_37_VO_Alva_Single_Obtain_SSR_001.wav
+  The old AN-94 is no longer here. From now on, as Alba, I will fight for you.
+
+VO_Alva_38_VO_Alva_Single_Passive_SSR_001.wav
+  Analysis complete. This should do it.
+
+VO_Alva_39_VO_Alva_Series_Skill01_VO_Alva_Single_Skill_001.wav
+  Tactical Mode, activate.
+
+VO_Alva_3_VO_Alva_Series_Daily_003.wav
+  The Hermo-Go is warmer than I imagined. There's a place for everyone, including me. If I had joined Gryffin instead of the Security Bureau, I wonder if I could have known this feeling earlier.
+
+VO_Alva_40_VO_Alva_Series_Skill02_VO_Alva_Single_Skill_002.wav
+  Eliminate the threat!
+
+VO_Alva_41_VO_Alva_Single_SpringFes_001.wav
+  According to the history books, the spring festival is the day of beginning and hope. Being with you is a new beginning for me. Yes, it's the New Year. Uh, the side that I get?
+
+VO_Alva_42_VO_Alva_Single_Title_001.wav
+  Dolls Front Line 2 Exilium
+
+VO_Alva_43_VO_Alva_Series_Ultimate_VO_Alva_Single_Ultimate_SSR_001.wav
+  Limiter removed. Maximum firepower!
+
+VO_Alva_43_VO_Alva_Series_Ultimate_VO_Alva_Single_Ultimate_SSR_002.wav
+  Maximum firepower!
+
+VO_Alva_43_VO_Alva_Series_Ultimate_VO_Alva_Single_Ultimate_SSR_003.wav
+  Elimination of Limiter
+
+VO_Alva_44_VO_Alva_Single_Valentine_001.wav
+  I made chocolate with all my gratitude. Please... take it. And this is... medicine. Yes. I made a Voimastina, just in case.
+
+VO_Alva_45_VO_Alva_Series_Win_VO_Alva_Single_Win_001.wav
+  The battle is over.
+
+VO_Alva_46_VO_Alva_Series_Hitted_VO_Alva_Series_HittedLast.wav
+  Thank you for watching!
+
+VO_Alva_47_VO_Alva_Series_Hitted_VO_Alva_Series_HittedLast.wav
+  lol
+
+VO_Alva_48_VO_Alva_Series_Hitted_VO_Alva_Series_HittedLast.wav
+  lol
+
+VO_Alva_49_VO_Alva_Series_Hitted_VO_Alva_Series_HittedLast.wav
+  Ah!
+
+VO_Alva_4_VO_Alva_Series_Daily_004.wav
+  I love the name that Ange gave me. I can't call myself that anymore.
+
+VO_Alva_51_VO_Alva_Series_Hitted_VO_Alva_Series_HittedLast.wav
+  Ah!
+
+VO_Alva_52_VO_Alva_Series_Hitted_VO_Alva_Series_HittedLast.wav
+  Ugh!
+
+VO_Alva_53_VO_Alva_Series_Hitted_VO_Alva_Series_HittedLast.wav
+  UGH!
+
+VO_Alva_5_VO_Alva_Series_Daily_005.wav
+  My value lies within myself. I am not something that will be influenced by others.
+
+VO_Alva_6_VO_Alva_Series_Tone_Negative_001.wav
+  Thank you for watching!
+
+VO_Alva_7_VO_Alva_Series_Tone_Negative_002.wav
+  I can do it again.
+
+VO_Alva_8_VO_Alva_Series_Tone_Negative_003.wav
+  In a place like this...
+
+VO_Alva_9_VO_Alva_Series_Tone_Positive_001.wav
+  look teary
+

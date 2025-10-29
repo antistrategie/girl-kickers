@@ -1,0 +1,235 @@
+# Voice Line Translations for Vector
+# Generated automatically using OpenAI Whisper
+# Total files: 77
+
+VO_Vector_Series_Battle_Start.wav
+  Roger that.
+
+VO_Vector_Series_Cancel.wav
+  I won't let you escape!
+
+VO_Vector_Series_Chosen.wav
+  Roger that.
+
+VO_Vector_Series_Chosen_Auto.wav
+  Focus
+
+VO_Vector_Series_Daily_001.wav
+  If you have time to ask me about my face color, get to work.
+
+VO_Vector_Series_Daily_002.wav
+  Dolls are tools after all. You shouldn't put emotions into tools.
+
+VO_Vector_Series_Daily_003.wav
+  The reason I became the captain of the second squad was because of the few decisions I made in the Kuru world.
+
+VO_Vector_Series_Daily_004.wav
+  It's a good weapon to use, but don't expect anything else.
+
+VO_Vector_Series_Daily_005.wav
+  I don't feel any dark aura from the pepli. Could it be a default setting?
+
+VO_Vector_Series_Daily_006.wav
+  It seems that humans like to talk about the world, but they are so energetic.
+
+VO_Vector_Series_Daily_007.wav
+  Groza and Kul'kai have different body shapes, but both are helpful.
+
+VO_Vector_Series_Daily_008.wav
+  I feel a strong obsession with Corfen. What is it that is making her do that?
+
+VO_Vector_Series_Daily_009.wav
+  I'm not the one that's being followed by Luce. Rather, it's the other way around. It might sound weird, but... This is how I get along with my friends.
+
+VO_Vector_Series_Daily_010.wav
+  This económical doll made there like aきます stay with me
+
+VO_Vector_Series_Hit.wav
+  The ball alguns fainted.
+
+VO_Vector_Series_Hitted_2.wav
+  Thank you for watching!
+
+VO_Vector_Series_Hitted_3.wav
+  Ah!
+
+VO_Vector_Series_Hitted_5.wav
+  lol
+
+VO_Vector_Series_Kill.wav
+  This is the end.
+
+VO_Vector_Series_Lose.wav
+  It's the result as expected.
+
+VO_Vector_Series_Set_Click.wav
+  I won't know even if I regret it.
+
+VO_Vector_Series_Set_Fall.wav
+  I will protect you.
+
+VO_Vector_Series_Skill01.wav
+  Disappear as it is.
+
+VO_Vector_Series_Skill02.wav
+  Even if I can escape?
+
+VO_Vector_Series_Tone_Negative_001.wav
+  Ah!
+
+VO_Vector_Series_Tone_Positive_001.wav
+  Then, let's start.
+
+VO_Vector_Series_Tone_Positive_002.wav
+  Stop!
+
+VO_Vector_Series_Tone_Positive_004.wav
+  Understood.
+
+VO_Vector_Series_Tone_Positive_006.wav
+  Die.
+
+VO_Vector_Series_Tone_Positive_007.wav
+  It's meaningless.
+
+VO_Vector_Series_Tone_Positive_008.wav
+  Yes.
+
+VO_Vector_Series_Tone_Positive_010.wav
+  So that's what it is.
+
+VO_Vector_Series_Ultimate.wav
+  Gosh crumbled
+
+VO_Vector_Series_Up_001.wav
+  I understand.
+
+VO_Vector_Series_Up_002.wav
+  Is it okay with me?
+
+VO_Vector_Series_Up_003.wav
+  Waste of resources.
+
+VO_Vector_Series_Up_005.wav
+  What's the point of this?
+
+VO_Vector_Series_Up_006.wav
+  Do as you please.
+
+VO_Vector_Series_Win.wav
+  Operation complete. Let's go home.
+
+VO_Vector_Single_Acquire_R_001.wav
+  You didn't mind that I haven't infrijoled before, have you? ... You know, T-T I prefer that côté heads over into the human spirit a bit longer تم Thecation Translations from 2 wrinkles Lucy I'm always by your side You are too funny Every time, you appear every where Though I assure you that you are be my soul mate Future
+
+VO_Vector_Single_Acquire_SSR_001.wav
+  It's been a year... If only this time could continue forever...
+
+VO_Vector_Single_Anniversary_001.wav
+  It's been a year... It's the first time I've spent so much time with a human... I look forward to working with you, Commander.
+
+VO_Vector_Single_Birthday_R_001.wav
+  Happy birthday. What are you surprised about? Well, I don't want to be remembered as someone who didn't give me a present.
+
+VO_Vector_Single_Birthday_SSR_001.wav
+  Happy birthday, Commander. I left the drawing I drew for you in the command room. I'm sorry if you don't like it.
+
+VO_Vector_Single_Birthday_SSR_002.wav
+  If the Commander wasn't born on this day, we wouldn't have met. Sorry, I talked about this on my birthday. Anyway, happy birthday.
+
+VO_Vector_Single_Children_001.wav
+  I'll give you this. I bought candy for you, but I bought too much. Eh? You don't see it? Well, you don't have to believe it.
+
+VO_Vector_Single_Christmas_001.wav
+  No matter how much fun the time is, it will eventually come to an end. At the very least, I was able to enjoy it. What about you? Merry Christmas, Commander.
+
+VO_Vector_Single_Christmas_002.wav
+  The star rail is like the wind, in the storm... I was practicing, but I might have been bad at it. It's okay, I know it myself. I want to hear more... You're weird, Commander.
+
+VO_Vector_Single_Duanwu_001.wav
+  Dragon Boat... It's a strange custom. Even if you win, you can't get anything, right? Humans hate losing so much. Do you feel the same way?
+
+VO_Vector_Single_Friendliness_001.wav
+  Has your CV finished? Do complete your job well.
+
+VO_Vector_Single_Friendliness_002.wav
+  You don't have to force yourself to talk about it.
+
+VO_Vector_Single_Friendliness_003.wav
+  What will happen to my opinion if I ask?
+
+VO_Vector_Single_Friendliness_004.wav
+  The painting I drew is worthless. If you have a trash can, throw it away.
+
+VO_Vector_Single_Friendliness_005.wav
+  What I like? If you're asking me to befriend you, then you should stop.
+
+VO_Vector_Single_Friendliness_006.wav
+  I don't know why I came back to you, but I don't know why you left me here again. Why?
+
+VO_Vector_Single_Friendliness_007.wav
+  I want you to face it with your heart. That's impossible, isn't it? Well, if you're my opponent, I'd like to try it.
+
+VO_Vector_Single_Friendliness_008.wav
+  This world is full of contradictions and contradictions. Sometimes I don't know what to do.
+
+VO_Vector_Single_Friendliness_009.wav
+  Thanks to you and Luchie, I've come to think that this world is not something that I've abandoned yet.
+
+VO_Vector_Single_Friendliness_010.wav
+  I'm going to doӏim Sigma recovery so I can Joyce with her heal Datttd Sorry I can't cure you crime I just wanted to show my Buddhism I host my governo Social Communication
+
+VO_Vector_Single_Friendliness_011.wav
+  Even if everything you said to me was a lie, please keep lying to me.
+
+VO_Vector_Single_Friendliness_012.wav
+  Is it hard to understand my painting? If you don't mind, I can explain it to you next time I draw it.
+
+VO_Vector_Single_Friendliness_013.wav
+  As long as you need me, I will always be by your side.
+
+VO_Vector_Single_Login_001.wav
+  I have a lot of work to do. It's up to you whether you do it or not.
+
+VO_Vector_Single_MidAutumn_001.wav
+  The moon is beautiful today. What? I didn't say anything weird, did I? I just said that there is a difference in the sketch. And you too.
+
+VO_Vector_Single_MidAutumn_002.wav
+  Commander, this is Vector. I can't meet you directly during the mission, but I heard that today is the day we all gather together... Um... Can you see the moon now? Yes. Today's moon is very beautiful.
+
+VO_Vector_Single_NewYear_001.wav
+  You're taking a break from New Year's, right? I'll do all the work you've got.
+
+VO_Vector_Single_NewYear_002.wav
+  Another year has passed... Even I'm like this, but you still let me stay without making a face. You've always been spoiled by the Commander. Anyway, I'll be in your care this year too.
+
+VO_Vector_Single_Obon_001.wav
+  It's almost dawn. It seems like Luchie has prepared a lot, shall we go see it together?
+
+VO_Vector_Single_Obtain_SSR_001.wav
+  Commander... I never thought I'd see you again. I'm a little happy.
+
+VO_Vector_Single_Passive_SSR_001.wav
+  It's over, right?
+
+VO_Vector_Single_SpringFes_001.wav
+  I wrote a story about it to Meirin, but she said she didn't know what was written. If you don't mind, I'd like you to take it.
+
+VO_Vector_Single_SpringFes_002.wav
+  I don't have any plans for the spring festival. I'll just lie down and play games sometimes. Will you come with me, Commander? I'll lend you half of my bed.
+
+VO_Vector_Single_ThanksGiving_001.wav
+  If I were to send my thanks, would it be to Lucia? Or maybe to you?
+
+VO_Vector_Single_Title_001.wav
+  Dolls Front Line 2 Exilium
+
+VO_Vector_Single_Valentine_001.wav
+  It's unrelated to me to show my love for humans, but it's not for you, is it? I left the chocolate in the command room, so if you want to eat it, please.
+
+VO_Vector_Single_Valentine_002.wav
+  Valentine's Day... I don't think I'll be able to spend such a lovely and lovely day. Are you really going to spend it with me? Then... I'll try to make it at least as atmospheric as possible.
+
+VO_Vector_Single_WhiteVale_001.wav
+  Even though it's a holiday that has nothing to do with me, why are you giving it back? As a courtesy... Then I can accept it.
+

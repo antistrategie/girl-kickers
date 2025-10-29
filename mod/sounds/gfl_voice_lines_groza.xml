@@ -1,0 +1,1213 @@
+<Sounds>
+  <Pack name="Groza-Voice" channel="voice">
+    <Sound ID="VOX_DYING">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_16_VO_Groza_Series_HittedLast.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_FLASH">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_68_VO_Groza_Series_Ultimate__VO_Groza_Single_Ultimate_SR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_FRAG">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_69_VO_Groza_Single_Ultimate_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_LAUNCHER">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_69_VO_Groza_Single_Ultimate_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_MOLOTOV">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_64_VO_Groza_Series_Skill02__VO_Groza_Single_Skill_002.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_ROCKET">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_69_VO_Groza_Single_Ultimate_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_SMOKE">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_63_VO_Groza_Series_Skill01__VO_Groza_Single_Skill_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_STINGER">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_69_VO_Groza_Single_Ultimate_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_INJURED">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_2_VO_Groza_Series_Hitted.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_RELOAD_PUMP">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_15_VO_Groza_Series_Daily_010.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_BOMB_DEFUSING">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_63_VO_Groza_Series_Skill01__VO_Groza_Single_Skill_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_BOMB_LOCATED">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_19_VO_Groza_Series_Battle_Start__VO_Groza_Series_Chosen__VO_Groza_Series_Shield_Broken__VO_Groza_Series_Tone_Positive_006.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_CANT">
+    </Sound>
+    <Sound ID="VOX_TRPR_CAN_I_SHOOT">
+    </Sound>
+    <Sound ID="VOX_TRPR_CIV_DOWN">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_57_VO_Groza_Series_Lose__VO_Groza_Single_Lose_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_CLEAR">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_72_VO_Groza_Series_Win__VO_Groza_Single_Win_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_COME">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_21_VO_Groza_Series_Battle_Start__VO_Groza_Series_Chosen_Auto__VO_Groza_Series_Move_Start__VO_Groza_Series_Tone_Positive_008.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_DONE_HERE">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_72_VO_Groza_Series_Win__VO_Groza_Single_Win_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_EVAC">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_57_VO_Groza_Series_Lose__VO_Groza_Single_Lose_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_EYES_HOSTAGE">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_19_VO_Groza_Series_Battle_Start__VO_Groza_Series_Chosen__VO_Groza_Series_Shield_Broken__VO_Groza_Series_Tone_Positive_006.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_EYESONTARGET">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_19_VO_Groza_Series_Battle_Start__VO_Groza_Series_Chosen__VO_Groza_Series_Shield_Broken__VO_Groza_Series_Tone_Positive_006.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_EYESONTARGET_QUIET">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_19_VO_Groza_Series_Battle_Start__VO_Groza_Series_Chosen__VO_Groza_Series_Shield_Broken__VO_Groza_Series_Tone_Positive_006.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_FREEZE">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_18_VO_Groza_Series_Battle_Start__VO_Groza_Series_Cancel__VO_Groza_Series_Chosen__VO_Groza_Series_Set_Fall__VO_Groza_Series_Tone_Positive_004.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_GEAR_CHARGE_PLACE">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_63_VO_Groza_Series_Skill01__VO_Groza_Single_Skill_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_GEAR_CHARGE_RDY">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_30_VO_Groza_Series_Up_007.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_GETDOWN">
+    </Sound>
+    <Sound ID="VOX_TRPR_GO_GO_GO">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_21_VO_Groza_Series_Battle_Start__VO_Groza_Series_Chosen_Auto__VO_Groza_Series_Move_Start__VO_Groza_Series_Tone_Positive_008.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_GO_LOUD">
+    </Sound>
+    <Sound ID="VOX_TRPR_HANDCUFF">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_24_VO_Groza_Series_Up_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_HOLDING">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_24_VO_Groza_Series_Up_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_HOST_DOWN">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_57_VO_Groza_Series_Lose__VO_Groza_Single_Lose_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_HOST_SEC">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_72_VO_Groza_Series_Win__VO_Groza_Single_Win_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_HVT_RUNNING">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_19_VO_Groza_Series_Battle_Start__VO_Groza_Series_Chosen__VO_Groza_Series_Shield_Broken__VO_Groza_Series_Tone_Positive_006.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_KEEPMOVINGOFF">
+    </Sound>
+    <Sound ID="VOX_TRPR_KEEPMOVINGON">
+    </Sound>
+    <Sound ID="VOX_TRPR_MANDOWN">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_57_VO_Groza_Series_Lose__VO_Groza_Single_Lose_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_MATCHSPEEDON">
+    </Sound>
+    <Sound ID="VOX_TRPR_MOVING">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_21_VO_Groza_Series_Battle_Start__VO_Groza_Series_Chosen_Auto__VO_Groza_Series_Move_Start__VO_Groza_Series_Tone_Positive_008.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_NOTANGOS">
+    </Sound>
+    <Sound ID="VOX_TRPR_ONTARGET">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_19_VO_Groza_Series_Battle_Start__VO_Groza_Series_Chosen__VO_Groza_Series_Shield_Broken__VO_Groza_Series_Tone_Positive_006.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_ALPHA">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_BRAVO">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_CHARLIE">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_DELTA">
+    </Sound>
+    <Sound ID="VOX_TRPR_ORDERS">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_24_VO_Groza_Series_Up_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_ALPHA">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_BRAVO">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_CHARLIE">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_DELTA">
+    </Sound>
+    <Sound ID="VOX_TRPR_PINNED_DOWN">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_2_VO_Groza_Series_Hitted.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_PUMPUP">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_21_VO_Groza_Series_Battle_Start__VO_Groza_Series_Chosen_Auto__VO_Groza_Series_Move_Start__VO_Groza_Series_Tone_Positive_008.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_RELOAD">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_15_VO_Groza_Series_Daily_010.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_ROGER">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_18_VO_Groza_Series_Battle_Start__VO_Groza_Series_Cancel__VO_Groza_Series_Chosen__VO_Groza_Series_Set_Fall__VO_Groza_Series_Tone_Positive_004.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_SILENTOFF">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_21_VO_Groza_Series_Battle_Start__VO_Groza_Series_Chosen_Auto__VO_Groza_Series_Move_Start__VO_Groza_Series_Tone_Positive_008.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_SILENTON">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_24_VO_Groza_Series_Up_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_SUSP_SEC">
+    </Sound>
+    <Sound ID="VOX_TRPR_TANGODOWN">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_55_VO_Groza_Series_Kill__VO_Groza_Single_Kill_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_TANGOS">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_19_VO_Groza_Series_Battle_Start__VO_Groza_Series_Chosen__VO_Groza_Series_Shield_Broken__VO_Groza_Series_Tone_Positive_006.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_TARGET_SEC">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_19_VO_Groza_Series_Battle_Start__VO_Groza_Series_Chosen__VO_Groza_Series_Shield_Broken__VO_Groza_Series_Tone_Positive_006.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_TIME_TO_GO">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_21_VO_Groza_Series_Battle_Start__VO_Groza_Series_Chosen_Auto__VO_Groza_Series_Move_Start__VO_Groza_Series_Tone_Positive_008.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_VIP_DEAD">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_57_VO_Groza_Series_Lose__VO_Groza_Single_Lose_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_WAIT">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_24_VO_Groza_Series_Up_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_WARN_GRENADE">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_69_VO_Groza_Single_Ultimate_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_WARN_RPG">
+      <Path
+                name="data/sounds/voice/Groza/VO_Groza_68_VO_Groza_Series_Ultimate__VO_Groza_Single_Ultimate_SR_001.wav"
+            />
+    </Sound>
+  </Pack>
+  <Pack name="Nemesis-Voice" channel="voice">
+    <Sound ID="VOX_DYING">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_15_VO_Nemesis_Series_HittedLast__VO_Nemesis_Series_Tone_Negative_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_FLASH">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_70_VO_Nemesis_Series_Ultimate__VO_Nemesis_Single_Ultimate_SR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_FRAG">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_71_VO_Nemesis_Single_Ultimate_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_LAUNCHER">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_71_VO_Nemesis_Single_Ultimate_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_MOLOTOV">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_59_VO_Nemesis_Series_Skill02__VO_Nemesis_Single_Skill_002.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_ROCKET">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_71_VO_Nemesis_Single_Ultimate_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_SMOKE">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_58_VO_Nemesis_Series_Skill01__VO_Nemesis_Single_Skill_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_STINGER">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_71_VO_Nemesis_Single_Ultimate_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_INJURED">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_1_VO_Nemesis_Series_Hitted.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_RELOAD_PUMP">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_69_VO_Nemesis_Single_Passive_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_BOMB_DEFUSING">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_59_VO_Nemesis_Series_Skill02__VO_Nemesis_Single_Skill_002.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_BOMB_LOCATED">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_19_VO_Nemesis_Series_Battle_Start__VO_Nemesis_Series_Set_Click__VO_Nemesis_Series_Shield_Broken__VO_Nemesis_Series_Tone_Positive_006.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_CANT">
+    </Sound>
+    <Sound ID="VOX_TRPR_CAN_I_SHOOT">
+    </Sound>
+    <Sound ID="VOX_TRPR_CIV_DOWN">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_54_VO_Nemesis_Series_Lose__VO_Nemesis_Single_Lose_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_CLEAR">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_65_VO_Nemesis_Series_Win__VO_Nemesis_Single_Win_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_COME">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_17_VO_Nemesis_Series_Battle_Start__VO_Nemesis_Series_Cancel__VO_Nemesis_Series_Chosen_Auto__VO_Nemesis_Series_Move_Start__VO_Nemesis_Series_Tone_Positive_003.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_DONE_HERE">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_65_VO_Nemesis_Series_Win__VO_Nemesis_Single_Win_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_EVAC">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_54_VO_Nemesis_Series_Lose__VO_Nemesis_Single_Lose_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_EYES_HOSTAGE">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_19_VO_Nemesis_Series_Battle_Start__VO_Nemesis_Series_Set_Click__VO_Nemesis_Series_Shield_Broken__VO_Nemesis_Series_Tone_Positive_006.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_EYESONTARGET">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_51_VO_Nemesis_Series_Hit__VO_Nemesis_Single_Hit_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_EYESONTARGET_QUIET">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_51_VO_Nemesis_Series_Hit__VO_Nemesis_Single_Hit_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_FREEZE">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_58_VO_Nemesis_Series_Skill01__VO_Nemesis_Single_Skill_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_GEAR_CHARGE_PLACE">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_19_VO_Nemesis_Series_Battle_Start__VO_Nemesis_Series_Set_Click__VO_Nemesis_Series_Shield_Broken__VO_Nemesis_Series_Tone_Positive_006.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_GEAR_CHARGE_RDY">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_58_VO_Nemesis_Series_Skill01__VO_Nemesis_Single_Skill_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_GETDOWN">
+    </Sound>
+    <Sound ID="VOX_TRPR_GO_GO_GO">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_17_VO_Nemesis_Series_Battle_Start__VO_Nemesis_Series_Cancel__VO_Nemesis_Series_Chosen_Auto__VO_Nemesis_Series_Move_Start__VO_Nemesis_Series_Tone_Positive_003.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_GO_LOUD">
+    </Sound>
+    <Sound ID="VOX_TRPR_HANDCUFF">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_19_VO_Nemesis_Series_Battle_Start__VO_Nemesis_Series_Set_Click__VO_Nemesis_Series_Shield_Broken__VO_Nemesis_Series_Tone_Positive_006.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_HOLDING">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_19_VO_Nemesis_Series_Battle_Start__VO_Nemesis_Series_Set_Click__VO_Nemesis_Series_Shield_Broken__VO_Nemesis_Series_Tone_Positive_006.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_HOST_DOWN">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_54_VO_Nemesis_Series_Lose__VO_Nemesis_Single_Lose_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_HOST_SEC">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_65_VO_Nemesis_Series_Win__VO_Nemesis_Single_Win_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_HVT_RUNNING">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_51_VO_Nemesis_Series_Hit__VO_Nemesis_Single_Hit_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_KEEPMOVINGOFF">
+    </Sound>
+    <Sound ID="VOX_TRPR_KEEPMOVINGON">
+    </Sound>
+    <Sound ID="VOX_TRPR_MANDOWN">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_54_VO_Nemesis_Series_Lose__VO_Nemesis_Single_Lose_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_MATCHSPEEDON">
+    </Sound>
+    <Sound ID="VOX_TRPR_MOVING">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_17_VO_Nemesis_Series_Battle_Start__VO_Nemesis_Series_Cancel__VO_Nemesis_Series_Chosen_Auto__VO_Nemesis_Series_Move_Start__VO_Nemesis_Series_Tone_Positive_003.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_NOTANGOS">
+    </Sound>
+    <Sound ID="VOX_TRPR_ONTARGET">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_51_VO_Nemesis_Series_Hit__VO_Nemesis_Single_Hit_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_ALPHA">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_BRAVO">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_CHARLIE">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_DELTA">
+    </Sound>
+    <Sound ID="VOX_TRPR_ORDERS">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_19_VO_Nemesis_Series_Battle_Start__VO_Nemesis_Series_Set_Click__VO_Nemesis_Series_Shield_Broken__VO_Nemesis_Series_Tone_Positive_006.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_ALPHA">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_BRAVO">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_CHARLIE">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_DELTA">
+    </Sound>
+    <Sound ID="VOX_TRPR_PINNED_DOWN">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_1_VO_Nemesis_Series_Hitted.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_PUMPUP">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_17_VO_Nemesis_Series_Battle_Start__VO_Nemesis_Series_Cancel__VO_Nemesis_Series_Chosen_Auto__VO_Nemesis_Series_Move_Start__VO_Nemesis_Series_Tone_Positive_003.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_RELOAD">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_69_VO_Nemesis_Single_Passive_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_ROGER">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_19_VO_Nemesis_Series_Battle_Start__VO_Nemesis_Series_Set_Click__VO_Nemesis_Series_Shield_Broken__VO_Nemesis_Series_Tone_Positive_006.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_SILENTOFF">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_17_VO_Nemesis_Series_Battle_Start__VO_Nemesis_Series_Cancel__VO_Nemesis_Series_Chosen_Auto__VO_Nemesis_Series_Move_Start__VO_Nemesis_Series_Tone_Positive_003.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_SILENTON">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_19_VO_Nemesis_Series_Battle_Start__VO_Nemesis_Series_Set_Click__VO_Nemesis_Series_Shield_Broken__VO_Nemesis_Series_Tone_Positive_006.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_SUSP_SEC">
+    </Sound>
+    <Sound ID="VOX_TRPR_TANGODOWN">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_52_VO_Nemesis_Series_Kill__VO_Nemesis_Single_Kill_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_TANGOS">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_51_VO_Nemesis_Series_Hit__VO_Nemesis_Single_Hit_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_TARGET_SEC">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_19_VO_Nemesis_Series_Battle_Start__VO_Nemesis_Series_Set_Click__VO_Nemesis_Series_Shield_Broken__VO_Nemesis_Series_Tone_Positive_006.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_TIME_TO_GO">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_17_VO_Nemesis_Series_Battle_Start__VO_Nemesis_Series_Cancel__VO_Nemesis_Series_Chosen_Auto__VO_Nemesis_Series_Move_Start__VO_Nemesis_Series_Tone_Positive_003.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_VIP_DEAD">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_54_VO_Nemesis_Series_Lose__VO_Nemesis_Single_Lose_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_WAIT">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_69_VO_Nemesis_Single_Passive_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_WARN_GRENADE">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_71_VO_Nemesis_Single_Ultimate_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_WARN_RPG">
+      <Path
+                name="data/sounds/voice/Nemesis/VO_Nemesis_70_VO_Nemesis_Series_Ultimate__VO_Nemesis_Single_Ultimate_SR_001.wav"
+            />
+    </Sound>
+  </Pack>
+  <Pack name="Charolic-Voice" channel="voice">
+    <Sound ID="VOX_DYING">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_17_VO_Charolic_Series_HittedLast__VO_Charolic_Series_Tone_Negative_002.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_FLASH">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_72_VO_Charolic_Series_Ultimate__VO_Charolic_Single_Ultimate_SR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_FRAG">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_73_VO_Charolic_Single_Ultimate_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_LAUNCHER">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_73_VO_Charolic_Single_Ultimate_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_MOLOTOV">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_68_VO_Charolic_Series_Skill02__VO_Charolic_Single_Skill_002.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_ROCKET">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_73_VO_Charolic_Single_Ultimate_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_SMOKE">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_67_VO_Charolic_Series_Skill01__VO_Charolic_Single_Skill_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_STINGER">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_73_VO_Charolic_Single_Ultimate_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_INJURED">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_1_VO_Charolic_Series_Hitted.wav"
+            />
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_3_VO_Charolic_Series_Hitted.wav"
+            />
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_4_VO_Charolic_Series_Hitted.wav"
+            />
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_5_VO_Charolic_Series_Hitted.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_RELOAD_PUMP">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_66_VO_Charolic_Single_Passive_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_BOMB_DEFUSING">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_67_VO_Charolic_Series_Skill01__VO_Charolic_Single_Skill_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_BOMB_LOCATED">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_56_VO_Charolic_Series_Battle_Start__VO_Charolic_Series_Hit__VO_Charolic_Single_Hit_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_CANT">
+    </Sound>
+    <Sound ID="VOX_TRPR_CAN_I_SHOOT">
+    </Sound>
+    <Sound ID="VOX_TRPR_CIV_DOWN">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_59_VO_Charolic_Series_Lose__VO_Charolic_Single_Lose_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_CLEAR">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_76_VO_Charolic_Series_Win__VO_Charolic_Single_Win_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_COME">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_21_VO_Charolic_Series_Battle_Start__VO_Charolic_Series_Move_Start__VO_Charolic_Series_Tone_Positive_007.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_DONE_HERE">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_76_VO_Charolic_Series_Win__VO_Charolic_Single_Win_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_EVAC">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_59_VO_Charolic_Series_Lose__VO_Charolic_Single_Lose_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_EYES_HOSTAGE">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_56_VO_Charolic_Series_Battle_Start__VO_Charolic_Series_Hit__VO_Charolic_Single_Hit_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_EYESONTARGET">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_56_VO_Charolic_Series_Battle_Start__VO_Charolic_Series_Hit__VO_Charolic_Single_Hit_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_EYESONTARGET_QUIET">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_56_VO_Charolic_Series_Battle_Start__VO_Charolic_Series_Hit__VO_Charolic_Single_Hit_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_FREEZE">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_67_VO_Charolic_Series_Skill01__VO_Charolic_Single_Skill_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_GEAR_CHARGE_PLACE">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_19_VO_Charolic_Series_Cancel__VO_Charolic_Series_Chosen_Auto__VO_Charolic_Series_Set_Click__VO_Charolic_Series_Shield_Broken__VO_Charolic_Series_Tone_Positive_005.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_GEAR_CHARGE_RDY">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_67_VO_Charolic_Series_Skill01__VO_Charolic_Single_Skill_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_GETDOWN">
+    </Sound>
+    <Sound ID="VOX_TRPR_GO_GO_GO">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_21_VO_Charolic_Series_Battle_Start__VO_Charolic_Series_Move_Start__VO_Charolic_Series_Tone_Positive_007.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_GO_LOUD">
+    </Sound>
+    <Sound ID="VOX_TRPR_HANDCUFF">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_19_VO_Charolic_Series_Cancel__VO_Charolic_Series_Chosen_Auto__VO_Charolic_Series_Set_Click__VO_Charolic_Series_Shield_Broken__VO_Charolic_Series_Tone_Positive_005.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_HOLDING">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_30_VO_Charolic_Series_Up_006.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_HOST_DOWN">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_59_VO_Charolic_Series_Lose__VO_Charolic_Single_Lose_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_HOST_SEC">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_76_VO_Charolic_Series_Win__VO_Charolic_Single_Win_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_HVT_RUNNING">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_56_VO_Charolic_Series_Battle_Start__VO_Charolic_Series_Hit__VO_Charolic_Single_Hit_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_KEEPMOVINGOFF">
+    </Sound>
+    <Sound ID="VOX_TRPR_KEEPMOVINGON">
+    </Sound>
+    <Sound ID="VOX_TRPR_MANDOWN">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_59_VO_Charolic_Series_Lose__VO_Charolic_Single_Lose_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_MATCHSPEEDON">
+    </Sound>
+    <Sound ID="VOX_TRPR_MOVING">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_21_VO_Charolic_Series_Battle_Start__VO_Charolic_Series_Move_Start__VO_Charolic_Series_Tone_Positive_007.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_NOTANGOS">
+    </Sound>
+    <Sound ID="VOX_TRPR_ONTARGET">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_56_VO_Charolic_Series_Battle_Start__VO_Charolic_Series_Hit__VO_Charolic_Single_Hit_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_ALPHA">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_BRAVO">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_CHARLIE">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_DELTA">
+    </Sound>
+    <Sound ID="VOX_TRPR_ORDERS">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_66_VO_Charolic_Single_Passive_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_ALPHA">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_BRAVO">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_CHARLIE">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_DELTA">
+    </Sound>
+    <Sound ID="VOX_TRPR_PINNED_DOWN">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_1_VO_Charolic_Series_Hitted.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_PUMPUP">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_24_VO_Charolic_Series_Battle_Start__VO_Charolic_Series_Chosen__VO_Charolic_Series_Set_Fall__VO_Charolic_Series_Tone_Positive_010.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_RELOAD">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_66_VO_Charolic_Single_Passive_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_ROGER">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_30_VO_Charolic_Series_Up_006.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_SILENTOFF">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_21_VO_Charolic_Series_Battle_Start__VO_Charolic_Series_Move_Start__VO_Charolic_Series_Tone_Positive_007.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_SILENTON">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_19_VO_Charolic_Series_Cancel__VO_Charolic_Series_Chosen_Auto__VO_Charolic_Series_Set_Click__VO_Charolic_Series_Shield_Broken__VO_Charolic_Series_Tone_Positive_005.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_SUSP_SEC">
+    </Sound>
+    <Sound ID="VOX_TRPR_TANGODOWN">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_57_VO_Charolic_Series_Kill__VO_Charolic_Single_Kill_001.wav"
+            />
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_20_VO_Charolic_Series_Chosen_Auto__VO_Charolic_Series_Kill_Enemy__VO_Charolic_Series_Tone_Positive_006.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_TANGOS">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_56_VO_Charolic_Series_Battle_Start__VO_Charolic_Series_Hit__VO_Charolic_Single_Hit_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_TARGET_SEC">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_19_VO_Charolic_Series_Cancel__VO_Charolic_Series_Chosen_Auto__VO_Charolic_Series_Set_Click__VO_Charolic_Series_Shield_Broken__VO_Charolic_Series_Tone_Positive_005.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_TIME_TO_GO">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_21_VO_Charolic_Series_Battle_Start__VO_Charolic_Series_Move_Start__VO_Charolic_Series_Tone_Positive_007.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_VIP_DEAD">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_59_VO_Charolic_Series_Lose__VO_Charolic_Single_Lose_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_WAIT">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_66_VO_Charolic_Single_Passive_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_WARN_GRENADE">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_73_VO_Charolic_Single_Ultimate_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_WARN_RPG">
+      <Path
+                name="data/sounds/voice/Charolic/VO_Charolic_72_VO_Charolic_Series_Ultimate__VO_Charolic_Single_Ultimate_SR_001.wav"
+            />
+    </Sound>
+  </Pack>
+  <Pack name="Colphne-Voice" channel="voice">
+    <Sound ID="VOX_DYING">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_HittedLast.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_FLASH">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Ultimate.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_FRAG">
+      <Path
+                name="data/sounds/voice/Colphne/VO_Colphne_Single_Ultimate_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_LAUNCHER">
+      <Path
+                name="data/sounds/voice/Colphne/VO_Colphne_Single_Ultimate_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_MOLOTOV">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Skill02.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_ROCKET">
+      <Path
+                name="data/sounds/voice/Colphne/VO_Colphne_Single_Ultimate_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_GEAR_SMOKE">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Skill01.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_STINGER">
+      <Path
+                name="data/sounds/voice/Colphne/VO_Colphne_Single_Ultimate_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_INJURED">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Hitted.wav" />
+    </Sound>
+    <Sound ID="VOX_RELOAD_PUMP">
+      <Path
+                name="data/sounds/voice/Colphne/VO_Colphne_Single_Passive_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_BOMB_DEFUSING">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Skill01.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_BOMB_LOCATED">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Hit.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_CANT">
+    </Sound>
+    <Sound ID="VOX_TRPR_CAN_I_SHOOT">
+    </Sound>
+    <Sound ID="VOX_TRPR_CIV_DOWN">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Lose.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_CLEAR">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Kill.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_COME">
+      <Path
+                name="data/sounds/voice/Colphne/VO_Colphne_Series_Battle_Start_2.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_DONE_HERE">
+      <Path
+                name="data/sounds/voice/Colphne/VO_Colphne_Series_Tone_Positive_005.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_EVAC">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Lose.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_EYES_HOSTAGE">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Hit.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_EYESONTARGET">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Hit.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_EYESONTARGET_QUIET">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Hit.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_FREEZE">
+      <Path
+                name="data/sounds/voice/Colphne/VO_Colphne_Series_Battle_Start.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_GEAR_CHARGE_PLACE">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Skill01.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_GEAR_CHARGE_RDY">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Up_008.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_GETDOWN">
+    </Sound>
+    <Sound ID="VOX_TRPR_GO_GO_GO">
+      <Path
+                name="data/sounds/voice/Colphne/VO_Colphne_Series_Battle_Start_2.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_GO_LOUD">
+    </Sound>
+    <Sound ID="VOX_TRPR_HANDCUFF">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Up_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_HOLDING">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Up_008.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_HOST_DOWN">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Lose.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_HOST_SEC">
+      <Path
+                name="data/sounds/voice/Colphne/VO_Colphne_Series_Tone_Positive_005.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_HVT_RUNNING">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Hit.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_KEEPMOVINGOFF">
+    </Sound>
+    <Sound ID="VOX_TRPR_KEEPMOVINGON">
+    </Sound>
+    <Sound ID="VOX_TRPR_MANDOWN">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Lose.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_MATCHSPEEDON">
+    </Sound>
+    <Sound ID="VOX_TRPR_MOVING">
+      <Path
+                name="data/sounds/voice/Colphne/VO_Colphne_Series_Battle_Start_2.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_NOTANGOS">
+    </Sound>
+    <Sound ID="VOX_TRPR_ONTARGET">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Hit.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_ALPHA">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_BRAVO">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_CHARLIE">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_DELTA">
+    </Sound>
+    <Sound ID="VOX_TRPR_ORDERS">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Up_008.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_ALPHA">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_BRAVO">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_CHARLIE">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_DELTA">
+    </Sound>
+    <Sound ID="VOX_TRPR_PINNED_DOWN">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Hitted.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_PUMPUP">
+      <Path
+                name="data/sounds/voice/Colphne/VO_Colphne_Series_Battle_Start_5.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_RELOAD">
+      <Path
+                name="data/sounds/voice/Colphne/VO_Colphne_Single_Passive_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_ROGER">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Up_008.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_SILENTOFF">
+      <Path
+                name="data/sounds/voice/Colphne/VO_Colphne_Series_Battle_Start_2.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_SILENTON">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Up_008.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_SUSP_SEC">
+    </Sound>
+    <Sound ID="VOX_TRPR_TANGODOWN">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Kill.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_TANGOS">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Hit.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_TARGET_SEC">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Hit.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_TIME_TO_GO">
+      <Path
+                name="data/sounds/voice/Colphne/VO_Colphne_Series_Battle_Start_2.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_VIP_DEAD">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Lose.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_WAIT">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Up_008.wav" />
+    </Sound>
+    <Sound ID="VOX_WARN_GRENADE">
+      <Path
+                name="data/sounds/voice/Colphne/VO_Colphne_Single_Ultimate_SSR_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_WARN_RPG">
+      <Path name="data/sounds/voice/Colphne/VO_Colphne_Series_Ultimate.wav" />
+    </Sound>
+  </Pack>
+  <Pack name="Vepley-Voice" channel="voice">
+    <Sound ID="VOX_DYING">
+      <Path name="data/sounds/voice/Vepley/VO_Vepley_Series_HittedLast.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_FLASH">
+    </Sound>
+    <Sound ID="VOX_GEAR_FRAG">
+    </Sound>
+    <Sound ID="VOX_GEAR_LAUNCHER">
+      <Path name="data/sounds/voice/Vepley/VO_Vepley_Series_Skill02.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_MOLOTOV">
+    </Sound>
+    <Sound ID="VOX_GEAR_ROCKET">
+      <Path name="data/sounds/voice/Vepley/VO_Vepley_Series_Skill02.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_SMOKE">
+    </Sound>
+    <Sound ID="VOX_GEAR_STINGER">
+      <Path name="data/sounds/voice/Vepley/VO_Vepley_Series_Skill02.wav" />
+    </Sound>
+    <Sound ID="VOX_INJURED">
+      <Path name="data/sounds/voice/Vepley/VO_Vepley_Series_Hitted_2.wav" />
+    </Sound>
+    <Sound ID="VOX_RELOAD">
+    </Sound>
+    <Sound ID="VOX_RELOAD_PUMP">
+    </Sound>
+    <Sound ID="VOX_TRPR_BOMB_DEFUSING">
+    </Sound>
+    <Sound ID="VOX_TRPR_BOMB_LOCATED">
+    </Sound>
+    <Sound ID="VOX_TRPR_CAN_I_SHOOT">
+    </Sound>
+    <Sound ID="VOX_TRPR_CANT">
+    </Sound>
+    <Sound ID="VOX_TRPR_CIV_DOWN">
+      <Path
+                name="data/sounds/voice/Vepley/VO_Vepley_Series_Tone_Negative_002.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_CLEAR">
+      <Path name="data/sounds/voice/Vepley/VO_Vepley_Series_Win.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_COME">
+      <Path
+                name="data/sounds/voice/Vepley/VO_Vepley_Series_Battle_Start_3.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_DONE_HERE">
+      <Path
+                name="data/sounds/voice/Vepley/VO_Vepley_Single_Battleend_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_EVAC">
+      <Path name="data/sounds/voice/Vepley/VO_Vepley_Series_Lose.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_EYES_HOSTAGE">
+    </Sound>
+    <Sound ID="VOX_TRPR_EYESONTARGET">
+      <Path name="data/sounds/voice/Vepley/VO_Vepley_Series_Ultimate.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_EYESONTARGET_QUIET">
+    </Sound>
+    <Sound ID="VOX_TRPR_FREEZE">
+    </Sound>
+    <Sound ID="VOX_TRPR_GEAR_CHARGE_PLACE">
+    </Sound>
+    <Sound ID="VOX_TRPR_GEAR_CHARGE_RDY">
+    </Sound>
+    <Sound ID="VOX_TRPR_GETDOWN">
+    </Sound>
+    <Sound ID="VOX_TRPR_GO_GO_GO">
+      <Path
+                name="data/sounds/voice/Vepley/VO_Vepley_Single_Battlestart_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_GO_LOUD">
+    </Sound>
+    <Sound ID="VOX_TRPR_HANDCUFF">
+    </Sound>
+    <Sound ID="VOX_TRPR_HOLDING">
+      <Path name="data/sounds/voice/Vepley/VO_Vepley_Series_Up_002.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_HOST_DOWN">
+      <Path name="data/sounds/voice/Vepley/VO_Vepley_Series_Lose.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_HOST_SEC">
+      <Path name="data/sounds/voice/Vepley/VO_Vepley_Series_Up_002.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_HVT_RUNNING">
+    </Sound>
+    <Sound ID="VOX_TRPR_KEEPMOVINGOFF">
+    </Sound>
+    <Sound ID="VOX_TRPR_KEEPMOVINGON">
+    </Sound>
+    <Sound ID="VOX_TRPR_MANDOWN">
+      <Path name="data/sounds/voice/Vepley/VO_Vepley_Series_Lose.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_MATCHSPEEDON">
+    </Sound>
+    <Sound ID="VOX_TRPR_MOVING">
+      <Path
+                name="data/sounds/voice/Vepley/VO_Vepley_Series_Battle_Start_3.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_NOTANGOS">
+      <Path
+                name="data/sounds/voice/Vepley/VO_Vepley_Series_Battle_Start_4.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_ONTARGET">
+      <Path name="data/sounds/voice/Vepley/VO_Vepley_Series_Skill02.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_ALPHA">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_BRAVO">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_CHARLIE">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_DELTA">
+    </Sound>
+    <Sound ID="VOX_TRPR_ORDERS">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_ALPHA">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_BRAVO">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_CHARLIE">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_DELTA">
+    </Sound>
+    <Sound ID="VOX_TRPR_PINNED_DOWN">
+      <Path name="data/sounds/voice/Vepley/VO_Vepley_Series_Hitted_2.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_PUMPUP">
+      <Path name="data/sounds/voice/Vepley/VO_Vepley_Series_Skill01.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_ROGER">
+      <Path
+                name="data/sounds/voice/Vepley/VO_Vepley_Series_Battle_Start_4.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_SILENTOFF">
+    </Sound>
+    <Sound ID="VOX_TRPR_SILENTON">
+    </Sound>
+    <Sound ID="VOX_TRPR_SUSP_SEC">
+    </Sound>
+    <Sound ID="VOX_TRPR_TANGODOWN">
+      <Path name="data/sounds/voice/Vepley/VO_Vepley_Series_Kill.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_TANGOS">
+      <Path name="data/sounds/voice/Vepley/VO_Vepley_Series_Hit.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_TARGET_SEC">
+      <Path
+                name="data/sounds/voice/Vepley/VO_Vepley_Series_Battle_Start_4.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_TIME_TO_GO">
+      <Path
+                name="data/sounds/voice/Vepley/VO_Vepley_Single_Battlestart_001.wav"
+            />
+    </Sound>
+    <Sound ID="VOX_TRPR_VIP_DEAD">
+      <Path name="data/sounds/voice/Vepley/VO_Vepley_Series_Lose.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_WAIT">
+    </Sound>
+    <Sound ID="VOX_WARN_GRENADE">
+      <Path name="data/sounds/voice/Vepley/VO_Vepley_Series_Hitted_5.wav" />
+    </Sound>
+    <Sound ID="VOX_WARN_RPG">
+      <Path name="data/sounds/voice/Vepley/VO_Vepley_Series_Hitted_5.wav" />
+    </Sound>
+  </Pack>
+</Sounds>

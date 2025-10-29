@@ -1,0 +1,223 @@
+# Voice Line Translations for Charolic
+# Generated automatically using OpenAI Whisper
+# Total files: 73
+
+VO_Charolic_10_VO_Charolic_Series_Daily_005.wav
+  Tch! It's a fight to face the front! What's the point of hitting from such a place?
+
+VO_Charolic_11_VO_Charolic_Series_Daily_006.wav
+  Nemesis is in good shape. This pure oil is good. Hey, Commander! Why do you have to translate this!
+
+VO_Charolic_12_VO_Charolic_Series_Daily_007.wav
+  Huh? It's not a impossible job! What a straightup? And what's with the operation?!
+
+VO_Charolic_13_VO_Charolic_Series_Daily_008.wav
+  Peritia... Heh, I'm not as dumb as her! Someday I'll definitely use my hands to... ...to... ...!
+
+VO_Charolic_14_VO_Charolic_Series_Daily_009.wav
+  Yes, yes. When you arrive, first hide and wait for the captain's signal. It's noisy! I'm telling you that I remember it properly!
+
+VO_Charolic_15_VO_Charolic_Series_Daily_010.wav
+  Is it rare to use a spirit weapon? Heh, I don't use it because I like it. If you care, you can use it to that death. Oh, I see. Hehehe, he's already... Ah, did he fall into hell? That's right! He fell into hell.
+
+VO_Charolic_17_VO_Charolic_Series_HittedLast__VO_Charolic_Series_Tone_Negative_002.wav
+  You're persistent!
+
+VO_Charolic_18_VO_Charolic_Series_Battle_Start__VO_Charolic_Series_Chosen__VO_Charolic_Series_Move_Start__VO_Charolic_Series_Set_Fall__VO_Charolic_Series_Tone_Positive_003.wav
+  Oining
+
+VO_Charolic_19_VO_Charolic_Series_Cancel__VO_Charolic_Series_Chosen_Auto__VO_Charolic_Series_Set_Click__VO_Charolic_Series_Shield_Broken__VO_Charolic_Series_Tone_Positive_005.wav
+  Damn it!
+
+VO_Charolic_1_VO_Charolic_Series_Hitted.wav
+  lol
+
+VO_Charolic_20_VO_Charolic_Series_Chosen_Auto__VO_Charolic_Series_Kill_Enemy__VO_Charolic_Series_Tone_Positive_006.wav
+  You're too weak!
+
+VO_Charolic_21_VO_Charolic_Series_Battle_Start__VO_Charolic_Series_Move_Start__VO_Charolic_Series_Tone_Positive_007.wav
+  Get out of here!
+
+VO_Charolic_23_VO_Charolic_Series_Battle_Start__VO_Charolic_Series_Move_Start__VO_Charolic_Series_Tone_Positive_009.wav
+  You're in my way!
+
+VO_Charolic_24_VO_Charolic_Series_Battle_Start__VO_Charolic_Series_Chosen__VO_Charolic_Series_Set_Fall__VO_Charolic_Series_Tone_Positive_010.wav
+  Wanna try?
+
+VO_Charolic_25_VO_Charolic_Series_Up_001.wav
+  Oh, hello.
+
+VO_Charolic_26_VO_Charolic_Series_Up_002.wav
+  I do it.
+
+VO_Charolic_27_VO_Charolic_Series_Up_003.wav
+  Hmph, that's not enough at all.
+
+VO_Charolic_28_VO_Charolic_Series_Up_004.wav
+  Huh... Huh!? That's too striking, here we go again! And again... She's highly tanky and Si'ra may FBI her with such high level force.
+
+VO_Charolic_29_VO_Charolic_Series_Up_005.wav
+  More.
+
+VO_Charolic_30_VO_Charolic_Series_Up_006.wav
+  Of course.
+
+VO_Charolic_31_VO_Charolic_Series_Up_007.wav
+  If I were you...
+
+VO_Charolic_32_VO_Charolic_Series_Up_008.wav
+  Now, I...
+
+VO_Charolic_33_VO_Charolic_Single_Acquire_R_001.wav
+  The sensor I gave you... How is it? It doesn't seem to be working at all... Huh? What are you going to do if I ask you? If it's broken, you'll have to repair it or replace it, right? Got it?
+
+VO_Charolic_34_VO_Charolic_Single_Acquire_SR_001.wav
+  Eh? It's been a year already? A year... I haven't achieved my goal yet, but... Hmph. It's not bad to be here. You're pretty... um... Anyway, I won't let you do that.
+
+VO_Charolic_35_VO_Charolic_Single_Acquire_SSR_001.wav
+  Another year? He must be already tired of it. What, are you complaining? I don't need that.
+
+VO_Charolic_36_VO_Charolic_Single_Anniversary_001.wav
+  It's been a year already. You've made progress as a commander, haven't you? What? What's wrong? Don't tell me you want to be praised by me. I understand. I fought so much for a year, but I never got caught up in a fight. I never abandoned myself. That's enough, isn't it? Anyway, it was the best.
+
+VO_Charolic_37_VO_Charolic_Single_Birthday_R_001.wav
+  Huh? Birthday celebration? Why do you have to do such a troublesome thing?
+
+VO_Charolic_38_VO_Charolic_Single_Birthday_SR_001.wav
+  Happy birthday... Nemesis said so. I just translated it. A present... If you can do it, find it. Of course, Nemesis prepared it.
+
+VO_Charolic_39_VO_Charolic_Single_Birthday_SSR_001.wav
+  Birthday... Birthday? Yes, congratulations. Mission complete. Give me the reward.
+
+VO_Charolic_3_VO_Charolic_Series_Hitted.wav
+  lol
+
+VO_Charolic_40_VO_Charolic_Single_Children_001.wav
+  See, candy! I bought too much and Helena gave it to me, but I don't need this. Today is that ... That's right, it's Children's Day, right? Follow me, follow me!
+
+VO_Charolic_41_VO_Charolic_Single_Christmas_001.wav
+  What is this? Santa's hat? Why are they so small? And two of them! This is only for rabbit ears! Wait, what? Are you serious?
+
+VO_Charolic_42_VO_Charolic_Single_Duanwu_001.wav
+  That green guy, why is it so troublesome to make him? And it's hard and sticky. What was the name of the guy called by Mayling? Chi... Chi... That's right! Shimaki! The commander likes it too, or something. Hey, you don't like this kind of thing, do you?
+
+VO_Charolic_43_VO_Charolic_Single_Friendliness_001.wav
+  I don't need it. I've completed my mission, so it's fine. Leave it alone.
+
+VO_Charolic_44_VO_Charolic_Single_Friendliness_002.wav
+  How many times do I have to tell you that it's not a rabbit ear? I'm telling you that it's a device that's necessary for the operation!
+
+VO_Charolic_45_VO_Charolic_Single_Friendliness_003.wav
+  Nemesis? It is an order from General Jikijiki, so I following you
+
+VO_Charolic_46_VO_Charolic_Single_Friendliness_004.wav
+  Huh? You're not being quiet? I have a lot to think about. Well, I don't mind you being here. As long as you're quiet.
+
+VO_Charolic_47_VO_Charolic_Single_Friendliness_005.wav
+  You were annoyed by those who blocked the road the other day, right? I've been maintaining my sword firmly. If you're going to attack me without any evidence, I'll beat you all up!
+
+VO_Charolic_48_VO_Charolic_Single_Friendliness_006.wav
+  Are you tired? If you're tired, go to bed. What are you talking about? Can't you walk? Huh? You want me to give you a massage?
+
+VO_Charolic_49_VO_Charolic_Single_Friendliness_007.wav
+  This ear... It's not bad. This too... S-Sukigan? No, this is... Parts! I was looking for spare parts!
+
+VO_Charolic_4_VO_Charolic_Series_Hitted.wav
+  Ah!
+
+VO_Charolic_50_VO_Charolic_Single_Friendliness_008.wav
+  Commander, what are you doing? It's nothing. I told you it's nothing!
+
+VO_Charolic_51_VO_Charolic_Single_Friendliness_009.wav
+  A new fairy tale book? For me? Give it to Vepri. You've already put it in my room? Then I'll take it.
+
+VO_Charolic_52_VO_Charolic_Single_Friendliness_010.wav
+  I've placed the sensor in the central area, so don't forget it. If it gets dangerous, push it. I'll be right there.
+
+VO_Charolic_53_VO_Charolic_Single_Friendliness_011.wav
+  Huh? Reflect? What's that? I won, so it's fine. Yes, yes, yes, I understand. I just have to be careful, right?
+
+VO_Charolic_54_VO_Charolic_Single_Friendliness_012.wav
+  Don't worry. In other words, it's okay. I'm with you.
+
+VO_Charolic_55_VO_Charolic_Single_Friendliness_013.wav
+  What, is it troublesome? Don't be silent and say it quickly! Or what? Do you want me to be by your side? I'm sure... Ugh, that's enough? I'm here. Go to sleep.
+
+VO_Charolic_56_VO_Charolic_Series_Battle_Start__VO_Charolic_Series_Hit__VO_Charolic_Single_Hit_001.wav
+  Now!
+
+VO_Charolic_57_VO_Charolic_Series_Kill__VO_Charolic_Single_Kill_001.wav
+  Is this all you've got?
+
+VO_Charolic_58_VO_Charolic_Single_Login_001.wav
+  Huh? What? Isn't that the commander? You're late!
+
+VO_Charolic_59_VO_Charolic_Series_Lose__VO_Charolic_Single_Lose_001.wav
+  Is that it? One more time Next time Definitely
+
+VO_Charolic_5_VO_Charolic_Series_Hitted.wav
+  NUH!
+
+VO_Charolic_60_VO_Charolic_Single_MidAutumn_001.wav
+  The captain said you should do it too. It took me 5 hours to make it. It was really troublesome.
+
+VO_Charolic_61_VO_Charolic_Single_NewYear_001.wav
+  What are you doing? You're out of breath. If it's cold, come back in. Huh? Did you wear everything I can wear? Then I'll bring you the sweater Meirin gave you last week.
+
+VO_Charolic_62_VO_Charolic_Single_Obon_001.wav
+  You're rejuvenated again? Today's the g… age-old panic? Why are you looking at me like that? Huh, are you scary? Don't you think everything is a fake? Heh. It can't be helped. I will be by your side then. Go ahead.
+
+VO_Charolic_63_VO_Charolic_Single_Obtain_R_001.wav
+  Eh!? Did you need to deal with that!? Then let's not keep going around!ready to beat this thing!!
+
+VO_Charolic_64_VO_Charolic_Single_Obtain_SR_001.wav
+  What are you surprised about? Is this your first time seeing it? This sword looks strong, doesn't it?
+
+VO_Charolic_65_VO_Charolic_Single_Obtain_SSR_001.wav
+  You're... ...not what I thought you were. Well, I think I can count on you more than that.
+
+VO_Charolic_66_VO_Charolic_Single_Passive_SSR_001.wav
+  What's your order?
+
+VO_Charolic_67_VO_Charolic_Series_Skill01__VO_Charolic_Single_Skill_001.wav
+  Are you my opponent?
+
+VO_Charolic_68_VO_Charolic_Series_Skill02__VO_Charolic_Single_Skill_002.wav
+  Heh, all of you die!
+
+VO_Charolic_69_VO_Charolic_Single_SpringFes_001.wav
+  Huh? Why do you have to greet the new year? Eat, drink, get dressed, sleep, increase the bonus, and not sleep. Then you are a great commander.
+
+VO_Charolic_6_VO_Charolic_Series_Daily_001.wav
+  Hey, Commander. You can call me Commander. Hmph, that's a weird way to call me.
+
+VO_Charolic_70_VO_Charolic_Single_ThanksGiving_001.wav
+  Turkey at night. Did you know? The captain said you might not be enough for that, so I added a little more to make you feel better. Pumpkin... Oh, right, I remember it was called pumpkin pie. The shape, color, and recipe are exactly the same. If you leave it, I won't be able to understand.
+
+VO_Charolic_71_VO_Charolic_Single_Title_001.wav
+  Rolls Frontline 2 Exilium
+
+VO_Charolic_72_VO_Charolic_Series_Ultimate__VO_Charolic_Single_Ultimate_SR_001.wav
+  Midwife
+
+VO_Charolic_73_VO_Charolic_Single_Ultimate_SSR_001.wav
+  Disappear!
+
+VO_Charolic_74_VO_Charolic_Single_Valentine_001.wav
+  What's with that face? It doesn't change from a dango or something, does it? Tch, take it. Captain's pot? I can't help it if it's burnt. I'll buy a new one.
+
+VO_Charolic_75_VO_Charolic_Single_WhiteVale_001.wav
+  Chocolate? You made it? Hey, what are you laughing at? Just so the pot doesn't burn. This is... I'll take it.
+
+VO_Charolic_76_VO_Charolic_Series_Win__VO_Charolic_Single_Win_001.wav
+  Is it over? Still mine ... It's okay. What is the next mission?
+
+VO_Charolic_7_VO_Charolic_Series_Daily_002.wav
+  Ah, come on! If you've decided, then let's go! How confusing!
+
+VO_Charolic_8_VO_Charolic_Series_Daily_003.wav
+  Mission complete, Commander. What's next?
+
+VO_Charolic_9_VO_Charolic_Series_Daily_004.wav
+  Commander, the research on the material is over. I'll call Vepri.
+

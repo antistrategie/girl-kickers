@@ -1,0 +1,166 @@
+# Voice Line Translations for Florence
+# Generated automatically using OpenAI Whisper
+# Total files: 54
+
+VO_Florence_Series_Attack.wav
+  Here we go!
+
+VO_Florence_Series_Battle_Start.wav
+  It's punishment time!
+
+VO_Florence_Series_Chosen.wav
+  Don't make me do it!
+
+VO_Florence_Series_Chosen_Auto.wav
+  I can't take it anymore!
+
+VO_Florence_Series_Daily_001.wav
+  Is something wrong? Shall I check it for you?
+
+VO_Florence_Series_Daily_002.wav
+  You feel bored for a long time, right? I understand. Why don't you try this new drug? If you inject it, you'll feel better immediately.
+
+VO_Florence_Series_Daily_003.wav
+  The feeling of mixing medicine becomes addictive. I don't know what I can do. Isn't it wonderful?
+
+VO_Florence_Series_Daily_004.wav
+  Ah! It's Commander. Nice. That was be handle this well.
+
+VO_Florence_Series_Daily_005.wav
+  Let's go to the amusement park again next time? Let's have more fun time than before!
+
+VO_Florence_Series_Die.wav
+  How boring...
+
+VO_Florence_Series_Dying.wav
+  Not bad.
+
+VO_Florence_Series_Hit.wav
+  please keep both dormir the
+
+VO_Florence_Series_Hitted_2.wav
+  Okay!
+
+VO_Florence_Series_Hitted_3.wav
+  NG!
+
+VO_Florence_Series_Hitted_4.wav
+  Nyeh?
+
+VO_Florence_Series_Hitted_5.wav
+  Gao-san, yeah? Just taking charge is to Saidaki-sans'imyri . I think I'm older than you and I guess I'm about野外 uh... Even if you say that, be quién you say 51 00R doubled per cuando The one with a double room floor
+
+VO_Florence_Series_Kill.wav
+  END
+
+VO_Florence_Series_Lose.wav
+  The harder the better, right?
+
+VO_Florence_Series_Set_Click.wav
+  Want to be mine?
+
+VO_Florence_Series_Set_Fall.wav
+  Yeah, this is it!
+
+VO_Florence_Series_Skill01.wav
+  Let's add some excitement.
+
+VO_Florence_Series_Skill02.wav
+  You won't know until you're absorbed.
+
+VO_Florence_Series_Tone_Positive_001.wav
+  Why don't you try something interesting?
+
+VO_Florence_Series_Ultimate.wav
+  I'm gonna park all of them!
+
+VO_Florence_Series_Up_001.wav
+  Oh, it's a little ticklish.
+
+VO_Florence_Series_Up_002.wav
+  I like this feeling.
+
+VO_Florence_Series_Up_003.wav
+  Nice, I'm getting excited.
+
+VO_Florence_Series_Up_004.wav
+  Good, good. I'm getting excited!
+
+VO_Florence_Series_Up_005.wav
+  Next time, won't you do something even more amazing?
+
+VO_Florence_Series_Win.wav
+  It's a natural result, but I think it's a little lacking.
+
+VO_Florence_Single_Birthday_SSR_001.wav
+  Happy birthday! I have something special for you today. I'll make sure you never forget it.
+
+VO_Florence_Single_Birthday_SSR_002.wav
+  Commander, happy birthday. I prepared a very exciting party today so that it will be an unforgettable memory. Oh, the cream is dripping.
+
+VO_Florence_Single_Christmas_001.wav
+  Ta-da! I'm the one who's giving the Christmas present to the Commander! Come on, untie the ribbon. Hey, don't ignore me! I don't mind being left behind, but... Hey, you!
+
+VO_Florence_Single_Christmas_002.wav
+  Merry Christmas, Commander! I've got some hot wine ready. Eh? You found out that I was trying to make me drink it? I was wondering what you would do to me, Commander, who lost his mind.
+
+VO_Florence_Single_Friendliness_001.wav
+  What? Are you interested in me?
+
+VO_Florence_Single_Friendliness_002.wav
+  So it's not a problem to be with the commander after all.
+
+VO_Florence_Single_Friendliness_003.wav
+  Ehh, so that's how my rumors spread. So, I have a little interesting treatment, wanna try it?
+
+VO_Florence_Single_Friendliness_004.wav
+  I've prepared for tonight's experiment. If you make that face, you'll want to do it more, right?
+
+VO_Florence_Single_Friendliness_005.wav
+  I'm sorry for making you faint the other day. I'll take the punishment. No matter what kind of punishment it is. Okay?
+
+VO_Florence_Single_Friendliness_006.wav
+  The medicine I'm using is harmless, so you finally believed me? One or two side effects are like a surprise.
+
+VO_Florence_Single_Friendliness_007.wav
+  It's not as stimulating as you being by my side. That's right, that face is my favorite.
+
+VO_Florence_Single_Friendliness_008.wav
+  Will you keep playing with me and promise me? If you don't... I'll continue this experiment as it is.
+
+VO_Florence_Single_Login_001.wav
+  Ah, Commander. I've come up with a good idea. Why don't we try it together?
+
+VO_Florence_Single_MidAutumn_001.wav
+  How about trying the Russian roulette of the moon? I'm the one who created it... Wait a minute! You can't let me eat that!
+
+VO_Florence_Single_MidAutumn_002.wav
+  Eating mooncakes and playing games, this is how you enjoy Chushu-setsu, right? Yes, Commander? Oooooon. You're too cautious. I didn't put anything weird in it. At least this one.
+
+VO_Florence_Single_NewYear_001.wav
+  I have to welcome a new year with a new recipe. Commander, won't you come to my room later?
+
+VO_Florence_Single_NewYear_002.wav
+  A new year means a new stimulus. So, will you come to my room later? I've prepared a lot of fun punishment games. The first night of the new year spent with the commander. I'm looking forward to it.
+
+VO_Florence_Single_Obtain_SSR_001.wav
+  Banju, I won't let you get bored when I come. You can be more happy.
+
+VO_Florence_Single_Passive_SSR_001.wav
+  It's just a side effect.
+
+VO_Florence_Single_SpringFes_001.wav
+  Happy New Year! The atmosphere of the New Year's Eve is the best!
+
+VO_Florence_Single_SpringFes_002.wav
+  Commander, congratulations on your new year's day. You remember what you did last year, right? This year, you'll try to get started from the Commander's side, right? I'm cool right now, but I know that it'll get hot when that time comes. Like last year.
+
+VO_Florence_Single_Title_001.wav
+  Dolls Front Line 2 Exilium
+
+VO_Florence_Single_Valentine_001.wav
+  Here, my special chocolate. If you eat it, you'll feel a throbbing sensation. Of course, I only sent it to you.
+
+VO_Florence_Single_Valentine_002.wav
+  Here, this is my special Valentine's chocolate. It contains ingredients that make your heart throb just like last year. But, more importantly, when you imagine what will happen after this, I will be more excited.
+

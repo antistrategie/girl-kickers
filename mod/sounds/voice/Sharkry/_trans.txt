@@ -1,0 +1,241 @@
+# Voice Line Translations for Sharkry
+# Generated automatically using OpenAI Whisper
+# Total files: 79
+
+VO_Sharkry_Series_Battle_Start.wav
+  Yay!
+
+VO_Sharkry_Series_Battle_Start_2.wav
+  Here I go!
+
+VO_Sharkry_Series_Battle_Start_3.wav
+  Yes!
+
+VO_Sharkry_Series_Cancel.wav
+  No good?
+
+VO_Sharkry_Series_Cancel_2.wav
+  Please!
+
+VO_Sharkry_Series_Chosen_2.wav
+  EH? HEEEE
+
+VO_Sharkry_Series_Daily_001.wav
+  I feel like I haven't seen you for a while, Commander. If you don't mind, would you come see the Sharkly show tonight?
+
+VO_Sharkry_Series_Daily_002.wav
+  Commander, how about a summer-only shining stage latte? It's a popular menu in Zucchero! By the way... I'll put you in the right place!
+
+VO_Sharkry_Series_Daily_003.wav
+  For everyone's smile, Sakuri won't choose a way!
+
+VO_Sharkry_Series_Daily_004.wav
+  Why? Captain Growsha, you look so serious when you look at me.
+
+VO_Sharkry_Series_Daily_005.wav
+  Though recently she claimed that he likes eating jelly flowers the most, she is sleeping well. Freezing Unflippin I like to bully guys sometimes. Not sure if it would be a good idea to have that Gün-Potato next time Guys Can you admit aler? Des facility
+
+VO_Sharkry_Series_Daily_006.wav
+  I've been listening to you since you were at the cafe, Commander Springfield! What you were listening to was... A secret!
+
+VO_Sharkry_Series_Daily_007.wav
+  Hmm... What should I do to make the battle and the show even? Eh? You were thinking the same thing? Then I have to think of a way to win against her!
+
+VO_Sharkry_Series_Daily_008.wav
+  Recently, Santa Ulysses has been doing research on new sweets, and the kitchen is full of cooking utensils and materials! Phew, my makeup room has been taken over too!
+
+VO_Sharkry_Series_Daily_009.wav
+  Eh? Where do you want to get the cosmetics? Hehe, cosmetics are a weapon necessary for idols to fight! Sharkly is always ready to fight!
+
+VO_Sharkry_Series_Daily_010.wav
+  How's today's Sharkly outfit? Trend! The next trend is this outfit, which is the most popular!
+
+VO_Sharkry_Series_Hit.wav
+  Oh?
+
+VO_Sharkry_Series_Hitted.wav
+  Ah!
+
+VO_Sharkry_Series_HittedLast.wav
+  Mo zones
+
+VO_Sharkry_Series_Hitted_2.wav
+  Ah!
+
+VO_Sharkry_Series_Hitted_3.wav
+  Ah!!
+
+VO_Sharkry_Series_Hitted_4.wav
+  Guwhu!!!
+
+VO_Sharkry_Series_Hitted_5.wav
+  Ah!
+
+VO_Sharkry_Series_Kill.wav
+  I'm sorry.
+
+VO_Sharkry_Series_Lose.wav
+  Mom... How did it come to this? Although I got really into the process of make up s Round 2
+
+VO_Sharkry_Series_Skill01.wav
+  Next is Sharkly's time!
+
+VO_Sharkry_Series_Skill02.wav
+  Everyone, I'm going to give it to you!
+
+VO_Sharkry_Series_Tone_Negative_001.wav
+  ..........
+
+VO_Sharkry_Series_Tone_Negative_002.wav
+  Ma- leurs
+
+VO_Sharkry_Series_Tone_Positive_003.wav
+  Thank you!
+
+VO_Sharkry_Series_Tone_Positive_007.wav
+  See you tomorrow!
+
+VO_Sharkry_Series_Tone_Positive_008.wav
+  So cute!
+
+VO_Sharkry_Series_Ultimate.wav
+  I'll liven it up!
+
+VO_Sharkry_Series_Up_001.wav
+  Good mood!
+
+VO_Sharkry_Series_Up_002.wav
+  I've reached my goal!
+
+VO_Sharkry_Series_Up_003.wav
+  Sharklin, are you cuter now?
+
+VO_Sharkry_Series_Up_004.wav
+  Did you deliver to your hearts with it?
+
+VO_Sharkry_Series_Up_005.wav
+  With this, I'm sure...
+
+VO_Sharkry_Series_Up_006.wav
+  Let's try a more difficult dance next time!
+
+VO_Sharkry_Series_Up_007.wav
+  Shoukuri, aim for No.1!
+
+VO_Sharkry_Series_Up_008.wav
+  Thank you for being a power of Sharkly!
+
+VO_Sharkry_Series_Win.wav
+  Thank you everyone! I did a perfect show! Please look forward to Sharkly's next performance!
+
+VO_Sharkry_Single_Acquire_R_001.wav
+  364...365! Another year has passed! Phew... I feel like time really flies after meeting the Commander! I'll continue to support Sharkly! It's a promise!
+
+VO_Sharkry_Single_Acquire_SR_001.wav
+  In the past, I thought that the flow of time was just increasing the number of days of operation, and there was no special meaning. But this year I met the Commander, every day was warm. Let's continue to make memories together, Commander!
+
+VO_Sharkry_Single_Anniversary_001.wav
+  I heard! Today is a special anniversary for the Commander! So, I will celebrate it soon! Thank you for your hard work for a year! Here, this is the winning video of Sharkley! I'll give it to you!
+
+VO_Sharkry_Single_Birthday_R_001.wav
+  Wait, wait! I'm not ready yet! Please keep your eyes closed! Come on, hold my hand and come this far! Hehe, you can open it! Pan-Paka-Pan! Commander, happy birthday!
+
+VO_Sharkry_Single_Birthday_SR_001.wav
+  Ta-da! Happy birthday, Commander! For a super idol, remembering the birthday of a loyal fan is a basic of a basic! Hehe, what do you want as a present? A sign? A shake? Or a hug?
+
+VO_Sharkry_Single_Birthday_SSR_002.wav
+  Huh? The command room got dark? That's because Sharkly-chan turned it off! Sharkly, I made a cake for the commander! Here I go! 3, 2, 1, Light up! Happy birthday!
+
+VO_Sharkry_Single_Children_001.wav
+  Today's cafe is full of little friends! Everyone said that Sharkly is cute and good at singing! Here, this is the candy that Sharkly got! I'll give it to the commander secretly!
+
+VO_Sharkry_Single_Christmas_001.wav
+  Shanshan-chan, shanshan-chan! Tanakai-san brought a super idol! I've prepared a present for you, Commander! Guess where it is! Is it in your socks? Or under the tree?
+
+VO_Sharkry_Single_Christmas_002.wav
+  There will be a sharky at the Christmas live! Ehehe, I made it so that even children can do it! And then, today's cheer goods are Christmas socks! What you can put in is, I'm looking forward to it!
+
+VO_Sharkry_Single_Duanwu_001.wav
+  This green food is kind of weird. It's triangular and sharp. The Springfield manager said that I should temporarily put this in the menu. But even so, why do I have to do a boat show on stage?
+
+VO_Sharkry_Single_Friendliness_001.wav
+  Super Idol Sharkly! I'll keep working hard to protect everyone's smiles!
+
+VO_Sharkry_Single_Friendliness_002.wav
+  Commander, you know Zucchero, right? Sharkly is doing a show there, but if you don't mind, I'd like you to come see it next time.
+
+VO_Sharkry_Single_Friendliness_003.wav
+  Commander, you don't look well. If you have any hope, Sharkly will show you the best show anytime!
+
+VO_Sharkry_Single_Friendliness_004.wav
+  Commander, when you move your body, you will be given a lot of dopamine that makes you feel happy! So, why don't you dance with me now?
+
+VO_Sharkry_Single_Friendliness_005.wav
+  I've been to quite a few places, but there's no one who's more eye-catching than the cafe's customers. Hehe, I wonder how the commander's eyes are.
+
+VO_Sharkry_Single_Friendliness_006.wav
+  Commander, you can't wrinkle your forehead! You look tired. If you're going to sleep, should I sing a lullaby for you?
+
+VO_Sharkry_Single_Friendliness_007.wav
+  Ho, ho! Commander, looks are very important! So I'll make it for you! Ufiii, I won't play pranks! Don't worry!
+
+VO_Sharkry_Single_Friendliness_008.wav
+  How was it, the show earlier? It was really good, right? B-Bepri compared to... How was it?
+
+VO_Sharkry_Single_Friendliness_009.wav
+  Recently, I've been looking for the commander in the audience seat. Please sit in the front row when you sit down. Then you can find it in one eye.
+
+VO_Sharkry_Single_Friendliness_010.wav
+  Commander, do you have time after the show is over tonight? An hour? No, 30 minutes is fine. I have something I want to take you to. Let's go secretly, just the two of us. Right?
+
+VO_Sharkry_Single_Friendliness_011.wav
+  Commander, why are you staring at me like that? What's on my face? Oh, well, I can't help it. It's okay, look. After all, I'm a perfect idol no matter where I look from 360 degrees.
+
+VO_Sharkry_Single_Friendliness_012.wav
+  This necklace is pretty, right? It's the latest model of the year! Will you put it on for me, Commander? Ah, wait, wait, wait! Don't wrap your hair around me!
+
+VO_Sharkry_Single_Friendliness_013.wav
+  Hmm... Recently, there's been no excitement among the audience. Throwing kisses and winking are now in the late days. I have to think of some new action. Hehehe. Commander, will you be my training partner?
+
+VO_Sharkry_Single_Login_001.wav
+  Commander, that was perfect! Hey, which outfit should I wear for today's show?
+
+VO_Sharkry_Single_MidAutumn_001.wav
+  Idols are like the moon, shining in the darkness, accepting everyone's wishes and thoughts. Someone said that, but I don't think so. I will become the moon's idol and have everyone come to the moon!
+
+VO_Sharkry_Single_MidAutumn_002.wav
+  Hmm... Commander... I got a goldfish sake from Meirin, but... My head is spinning... Is this what Meirin said about being spoiled by the moon? Hey, Commander... Which one of us smells better, me or this sake?
+
+VO_Sharkry_Single_NewYear_001.wav
+  Commander, Happy New Year! Commander, do you have anything you want to ask me? About Sharkly... I want to be with you every year from now on! Uhehe! Are you getting dizzy? What? If I say it, it's meaningless? Ah! Wait, wait! What was that just now!?
+
+VO_Sharkry_Single_NewYear_002.wav
+  Stop it, Commander! Look at this camera! Here! Cheese! I'll sign your first two-shot for the new year! Please keep pushing Sharkly this year!
+
+VO_Sharkry_Single_Obon_001.wav
+  Do you know Ghost Diva? It's about an idol who sings a song that is unbearably good like Beppuie. Uhehe, just kidding! The concept of the cafe tonight is ghostly. I'm waiting for you to visit the command center!
+
+VO_Sharkry_Single_Obtain_SR_001.wav
+  Ehehe, I'm ready! Who will be the lucky one to be pulled out by Sharklin?
+
+VO_Sharkry_Single_SpringFes_001.wav
+  Phew, we made it! It's getting exciting! This is the first time I've ever celebrated a day like this! I should have refused to invite you to the live show! Ah, the fireworks are starting to fly! Happy Spring Festival, Commander! Does this look right? Ehehe
+
+VO_Sharkry_Single_SpringFes_002.wav
+  Eh? The party in the spring, the commander and Sharkly will be there? What would be good? A duet? Dance? Or... Music? Whatever it is, Sharkly will do her best!
+
+VO_Sharkry_Single_ThanksGiving_001.wav
+  Today, I'm going to have a special break at the cafe, so I've prepared a pumpkin pie as a thank you for the Commander for the past year! Uhehe! Please look forward to the dinner!
+
+VO_Sharkry_Single_Title_001.wav
+  Dolls Front Line 2! Exilium!
+
+VO_Sharkry_Single_Valentine_001.wav
+  All the cafe people have been making chocolate for days to make it in time for Valentine's Day, haven't they? I've also made something special to go with the commander's tongue! Try it! Here! Aaaaoo!
+
+VO_Sharkry_Single_Valentine_002.wav
+  Commander... Aaaaaaaaa vários... A mí chico in Barvicá phening, chocopetá~~~ Now! It's time for a date!
+
+VO_Sharkry_Single_WhiteVale_001.wav
+  What day is today? I got a lot of presents all of a sudden... Eh? Is there one from the Commander? Ah, thank you! You remembered what I like! Ufiii, I'm so happy!
+

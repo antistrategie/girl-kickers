@@ -1,0 +1,250 @@
+# Voice Line Translations for Colphne
+# Generated automatically using OpenAI Whisper
+# Total files: 82
+
+VO_Colphne_Lobby_Welcome.wav
+  Commander, please take a break. If something happens to your body, it's a big deal.
+
+VO_Colphne_Series_Battle_Start.wav
+  R.I.P SPH-
+
+VO_Colphne_Series_Battle_Start_2.wav
+  Move!
+
+VO_Colphne_Series_Battle_Start_3.wav
+  Where is it?
+
+VO_Colphne_Series_Battle_Start_4.wav
+  From here?
+
+VO_Colphne_Series_Battle_Start_5.wav
+  IDIOT!
+
+VO_Colphne_Series_Cancel.wav
+  Woohoo!
+
+VO_Colphne_Series_Cancel_2.wav
+  Huuuh ...
+
+VO_Colphne_Series_Chosen.wav
+  moryowyoo
+
+VO_Colphne_Series_Daily_001.wav
+  Hello, Commander! Do you need any help? I'm really bored right now, so...
+
+VO_Colphne_Series_Daily_002.wav
+  Good morning, Commander! Huh? You don't look well. How about a refreshing nutritional drink? It's okay! It's completely harmless!
+
+VO_Colphne_Series_Daily_003.wav
+  Ah, it's already this late? Commander? Are you still working? You need to be careful with your life too. You need to listen to your doctor's advice!
+
+VO_Colphne_Series_Daily_004.wav
+  I see... I was researching Nemesis-chan's fortune-telling! Alright, here's one thing. Let's see when the commander will draw the lottery!
+
+VO_Colphne_Series_Daily_005.wav
+  Captain Groza, you're so cool. And you're so kind. You're like... ...a big sister.
+
+VO_Colphne_Series_Daily_006.wav
+  I think it's better to be a little faster here. Yeah, yeah, yeah, that's it! Oh, Commander! Hehe, it's a new special move for Pepli-chan! Huh? Commander, are you listening?
+
+VO_Colphne_Series_Daily_007.wav
+  Yaaaaahoo! Did I surprise you, Commander? Hehe, I'm sorry. It's nothing. I was so bored, I wanted to disturb the serious working Commander!
+
+VO_Colphne_Series_Daily_008.wav
+  General Carol? And Nemesis? Okay, okay! Best of partner! Rich parenting plan☆
+
+VO_Colphne_Series_Daily_009.wav
+  You can touch people's heads and pay for what you pay! Even if you're a commander, you can't!
+
+VO_Colphne_Series_Daily_010.wav
+  Ah, sorry! It's nothing. I thought everyone was good friends. Hmm, if Colfen was Meirin, the commander would be long ago now. Fufufu
+
+VO_Colphne_Series_Hit.wav
+  Ah, I'm sorry!
+
+VO_Colphne_Series_Hitted.wav
+  We did it, Meiling!!
+
+VO_Colphne_Series_HittedLast.wav
+  Not yet!
+
+VO_Colphne_Series_Hitted_5.wav
+  trait
+
+VO_Colphne_Series_Kill.wav
+  It's over!
+
+VO_Colphne_Series_Lose.wav
+  There's still something I have to do... I can't stop here... I can't stop here...
+
+VO_Colphne_Series_Skill01.wav
+  Treatment device, ready!
+
+VO_Colphne_Series_Skill02.wav
+  I'll kill you!
+
+VO_Colphne_Series_Tone_Negative_001.wav
+  aru aru
+
+VO_Colphne_Series_Tone_Negative_002.wav
+  Not yet!
+
+VO_Colphne_Series_Tone_Positive_005.wav
+  Yea..
+
+VO_Colphne_Series_Ultimate.wav
+  I don't think I can pass!
+
+VO_Colphne_Series_Up_001.wav
+  Ah, thank you very much!
+
+VO_Colphne_Series_Up_002.wav
+  Nunun
+
+VO_Colphne_Series_Up_003.wav
+  Eh? Are you sure?
+
+VO_Colphne_Series_Up_004.wav
+  Ohohoho!
+
+VO_Colphne_Series_Up_005.wav
+  I need to become stronger...
+
+VO_Colphne_Series_Up_006.wav
+  It's a good feeling.
+
+VO_Colphne_Series_Up_007.wav
+  Commander, you're really...
+
+VO_Colphne_Series_Up_008.wav
+  Roger that!
+
+VO_Colphne_Single_Acquire_R_001.wav
+  Wow! It's been a year since I met the Commander! Thank you for taking care of me for a year! I will continue to provide the best medical services!
+
+VO_Colphne_Single_Acquire_SR_001.wav
+  Commander! Do you remember what day it is today? Hmm? I forgot your expression. Today is the anniversary of the first anniversary of the meeting of Commander and Corfen! So I prepared a special gift for you! Please open it!
+
+VO_Colphne_Single_Acquire_SSR_001.wav
+  Hmm... For a year... Really... A-A-AHHHHH! I-I'm so surprised, Commander! Huh? This? No, it's the strategy report from last week! It's not a celebration! Commander! For spending a year with me... Thank you very much! Being with you... Corfen... I'm so happy!
+
+VO_Colphne_Single_Anniversary_001.wav
+  Tada! Are you surprised? Hehehe! I will give you a lot of beautiful pebbles as a reward for your great achievements in the area! I'm really looking forward to what will happen to you in the future!
+
+VO_Colphne_Single_Birthday_R_001.wav
+  Commander! It's a birthday cake made by Corsen! Happy birthday!
+
+VO_Colphne_Single_Birthday_SR_001.wav
+  Commander, Happy Birthday! You and I will celebrate every year from now on, right? That's right!
+
+VO_Colphne_Single_Birthday_SSR_001.wav
+  Commander! Happy birthday! Happy birthday! Now, where is the present? Hehe, I will never find it this time! What's that? Did you already find it? But don't worry! That's definitely a problem! Come on, please open it quickly!
+
+VO_Colphne_Single_Birthday_SSR_002.wav
+  Today is the commander's birthday, so happy birthday! Is there anything you want me to do? If you're a good medical doll, you might be able to help me!
+
+VO_Colphne_Single_Children_001.wav
+  Commander, today you have a present, right? Huh? That face... Don't tell me you don't know what day it is today? It's Children's Day! The captain said that children all get presents! There's something like that in Kufen, right?
+
+VO_Colphne_Single_Christmas_001.wav
+  Look, Commander! I made the Christmas tree shine! I decorated it with lots of super pretty star lights! It's all made by Corfen! And what's more, there's a Christmas present for you, Commander! I put it next to the biggest star, so please take it with you!
+
+VO_Colphne_Single_Christmas_002.wav
+  Commander, why don't we make the Elmogon a Christmas decoration? How about decorating it with a beautiful stone and star-shaped lights? And then... I'm going to hide the present somewhere, so please do your best to find it, Commander!
+
+VO_Colphne_Single_Duanwu_001.wav
+  Elmogou! Go! Like a brave dragon, go forward! I will carve a great miracle on the earth! Oh, Commander! I asked Meirin-chan. In the vocabulary theory, they compete with each other in dragon. Elmogou also feels like a dragon in the desert, right?
+
+VO_Colphne_Single_Friendliness_001.wav
+  Hm? Commander, what's wrong? If it's about medical care, please consult with Corfen about anything!
+
+VO_Colphne_Single_Friendliness_002.wav
+  It's okay! No matter how bad the wound is, this Corfen will fix it all! Ah, of course, it's a matter of survival!
+
+VO_Colphne_Single_Friendliness_003.wav
+  I'm running out of medical supplies. Hmm... The commander has been injured lately. Commander, please take a break. If anything happens to your body, it will be difficult.
+
+VO_Colphne_Single_Friendliness_004.wav
+  Ah, ah, it's so messy again! If the commander doesn't have spare bodies, he can't get a mental backup! Do you understand? Oh, what's this expression? The picture of the commander enduring pain! Not bad.
+
+VO_Colphne_Single_Friendliness_005.wav
+  Commander! Commander! Oh, you're here! Oh, are you a little girl? No, I'm not! I'll give you a medicine that will make you feel good! Huh? A side effect? No way!
+
+VO_Colphne_Single_Friendliness_006.wav
+  Um, Commander! I... I... Ah, nothing! Um... Do you really want to know? Commander...
+
+VO_Colphne_Single_Friendliness_007.wav
+  This feeling is... ...something strange... Ah! Commander! Did you... ...do something? Depending on the situation, you will be responsible for it!
+
+VO_Colphne_Single_Friendliness_008.wav
+  Huh? Commander, you haven't been doing anything weird lately, have you? No, not that! What the hell am I asking? But, Commander, you've changed a little. How should I put it... No, it's probably just my imagination!
+
+VO_Colphne_Single_Friendliness_009.wav
+  Commander, you will never abandon your friends, right? Eh? I just asked you that. So the answer is yes, right? I won't let you say no!
+
+VO_Colphne_Single_Friendliness_010.wav
+  Commander... Commander! Somehow i feel like i was in a dream. Does a doll is also appear in dreams...? Or really...?
+
+VO_Colphne_Single_Friendliness_011.wav
+  Ta-da! Commander, I made cranberry chocolate! So, what is that expression? It shouldn't taste bad, judging from its appearance. Anyway, Commander, please try it!
+
+VO_Colphne_Single_Friendliness_012.wav
+  S-sea... den!! Can I stay here!? I won't just stand here. I will stay as I am right now.
+
+VO_Colphne_Single_Friendliness_013.wav
+  Um... Commander! I just made an important decision! Eh? What decision? I'll figure it out someday! As long as you're here...
+
+VO_Colphne_Single_Login_001.wav
+  Hmm, what should we do today?
+
+VO_Colphne_Single_MidAutumn_001.wav
+  Commander, will the moon come out tonight? Meirin said that today is the day to observe the full moon together. And... You're going to eat a round chocolate-like mooncake? Sounds fun! Let's make a colfait for the commander next time!
+
+VO_Colphne_Single_MidAutumn_002.wav
+  Commander, you can't eat too much and drink too much because it's a neutral theory. It's hard if Helena-chan imitates you. Huh? Do you want to eat the mooncake I made? I can't help it. I'll forgive you if it's just one.
+
+VO_Colphne_Single_NewYear_001.wav
+  Before the third war broke out, it was snowing here when it became a temple. But the snow is dull now. I saw a lot of old photos. The snow at that time was very beautiful. I want to see that kind of snow with the commander. Happy New Year, Commander!
+
+VO_Colphne_Single_NewYear_002.wav
+  It's been a year already. When I'm with you, I can feel the flow of time really fast. Anyway, Happy New Year! I've prepared some snacks with Zappri-chan, so please come and see them!
+
+VO_Colphne_Single_Obon_001.wav
+  ... Commander! Today is your birthday! Humans think of the person who passed away on this day and strive for it! Does Commander have a way to strive for it? A long time ago, I met a very nice lady and learned a lot of things. At that time, I wish I could have met her.
+
+VO_Colphne_Single_Obtain_R_001.wav
+  I heard that the Commander knows a lot of ways to become stronger, so I hurried to Golfen!
+
+VO_Colphne_Single_Obtain_SR_001.wav
+  Ah, did something really troublesome happen? Let's have Corfen help you.
+
+VO_Colphne_Single_Obtain_SSR_001.wav
+  Oh, it's the commander! Don't worry. The heart of Corfen now is completely at the commander's side.
+
+VO_Colphne_Single_Passive_SSR_001.wav
+  I'll take additional shots!
+
+VO_Colphne_Single_SpringFes_001.wav
+  Wow! It's the Commander! Happy New Year! I learned something good from Meilin-chan! Commander, please sit down and have a good time today! When Korfen makes that Baku-chiku, let's play together! It's so much fun!
+
+VO_Colphne_Single_SpringFes_002.wav
+  Tama-ya! Can you see that fireworks smiling? Actually, I made that fireworks with Meirin-chan so that Commander can smile too! If Commander has a sad face, Korfen will also be sad.
+
+VO_Colphne_Single_ThanksGiving_001.wav
+  Commander! Commander! I want to spend the day with you today! Huh? You want to spend the day with me every day? No, that's not at all! I'm just fighting all the time! Today is Thanksgiving Day! It's meaningless if you don't spend the day with your family and your loved ones!
+
+VO_Colphne_Single_Title_001.wav
+  World Frontline 2 Exilium!
+
+VO_Colphne_Single_Ultimate_SSR_001.wav
+  It doesn't hurt, it doesn't hurt!
+
+VO_Colphne_Single_Valentine_001.wav
+  Hmm, I wonder if the greeting card is better? Yeah, you don't know who it is unless you prove it. Huh? S-S-Ske-san! Ah, it's nothing! Ah, happy Valentine's Day! Tonight's dinner and grea... no, dinner! Look forward to dinner!
+
+VO_Colphne_Single_Valentine_002.wav
+  Here, this is a Valentine's chocolate made by Corfen! Oh? You already noticed? Hehe, I'm giving it to the commander, so of course I want to make it special!
+
+VO_Colphne_Single_WhiteVale_001.wav
+  Yes, yes! Commander, you like shiny things, right? In other words, you like shiny necklaces, right? I spent a lot of time polishing it, but after all... Hmm... I can't say it's beautiful, but please accept it! It's a return gift for Valentine's Day, Commander!
+

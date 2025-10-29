@@ -1,0 +1,208 @@
+# Voice Line Translations for Groza
+# Generated automatically using OpenAI Whisper
+# Total files: 68
+
+VO_Groza_10_VO_Groza_Series_Daily_005.wav
+  Confident trust brings perfect victory.
+
+VO_Groza_11_VO_Groza_Series_Daily_006.wav
+  Commander, have you seen Meiling's collection? Hey, what are you hiding behind your back?
+
+VO_Groza_12_VO_Groza_Series_Daily_007.wav
+  Mission start, let's go. Don't worry, I'll return them all safely.
+
+VO_Groza_13_VO_Groza_Series_Daily_008.wav
+  ... Ah... Ah... It's not the Commander... I... I just... No, there's no problem with the system.
+
+VO_Groza_14_VO_Groza_Series_Daily_009.wav
+  The balance of this month's savings is well balanced. I'm relieved. This will make you feel better, Commander.
+
+VO_Groza_15_VO_Groza_Series_Daily_010.wav
+  A new tea set has arrived. Commander, would you like some tea?
+
+VO_Groza_16_VO_Groza_Series_HittedLast.wav
+  MUSIC
+
+VO_Groza_17_VO_Groza_Series_Tone_Negative_002.wav
+  Erikiyo-! Herикс gives Council Leader a slip-off again. And some disappointed agu wspóls handle things like that over and over. Erikiyo shuddered an instant, Gonzalez genuinely
+
+VO_Groza_18_VO_Groza_Series_Battle_Start__VO_Groza_Series_Cancel__VO_Groza_Series_Chosen__VO_Groza_Series_Set_Fall__VO_Groza_Series_Tone_Positive_004.wav
+  Roger that.
+
+VO_Groza_19_VO_Groza_Series_Battle_Start__VO_Groza_Series_Chosen__VO_Groza_Series_Shield_Broken__VO_Groza_Series_Tone_Positive_006.wav
+  Target confirmed.
+
+VO_Groza_20_VO_Groza_Series_Tone_Positive_007.wav
+  I think I can escape.
+
+VO_Groza_21_VO_Groza_Series_Battle_Start__VO_Groza_Series_Chosen_Auto__VO_Groza_Series_Move_Start__VO_Groza_Series_Tone_Positive_008.wav
+  Let's go!
+
+VO_Groza_22_VO_Groza_Series_Move_Start__VO_Groza_Series_Tone_Positive_009.wav
+  W-What are you-
+
+VO_Groza_23_VO_Groza_Series_Move_Start__VO_Groza_Series_Shield_Broken__VO_Groza_Series_Tone_Positive_010.wav
+  Yun gun that is I 4 me me 4
+
+VO_Groza_24_VO_Groza_Series_Up_001.wav
+  Understood.
+
+VO_Groza_25_VO_Groza_Series_Up_002.wav
+  become stronger?
+
+VO_Groza_26_VO_Groza_Series_Up_003.wav
+  You've improved a lot.
+
+VO_Groza_27_VO_Groza_Series_Up_004.wav
+  Let me thank you.
+
+VO_Groza_28_VO_Groza_Series_Up_005.wav
+  It's not enough yet.
+
+VO_Groza_29_VO_Groza_Series_Up_006.wav
+  This feeling is...
+
+VO_Groza_2_VO_Groza_Series_Hitted.wav
+  Thank you for watching!
+
+VO_Groza_30_VO_Groza_Series_Up_007.wav
+  They're ready.
+
+VO_Groza_31_VO_Groza_Series_Up_008.wav
+  Oh?
+
+VO_Groza_32_VO_Groza_Single_Acquire_R_001.wav
+  It's been a year in a blink of an eye. Thanks to you, Commander, it's been a year full of joy. Let's continue to walk together, Commander.
+
+VO_Groza_33_VO_Groza_Single_Acquire_SR_001.wav
+  Commander, I have a lot to tell you over the past year. If I try to say it, I'm always being controlled by someone. But this feeling doesn't change. From now on, no matter what decision you make, I believe in you. I swear I'll always be by your side.
+
+VO_Groza_34_VO_Groza_Single_Acquire_SSR_001.wav
+  Another year? I'm grateful for your support throughout the year, Commander.
+
+VO_Groza_35_VO_Groza_Single_Anniversary_001.wav
+  Without your guidance, I wouldn't have been able to accomplish such a difficult mission. I can't measure your contribution. Hm? You're exaggerating? Then... Thank you for the past year, Commander.
+
+VO_Groza_36_VO_Groza_Single_Birthday_R_001.wav
+  Happy birthday. Today is a special day, so you have to relax. Leave all your work to me, Commander.
+
+VO_Groza_37_VO_Groza_Single_Birthday_SR_001.wav
+  Commander, happy birthday. Whatever you do today, you will be forgiven. Well then, first, have my special birthday dinner.
+
+VO_Groza_38_VO_Groza_Single_Birthday_SSR_001.wav
+  Birthday? I can't believe today is your birthday. It's been a while. How are you feeling? Me? Of course, no problem. Happy birthday, Commander.
+
+VO_Groza_39_VO_Groza_Single_Children_001.wav
+  Work is important, but it's not bad to relax on a day like this. Oh, it seems that Helena has some candy left over. Commander, would you like one?
+
+VO_Groza_40_VO_Groza_Single_Christmas_001.wav
+  Merry Christmas, Commander. Be careful, it's cold at night. I made two Santa hats. They're both made of cedar. One for Meilin, and the other for Commander. It's my responsibility as the captain to keep you healthy.
+
+VO_Groza_41_VO_Groza_Single_Duanwu_001.wav
+  Commander, this sashay is like a talisman, but it has a power like a talisman. Please accept it. Eh? The string of the talisman is really flashy. This is the tradition of the word theory, Commander. By doing this, you will avoid danger.
+
+VO_Groza_42_VO_Groza_Single_Friendliness_001.wav
+  Hm? It's not a nuisance. So, what do you order, Commander?
+
+VO_Groza_43_VO_Groza_Single_Friendliness_002.wav
+  Let me guess. That face. You had some trouble. Eh? I did the same thing before?
+
+VO_Groza_44_VO_Groza_Single_Friendliness_003.wav
+  New strategy report? I've already organized it. Do you want to check it now? That's right. So far, everything is fine. You can rest after the meeting, Commander.
+
+VO_Groza_45_VO_Groza_Single_Friendliness_004.wav
+  If you're working late at night, you should eat something high in calories. This cake is just... It's okay. This time, it's the recipe.
+
+VO_Groza_46_VO_Groza_Single_Friendliness_005.wav
+  This? I've made a new cooking cloth. I hope it will add more depth to the taste.
+
+VO_Groza_47_VO_Groza_Single_Friendliness_006.wav
+  Night is a precious time to be able to focus on yourself. Of course, it's not bad to spend time with the Commander.
+
+VO_Groza_48_VO_Groza_Single_Friendliness_007.wav
+  Commander, I've been studying how to make chocolate cakes lately, and they're pretty good. I guarantee that the taste is Meiling's. Commander, try some.
+
+VO_Groza_49_VO_Groza_Single_Friendliness_008.wav
+  Have you ever eaten sushi? I've been thinking about trying it out lately, but Meirin says the fresh rice smells really good. I've already prepared the costumes you'll need to hold the sushi. Commander, please look forward to it.
+
+VO_Groza_50_VO_Groza_Single_Friendliness_009.wav
+  The temperature last night was a warm, warm, warm temperature. From the Commander's point of view, it's a temperature that feels cold. Commander, are you able to prevent the ship from being damaged? A new muffler has arrived. It's in the command room. Just in case, when the temperature drops at night, I'll call you to wear it.
+
+VO_Groza_51_VO_Groza_Single_Friendliness_010.wav
+  Commander, you look tired. Would you like to lie down for a bit? Eh? You want me to stay by your side? Sure. I'll prepare some warm tea for you when you wake up.
+
+VO_Groza_52_VO_Groza_Single_Friendliness_011.wav
+  You're relying on me? Thank you, Commander. You're the best compliment for me.
+
+VO_Groza_53_VO_Groza_Single_Friendliness_012.wav
+  I'm so honored to have your trust. I don't mind relying on you from now on, Commander.
+
+VO_Groza_54_VO_Groza_Single_Friendliness_013.wav
+  Me? You already knew what I wanted, right? Since I joined the team, you gave me everything I needed. Now I just wish for this peace to last forever.
+
+VO_Groza_55_VO_Groza_Series_Kill__VO_Groza_Single_Kill_001.wav
+  Extermination complete.
+
+VO_Groza_56_VO_Groza_Single_Login_001.wav
+  Oh, you're in a hurry. Don't worry. I'll use my humbleness.
+
+VO_Groza_57_VO_Groza_Series_Lose__VO_Groza_Single_Lose_001.wav
+  Retreat! All members safe? It takes some time to get adjusted, you know? Never again...
+
+VO_Groza_58_VO_Groza_Single_MidAutumn_001.wav
+  I added a new tower to the mobile base. Did you notice, Commander? I made it with everyone. How about tonight, Commander? Why don't you make a nice tower with us?
+
+VO_Groza_59_VO_Groza_Single_NewYear_001.wav
+  Happy New Year, Commander. How about a Mechoo this year? Drinking it on a cold night will warm you up. Don't worry. I have 14 Mechoo that I reserved at the Bordeaux Nizza two weeks ago. I'll leave them in the command room. Maylene is happy too.
+
+VO_Groza_60_VO_Groza_Single_Obtain_R_001.wav
+  Did you get into a difficult problem? I'll gladly cooperate, Commander.
+
+VO_Groza_61_VO_Groza_Single_Obtain_SR_001.wav
+  Everything is in the plan. As long as I'm here, no need to worry.
+
+VO_Groza_62_VO_Groza_Single_Obtain_SSR_001.wav
+  I appreciate your support at the right time, Commander.
+
+VO_Groza_63_VO_Groza_Series_Skill01__VO_Groza_Single_Skill_001.wav
+  Leave the cover to me.
+
+VO_Groza_64_VO_Groza_Series_Skill02__VO_Groza_Single_Skill_002.wav
+  You're going to rebel?
+
+VO_Groza_65_VO_Groza_Single_SpringFes_001.wav
+  The one on the window? I see, Commander. According to Merlin, if you paste the letters upside down, it will bring good luck for a year.
+
+VO_Groza_66_VO_Groza_Single_ThanksGiving_001.wav
+  Commander, today's plan is to improve the quality of the food at the orbit base. Turkey... It's the protein I finally got after all the hard work. Thank you for always being by my side for a year, Commander.
+
+VO_Groza_67_VO_Groza_Single_Title_001.wav
+  Dolls Frontline 2 Exilium
+
+VO_Groza_68_VO_Groza_Series_Ultimate__VO_Groza_Single_Ultimate_SR_001.wav
+  Dammit!
+
+VO_Groza_69_VO_Groza_Single_Ultimate_SSR_001.wav
+  Grenade launch!
+
+VO_Groza_6_VO_Groza_Series_Daily_001.wav
+  A new mission? Fine, leave it to me.
+
+VO_Groza_70_VO_Groza_Single_Valentine_001.wav
+  Hazelnut chocolate... Maybe I can tell you... Oh, Commander. Did you receive the present? I made that chocolate over time. It's not that difficult because it's origami, but... Happy Valentine's Day, Commander.
+
+VO_Groza_71_VO_Groza_Single_WhiteVale_001.wav
+  Next, is this a fruit candy? This is here from a while ago... Themuş's feelings for this
+
+VO_Groza_72_VO_Groza_Series_Win__VO_Groza_Single_Win_001.wav
+  Mission complete. Everyone, don't lose your guard. We can't let our guard down until we return safely.
+
+VO_Groza_7_VO_Groza_Series_Daily_002.wav
+  Today's task is not over yet. Commander, do you need to confirm progress?
+
+VO_Groza_8_VO_Groza_Series_Daily_003.wav
+  ...That's... ...Carolick and... ...Remesis... ...Phew... At least, I want them to be quiet during the night.
+
+VO_Groza_9_VO_Groza_Series_Daily_004.wav
+  Commander, check the plan for this operation. No matter how easy the mission is, you can't let your guard down.
+

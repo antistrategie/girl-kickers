@@ -1,0 +1,7 @@
+[tools]
+python = "3.12"
+uv = "latest"
+ruff = "latest"
+
+[settings]
+python.uv_venv_auto = true

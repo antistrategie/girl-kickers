@@ -1,0 +1,244 @@
+# Voice Line Translations for Mechty
+# Generated automatically using OpenAI Whisper
+# Total files: 80
+
+VO_Mechty_Series_Battle_Start.wav
+  Please forgive me...
+
+VO_Mechty_Series_Cancel.wav
+  It's a pain in the ass.
+
+VO_Mechty_Series_Chosen.wav
+  Don't pull me...
+
+VO_Mechty_Series_Chosen_Auto.wav
+  I don't.
+
+VO_Mechty_Series_Daily_001.wav
+  If I stay here, I won't be able to find you... I-I won't tell you if you come...
+
+VO_Mechty_Series_Daily_002.wav
+  Amazing... Hell Cob, you're more like heaven... 2% 2% 2% 2% 2% 9% 8% 8% 50% 50% !!
+
+VO_Mechty_Series_Daily_003.wav
+  Kurukai is really rough. If you use high-power mode so often, I won't be able to hold it.
+
+VO_Mechty_Series_Daily_004.wav
+  Ah, I wish I had a kind mechanic like Merlin. Delte wants to play with my body right away.
+
+VO_Mechty_Series_Daily_005.wav
+  Wow, so that's how powerful you are. Could that backpack be an external battery?
+
+VO_Mechty_Series_Daily_006.wav
+  This mission... I should have come with Andris... Ah... My land of love...
+
+VO_Mechty_Series_Daily_007.wav
+  Oh no! If I don't finish my mission quickly, I won't make it to the new release of Biocrisis!
+
+VO_Mechty_Series_Daily_008.wav
+  The moment you accept that you are incompetent, you will be freed from everything. Hey, how's that? New profile, isn't it cool?
+
+VO_Mechty_Series_Daily_009.wav
+  The beauty department is a little noisy, but when she's there, Kurukai doesn't have time to care about me, so it's easy.
+
+VO_Mechty_Series_Daily_010.wav
+  It's like a manga, the next cut is the end of the mission. It's not a good thing.
+
+VO_Mechty_Series_Die.wav
+  ~!
+
+VO_Mechty_Series_Hit.wav
+  Oraora!
+
+VO_Mechty_Series_Hitted.wav
+  Oh!
+
+VO_Mechty_Series_HittedLast_5.wav
+  Thank you for watching!
+
+VO_Mechty_Series_Hitted_2.wav
+  Oh!
+
+VO_Mechty_Series_Hitted_3.wav
+  Oh!
+
+VO_Mechty_Series_Hitted_4.wav
+  Huh?
+
+VO_Mechty_Series_Hitted_5.wav
+  Euro G sleeves
+
+VO_Mechty_Series_Kill.wav
+  Shut up!
+
+VO_Mechty_Series_Lose.wav
+  The battery ran out... Let's withdraw this time. Next time, I'll definitely...
+
+VO_Mechty_Series_Set_Click.wav
+  Yes, yes.
+
+VO_Mechty_Series_Set_Fall.wav
+  Cute!
+
+VO_Mechty_Series_Skill01.wav
+  I'll give it to you!
+
+VO_Mechty_Series_Skill02.wav
+  I'll finish this and go home!
+
+VO_Mechty_Series_Tone_Negative_002.wav
+  Ouch!
+
+VO_Mechty_Series_Tone_Positive_003.wav
+  Really?
+
+VO_Mechty_Series_Tone_Positive_005.wav
+  bye Yeee-
+
+VO_Mechty_Series_Tone_Positive_007.wav
+  Are there still enemies?
+
+VO_Mechty_Series_Tone_Positive_010.wav
+  Go, go!
+
+VO_Mechty_Series_Ultimate.wav
+  Go to sleep!
+
+VO_Mechty_Series_Up_001.wav
+  And damn it...
+
+VO_Mechty_Series_Up_002.wav
+  It's over.
+
+VO_Mechty_Series_Up_003.wav
+  Is it okay if I do it?
+
+VO_Mechty_Series_Up_004.wav
+  Ui... I'm getting a little too strong...
+
+VO_Mechty_Series_Up_005.wav
+  I-I'm done, right?
+
+VO_Mechty_Series_Up_006.wav
+  You're still going to do it?
+
+VO_Mechty_Series_Up_008.wav
+  I'm the strongest right now!
+
+VO_Mechty_Series_Win.wav
+  I'm finally done... Can I sleep for a day after I get home? Oh no... I'm so sleepy...
+
+VO_Mechty_Single_Acquire_R_001.wav
+  I couldn't achieve my sleep schedule this year. Commander, do you have a paid vacation in Hermo? If not, I'll just sleep for three days and nights.
+
+VO_Mechty_Single_Acquire_SSR_001.wav
+  It's only been a year since I've been back. It's like I've been working for three years. So... Would you give me a vacation if I worked hard for a year?
+
+VO_Mechty_Single_Anniversary_001.wav
+  Ehh, you've been working non-stop for a year? As expected of a commander, I don't have a week. Besides, it's not a good thing that I work anyway.
+
+VO_Mechty_Single_Birthday_R_001.wav
+  Today is the captain's birthday, right? I've prepared the game and the potatoes, so why don't we have a home party from now on?
+
+VO_Mechty_Single_Birthday_SSR_001.wav
+  Happy birthday, Commander! Here we go... I made my favorite... I made my favorite... It was hard to collect all the ships... When you finish reading, let me know your impressions!
+
+VO_Mechty_Single_Birthday_SSR_002.wav
+  Happy birthday, Commander. This is a game for two people that I chose to choose. I think you'll definitely like it. If you call me, I'll play with you during the break.
+
+VO_Mechty_Single_Children_001.wav
+  I'm handing out balloons over there, so can you get them for me? Because I look like a child? Hmm... I guess I have no choice.
+
+VO_Mechty_Single_Christmas_001.wav
+  If Santa comes, please wake me up. I want to know how I can live once a year.
+
+VO_Mechty_Single_Christmas_002.wav
+  Speaking of Christmas presents, surprise! Find out where my present is. It's okay. The commander is always at the place where I go.
+
+VO_Mechty_Single_Duanwu_001.wav
+  I heard that Meirin is making delicious food, so I came to see how it is. Wow, what is this leaf? Eh? Do I have to wrap it in this? I guess it's okay.
+
+VO_Mechty_Single_Friendliness_001.wav
+  You shouldn't expect anything strange from me.
+
+VO_Mechty_Single_Friendliness_002.wav
+  Where is my room? I want to try the effect of the new sleeping bag I bought.
+
+VO_Mechty_Single_Friendliness_003.wav
+  Hmm... You still have time to leave, right? Let me sleep for 5 minutes...
+
+VO_Mechty_Single_Friendliness_004.wav
+  The Hermo's facilities are full, but there's something missing... Ah, how about this sofa that can make people feel bad? I'll send you a link, so buy it later!
+
+VO_Mechty_Single_Friendliness_005.wav
+  I heard that you would give my Switch to the Commander, but... If possible, I won't use it again... Eh, Tamma, Tamma! Don't try to use it from the side I'm talking about!
+
+VO_Mechty_Single_Friendliness_006.wav
+  I don't know if you say it all at once, so talk more slowly. Eh? Do you have a mission? Can I skip it?
+
+VO_Mechty_Single_Friendliness_007.wav
+  Why are you all working so hard? It's best to lie down and rest. Look, like this.
+
+VO_Mechty_Single_Friendliness_008.wav
+  I heard that the company that is about to collapse is extremely strict in bloodshed... I'm wondering if the Commander has been watching me lately...
+
+VO_Mechty_Single_Friendliness_009.wav
+  If you're so worried, you'll lose your head, right? Hm? Will I get stronger if I lose my head?
+
+VO_Mechty_Single_Friendliness_010.wav
+  You want to play games? I'll lend you my account. The ID is Pink Nyanyan Punch. Ehe, what a nice name.
+
+VO_Mechty_Single_Friendliness_011.wav
+  Ah, Commander... I just came to visit the command room, so don't worry about it. Oh, it looks good to take a nap in this chair. Can I leave some snacks here?
+
+VO_Mechty_Single_Friendliness_012.wav
+  Wow, the command room is really messy. Ah, I think I can lie down here.
+
+VO_Mechty_Single_Friendliness_013.wav
+  Commander, are you pushing my switch? Because when I hear your voice, I'm all sleepy.
+
+VO_Mechty_Single_Login_001.wav
+  Ah, you're here, Commander. It's just in time, so let's take a nap.
+
+VO_Mechty_Single_MidAutumn_001.wav
+  Hmm... The moon is beautiful. I'll sleep on a day like this. Ah! Did the rabbit just fly? No, I'm sure it was a mistake.
+
+VO_Mechty_Single_MidAutumn_002.wav
+  Coke is good, Potato chips are good, Game is good, And then, the moon is good. Now, after that, I'll call everyone and watch the moon in the game. If this is the case, you can watch the moon from morning to night, right?
+
+VO_Mechty_Single_NewYear_001.wav
+  Happy New Year, Commander. This year's plan? Yeah... Last year, I was told to come and I wrote a lot, but I couldn't achieve any of them... Ah, don't tell me to come. I'll definitely get killed.
+
+VO_Mechty_Single_NewYear_002.wav
+  Akeome... When I'm with you, time just flies by so fast... I guess I'll go do some New Year's now.
+
+VO_Mechty_Single_Obon_001.wav
+  Nn... nn... nn... Ah! It's already night!? Commander, wake up! Wake up! I've been waiting for today to come! There's no ghost, so let's go see it!
+
+VO_Mechty_Single_Obtain_SSR_001.wav
+  Yes, yes. I'm Mifty, who is selfless and easy to use. Has my luggage already arrived at Hermo?
+
+VO_Mechty_Single_Passive_SSR_001.wav
+  That was close, that was close.
+
+VO_Mechty_Single_SpringFes_001.wav
+  Helmet will come, backpack will come. Hmm, I'll give this special sale safety kit to the commander. Ah, commander! Since when did you come here?
+
+VO_Mechty_Single_SpringFes_002.wav
+  Happy New Year, Commander. How about you take a break from the New Year's Day? It's a New Year's Day when you're with someone important, right?
+
+VO_Mechty_Single_ThanksGiving_001.wav
+  Though I came here to pass on these seven-sided nervousness, And walk away the feeling of gratitude I get near you. They didn't miss a woman Iünüji once saw from the geen of a truck... 222 2 1 2 2 2 2 2 2 2 222 2 222 222 222 222 222 222 223 222 222 222 222 222 223 223 223 223 224 224 224 225 226 227 227 229 228 228 228 229 228 229 2280 229 2210 22 GG
+
+VO_Mechty_Single_Title_001.wav
+  Dolls Front Line 2... Exil...
+
+VO_Mechty_Single_Valentine_001.wav
+  Wow, there's a lot of evidence. Commander, you're a sinner. There was a character who was beaten by 9 people in the game and had a terrible eye, but do you know what he was called? On the roof... I know this place! I won't say it anymore!
+
+VO_Mechty_Single_Valentine_002.wav
+  Choco, are you getting a lot? No, I saw how many you guys are making. Here, this is my chocolate. If it's only twice, I'm confident that I won't lose to anyone.
+
+VO_Mechty_Single_WhiteVale_001.wav
+  What did Tsutsumi, our victim, have on our meditation robes? Huh? For myself? No way… They were about to end upudoing me for a change of 나�ctions, And even a distinction… I've understood now… but… Perhaps I deserve to die, so can you… make the deal. Can't you see?
+

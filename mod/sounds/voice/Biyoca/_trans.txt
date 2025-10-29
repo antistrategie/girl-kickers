@@ -1,0 +1,235 @@
+# Voice Line Translations for Biyoca
+# Generated automatically using OpenAI Whisper
+# Total files: 77
+
+VO_Biyoca_Series_Battle_Start.wav
+  Haha, how about this?
+
+VO_Biyoca_Series_Cancel.wav
+  Yes!
+
+VO_Biyoca_Series_Chosen.wav
+  Let's go!
+
+VO_Biyoca_Series_Chosen_Auto.wav
+  GO!
+
+VO_Biyoca_Series_Daily_001.wav
+  Hello, Commander! Do you have a mission?
+
+VO_Biyoca_Series_Daily_002.wav
+  Even though we're in the same team, Groza and Onee-chan are completely different. Eh? Which one do you like? That's obvious to Onee-chan!
+
+VO_Biyoca_Series_Daily_003.wav
+  I heard that the fortune telling of Nemesis is very effective! I wonder if I can get a fortune telling that matches my sister.
+
+VO_Biyoca_Series_Daily_004.wav
+  Commander, are you hungry? I'll make you something. Huh? Are you worried that the microwave won't explode? That's not true, right? I read the instructions properly.
+
+VO_Biyoca_Series_Daily_005.wav
+  Oh, it seems that the second mission is over. Alright, let's go see Luce! Eh? What are you going to do after meeting? Hehe, it's a secret. Secret.
+
+VO_Biyoca_Series_Daily_006.wav
+  I'm going to go shooting training with Andris, will you come? I'm even happier if you're with me.
+
+VO_Biyoca_Series_Daily_007.wav
+  This medicine? It's an important amulet that Onee-chan gave me! If I have this, it seems like I'm with Onee-chan!
+
+VO_Biyoca_Series_Daily_008.wav
+  What do you always talk about with the Commander? Did you say something about me? Hey, tell me!
+
+VO_Biyoca_Series_Daily_009.wav
+  What's so good about Misty? I can do it myself if I just sleep.
+
+VO_Biyoca_Series_Daily_010.wav
+  My goal is to become an elite doll like you! I'll do my best for that!
+
+VO_Biyoca_Series_Die.wav
+  aaaaah
+
+VO_Biyoca_Series_Hit.wav
+  You must be surprised!
+
+VO_Biyoca_Series_Hitted_2.wav
+  Ha!
+
+VO_Biyoca_Series_Hitted_4.wav
+  Oops!
+
+VO_Biyoca_Series_Kill.wav
+  This is the end!
+
+VO_Biyoca_Series_Lose.wav
+  Ugh, I failed... I promised my big sister...
+
+VO_Biyoca_Series_Set_Click.wav
+  Yeah!
+
+VO_Biyoca_Series_Set_Fall.wav
+  Onee-chan, look!
+
+VO_Biyoca_Series_Skill01.wav
+  I'll show you something amazing!
+
+VO_Biyoca_Series_Skill02.wav
+  Get away from my sister!
+
+VO_Biyoca_Series_Tone_Negative_001.wav
+  nnngh
+
+VO_Biyoca_Series_Tone_Positive_004.wav
+  Oh !
+
+VO_Biyoca_Series_Tone_Positive_006.wav
+  Go away!
+
+VO_Biyoca_Series_Tone_Positive_008.wav
+  Easy peasy!
+
+VO_Biyoca_Series_Tone_Positive_009.wav
+  Give up!
+
+VO_Biyoca_Series_Ultimate.wav
+  Leave it to me!
+
+VO_Biyoca_Series_Up_001.wav
+  Help!
+
+VO_Biyoca_Series_Up_002.wav
+  I've gotten stronger!
+
+VO_Biyoca_Series_Up_003.wav
+  Amazing!
+
+VO_Biyoca_Series_Up_004.wav
+  I can become your strength!
+
+VO_Biyoca_Series_Up_005.wav
+  Ehehe, I'm so happy!
+
+VO_Biyoca_Series_Up_006.wav
+  Will you praise me, Onee-chan?
+
+VO_Biyoca_Series_Up_007.wav
+  Hmm... I'll do my best!
+
+VO_Biyoca_Series_Up_008.wav
+  I want to show it to my sister soon!
+
+VO_Biyoca_Series_Win.wav
+  Yay! Mission complete! You're going to praise me, aren't you?
+
+VO_Biyoca_Single_Acquire_R_001.wav
+  It's been a year since I came to Hermo-go. That's fast. Do you think so, Commander? Hehe, our compatibility is perfect after all!
+
+VO_Biyoca_Single_Acquire_SSR_001.wav
+  Commander, haven't you forgotten something? Today is the anniversary of the first year we met! Huh? You remember? That means... You came to see me! As expected, you are the best!
+
+VO_Biyoca_Single_Anniversary_001.wav
+  Commander, you've worked hard for a year. It's about time to take a break. Come on, I'll give you a massage, so sit here.
+
+VO_Biyoca_Single_Birthday_R_001.wav
+  Happy birthday, Commander! I've got cake and candles ready. Let's celebrate together!
+
+VO_Biyoca_Single_Birthday_SSR_001.wav
+  Happy Birthday! I've done my homework, so you can blow out the candles. Ah, I'll sing you another birthday song!
+
+VO_Biyoca_Single_Birthday_SSR_002.wav
+  What day is today? I wonder... Hmm... Our date anniversary? Ehehe, of course it's a joke! I've prepared a present too! Commander, happy birthday!
+
+VO_Biyoca_Single_Children_001.wav
+  This is... the controversial child animal balloon! This, to me? It's cute! Commander, thanks!
+
+VO_Biyoca_Single_Christmas_001.wav
+  Is it okay to decorate the tree with pine cones? But, if you say pine cones, it's a squirrel, and if you say squirrel, it's a beautician! Commander, let's decorate the tree with more pine cones! Right?
+
+VO_Biyoca_Single_Christmas_002.wav
+  I say that if you say what you wish, you will not be able to fulfill it, but if I am your opponent, it will be fine. If you doubt it, tell me secretly. Maybe tonight, it will really come true.
+
+VO_Biyoca_Single_Duanwu_001.wav
+  I just learned how to wrap the blood of the deer. I wrapped it in a lot. Do you want to try it? Natsume, Azuki, and then... Ah, umm... How many can you eat, Commander?
+
+VO_Biyoca_Single_Friendliness_001.wav
+  Commander, if you have any problems, I'll help you. Say anything!
+
+VO_Biyoca_Single_Friendliness_002.wav
+  You're not used to my name yet? Fufu, it's okay. I'll remember it if you call me a few times.
+
+VO_Biyoca_Single_Friendliness_003.wav
+  I've grown up? Hehe, it's been a while, so of course!
+
+VO_Biyoca_Single_Friendliness_004.wav
+  Commander, how was that battle? Do you remember the old days?
+
+VO_Biyoca_Single_Friendliness_005.wav
+  I miss the time I was with Griffin. Commander, if you have time, let's do a Texas holiday.
+
+VO_Biyoca_Single_Friendliness_006.wav
+  Commander, look at my book instead of the report book during break time. I've been here since a while ago.
+
+VO_Biyoca_Single_Friendliness_007.wav
+  Yeah, I feel better after talking to you. If something bad happens, can I come see you again?
+
+VO_Biyoca_Single_Friendliness_008.wav
+  Eeeh, how cruel! I've been aiming at the enemy's legs this time! I repaired it, but it still feels weird. Commander, please look into it.
+
+VO_Biyoca_Single_Friendliness_009.wav
+  I feel very relieved when I'm with you, Commander. Ah... Umm... Please always keep the door open next to you, Commander. Okay?
+
+VO_Biyoca_Single_Friendliness_010.wav
+  Wow! Ehehe, you were surprised? It's really fun to surprise the Commander! Ah, don't get so angry! You can surprise me next time! Right?
+
+VO_Biyoca_Single_Friendliness_011.wav
+  Onee-chan and Commander, both are important. Onee-chan is an important family, and Commander is... Commander is... Um... Um...
+
+VO_Biyoca_Single_Friendliness_012.wav
+  Commander! Don't do such dangerous things anymore! What if something happens?
+
+VO_Biyoca_Single_Friendliness_013.wav
+  Wow, I was just working with the commander, but it's already night. Then, I'll stay here tonight and wait for the commander to rest properly.
+
+VO_Biyoca_Single_Login_001.wav
+  Hey, Commander, did you see Onee-chan?
+
+VO_Biyoca_Single_MidAutumn_001.wav
+  Andris said today is the day we all gather together. The 404 guys are already here. Commander, let's hurry up and go up. The moon is beautiful.
+
+VO_Biyoca_Single_MidAutumn_002.wav
+  Meirin said that there are beautiful people living in the moon, but is it true? I have to compare which is more beautiful with my sister!
+
+VO_Biyoca_Single_NewYear_001.wav
+  Commander, happy new year! What's your wish for the new year? Let's make it come true together!
+
+VO_Biyoca_Single_NewYear_002.wav
+  Commander, have you decided on your goal for this year? Do you have any relationship with me? Mine is... To become stronger with you!
+
+VO_Biyoca_Single_Obon_001.wav
+  Someone I want to sneak up on? Hmm... No one! Everyone around me is important to me! Yeah! I want to stay like this forever!
+
+VO_Biyoca_Single_Obtain_SSR_001.wav
+  Commander! Do you remember me? My name is Bioka! Onee-chan gave me this!
+
+VO_Biyoca_Single_Passive_SSR_001.wav
+  If that's what you say!
+
+VO_Biyoca_Single_SpringFes_001.wav
+  Tadah! Commander, happy new year! Eh? I was surprised? I'm sorry! Let's have fireworks together! I got a lot from Meirin earlier!
+
+VO_Biyoca_Single_SpringFes_002.wav
+  Commander, give me a ball! Ouch! But Meirin has this kind of greeting too... Eh? This is a ball? Yay! The part where you were hit just now... It still hurts, so... Can you pet it?
+
+VO_Biyoca_Single_ThanksGiving_001.wav
+  Alright, it's done! Ah, Commander, you came to the right place! Here, a special thanks to the beauty department, apple pie! Thank you for everything! Wait, what? Today, I'm eating apple pie, right? No way! It was pumpkin pie!?
+
+VO_Biyoca_Single_Title_001.wav
+  Dolls Front Line 2 Exilium
+
+VO_Biyoca_Single_Valentine_001.wav
+  Commander, let's stop working Valentine's Day and spend it together. Here, chocolate. I made it to your taste.
+
+VO_Biyoca_Single_Valentine_002.wav
+  Commander, did you decide where we're going to date? Eh? Really? Then it's okay! I've already decided! Let's go!
+
+VO_Biyoca_Single_WhiteVale_001.wav
+  Commander, you've prepared a present for me, haven't you? Hehe, show me, show me! I've been waiting for you since this morning. And today, I'll be with you, Commander.
+

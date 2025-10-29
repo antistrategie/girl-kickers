@@ -1,0 +1,253 @@
+# Voice Line Translations for Lenna
+# Generated automatically using OpenAI Whisper
+# Total files: 83
+
+VO_Lenna_Lobby_Welcome.wav
+  Alright! I did my best for a year! I can rest today!
+
+VO_Lenna_Series_Battle_Start.wav
+  I'll finish it today too!
+
+VO_Lenna_Series_Chosen.wav
+  Good feeling?
+
+VO_Lenna_Series_Daily_001.wav
+  Foo Foo Foo Good morning, Commander! Me? I'm going to contact Revanee from now on! Ehehe
+
+VO_Lenna_Series_Daily_002.wav
+  Eh? There's still work to do? No way... Alright, let's finish this quickly!
+
+VO_Lenna_Series_Daily_003.wav
+  Oh, it's a sunny day today. I guess I should get going.
+
+VO_Lenna_Series_Daily_004.wav
+  That was... Ribanee? Eh? To the Commander? Ehh, what does Ribanee mean? That's fine, tell me! Because I haven't gotten a call from Ribanee for a long time! Even two days is long enough!
+
+VO_Lenna_Series_Daily_005.wav
+  Ehehe, how about this outfit? It's cool, right? I designed it for Karin-nee's mission. But I prefer the previous outfit. Because it's the same as Riva-nee's.
+
+VO_Lenna_Series_Daily_006.wav
+  Ah, I want to hear Tiba-nee's voice! Hm? Ah, it's 4-5-nee's new codename! I gave it to her!
+
+VO_Lenna_Series_Daily_007.wav
+  Ah, I'm tired. It's not all good to be able to work. Hmm?
+
+VO_Lenna_Series_Daily_008.wav
+  Yoho, Commander! Long time no see! You've been showing up sometimes, haven't you? Karin-nee is worried about you... Ah, no! She left! Anyway, welcome back, Commander!
+
+VO_Lenna_Series_Daily_009.wav
+  Haa, the size is different, but the hairstyle changes too ... Hmm, the commonality with Riva is disappearing ...
+
+VO_Lenna_Series_Daily_010.wav
+  Yeah! Mental improvement, firepower improvement, ability improvement! I'm glad I participated in the experiment!
+
+VO_Lenna_Series_Die.wav
+  I-I lost!?
+
+VO_Lenna_Series_Hit.wav
+  This way!
+
+VO_Lenna_Series_Hitted.wav
+  chant
+
+VO_Lenna_Series_Hitted_2.wav
+  Oh!
+
+VO_Lenna_Series_Hitted_5.wav
+  Ahaha!
+
+VO_Lenna_Series_Kill.wav
+  I'm sorry!
+
+VO_Lenna_Series_Lose.wav
+  Uu... I'm sorry, Commander... But, as long as I'm with you, we'll be fine! Don't worry!
+
+VO_Lenna_Series_Set_Fall.wav
+  No, the effect is excellent!
+
+VO_Lenna_Series_Set_Fall_2.wav
+  I'll protect everyone!
+
+VO_Lenna_Series_Skill01.wav
+  It's the white owl's voice!
+
+VO_Lenna_Series_Skill02.wav
+  I found it!
+
+VO_Lenna_Series_Tone_Negative_001.wav
+  LOL
+
+VO_Lenna_Series_Tone_Negative_002.wav
+  Stay tuned for the Rafe reform video of Betty's in Summer!
+
+VO_Lenna_Series_Tone_Positive_002.wav
+  There!
+
+VO_Lenna_Series_Tone_Positive_003.wav
+  Woohoo!
+
+VO_Lenna_Series_Tone_Positive_004.wav
+  No way!
+
+VO_Lenna_Series_Tone_Positive_006.wav
+  Relax, relax!
+
+VO_Lenna_Series_Tone_Positive_007.wav
+  Oh! Scary! Scary!
+
+VO_Lenna_Series_Tone_Positive_008.wav
+  It sure does grown your sight! VHS primeiro Old thriller Joke
+
+VO_Lenna_Series_Tone_Positive_009.wav
+  Disappear!
+
+VO_Lenna_Series_Tone_Positive_010.wav
+  It was a pity.
+
+VO_Lenna_Series_Ultimate.wav
+  White
+
+VO_Lenna_Series_Up_001.wav
+  I wonder if I've gotten stronger!
+
+VO_Lenna_Series_Up_005.wav
+  Did something change?
+
+VO_Lenna_Series_Up_007.wav
+  Will you praise me, Riva?
+
+VO_Lenna_Series_Up_008.wav
+  I've become useful to you, Libanee!
+
+VO_Lenna_Series_Win.wav
+  Perfect! I can't help but praise you, Riva-nee! Eheheh! Of course I want you to praise me too, Commander!
+
+VO_Lenna_Single_Acquire_R_001.wav
+  Huh? Another year has passed? Hmm... I didn't notice at all. Maybe it's because the commander was by my side and I was too relaxed. Ehehe
+
+VO_Lenna_Single_Acquire_SR_001.wav
+  I mean, it's already been a year. The Commander is always so naive. The time we spent as a family is not a year.
+
+VO_Lenna_Single_Acquire_SSR_001.wav
+  The day we started living together? O-Of course I remember! Hehe, that's right! What should I send to the commander? I'll make him a badge!
+
+VO_Lenna_Single_Anniversary_001.wav
+  Alright! I did my best for a year! I can rest for today! Ehehe! Commander, let's leave the trouble to others and enjoy the party together!
+
+VO_Lenna_Single_Birthday_R_001.wav
+  Happy birthday! Wait, what's wrong with that face? It's my family's birthday, so of course I should celebrate!
+
+VO_Lenna_Single_Birthday_SR_001.wav
+  Commander? Yes! A present! Isn't it wonderful? I chose it with you! Happy birthday!
+
+VO_Lenna_Single_Birthday_SSR_001_TypeA.wav
+  Happy birthday, Commander! Ehehe, I didn't think I'd be here! It's a surprise after all! Mission? Don't worry, I've finished it properly!
+
+VO_Lenna_Single_Birthday_SSR_001_TypeB.wav
+  Happy birthday! Eheheh! Eh? I won't forget it! Because you're my... Ufufu As I thought, it's a secret! Hurry up and open the present!
+
+VO_Lenna_Single_Birthday_SSR_002.wav
+  Today, there's a super, super, super fancy party at the Hermes, but who do you think will be the main character? That's right! We all prepared for you, Commander! I've also prepared a surprise for you, so look forward to it, Commander!
+
+VO_Lenna_Single_Children_001.wav
+  Ah, Commander! I'll give you this candy! It's really delicious! It looks cute after all! Ehehe! Hmm? Do you want me to eat it? Sure! Come on, open your mouth! Aaaaah!
+
+VO_Lenna_Single_Christmas_001.wav
+  Alright, next I'll put this in here. Ah, Commander! This is the cracker I made. Pepli taught me. Do you want to make it together? If you make it together, it'll look more like a memorial day.
+
+VO_Lenna_Single_Christmas_002.wav
+  Merry Christmas! I've got presents for you! If you find something that suits your present, you'll end up buying it without being able to wait!
+
+VO_Lenna_Single_Duanwu_001.wav
+  Do you know that the Commander is a Dragon Boat? It seems that he is following the Dragon, but there are also dragons like that. I thought that dragons all had big wings.
+
+VO_Lenna_Single_Friendliness_001.wav
+  Ehehe, as expected of the commander! Your footsteps haven't changed at all!
+
+VO_Lenna_Single_Friendliness_002.wav
+  Oh my, not the one before? Well, well I'm growing on that one! Lots and lots!
+
+VO_Lenna_Single_Friendliness_003.wav
+  Commander, you have to call me Rena here. Oh, yeah, I was told by Viva-nee and I named it after her. I like it.
+
+VO_Lenna_Single_Friendliness_004.wav
+  Ah, I was thinking about the Commander earlier. Fufu, it's natural to care about your family, right?
+
+VO_Lenna_Single_Friendliness_005.wav
+  Hehe, Commander, the Geranium I raised has finally bloomed! This time I won't let you get away with it!
+
+VO_Lenna_Single_Friendliness_006.wav
+  Hey, Commander! What are you doing? We're not that close yet, are we? Well, we're family, but... I-I can't let this go!
+
+VO_Lenna_Single_Friendliness_007.wav
+  Oh, Commander? It seems that you need a nose care. Ahahahaha! How? Were you surprised? Ehehe, it's similar.
+
+VO_Lenna_Single_Friendliness_008.wav
+  Don't look at me like that. I changed my body, so there's no more wound. I think it's better to carve it again. What do you think, Commander?
+
+VO_Lenna_Single_Friendliness_009.wav
+  Thank you for everything, Commander! This is a thank-you kiss! Ahaha, you're serious? Commander's eyes are the same as before!
+
+VO_Lenna_Single_Friendliness_010.wav
+  Ah! Look over there, Commander! Over there! Tch! Hehe, that wasn't a joke. How was it? It wasn't as bad as I thought, right?
+
+VO_Lenna_Single_Friendliness_011.wav
+  Ehehe, if you suddenly appear, the commander will be surprised. I'm looking forward to seeing your surprised face. But, when will the commander come out? Why are you suddenly coming out?
+
+VO_Lenna_Single_Friendliness_012.wav
+  Um, Commander, change is not a bad thing, right? Yeah, everyone's really gotten better. You too, Commander. I have to do my best too!
+
+VO_Lenna_Single_Friendliness_013.wav
+  No, I think the Panku style will suit you better. Why don't you try it? I know a good store. Let's go together!
+
+VO_Lenna_Single_MidAutumn_001.wav
+  Hehe, the moon that I see with my family looks even more beautiful. It's soft and bright, and I want to be like the moon.
+
+VO_Lenna_Single_MidAutumn_002.wav
+  Speaking of the Chushu Festival, it's the day when everyone in the family gathers. Today is the day of the Li-ba, the Karin, and the 404. I'm going to watch the moon, so you should definitely come.
+
+VO_Lenna_Single_NewYear_001.wav
+  A wish... I'm happy enough now, but... Ah, it's spread! I hope I can be with everyone and the commander more!
+
+VO_Lenna_Single_NewYear_002.wav
+  Commander, have you decided how to spend New Year's? A visit? A long journey? Or shopping? It's up to you what you do, but... You're definitely going to be with your family!
+
+VO_Lenna_Single_Obon_001.wav
+  Commander, Commander! I'm going to dress up as a ghost tonight! Huh? Isn't that the day? I thought it was a day that wasn't very different from Halloween, but it wasn't.
+
+VO_Lenna_Single_Obtain_R_001.wav
+  Oh, so this is the rumored Elmo Hawker! That's great! I'll make it even more exciting!
+
+VO_Lenna_Single_Obtain_SR_001.wav
+  Ah, it's the commander! I'm so glad! I'll protect you properly this time!
+
+VO_Lenna_Single_Obtain_SSR_001.wav
+  Ehehe, sorry for the wait! Leave the rest to me!
+
+VO_Lenna_Single_Passive_SSR_001.wav
+  Good girl, good girl!
+
+VO_Lenna_Single_SpringFes_001.wav
+  Commander! Baa! Ehehe, are you surprised? I tried on a lion costume. Isn't it cute? Today I will dance with Pepli, so please look forward to it!
+
+VO_Lenna_Single_SpringFes_002.wav
+  I've prepared a new costume for the commander. After I'm dressed, let's make a movie. The title is... The Spring of the Elm House. Everyone's gathered at the Elm House. I have to enjoy it with all my might.
+
+VO_Lenna_Single_ThanksGiving_001.wav
+  Um, you know, Commander, when I was looking for the seven-sided butterfly image earlier, I thought that it would look better after it was cooked. But I have to thank them.
+
+VO_Lenna_Single_Title_001.wav
+  Dolls Front Line 2 Exilium
+
+VO_Lenna_Single_Ultimate_SR_001.wav
+  Here we go!
+
+VO_Lenna_Single_Valentine_001.wav
+  Commander, today is the day to tell your feelings, right? Hehe, so I'm looking forward to it. You're not allowed to be stupid anymore!
+
+VO_Lenna_Single_Valentine_002.wav
+  It's about the commander, so today I got a lot of chocolates from everyone, right? Hehe, so I devised a way to make a different chocolate from everyone's! What kind of devise is it? Look forward to opening it!
+
+VO_Lenna_Single_WhiteVale_001.wav
+  Eh? Another Valentine's Day? Isn't it too many to have two every year? Ah, but if I can be with you, there might not be many.
+

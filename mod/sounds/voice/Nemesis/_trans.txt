@@ -1,0 +1,196 @@
+# Voice Line Translations for Nemesis
+# Generated automatically using OpenAI Whisper
+# Total files: 64
+
+VO_Nemesis_10_VO_Nemesis_Series_Daily_006.wav
+  ...The frightening choking... ... ...the quiet pleasure being brought… ...
+
+VO_Nemesis_11_VO_Nemesis_Series_Daily_007.wav
+  Caloric... ...Fufu. Chaos of storms. A
+
+VO_Nemesis_12_VO_Nemesis_Series_Daily_008.wav
+  From now on, let the fire DAC.
+
+VO_Nemesis_13_VO_Nemesis_Series_Daily_009.wav
+  The bird's flock with their besoin, Brings the beauty to their eyes.
+
+VO_Nemesis_14_VO_Nemesis_Series_Daily_010.wav
+  A peaceful light that flows through my memories. In the distance of the mirror, a old stone. The end is yet to come.
+
+VO_Nemesis_17_VO_Nemesis_Series_Battle_Start__VO_Nemesis_Series_Cancel__VO_Nemesis_Series_Chosen_Auto__VO_Nemesis_Series_Move_Start__VO_Nemesis_Series_Tone_Positive_003.wav
+  Hehe
+
+VO_Nemesis_18_VO_Nemesis_Series_Battle_Start__VO_Nemesis_Series_Tone_Positive_005.wav
+  Fatigued.
+
+VO_Nemesis_19_VO_Nemesis_Series_Battle_Start__VO_Nemesis_Series_Set_Click__VO_Nemesis_Series_Shield_Broken__VO_Nemesis_Series_Tone_Positive_006.wav
+  ...Skima.
+
+VO_Nemesis_1_VO_Nemesis_Series_Hitted.wav
+  lol
+
+VO_Nemesis_20_VO_Nemesis_Series_Battle_Start__VO_Nemesis_Series_Cancel__VO_Nemesis_Series_Tone_Positive_007.wav
+  Eliminate.
+
+VO_Nemesis_21_VO_Nemesis_Series_Battle_Start__VO_Nemesis_Series_Set_Fall__VO_Nemesis_Series_Tone_Positive_008.wav
+  Odd
+
+VO_Nemesis_23_VO_Nemesis_Series_Up_002.wav
+  Patefactast.
+
+VO_Nemesis_24_VO_Nemesis_Series_Up_003.wav
+  Wake up.
+
+VO_Nemesis_25_VO_Nemesis_Series_Up_004.wav
+  Nuscombe.
+
+VO_Nemesis_26_VO_Nemesis_Series_Up_005.wav
+  Nomen mãe crêta.
+
+VO_Nemesis_27_VO_Nemesis_Series_Up_006.wav
+  return.
+
+VO_Nemesis_28_VO_Nemesis_Single_Acquire_R_001.wav
+  Buried in the beginning of the earth, the stardust...
+
+VO_Nemesis_29_VO_Nemesis_Single_Acquire_SR_001.wav
+  Fufu... A perfectADA. Ah... So used to Washington...
+
+VO_Nemesis_30_VO_Nemesis_Single_Acquire_SSR_001.wav
+  I followed the guidance of blessing and came here.
+
+VO_Nemesis_31_VO_Nemesis_Single_Anniversary_001.wav
+  Inظеpe
+
+VO_Nemesis_32_VO_Nemesis_Single_Birthday_R_001.wav
+  S crucifixion of a God brought about by darkness.. Aạ , and wh الolg parties... The birth...... initiated now...
+
+VO_Nemesis_33_VO_Nemesis_Single_Birthday_SR_001.wav
+  ......inits... .....whose sons we planting bid you well.梅でたき Ring of Intermission
+
+VO_Nemesis_34_VO_Nemesis_Single_Birthday_SSR_001.wav
+  Emptiness netness of all things in one withhorized Water Bell twinkling'alı
+
+VO_Nemesis_35_VO_Nemesis_Single_Children_001.wav
+  A being born from a source, a link, a fragment of a single color...
+
+VO_Nemesis_36_VO_Nemesis_Single_Christmas_001.wav
+  The end, the end, the fragments of the stars, the three thousand trees, I dedicate them to the people of the stars.
+
+VO_Nemesis_37_VO_Nemesis_Single_Duanwu_001.wav
+  You drink thelock andytic bombs across the blood vessels Contin Vienna's Treaty, a moment's silence
+
+VO_Nemesis_38_VO_Nemesis_Single_Friendliness_001.wav
+  The gate of antiquity, the way of honor, the way of victory is opened.
+
+VO_Nemesis_39_VO_Nemesis_Single_Friendliness_002.wav
+  Enloving Transcendence. I choose to follow our One handing Enloving Transcendence
+
+VO_Nemesis_40_VO_Nemesis_Single_Friendliness_003.wav
+  An calend services Got out by the wayside
+
+VO_Nemesis_41_VO_Nemesis_Single_Friendliness_004.wav
+  That the stars Will guide everything
+
+VO_Nemesis_42_VO_Nemesis_Single_Friendliness_005.wav
+  In the burning of the fireflies, in the unknown place, in the time of the sun...
+
+VO_Nemesis_43_VO_Nemesis_Single_Friendliness_006.wav
+  Unverse help, sparkling Deep in the bush The road to Unbecoming in theammunition
+
+VO_Nemesis_44_VO_Nemesis_Single_Friendliness_007.wav
+  a quiet sea, sudden flowering mist WWE of a hearth according to space and space
+
+VO_Nemesis_45_VO_Nemesis_Single_Friendliness_008.wav
+  A bait that can be put at a loss. Before the storm this road, beyond theentec Mercedes-Benz Riding
+
+VO_Nemesis_46_VO_Nemesis_Single_Friendliness_009.wav
+  Eternal
+
+VO_Nemesis_47_VO_Nemesis_Single_Friendliness_010.wav
+  Starlight, peace, I dwell in an eternal dream. I cannot be thrown away, I cannot be returned.
+
+VO_Nemesis_48_VO_Nemesis_Single_Friendliness_011.wav
+  Fragments of a frozen flame, pow Notes mí Light a new light
+
+VO_Nemesis_49_VO_Nemesis_Single_Friendliness_012.wav
+  ... film and audio by girls Thanks for curing me Après-M exactly
+
+VO_Nemesis_50_VO_Nemesis_Single_Friendliness_013.wav
+  A huge shell is skewed against the shore… The traces still exist… Gettingós待 and rice emerging شي
+
+VO_Nemesis_51_VO_Nemesis_Series_Hit__VO_Nemesis_Single_Hit_001.wav
+  One hitาน
+
+VO_Nemesis_52_VO_Nemesis_Series_Kill__VO_Nemesis_Single_Kill_001.wav
+  Kyouzou... Disappeared...
+
+VO_Nemesis_53_VO_Nemesis_Single_Login_001.wav
+  The stardust runs afoul of the center's Lang state
+
+VO_Nemesis_54_VO_Nemesis_Series_Lose__VO_Nemesis_Single_Lose_001.wav
+  Oh forest, so should be dust booking Move in Fall in By myself It needs advice If you can bring electricity back to añ niño You can start to plant the trees
+
+VO_Nemesis_55_VO_Nemesis_Single_MidAutumn_001.wav
+  Alright... I shall explore the underground dungeon throughout and since the holkolord in pure too much death I shall offer her a phone for縁 and reach the taboo邊 of ni 0
+
+VO_Nemesis_56_VO_Nemesis_Single_NewYear_001.wav
+  Beneath the earth, I wake— Sighted by a mere scoop. It is bitter thunder. It rains for rest. It is a slideshow of another greatest tragedy—
+
+VO_Nemesis_57_VO_Nemesis_Single_Obon_001.wav
+  Reviving a
+
+VO_Nemesis_58_VO_Nemesis_Series_Skill01__VO_Nemesis_Single_Skill_001.wav
+  . And Az
+
+VO_Nemesis_59_VO_Nemesis_Series_Skill02__VO_Nemesis_Single_Skill_002.wav
+  Pontus' ball knot
+
+VO_Nemesis_60_VO_Nemesis_Single_SpringFes_001.wav
+  O festival of Hades, Hades'
+
+VO_Nemesis_61_VO_Nemesis_Single_ThanksGiving_001.wav
+  The light that chases the miracle of the storm, the protection of the ship, and guides the whole island.
+
+VO_Nemesis_62_VO_Nemesis_Single_Title_001.wav
+  Dolls Frontline 2 Exilium
+
+VO_Nemesis_63_VO_Nemesis_Single_Valentine_001.wav
+  Final
+
+VO_Nemesis_64_VO_Nemesis_Single_WhiteVale_001.wav
+  Get used to this dangerous тебя cannon. онаaki hole I'm a little sleep poisier.
+
+VO_Nemesis_65_VO_Nemesis_Series_Win__VO_Nemesis_Single_Win_001.wav
+  Creating a bridge between tabletop nationalowbecause...
+
+VO_Nemesis_66_VO_Nemesis_Single_Obtain_R_001.wav
+  In the twilight, above the Multiplying Falling Regents
+
+VO_Nemesis_67_VO_Nemesis_Single_Obtain_SR_001.wav
+  I, Pei-ji, Soyofuku Yamakaze, will do my best.
+
+VO_Nemesis_68_VO_Nemesis_Single_Obtain_SSR_001.wav
+  My shapes agitate my gaze, blinded by scale
+
+VO_Nemesis_69_VO_Nemesis_Single_Passive_SSR_001.wav
+  demon please traditions
+
+VO_Nemesis_6_VO_Nemesis_Series_Daily_002.wav
+  sekai
+
+VO_Nemesis_70_VO_Nemesis_Series_Ultimate__VO_Nemesis_Single_Ultimate_SR_001.wav
+  ...Kaen...Laptis.
+
+VO_Nemesis_71_VO_Nemesis_Single_Ultimate_SSR_001.wav
+  Abolesco theincayah
+
+VO_Nemesis_7_VO_Nemesis_Series_Daily_003.wav
+  Hmm?
+
+VO_Nemesis_8_VO_Nemesis_Series_Daily_004.wav
+  ock. Cross
+
+VO_Nemesis_9_VO_Nemesis_Series_Daily_005.wav
+  Yukkuri in riverrd in p个 terrace
+

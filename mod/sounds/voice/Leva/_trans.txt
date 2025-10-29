@@ -1,0 +1,166 @@
+# Voice Line Translations for Leva
+# Generated automatically using OpenAI Whisper
+# Total files: 54
+
+VO_Leva_Series_Attack.wav
+  Hang in there.
+
+VO_Leva_Series_Battle_Start.wav
+  Ready, set, go!
+
+VO_Leva_Series_Chosen.wav
+  I'm listening.
+
+VO_Leva_Series_Chosen_Auto.wav
+  What's the order?
+
+VO_Leva_Series_Daily_001.wav
+  Ahaha, I was surprised. I didn't notice at all. Was it really on purpose? Sorry, sorry. I'll make it more like that next time.
+
+VO_Leva_Series_Daily_002.wav
+  You can come closer. What? Are you worried about your nose?
+
+VO_Leva_Series_Daily_003.wav
+  Seeing Kurukai working hard makes me want to bully him no matter what. Ah, you don't have to keep it a secret.
+
+VO_Leva_Series_Daily_004.wav
+  If you have any questions, I can answer them, but I'm not the type to answer anything other than what you asked me. So, you should think carefully about what you're going to ask me.
+
+VO_Leva_Series_Daily_005.wav
+  I wish I had some privacy with my family, but... Of course, if you want to know everything about me, then that's another story.
+
+VO_Leva_Series_Die.wav
+  In a place like this...
+
+VO_Leva_Series_Dying.wav
+  ......
+
+VO_Leva_Series_Hit.wav
+  Want to try it out?
+
+VO_Leva_Series_Hitted_2.wav
+  Thank you for watching!
+
+VO_Leva_Series_Hitted_4.wav
+  애、
+
+VO_Leva_Series_Hitted_5.wav
+  ......
+
+VO_Leva_Series_Kill.wav
+  Bye!
+
+VO_Leva_Series_Lose.wav
+  It's okay, we just need to make use of it next time. Right?
+
+VO_Leva_Series_Set_Click.wav
+  I need you!
+
+VO_Leva_Series_Set_Fall.wav
+  Roger that.
+
+VO_Leva_Series_Shield_Broken.wav
+  This is not good...
+
+VO_Leva_Series_Skill01.wav
+  I have to take care of my life.
+
+VO_Leva_Series_Skill02.wav
+  Be quiet.
+
+VO_Leva_Series_Tone_Positive_001.wav
+  Here.
+
+VO_Leva_Series_Ultimate.wav
+  If it hurts, tell me.
+
+VO_Leva_Series_Up_001.wav
+  Hmm, like this?
+
+VO_Leva_Series_Up_002.wav
+  Hmm, not bad.
+
+VO_Leva_Series_Up_003.wav
+  Can you still continue?
+
+VO_Leva_Series_Up_004.wav
+  It feels fresh.
+
+VO_Leva_Series_Up_005.wav
+  You can rely on me more.
+
+VO_Leva_Series_Win.wav
+  Was I strong? No, it's all thanks to your command.
+
+VO_Leva_Single_Birthday_SSR_001.wav
+  Happy birthday! It's once a year, so I wonder if I'll hear you say anything today. You'll know if you say it's a joke or not.
+
+VO_Leva_Single_Birthday_SSR_002.wav
+  Happy birthday! It's only been 365 days, but you've grown a lot. I'll continue to be of use to you.
+
+VO_Leva_Single_Christmas_001.wav
+  According to the past mental log... Yeah, Commander was a good kid. Then, you can expect a present tonight. Don't forget to hang your socks.
+
+VO_Leva_Single_Christmas_002.wav
+  Merry Christmas! I heard Santa has a present for you, Yoiko. If you're greedy, you'll give me two, right?
+
+VO_Leva_Single_Friendliness_001.wav
+  After all, no matter how much your appearance or position changes, you're still the same as before, Commander.
+
+VO_Leva_Single_Friendliness_002.wav
+  Leave this to me. Annoying? No way. It's a family favor.
+
+VO_Leva_Single_Friendliness_003.wav
+  What I like and what I don't like? I don't really like to expose my privacy like that. But if it's you, there's nothing I can't tell you.
+
+VO_Leva_Single_Friendliness_004.wav
+  You don't have a catch? I do? You always think of me when you say things like that.
+
+VO_Leva_Single_Friendliness_005.wav
+  What's wrong? You're a terrible bear. If you can't sleep, I can be your talking partner. What do you think? You might have a good dream.
+
+VO_Leva_Single_Friendliness_006.wav
+  The skin of a doll is soft, right? Well, it's not as soft as a human. Let me touch yours, Commander. It's okay, I'm just comparing them.
+
+VO_Leva_Single_Friendliness_007.wav
+  Even if you call it family, everyone's relationship is special. What kind of existence do you think I am? Think about it.
+
+VO_Leva_Single_Friendliness_008.wav
+  If everything is settled, will you promise to share the same time? If you protect me, I won't forgive you.
+
+VO_Leva_Single_Login_001.wav
+  Hm? What's wrong? Do you want to see my face?
+
+VO_Leva_Single_MidAutumn_001.wav
+  The moon tonight looks round. Which is rounder, the mochi you drew or the one you drew? What are you talking about? No, I was just joking, but you were serious. Cute.
+
+VO_Leva_Single_MidAutumn_002.wav
+  The moon is beautiful. Since we're here, let's talk about something romantic. For example... I want to spend the second half of the year with you like this next year. Or something like that.
+
+VO_Leva_Single_NewYear_001.wav
+  Have you decided who you're going to spend the year with? I'll let you choose. UMP45? Reaver? Or me?
+
+VO_Leva_Single_NewYear_002.wav
+  The bell of the new year has rung. Here's the problem. Who will be the first doll to deliver a happy birthday to the commander? Fufu, you're so dull. You're right in front of me now.
+
+VO_Leva_Single_Obtain_SSR_001.wav
+  From now on, we will cooperate more closely. Looking forward to it, Commander.
+
+VO_Leva_Single_Passive_SSR_001.wav
+  Surprise!
+
+VO_Leva_Single_SpringFes_001.wav
+  New Year's, huh. I hope something changes. For example, our relationship. Fufu, I'm kidding. I don't have a deeper relationship than my family. Or maybe you don't think so?
+
+VO_Leva_Single_SpringFes_002.wav
+  Do you have any goals for this year? For example, do you want to get even closer with me? Fufu, I'm just kidding. Well, even if it's true, I don't mind.
+
+VO_Leva_Single_Title_001.wav
+  Dolls Front Line 2 Exilium
+
+VO_Leva_Single_Valentine_001.wav
+  Here, Valentine's chocolate. I've prepared some for you, but the Commander's is a little different. If you're interested, shall we open it?
+
+VO_Leva_Single_Valentine_002.wav
+  This year's chocolate has a special feeling in it. What that is... I'll enjoy it after I finish eating it all.
+

@@ -1,0 +1,229 @@
+# Voice Line Translations for Nikketa
+# Generated automatically using OpenAI Whisper
+# Total files: 75
+
+VO_Nikketa_Series_Attack.wav
+  Target recognised
+
+VO_Nikketa_Series_Chosen.wav
+  Care чис ...ardaudi?
+
+VO_Nikketa_Series_Chosen_Auto.wav
+  Is the salary going to go up?
+
+VO_Nikketa_Series_Daily_001.wav
+  Boss, I'd like to hold a meeting on the safety regulations of the Hermes, so please let the dolls know. Of course, you must also participate.
+
+VO_Nikketa_Series_Daily_002.wav
+  This month's Tokyo
+
+VO_Nikketa_Series_Daily_003.wav
+  This pink cat stuffed animal and this model gun... Which one will please the children the most?
+
+VO_Nikketa_Series_Daily_004.wav
+  Nagann helped me in many ways. How did you two meet? Well, that was because of the misunderstanding she caused.
+
+VO_Nikketa_Series_Daily_005.wav
+  Thanks to Xenia's advice, I was able to dig deeper into Magni Security.
+
+VO_Nikketa_Series_Daily_006.wav
+  Boss, this is not a joke. I was just thinking about what justice is to you.
+
+VO_Nikketa_Series_Daily_007.wav
+  Poiste is strictly prohibited by the Elmogou safety regulations. It is no exception to the boss. Now, if you don't pick it up, I'll arrest you.
+
+VO_Nikketa_Series_Daily_008.wav
+  Is this the handkerchief? I made it myself as a protection. Just to be sure, I didn't steal the police's jewelry.
+
+VO_Nikketa_Series_Daily_009.wav
+  I learned two things from my experience in the police. One, to believe in justice and to persevere. One, to always be open to discussion.
+
+VO_Nikketa_Series_Daily_010.wav
+  I'm sure they'll be happy if I give these cats their stuffed animals. But the money... Boss, can you pay me the monthly salary in advance?
+
+VO_Nikketa_Series_Die.wav
+  This is bad.
+
+VO_Nikketa_Series_Hit.wav
+  Don't let justice get to you!
+
+VO_Nikketa_Series_Hitted.wav
+  Thank you for watching!
+
+VO_Nikketa_Series_Hitted_2.wav
+  Thank you for watching!
+
+VO_Nikketa_Series_Hitted_4.wav
+  lol
+
+VO_Nikketa_Series_Kill.wav
+  Target silent.
+
+VO_Nikketa_Series_Lose.wav
+  Damn it.... To think that those guys are only looking from afar, while beinghesia przykład
+
+VO_Nikketa_Series_Set_Click.wav
+  I'll arrest you.
+
+VO_Nikketa_Series_Set_Fall.wav
+  Thank you.
+
+VO_Nikketa_Series_Skill01.wav
+  I'll arrest you in the second half.
+
+VO_Nikketa_Series_Skill02.wav
+  Under the name of justice.
+
+VO_Nikketa_Series_Tone_Positive_002.wav
+  Throw away your weapon.
+
+VO_Nikketa_Series_Tone_Positive_003.wav
+  Hup!
+
+VO_Nikketa_Series_Tone_Positive_005.wav
+  samhasa
+
+VO_Nikketa_Series_Tone_Positive_009.wav
+  Leave it to me.
+
+VO_Nikketa_Series_Tone_Positive_010.wav
+  Raise your hand.
+
+VO_Nikketa_Series_Ultimate.wav
+  Take the judgment!
+
+VO_Nikketa_Series_Up_001.wav
+  Ready
+
+VO_Nikketa_Series_Up_002.wav
+  I can still go.
+
+VO_Nikketa_Series_Up_003.wav
+  Be careful not to get too close.
+
+VO_Nikketa_Series_Up_004.wav
+  Perfect.
+
+VO_Nikketa_Series_Up_007.wav
+  Confession!? On erkennen Mthat , from train , are聽 canyon,THIS, color, and its language!! ... 나오, a woman, I<|haw|>
+
+VO_Nikketa_Series_Up_008.wav
+  For justice.
+
+VO_Nikketa_Series_Win.wav
+  Mission complete. All suspects have been arrested.
+
+VO_Nikketa_Single_Acquire_R_001.wav
+  It's been a year since I've been working with you. For this year, everyone in the Elmo family has been peaceful and safe. I'm very happy that my sense of compliance has been strengthened.
+
+VO_Nikketa_Single_Acquire_SSR_001.wav
+  I met a comrade who sought justice for a year. As long as I don't forget my kindness, I learned from the boss that justice is in me.
+
+VO_Nikketa_Single_Anniversary_001.wav
+  It's been a year. I think it's thanks to the boss that I didn't have to take the path of justice. I will continue to pursue justice with you.
+
+VO_Nikketa_Single_Birthday_R_001.wav
+  Happy birthday. Here's a present. I've taken in enough of the children's opinions. ...The choice is childlike. It's important not to forget the same heart.
+
+VO_Nikketa_Single_Birthday_SSR_001.wav
+  Happy birthday. I've prepared a cake. Eating in the command room is prohibited under the Elmo safety regulations, so why don't you go to the rest room? Let's forget about work for a while and enjoy your birthday.
+
+VO_Nikketa_Single_Birthday_SSR_002.wav
+  I'm really glad to see you grow for a year. Happy birthday, Boss.
+
+VO_Nikketa_Single_Children_001.wav
+  Boss, today is Children's Day, so I'm going to the orphanage. I've prepared a present for you, so I'll give it to you when I get home. Nikita
+
+VO_Nikketa_Single_Christmas_001.wav
+  Boss, I'm taking a day off today. The other day, I talked about Santa Claus at the orphanage, and the children were in the way. So today, I have to go pretend to be Santa. Will you go with me, boss? I'm glad. I was in trouble because there was no baby baby.
+
+VO_Nikketa_Single_Christmas_002.wav
+  Merry Christmas, Boss. This outfit is a Christmas limited edition, and I bought it because it made important people happy and made them excited. What do you think of it, Boss?
+
+VO_Nikketa_Single_Duanwu_001.wav
+  I heard from Meirin that the word theory is a personal another word foil is Wilma de minded from that
+
+VO_Nikketa_Single_Friendliness_001.wav
+  No matter how much you try, if you break the Elmo safety regulations, I won't forgive you.
+
+VO_Nikketa_Single_Friendliness_002.wav
+  The children of the orphanage baked a cake for me. Boss, how about it?
+
+VO_Nikketa_Single_Friendliness_003.wav
+  Oh? You seem to be in good shape today, boss.
+
+VO_Nikketa_Single_Friendliness_004.wav
+  I'm going to go see how the children are doing, will you come with me?
+
+VO_Nikketa_Single_Friendliness_005.wav
+  The children of the Cogin are very fond of the boss. I'm so envious. It took a long time for me.
+
+VO_Nikketa_Single_Friendliness_006.wav
+  U-Um... I can't ask you to plan the next month's budget for me... I-I've already exceeded the budget for this month...
+
+VO_Nikketa_Single_Friendliness_007.wav
+  This is... the latest information on children's clothing? Thank you very much... Wait, why is the boss collecting such information?
+
+VO_Nikketa_Single_Friendliness_008.wav
+  Boss, this is a present that the children of the orphanage made for the people of Ermo. Is there anything that you would like?
+
+VO_Nikketa_Single_Friendliness_009.wav
+  Thanks to you, I have a deeper understanding of justice. If I try to do something that I can't do to my parents, I won't be wrong. Isn't that right?
+
+VO_Nikketa_Single_Friendliness_010.wav
+  Andersen's Poetry... The boss chose it for me? Thank you very much. I'm sure the children will be happy too!
+
+VO_Nikketa_Single_Friendliness_011.wav
+  Boss, do you remember Article 6 of the Elmogon Security Contract? Yes, you said it right. It's good that you follow the contract.
+
+VO_Nikketa_Single_Friendliness_012.wav
+  I learned from the experience of the police that I can't trust others. But the boss is an exception. Because we are comrades who seek the same justice.
+
+VO_Nikketa_Single_Friendliness_013.wav
+  Boss, you fell asleep? But, looking at you like this, your sleeping face is like a child's, and it's so affectionate.
+
+VO_Nikketa_Single_Login_001.wav
+  Boss, I'm the one who's responsible for today's meeting. Let's take the Elmo to safety and get to work.
+
+VO_Nikketa_Single_MidAutumn_001.wav
+  According to Meilin, the collection festival is a day spent with the family. The children of the orphanage must be feeling lonely. Boss, why don't we go play with the orphanage together?
+
+VO_Nikketa_Single_MidAutumn_002.wav
+  A normal mooncake, a snow skin mooncake, and an ice cream mooncake... Ah, Boss. I'm choosing the sweets for the children. What flavor do you want? After seeing the children's trouble, let's eat somewhere.
+
+VO_Nikketa_Single_NewYear_001.wav
+  I'm thinking of bringing candy to the children in the orphanage, but would you like to come with me? I think the children would like to spend their first day of the new year with you.
+
+VO_Nikketa_Single_NewYear_002.wav
+  Do you want to spend New Year's with me? You can send gifts to the children in the orphanage, and you can make a year-end soba with me. Or, Boss, would you like to be alone with me?
+
+VO_Nikketa_Single_Obon_001.wav
+  I've heard a lot about the bonfire, but it seems that there is something that can be done. But don't worry. As a former officer, I will definitely protect you.
+
+VO_Nikketa_Single_Obtain_SSR_001.wav
+  Boss, would you like to protect justice with me?
+
+VO_Nikketa_Single_Passive_SSR_001.wav
+  Justice is in me.
+
+VO_Nikketa_Single_SpringFes_001.wav
+  Happy New Year, Boss. I hear that you are evil throughout the year, but as someone who has pierced through justice, I think it is necessary to eliminate this. Eh? I have a day off today, so I can do it next year.
+
+VO_Nikketa_Single_SpringFes_002.wav
+  I don't have a good reason to patrol because it's a pure-blooded thing. I made a board to make at least two people in one group. By the way, the fact that Boss and I are in the same pair is the result of the original lottery, so I don't mind.
+
+VO_Nikketa_Single_ThanksGiving_001.wav
+  What are you eating? Turkey? I'm sure the seven-faced butterfly was an extinct species. It seems to be different. Even so, eating turkey is a strange custom.
+
+VO_Nikketa_Single_Title_001.wav
+  Dolls Frontline 2 Exilium
+
+VO_Nikketa_Single_Valentine_001.wav
+  The chocolate I sent to the boss... Umm... I used the remaining tools I had left when I made the handboard, so I had no choice but to make it a handboard. It doesn't mean I'm arresting you, so please accept it as a comrade who follows the same justice.
+
+VO_Nikketa_Single_Valentine_002.wav
+  Boss, Valentine's chocolate. And then, here's your amulet. It's an amulet that has my hand on it. It's a proof of a partner who seeks justice together. Of course, if you're the boss, you can use it for other purposes. Like... when you're going to catch the suspect...
+
+VO_Nikketa_Single_WhiteVale_001.wav
+  Eh? The boss is sending me a present? That's suspicious. Could it be that he's trying to get my attention because he violated the safety rules?
+

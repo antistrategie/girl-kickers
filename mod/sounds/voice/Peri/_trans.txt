@@ -1,0 +1,160 @@
+# Voice Line Translations for Peri
+# Generated automatically using OpenAI Whisper
+# Total files: 52
+
+VO_Peri_Series_Attack.wav
+  Kyaa!
+
+VO_Peri_Series_Battle_Start.wav
+  Leave it to me!
+
+VO_Peri_Series_Chosen.wav
+  Yes!
+
+VO_Peri_Series_Chosen_Auto.wav
+  Gachijou!
+
+VO_Peri_Series_Daily_001.wav
+  Eh? Oh, I'm checking my recent purchase history. As long as I'm here, I don't have to worry about being taken away!
+
+VO_Peri_Series_Daily_002.wav
+  Eh? You want to pet my head? Please, pet me as much as you want! My body is small, but you can rely on me more!
+
+VO_Peri_Series_Daily_003.wav
+  I want to be someone who can protect everyone, like Commander and Master Thompson! Do you think you can do it?
+
+VO_Peri_Series_Daily_004.wav
+  The asymmetry of information leads to unfair transactions. In other words, those who grasp information are the most advantageous. I have good information at hand, but of course I will give it to the commander for free!
+
+VO_Peri_Series_Daily_005.wav
+  Did you notice? I've been collecting a lot of jewelry and kimonos lately! All of these are rare items purchased from Yami Broker! Aren't they cool?
+
+VO_Peri_Series_Die.wav
+  I can't... protect everyone...
+
+VO_Peri_Series_Dying.wav
+  In a place like this...
+
+VO_Peri_Series_Hit.wav
+  Keep up the good work!
+
+VO_Peri_Series_Hitted_3.wav
+  Ah!
+
+VO_Peri_Series_Kill.wav
+  My Dory!
+
+VO_Peri_Series_Lose.wav
+  Is everyone safe? I'm glad. I can stand next time.
+
+VO_Peri_Series_Set_Click.wav
+  I'm ready!
+
+VO_Peri_Series_Set_Fall.wav
+  I'll do my best!
+
+VO_Peri_Series_Shield_Broken.wav
+  I was careless!
+
+VO_Peri_Series_Skill01.wav
+  It's my house!
+
+VO_Peri_Series_Skill02.wav
+  her one.
+
+VO_Peri_Series_Tone_Positive_001.wav
+  I'm not like the old me!
+
+VO_Peri_Series_Ultimate.wav
+  I rarely hear such good stories!
+
+VO_Peri_Series_Up_001.wav
+  My height won't change, right? But I'm fine!
+
+VO_Peri_Series_Up_002.wav
+  Did you get cool?
+
+VO_Peri_Series_Up_003.wav
+  Not yet. I need to get stronger.
+
+VO_Peri_Series_Up_004.wav
+  Leave it to me, I'll take care of everyone!
+
+VO_Peri_Series_Up_005.wav
+  Please rely on me more!
+
+VO_Peri_Series_Win.wav
+  Was I cool just now?
+
+VO_Peri_Single_Birthday_SSR_001.wav
+  Happy birthday! We met each other because you were born into this world! I've prepared a special gift for you, so why don't we go get it together later?
+
+VO_Peri_Single_Birthday_SSR_002.wav
+  S-Sitian, do you have an empty stomach today? I'm sure everyone wants to spend time with you, but I asked you with all my heart. I just want a little time to open a present with me. Because I want to see a lot of your happy faces!
+
+VO_Peri_Single_Christmas_001.wav
+  A. Well, ugh! instruction!? Where!!! Huh? Are you guys waiting for Christmas socks? Ehhh... shouldn't we dream a little more about this? You remember when...
+
+VO_Peri_Single_Christmas_002.wav
+  Commander, today is White Christmas! Why don't we play in the snow together? Just imagining you and I rolling around in the snow while reddening your cheeks will make you happy!
+
+VO_Peri_Single_Friendliness_001.wav
+  People around me often say that I'm a nice person. It may be because I've never gotten angry, but I have a lot of friends.
+
+VO_Peri_Single_Friendliness_002.wav
+  Is there anything I can help you with? Please don't hesitate to tell me!
+
+VO_Peri_Single_Friendliness_003.wav
+  All the information provided to the Commander is free! If you really want to thank me... I have a good story, would you like to hear it?
+
+VO_Peri_Single_Friendliness_004.wav
+  Commander, do you have anything you want? I'll get the most of it. No, not a favor, but I want you to be happy. Don't laugh!
+
+VO_Peri_Single_Friendliness_005.wav
+  I was saved by you, Commander, just because you didn't know. When I'm lost, I always wonder what you're going to do. I wonder, and my thoughts come together right away.
+
+VO_Peri_Single_Friendliness_006.wav
+  At first, I was worried that you would be disappointed in a little doll like me, but I don't think about that anymore. Because you're not that kind of person! I'm just happy to be by your side now!
+
+VO_Peri_Single_Friendliness_007.wav
+  Geez, I told you to rely on me, but you don't even do that. Hmph, that's enough. Today is the day I show you the power of an adult!
+
+VO_Peri_Single_Friendliness_008.wav
+  Commander, would you like to stay with me forever? I know it's a bit of a waste, but there are a lot of good things about it. For example, my height... What am I saying? Huh? Is that okay?
+
+VO_Peri_Single_Login_001.wav
+  Good morning, Commander! You look cool today! I have to do my best too!
+
+VO_Peri_Single_MidAutumn_001.wav
+  Commander, I bought a mooncake! It's cool with rivets and other patterns on the black package! Would you like to eat it with me?
+
+VO_Peri_Single_MidAutumn_002.wav
+  Commander, I've been through a lot, but I managed to get along with you. I'm a great adult now. I won't let you be separated from me again.
+
+VO_Peri_Single_NewYear_001.wav
+  It's a new year from today! I hope I can spend this year with you every day!
+
+VO_Peri_Single_NewYear_002.wav
+  Commander, happy new year! Was that my first greeting?
+
+VO_Peri_Single_Obtain_SSR_001.wav
+  I'm Belly! I've become much more mature than before! Eh? Did you hear my name from the Yami Broker?
+
+VO_Peri_Single_Passive_SSR_001.wav
+  Don't you want to know the important information?
+
+VO_Peri_Single_SpringFes_001.wav
+  Happy New Year! Eh? I don't need a New Year's ball! On the contrary! I, as an adult, have prepared a New Year's ball for you, Commander!
+
+VO_Peri_Single_SpringFes_002.wav
+  Eh? Are you already in a hurry? Commander, let's practice with me! Why don't you practice by yourself? Ah, because I can't reach you. Are you already teasing me?
+
+VO_Peri_Single_Title_001.wav
+  Dolls Front Line 2 Exilium!
+
+VO_Peri_Single_Valentine_001.wav
+  Um, today is a special day, so I made some chocolate. I'd be happy if you could accept it. Eh? Don't treat me like a child when I'm small! It's fine, just accept it!
+
+VO_Peri_Single_Valentine_002.wav
+  Commander, I've made some chocolate! It's milk chocolate! I know that drinking milk won't make you get any taller, but I'm starting to want some. I'm afraid of the power of habit. Anyway, please eat it quickly!
+

@@ -1,0 +1,166 @@
+# Voice Line Translations for Qiuhua
+# Generated automatically using OpenAI Whisper
+# Total files: 54
+
+VO_Qiuhua_Series_Attack.wav
+  ouse Facial expression
+
+VO_Qiuhua_Series_Battle_Start.wav
+  Take this!
+
+VO_Qiuhua_Series_Chosen.wav
+  Huh? What's wrong?
+
+VO_Qiuhua_Series_Chosen_Auto.wav
+  Got it!
+
+VO_Qiuhua_Series_Daily_001.wav
+  Commander, where are you going next? I'm looking forward to meeting new friends!
+
+VO_Qiuhua_Series_Daily_002.wav
+  I told Sabrina that if I was cutting the salami, I should use sausages, but she said no. The sausage is delicious, but why?
+
+VO_Qiuhua_Series_Daily_003.wav
+  I've done a transport type of bottle at the farm. It always smells like fruit and has a lot of grains. If I could use it all for cooking...
+
+VO_Qiuhua_Series_Daily_004.wav
+  Watch out! This knife is very sharp! Be careful not to cut your hand! But, if I don't have these tools, I can't make delicious food!
+
+VO_Qiuhua_Series_Daily_005.wav
+  If I can eat this? I'll eat it with my body. Commander, will you like it?
+
+VO_Qiuhua_Series_Die.wav
+  Not yet...
+
+VO_Qiuhua_Series_Dying.wav
+  Barrier Tamaki...
+
+VO_Qiuhua_Series_Hit.wav
+  Alright then!
+
+VO_Qiuhua_Series_Hitted_3.wav
+  Ugh!
+
+VO_Qiuhua_Series_Hitted_4.wav
+  Eheheh
+
+VO_Qiuhua_Series_Hitted_5.wav
+  Hup!
+
+VO_Qiuhua_Series_Kill.wav
+  Disappear!
+
+VO_Qiuhua_Series_Lose.wav
+  Don't worry about it. Let's eat something first.
+
+VO_Qiuhua_Series_Set_Click.wav
+  Ready!
+
+VO_Qiuhua_Series_Set_Fall.wav
+  Let's go!
+
+VO_Qiuhua_Series_Shield_Broken.wav
+  I'm hungry...
+
+VO_Qiuhua_Series_Skill01.wav
+  I'm getting better at this!
+
+VO_Qiuhua_Series_Skill02.wav
+  I don't know even if I regret it!
+
+VO_Qiuhua_Series_Tone_Positive_001.wav
+  I'm sorry!
+
+VO_Qiuhua_Series_Ultimate.wav
+  Mijin-giri and suage, which do you prefer?
+
+VO_Qiuhua_Series_Up_001.wav
+  Yeah, yeah! Good!
+
+VO_Qiuhua_Series_Up_002.wav
+  Buddy is amazing!
+
+VO_Qiuhua_Series_Up_003.wav
+  I can't fight when I'm hungry!
+
+VO_Qiuhua_Series_Up_004.wav
+  I will not betray my commander's expectations!
+
+VO_Qiuhua_Series_Up_005.wav
+  Alright! I'm all set!
+
+VO_Qiuhua_Series_Win.wav
+  How many times do you want to make a celebration?
+
+VO_Qiuhua_Single_Birthday_SSR_001.wav
+  Happy birthday, Commander! I made a cake with chouju noodles and subuta flavor! Enjoy!
+
+VO_Qiuhua_Single_Birthday_SSR_002.wav
+  Happy birthday, Commander! Today I prepared a feast of Elis-style ingredients and my special technique! And if I had Meirin's sake, it would have been perfect!
+
+VO_Qiuhua_Single_Christmas_001.wav
+  Commander, can you take that light? I have to finish decorating the tree and go to the kitchen soon. Sabrina will teach me how to make cinnamon apple pie. Please look forward to the completion!
+
+VO_Qiuhua_Single_Christmas_002.wav
+  Merry Christmas, Commander! I made a chicken with the recipe of roast chicken taught by Sabrina! How is it? The taste of Christmas-style chicken is ... It's pretty good, right?
+
+VO_Qiuhua_Single_Friendliness_001.wav
+  Move, move! It's a freshly made new menu! Ah, Commander! How is it? Would you like to taste it?
+
+VO_Qiuhua_Single_Friendliness_002.wav
+  It seems that last night you were working late. If you could talk to me, I would help you.
+
+VO_Qiuhua_Single_Friendliness_003.wav
+  You're late for dinner. I made a small meat spring roll lunch. It's hot!
+
+VO_Qiuhua_Single_Friendliness_004.wav
+  That's a mouthful, this is two mouthfuls, and this is a full meal. Ah, what are you writing? I was writing down the commander's meal.
+
+VO_Qiuhua_Single_Friendliness_005.wav
+  Mmm, what a nice day! Let's go for a walk together! It's the best thing to do in the morning, looking for a place to eat while being blown by the wind!
+
+VO_Qiuhua_Single_Friendliness_006.wav
+  Even the food that is not good is the result of the hard work of the cook and the farmer. Please eat while tasting the love that is in the food.
+
+VO_Qiuhua_Single_Friendliness_007.wav
+  If you don't have a hurry job, why don't you go to the dark market? There are many people there, so if you like something, you can get it for cheap!
+
+VO_Qiuhua_Single_Friendliness_008.wav
+  Delicious food needs a story, atmosphere, and environment. How about a Chinese-style dinner? Let's call it our story and make it a special menu for the commander!
+
+VO_Qiuhua_Single_Login_001.wav
+  Commander, would you like to eat something?
+
+VO_Qiuhua_Single_MidAutumn_001.wav
+  It doesn't taste like alcohol-free Tsukimi! Let's drink together? I'll make a little snack and watch Tsukiba... I'm so happy!
+
+VO_Qiuhua_Single_MidAutumn_002.wav
+  Have you tried the mooncake set I made? Gomoku nuts, Hatsu no mi, Azuki, and meat. Did you like it?
+
+VO_Qiuhua_Single_NewYear_001.wav
+  New year's new menu! Commander, the set meal is ready! New Year's party at night! Look forward to it!
+
+VO_Qiuhua_Single_NewYear_002.wav
+  Phew, the kitchen cleaning is over. Now I can use the shiny pots. Commander, what kind of dish should I celebrate tonight? Leave the rice for me to eat every day!
+
+VO_Qiuhua_Single_Obtain_SSR_001.wav
+  I did it! Wild herbs and protein! Ah, Commander! Just in time! Today is a feast!
+
+VO_Qiuhua_Single_Passive_SSR_001.wav
+  Just the way you wanted it!
+
+VO_Qiuhua_Single_SpringFes_001.wav
+  Happy New Year, Commander! I just brought the bomb to the warehouse! Let's have a good time together! Oh, by the way, the dumpling that is waving is a lucky dumpling with nuts! Please eat!
+
+VO_Qiuhua_Single_SpringFes_002.wav
+  Commander, how about a drink for the New Year? I made a very good drink, so I want you to enjoy it. It's a happy day, so you can take off your clothes a little.
+
+VO_Qiuhua_Single_Title_001.wav
+  Dolls Front Line 2 Exilium
+
+VO_Qiuhua_Single_Valentine_001.wav
+  Commander, this is not a chocolate bar, I made it for you. It's the best chocolate I've ever eaten!
+
+VO_Qiuhua_Single_Valentine_002.wav
+  Normal chocolate is boring, so let's twist it a little. How about a chocolate-flavored subuta? No, I can't imitate subuta like that. Then let's make it a subuta-flavored chocolate! What do you think, Commander? Do you like it?
+

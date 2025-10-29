@@ -1,0 +1,238 @@
+# Voice Line Translations for Sabrina
+# Generated automatically using OpenAI Whisper
+# Total files: 78
+
+VO_Sabrina_Series_Battle_Start.wav
+  I'm moving!
+
+VO_Sabrina_Series_Battle_Start_2.wav
+  I'll search for it!
+
+VO_Sabrina_Series_Battle_Start_3.wav
+  There!
+
+VO_Sabrina_Series_Battle_Start_4.wav
+  Blessings 2
+
+VO_Sabrina_Series_Battle_Start_5.wav
+  It's done!
+
+VO_Sabrina_Series_Cancel.wav
+  Which one should I choose?
+
+VO_Sabrina_Series_Cancel_2.wav
+  Can I eat this?
+
+VO_Sabrina_Series_Daily_001.wav
+  Huh? I didn't make it on time? Well, it's fine, it's fine. For now, let's eat some chocolate.
+
+VO_Sabrina_Series_Daily_002.wav
+  Trouble? Then these kids will be useful.
+
+VO_Sabrina_Series_Daily_003.wav
+  Commander, I uploaded a new cooking video. I made wasabi apple pie. Please don't forget to like it.
+
+VO_Sabrina_Series_Daily_004.wav
+  S-Sire? I-I don't really know how to eat side dishes for dinner. I just thought there might be a suitable way to cook them after analyzing the ingredients. Ehehehe...
+
+VO_Sabrina_Series_Daily_005.wav
+  Cook? No, I'm just a regular student. But I'll continue my training and become a great cook someday!
+
+VO_Sabrina_Series_Daily_006.wav
+  I'm impressed by Sharkly, because he's so creative. He's like a human.
+
+VO_Sabrina_Series_Daily_007.wav
+  Springfield is a very good person! Every time I go to Zucchero, he gives me delicious sweets! He doesn't do wireless meals! He's remodeling the cafe's equipment properly!
+
+VO_Sabrina_Series_Daily_008.wav
+  The other day, I made a cat-eared metal detector and found it in Caloric. But I've never seen Caloric's expression like that, so I gave it to him at the end.
+
+VO_Sabrina_Series_Daily_009.wav
+  The weight limit of the Elmo is probably fine, right? I'm sorry! I'll get off soon!
+
+VO_Sabrina_Series_Daily_010.wav
+  Today's dinner is a new menu made with Groza. It was pretty good, right? Commander? Are you okay? Are you okay, Commander?
+
+VO_Sabrina_Series_Hit.wav
+  I'll add a little seasoning.
+
+VO_Sabrina_Series_Hitted.wav
+  Thank you for watching!
+
+VO_Sabrina_Series_HittedLast.wav
+  WAAAAAAH!
+
+VO_Sabrina_Series_HittedLast_2.wav
+  I haven't eaten yet!
+
+VO_Sabrina_Series_Hitted_2.wav
+  Ah!
+
+VO_Sabrina_Series_Hitted_5.wav
+  Un prostityoung No, not makeup. Uuu... Today, y-you really are a good cook!
+
+VO_Sabrina_Series_Kill.wav
+  Easy peasy!
+
+VO_Sabrina_Series_Lose.wav
+  You're retreating? I'm sorry. I'll try harder next time!
+
+VO_Sabrina_Series_Set_Fall.wav
+  Bachi bachi bachi!
+
+VO_Sabrina_Series_Skill01.wav
+  I'll show you the results of the remodeling!
+
+VO_Sabrina_Series_Skill02.wav
+  Try tasting my new invention!
+
+VO_Sabrina_Series_Tone_Negative_001.wav
+  Uwabariku Watano
+
+VO_Sabrina_Series_Tone_Positive_008.wav
+  Now, I'll put it in the pot!
+
+VO_Sabrina_Series_Ultimate.wav
+  Hey, watch out!
+
+VO_Sabrina_Series_Up_001.wav
+  This is delicious!
+
+VO_Sabrina_Series_Up_002.wav
+  More likes!
+
+VO_Sabrina_Series_Up_003.wav
+  Hurry up and share it!
+
+VO_Sabrina_Series_Up_004.wav
+  Grade up!
+
+VO_Sabrina_Series_Up_005.wav
+  A new recipe?
+
+VO_Sabrina_Series_Up_006.wav
+  I'm still not full!
+
+VO_Sabrina_Series_Up_007.wav
+  Please leave a comment!
+
+VO_Sabrina_Series_Up_008.wav
+  It's getting better, right?
+
+VO_Sabrina_Series_Win.wav
+  The operation is complete! Ah! I have to go back! The food will get cold!
+
+VO_Sabrina_Single_Acquire_R_001.wav
+  I'll treat you to a feast to commemorate this important day! Commander, what do you want to eat? Anything you want!
+
+VO_Sabrina_Single_Acquire_SSR_001.wav
+  Commander? Why are you here? Ah, don't look! Don't look! Well, whatever. I was making a video of the food I made for you this year. I was actually going to surprise you.
+
+VO_Sabrina_Single_Anniversary_001.wav
+  Thanks to the commander's feedback for the first year in the Hermo, I've improved my cooking skills a lot! Hehe, I think I've taken another step closer to becoming a good cook.
+
+VO_Sabrina_Single_Birthday_R_001.wav
+  I've been choosing ingredients and baking cakes for three days! Come on, try it!
+
+VO_Sabrina_Single_Birthday_SSR_001.wav
+  Happy birthday! I made all of this for you, Commander! Too much? It's okay! Then let's call the Griffins and celebrate!
+
+VO_Sabrina_Single_Birthday_SSR_002.wav
+  Commander, happy birthday! The cake is ready, let's go! Everyone's waiting!
+
+VO_Sabrina_Single_Children_001.wav
+  If you're free today, come over to Helena's house! I'll give you a double discount for the service!
+
+VO_Sabrina_Single_Christmas_001.wav
+  I'm sorry. I failed to serve the food I was supposed to give to the commander because the reservation for the restaurant was not complete... But now I'm trying a new dish that no one has ever made, so come and taste it in a while!
+
+VO_Sabrina_Single_Christmas_002.wav
+  Alright, then I'll be quiet for the next one... Huh, Commander? You know, Christmas was the theme of the Hexen House. The candy isn't completely stuck yet, so be careful. When night comes, let's eat together!
+
+VO_Sabrina_Single_Duanwu_001.wav
+  I was thinking of making a food video for the East, but there are opinions that sweet food is better for blood sausage and that salty food is better for blood sausage. Commander, what should I do?
+
+VO_Sabrina_Single_Friendliness_001.wav
+  Commander, come visit Caldo if you have time. I'll be making lots of delicious food and waiting for you.
+
+VO_Sabrina_Single_Friendliness_002.wav
+  Commander, are you on social media? Do you follow each other?
+
+VO_Sabrina_Single_Friendliness_003.wav
+  How's the portable air conditioner I gave to the commander yesterday? It's cool, right?
+
+VO_Sabrina_Single_Friendliness_004.wav
+  Sorry, sorry, I just played with my gun again. I'll make you pasta as a thank you, okay?
+
+VO_Sabrina_Single_Friendliness_005.wav
+  Ah, I lost again. No, I won't let you go. Let's play again.
+
+VO_Sabrina_Single_Friendliness_006.wav
+  Do you need help? No problem, no problem. Leave it to me!
+
+VO_Sabrina_Single_Friendliness_007.wav
+  What a nice smell! Commander, you're hiding something delicious again?
+
+VO_Sabrina_Single_Friendliness_008.wav
+  Ehehe, I just made a tortellini, would you like to try it?
+
+VO_Sabrina_Single_Friendliness_009.wav
+  Commander, why don't we do a collab here? We'll be on live streaming together.
+
+VO_Sabrina_Single_Friendliness_010.wav
+  No matter how much you eat, you won't get fat, Commander! Am I really fat?
+
+VO_Sabrina_Single_Friendliness_011.wav
+  Thank you for noticing. I'm not going to change my body yet. It's true that we're old, but we've been together for a long time. How should I say goodbye... I'm so lonely that I can't.
+
+VO_Sabrina_Single_Friendliness_012.wav
+  Commander, can you tell me how to cook? Unlike humans, dolls can only be made according to the program, but humans can make something new with their rich imagination, right?
+
+VO_Sabrina_Single_Friendliness_013.wav
+  When I cook for the Commander and when I cook for the customers, the feelings are different, right?
+
+VO_Sabrina_Single_Login_001.wav
+  Sabrina 12. See you again!
+
+VO_Sabrina_Single_MidAutumn_001.wav
+  Commander, this is my newly developed 15-pickled pork natsume angetpei! If you like, try it! Huh? You look pale.
+
+VO_Sabrina_Single_MidAutumn_002.wav
+  Yes, Commander! It's the Hamon Iberico Geppei I made! With this, I'm sure I'll win this year's Geppei Contest! Hm? Don't you know, Commander? It's an event held in Chushu.
+
+VO_Sabrina_Single_NewYear_001.wav
+  Are you all cleaning at the end of the year? Then try using the all-automatic vacuum cleaner I made! If you put it there after starting, it will automatically clean both the outside and inside of the Elm House! If this is the case, no one will have to do it!
+
+VO_Sabrina_Single_NewYear_002.wav
+  Commander, happy new year! Thank you for accompanying me to break the plates yesterday! I heard that luck comes when you break the plates that you don't need anymore on New Year's Day. It seems that it will be a great year to see the results of yesterday!
+
+VO_Sabrina_Single_Obon_001.wav
+  Humans go back to their own homeland to find their own home. I wonder if there are people who should go to the doll's home...
+
+VO_Sabrina_Single_Obtain_SSR_001.wav
+  Ta-da! I'm here to do a food report! Um, can I eat it for free for the promotion project?
+
+VO_Sabrina_Single_Passive_SSR_001.wav
+  Ready!
+
+VO_Sabrina_Single_SpringFes_001.wav
+  Meilin's hometown, when it's the new year, different dishes are served depending on the region, but only fish dishes are essential. So I made smoked salmon tortillas. Eh? Sea urchins are not allowed?
+
+VO_Sabrina_Single_SpringFes_002.wav
+  Meirin said that everyone would play with fireworks today. I made something interesting based on the old way of making fireworks, so let's shoot it together at night!
+
+VO_Sabrina_Single_ThanksGiving_001.wav
+  I prepared a special project for everyone thanks to your support for a year! The name is... Chiki-Chiki Seven-Face-Chicken Big-Eat Challenge!
+
+VO_Sabrina_Single_Title_001.wav
+  Dolls Front Line 2 Dexilium
+
+VO_Sabrina_Single_Valentine_001.wav
+  It's my first time making chocolate, but I hope you'll accept it.
+
+VO_Sabrina_Single_Valentine_002.wav
+  Commander, I made 8 types of chocolate today. If you have a favorite flavor, please let me know!
+
+VO_Sabrina_Single_WhiteVale_001.wav
+  Ah, there's so much food! Eh? Is it okay if I eat it all? Well then, itadakimasu!
+
