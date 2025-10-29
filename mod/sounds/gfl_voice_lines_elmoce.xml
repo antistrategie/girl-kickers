@@ -1,7 +1,9 @@
 <Sounds>
   <Pack name="Peritya-Voice" channel="voice">
     <Sound ID="VOX_DYING">
-      <Path name="data/sounds/voice/Peritya/VO_Peritya_Series_HittedLast_4.wav" />
+      <Path
+                name="data/sounds/voice/Peritya/VO_Peritya_Series_HittedLast_4.wav"
+            />
     </Sound>
     <Sound ID="VOX_GEAR_FLASH">
     </Sound>
@@ -18,7 +20,9 @@
     <Sound ID="VOX_GEAR_STINGER">
     </Sound>
     <Sound ID="VOX_INJURED">
-      <Path name="data/sounds/voice/Peritya/VO_Peritya_Series_HittedLast_4.wav" />
+      <Path
+                name="data/sounds/voice/Peritya/VO_Peritya_Series_HittedLast_4.wav"
+            />
     </Sound>
     <Sound ID="VOX_RELOAD">
     </Sound>
@@ -40,7 +44,9 @@
       <Path name="data/sounds/voice/Peritya/VO_Peritya_Series_Win.wav" />
     </Sound>
     <Sound ID="VOX_TRPR_COME">
-      <Path name="data/sounds/voice/Peritya/VO_Peritya_Series_Battle_Start.wav" />
+      <Path
+                name="data/sounds/voice/Peritya/VO_Peritya_Series_Battle_Start.wav"
+            />
     </Sound>
     <Sound ID="VOX_TRPR_DONE_HERE">
       <Path name="data/sounds/voice/Peritya/VO_Peritya_Series_Kill.wav" />
@@ -65,7 +71,9 @@
     <Sound ID="VOX_TRPR_GETDOWN">
     </Sound>
     <Sound ID="VOX_TRPR_GO_GO_GO">
-      <Path name="data/sounds/voice/Peritya/VO_Peritya_Series_Battle_Start_3.wav" />
+      <Path
+                name="data/sounds/voice/Peritya/VO_Peritya_Series_Battle_Start_3.wav"
+            />
     </Sound>
     <Sound ID="VOX_TRPR_GO_LOUD">
     </Sound>
@@ -93,7 +101,9 @@
     <Sound ID="VOX_TRPR_MATCHSPEEDON">
     </Sound>
     <Sound ID="VOX_TRPR_MOVING">
-      <Path name="data/sounds/voice/Peritya/VO_Peritya_Series_Battle_Start.wav" />
+      <Path
+                name="data/sounds/voice/Peritya/VO_Peritya_Series_Battle_Start.wav"
+            />
     </Sound>
     <Sound ID="VOX_TRPR_NOTANGOS">
     </Sound>
@@ -119,7 +129,9 @@
     <Sound ID="VOX_TRPR_PASS_DELTA">
     </Sound>
     <Sound ID="VOX_TRPR_PINNED_DOWN">
-      <Path name="data/sounds/voice/Peritya/VO_Peritya_Series_HittedLast_4.wav" />
+      <Path
+                name="data/sounds/voice/Peritya/VO_Peritya_Series_HittedLast_4.wav"
+            />
     </Sound>
     <Sound ID="VOX_TRPR_PUMPUP">
       <Path name="data/sounds/voice/Peritya/VO_Peritya_Series_Skill01.wav" />
@@ -143,7 +155,9 @@
       <Path name="data/sounds/voice/Peritya/VO_Peritya_Series_Hit.wav" />
     </Sound>
     <Sound ID="VOX_TRPR_TIME_TO_GO">
-      <Path name="data/sounds/voice/Peritya/VO_Peritya_Series_Battle_Start_2.wav" />
+      <Path
+                name="data/sounds/voice/Peritya/VO_Peritya_Series_Battle_Start_2.wav"
+            />
     </Sound>
     <Sound ID="VOX_TRPR_VIP_DEAD">
       <Path name="data/sounds/voice/Peritya/VO_Peritya_Series_Lose.wav" />
@@ -151,10 +165,14 @@
     <Sound ID="VOX_TRPR_WAIT">
     </Sound>
     <Sound ID="VOX_WARN_GRENADE">
-      <Path name="data/sounds/voice/Peritya/VO_Peritya_Series_HittedLast_4.wav" />
+      <Path
+                name="data/sounds/voice/Peritya/VO_Peritya_Series_HittedLast_4.wav"
+            />
     </Sound>
     <Sound ID="VOX_WARN_RPG">
-      <Path name="data/sounds/voice/Peritya/VO_Peritya_Series_HittedLast_4.wav" />
+      <Path
+                name="data/sounds/voice/Peritya/VO_Peritya_Series_HittedLast_4.wav"
+            />
     </Sound>
   </Pack>
   <Pack name="Sabrina-Voice" channel="voice">
@@ -203,10 +221,14 @@
       <Path name="data/sounds/voice/Sabrina/VO_Sabrina_Series_Win.wav" />
     </Sound>
     <Sound ID="VOX_TRPR_COME">
-      <Path name="data/sounds/voice/Sabrina/VO_Sabrina_Series_Battle_Start.wav" />
+      <Path
+                name="data/sounds/voice/Sabrina/VO_Sabrina_Series_Battle_Start.wav"
+            />
     </Sound>
     <Sound ID="VOX_TRPR_DONE_HERE">
-      <Path name="data/sounds/voice/Sabrina/VO_Sabrina_Series_Battle_Start_5.wav" />
+      <Path
+                name="data/sounds/voice/Sabrina/VO_Sabrina_Series_Battle_Start_5.wav"
+            />
     </Sound>
     <Sound ID="VOX_TRPR_EVAC">
       <Path name="data/sounds/voice/Sabrina/VO_Sabrina_Series_Lose.wav" />
@@ -215,7 +237,9 @@
       <Path name="data/sounds/voice/Sabrina/VO_Sabrina_Series_Hit.wav" />
     </Sound>
     <Sound ID="VOX_TRPR_EYESONTARGET">
-      <Path name="data/sounds/voice/Sabrina/VO_Sabrina_Series_Battle_Start_3.wav" />
+      <Path
+                name="data/sounds/voice/Sabrina/VO_Sabrina_Series_Battle_Start_3.wav"
+            />
     </Sound>
     <Sound ID="VOX_TRPR_EYESONTARGET_QUIET">
     </Sound>
@@ -228,7 +252,9 @@
     <Sound ID="VOX_TRPR_GETDOWN">
     </Sound>
     <Sound ID="VOX_TRPR_GO_GO_GO">
-      <Path name="data/sounds/voice/Sabrina/VO_Sabrina_Series_Battle_Start.wav" />
+      <Path
+                name="data/sounds/voice/Sabrina/VO_Sabrina_Series_Battle_Start.wav"
+            />
     </Sound>
     <Sound ID="VOX_TRPR_GO_LOUD">
     </Sound>
@@ -256,12 +282,16 @@
     <Sound ID="VOX_TRPR_MATCHSPEEDON">
     </Sound>
     <Sound ID="VOX_TRPR_MOVING">
-      <Path name="data/sounds/voice/Sabrina/VO_Sabrina_Series_Battle_Start_2.wav" />
+      <Path
+                name="data/sounds/voice/Sabrina/VO_Sabrina_Series_Battle_Start_2.wav"
+            />
     </Sound>
     <Sound ID="VOX_TRPR_NOTANGOS">
     </Sound>
     <Sound ID="VOX_TRPR_ONTARGET">
-      <Path name="data/sounds/voice/Sabrina/VO_Sabrina_Series_Battle_Start_3.wav" />
+      <Path
+                name="data/sounds/voice/Sabrina/VO_Sabrina_Series_Battle_Start_3.wav"
+            />
     </Sound>
     <Sound ID="VOX_TRPR_ON_ALPHA">
     </Sound>
@@ -306,7 +336,9 @@
       <Path name="data/sounds/voice/Sabrina/VO_Sabrina_Series_Hit.wav" />
     </Sound>
     <Sound ID="VOX_TRPR_TIME_TO_GO">
-      <Path name="data/sounds/voice/Sabrina/VO_Sabrina_Series_Battle_Start.wav" />
+      <Path
+                name="data/sounds/voice/Sabrina/VO_Sabrina_Series_Battle_Start.wav"
+            />
     </Sound>
     <Sound ID="VOX_TRPR_VIP_DEAD">
       <Path name="data/sounds/voice/Sabrina/VO_Sabrina_Series_Lose.wav" />
@@ -601,7 +633,9 @@
       <Path name="data/sounds/voice/Peri/VO_Peri_Series_Hitted_3.wav" />
     </Sound>
     <Sound ID="VOX_TRPR_PUMPUP">
-      <Path name="data/sounds/voice/Peri/VO_Peri_Series_Tone_Positive_001.wav" />
+      <Path
+                name="data/sounds/voice/Peri/VO_Peri_Series_Tone_Positive_001.wav"
+            />
     </Sound>
     <Sound ID="VOX_TRPR_ROGER">
       <Path name="data/sounds/voice/Peri/VO_Peri_Series_Chosen.wav" />
@@ -677,7 +711,9 @@
       <Path name="data/sounds/voice/Florence/VO_Florence_Series_Win.wav" />
     </Sound>
     <Sound ID="VOX_TRPR_COME">
-      <Path name="data/sounds/voice/Florence/VO_Florence_Series_Battle_Start.wav" />
+      <Path
+                name="data/sounds/voice/Florence/VO_Florence_Series_Battle_Start.wav"
+            />
     </Sound>
     <Sound ID="VOX_TRPR_DONE_HERE">
       <Path name="data/sounds/voice/Florence/VO_Florence_Series_Kill.wav" />
@@ -702,7 +738,9 @@
     <Sound ID="VOX_TRPR_GETDOWN">
     </Sound>
     <Sound ID="VOX_TRPR_GO_GO_GO">
-      <Path name="data/sounds/voice/Florence/VO_Florence_Series_Battle_Start.wav" />
+      <Path
+                name="data/sounds/voice/Florence/VO_Florence_Series_Battle_Start.wav"
+            />
     </Sound>
     <Sound ID="VOX_TRPR_GO_LOUD">
     </Sound>
@@ -762,7 +800,7 @@
       <Path name="data/sounds/voice/Florence/VO_Florence_Series_Skill01.wav" />
     </Sound>
     <Sound ID="VOX_TRPR_ROGER">
-      <Path name="data/sounds/voice/Florence/VO_Florence_Series_Hitted_2.wav" />
+      <Path name="data/sounds/voice/Florence/VO_Florence_Series_Attack.wav" />
     </Sound>
     <Sound ID="VOX_TRPR_SILENTOFF">
     </Sound>
@@ -780,7 +818,9 @@
       <Path name="data/sounds/voice/Florence/VO_Florence_Series_Hit.wav" />
     </Sound>
     <Sound ID="VOX_TRPR_TIME_TO_GO">
-      <Path name="data/sounds/voice/Florence/VO_Florence_Series_Battle_Start.wav" />
+      <Path
+                name="data/sounds/voice/Florence/VO_Florence_Series_Battle_Start.wav"
+            />
     </Sound>
     <Sound ID="VOX_TRPR_VIP_DEAD">
       <Path name="data/sounds/voice/Florence/VO_Florence_Series_Lose.wav" />
@@ -852,7 +892,9 @@
     <Sound ID="VOX_TRPR_EYESONTARGET_QUIET">
     </Sound>
     <Sound ID="VOX_TRPR_FREEZE">
-      <Path name="data/sounds/voice/Nikketa/VO_Nikketa_Series_Tone_Positive_002.wav" />
+      <Path
+                name="data/sounds/voice/Nikketa/VO_Nikketa_Series_Tone_Positive_002.wav"
+            />
     </Sound>
     <Sound ID="VOX_TRPR_GEAR_CHARGE_PLACE">
     </Sound>
