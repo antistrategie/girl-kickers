@@ -25,12 +25,12 @@ To test the mod in-game, create a symlink from the `mod` directory to the Door K
 ln -s /path/to/girl-kickers/mod ~/.local/share/Steam/steamapps/common/DoorKickers2/mods_upload/girl-kickers
 ```
 
-#### Windows
+#### Windows 🤮
 ```cmd
 mklink /D "C:\Program Files (x86)\Steam\steamapps\common\DoorKickers2\mods_upload\girl-kickers" "C:\path\to\girl-kickers\mod"
 ```
 
-Note: On Windows, you may need to run the command prompt as Administrator.
+Note: On Windows 🤮, you may need to run the command prompt as Administrator.
 
 ### Development Scripts
 
