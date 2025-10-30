@@ -1611,7 +1611,7 @@
             caliberInfoText="@firearm_caliber_762x54_name"
             operationInfoText="@firearm_operation_fullauto_name"
             ejectingShellEntity="BulletCasingLarge"
-            magazineEntity="m2401_mag"
+            magazineEntity="m240l_mag"
             ai_rangeMin="5.0"
             ai_rangeOptimal="25.0"
             ai_rangeMax="70.0"
