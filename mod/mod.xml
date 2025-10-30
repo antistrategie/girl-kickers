@@ -106,15 +106,8 @@ Special thanks to:
 [*] Everyone giving suggestions and reporting bugs
 
 [/list]"
-    changeNotes="Whatever exists in creation exists without my knowledge exists without my consent.
-
-ENDFIELD TOMORROW !!!!!
-
----
-
-Add voice lines for all units.
-- If you speak Japanese... I&apos;m sorry, I tried my best but it&apos;s hard choosing the correct voice line to use when you don&apos;t know what the FUCK they&apos;re saying.
-Fix PA-15 not able to equip sights."
+    changeNotes="Fix PA-15 unable to equip iron sights.
+Fix typo causing error when reloading PKP-SP."
     languageMod=""
     tags="Playable Units,Equipment,UI"
     ugcId="3580762170"
