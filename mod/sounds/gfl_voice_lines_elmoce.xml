@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='utf-8' ?>
 <Sounds>
   <Pack name="Peritya-Voice" channel="voice">
     <Sound ID="VOX_DYING">
@@ -32,9 +31,7 @@
     <Sound ID="VOX_TRPR_BOMB_DEFUSING">
     </Sound>
     <Sound ID="VOX_TRPR_BOMB_LOCATED">
-      <Path
-                name="data/sounds/voice/Peritya/Series_Up_006.wav"
-            />
+      <Path name="data/sounds/voice/Peritya/Series_Up_006.wav" />
     </Sound>
     <Sound ID="VOX_TRPR_CAN_I_SHOOT">
     </Sound>
@@ -66,14 +63,10 @@
             />
     </Sound>
     <Sound ID="VOX_TRPR_EYES_HOSTAGE">
-      <Path
-                name="data/sounds/voice/Peritya/Series_Up_006.wav"
-            />
+      <Path name="data/sounds/voice/Peritya/Series_Up_006.wav" />
     </Sound>
     <Sound ID="VOX_TRPR_EYESONTARGET">
-      <Path
-                name="data/sounds/voice/Peritya/Series_Up_006.wav"
-            />
+      <Path name="data/sounds/voice/Peritya/Series_Up_006.wav" />
     </Sound>
     <Sound ID="VOX_TRPR_EYESONTARGET_QUIET">
     </Sound>
@@ -106,9 +99,7 @@
       <Path name="data/sounds/voice/Peritya/Series_Up_002.wav" />
     </Sound>
     <Sound ID="VOX_TRPR_HVT_RUNNING">
-      <Path
-                name="data/sounds/voice/Peritya/Series_Up_006.wav"
-            />
+      <Path name="data/sounds/voice/Peritya/Series_Up_006.wav" />
     </Sound>
     <Sound ID="VOX_TRPR_KEEPMOVINGOFF">
     </Sound>
@@ -178,14 +169,10 @@
             />
     </Sound>
     <Sound ID="VOX_TRPR_TANGOS">
-      <Path
-                name="data/sounds/voice/Peritya/Series_Up_006.wav"
-            />
+      <Path name="data/sounds/voice/Peritya/Series_Up_006.wav" />
     </Sound>
     <Sound ID="VOX_TRPR_TARGET_SEC">
-      <Path
-                name="data/sounds/voice/Peritya/Series_Up_002.wav"
-            />
+      <Path name="data/sounds/voice/Peritya/Series_Up_002.wav" />
     </Sound>
     <Sound ID="VOX_TRPR_TIME_TO_GO">
       <Path
@@ -329,9 +316,7 @@
       <Path name="data/sounds/voice/Sabrina/Series_Up_001.wav" />
     </Sound>
     <Sound ID="VOX_TRPR_HVT_RUNNING">
-      <Path
-                name="data/sounds/voice/Sabrina/Series_Tone_Positive_008.wav"
-            />
+      <Path name="data/sounds/voice/Sabrina/Series_Tone_Positive_008.wav" />
     </Sound>
     <Sound ID="VOX_TRPR_KEEPMOVINGOFF">
     </Sound>
@@ -402,9 +387,7 @@
             />
     </Sound>
     <Sound ID="VOX_TRPR_TARGET_SEC">
-      <Path
-                name="data/sounds/voice/Sabrina/Series_Up_001.wav"
-            />
+      <Path name="data/sounds/voice/Sabrina/Series_Up_001.wav" />
     </Sound>
     <Sound ID="VOX_TRPR_TIME_TO_GO">
       <Path
@@ -612,9 +595,7 @@
             />
     </Sound>
     <Sound ID="VOX_TRPR_TARGET_SEC">
-      <Path
-                name="data/sounds/voice/Qiuhua/Series_Up_001.wav"
-            />
+      <Path name="data/sounds/voice/Qiuhua/Series_Up_001.wav" />
     </Sound>
     <Sound ID="VOX_TRPR_TIME_TO_GO">
       <Path
