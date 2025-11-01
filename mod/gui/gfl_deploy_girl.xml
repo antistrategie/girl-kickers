@@ -89,7 +89,7 @@
                         color="080808cc"
                     />
                 <OnOpen>
-                    <Action type="SetOrigin" target="#deploy_squad_buttons" params="-8 0" />
+                    <Action type="SetOrigin" target="#deploy_squad_buttons" params="-8 -464" />
                     <Action type="Show" target="unit_tab0" />
                     <Action type="Hide" target="icon_defy" />
                     <Action type="Show" target="icon_defy_active" />
@@ -179,7 +179,7 @@
                         color="080808cc"
                     />
                 <OnOpen>
-                    <Action type="SetOrigin" target="#deploy_squad_buttons" params="-8 0" />
+                    <Action type="SetOrigin" target="#deploy_squad_buttons" params="-8 -784" />
                     <Action type="Show" target="unit_tab1" />
                     <Action type="Hide" target="icon_404" />
                     <Action type="Show" target="icon_404_active" />
@@ -269,7 +269,7 @@
                         color="080808cc"
                     />
                 <OnOpen>
-                    <Action type="SetOrigin" target="#deploy_squad_buttons" params="-8 0" />
+                    <Action type="SetOrigin" target="#deploy_squad_buttons" params="-8 -784" />
                     <Action type="Show" target="unit_tab2" />
                     <Action type="Hide" target="icon_cafe" />
                     <Action type="Show" target="icon_cafe_active" />
@@ -359,7 +359,7 @@
                         color="080808cc"
                     />
                 <OnOpen>
-                    <Action type="SetOrigin" target="#deploy_squad_buttons" params="-8 0" />
+                    <Action type="SetOrigin" target="#deploy_squad_buttons" params="-8 -624" />
                     <Action type="Show" target="unit_tab3" />
                     <Action type="Hide" target="icon_groza" />
                     <Action type="Show" target="icon_groza_active" />
@@ -449,7 +449,7 @@
                         color="080808cc"
                     />
                 <OnOpen>
-                    <Action type="SetOrigin" target="#deploy_squad_buttons" params="-8 0" />
+                    <Action type="SetOrigin" target="#deploy_squad_buttons" params="-8 -784" />
                     <Action type="Show" target="unit_tab4" />
                     <Action type="Hide" target="icon_elmoce" />
                     <Action type="Show" target="icon_elmoce_active" />

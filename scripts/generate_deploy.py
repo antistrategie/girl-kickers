@@ -193,7 +193,7 @@ def generate_unit_item(unit, indent=""):
 {indent}    <Action type="Show" target="{unit_name}" />
 {indent}</EventActionBatch>
 
-{indent}<Item name="{unit_name}" origin="0 -172" hidden="true" align="rt" sizeX="380">
+{indent}<Item name="{unit_name}" origin="0 -312" hidden="true" align="rt" sizeX="380">
 {indent}    <OnOpen>
 {indent}        <Action type="AddMeToParent" target="#unit_header" />
 {indent}    </OnOpen>
@@ -206,10 +206,10 @@ def generate_unit_item(unit, indent=""):
             row = i // 2
             col = i % 2
             x_origin = -101 if col == 0 else 100
-            y_origin = -214 + (row * -160)
+            y_origin = -74 + (row * -160)
         else:
             x_origin = 0
-            y_origin = -214 + (i * -160)
+            y_origin = -74 + (i * -160)
 
         output += generate_class_item(
             class_name,
@@ -241,7 +241,7 @@ def generate_base_deploy(units, output_path):
         f.write(output)
 
 
-def generate_tab_button(tab_num, unit, total_tabs, container_num):
+def generate_tab_button(tab_num, unit, total_tabs, deploy_buttons_y):
     """Generate a tab button for GIRL deploy screen."""
     unit_name = unit["name"]
 
@@ -315,7 +315,7 @@ def generate_tab_button(tab_num, unit, total_tabs, container_num):
                         color="080808cc"
                     />
                 <OnOpen>
-                    <Action type="SetOrigin" target="#deploy_squad_buttons" params="-8 0" />
+                    <Action type="SetOrigin" target="#deploy_squad_buttons" params="-8 {deploy_buttons_y}" />
                     <Action type="Show" target="unit_tab{tab_num}" />
                     <Action type="Hide" target="icon_{squad}" />
                     <Action type="Show" target="icon_{squad}_active" />
@@ -419,6 +419,27 @@ def generate_girl_deploy(units, output_path):
     # Additional containers add 72px each
     tab_content_start_y = -72 - ((num_containers - 1) * 72)
 
+    # Calculate deploy_buttons_y for each unit
+    # Each unit needs its own position based on the number of dolls it has
+    deploy_buttons_positions = []
+    for unit in units:
+        doll_count = unit["count"]
+        if doll_count > 4:
+            # Two column layout
+            rows = (doll_count + 1) // 2
+        else:
+            # Single column layout
+            rows = doll_count
+
+        # Each row is 160px tall, content starts at tab_content_start_y
+        # Buttons go below all the doll boxes
+        # Need to account for the tab container(s) height: num_containers * 72px
+        unit_height = rows * 160
+        container_offset = num_containers * 72
+        deploy_buttons_positions.append(
+            tab_content_start_y - unit_height - container_offset
+        )
+
     output = f"""<GUIItems>
 <EventActionBatch name="GAME_GUI_LOADTIME_ACTIONS">
     <Action type="Show" target="GFL-UNIT-GIRL" />
@@ -470,7 +491,10 @@ def generate_girl_deploy(units, output_path):
         # Generate tabs for this container
         for tab_idx in range(start_tab, end_tab):
             output += generate_tab_button(
-                tab_idx, units[tab_idx], total_tabs, container_idx
+                tab_idx,
+                units[tab_idx],
+                total_tabs,
+                deploy_buttons_positions[tab_idx],
             )
 
         output += (
