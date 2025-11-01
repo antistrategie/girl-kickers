@@ -8,10 +8,10 @@
         <Action type="AddMeToParent" target="#unit_header" />
     </OnOpen>
 
-    <!-- Tab Menu Bar (64px height) -->
+    <!-- Tab Container 0 (tabs 0-4) -->
     <Item
             origin="0 0"
-            name="girl_tab_menu"
+            name="girl_tab_menu_0"
             align="rt"
             sizeX="396"
             sizeY="64"
@@ -484,7 +484,7 @@
             </StaticImage>
         </Checkbox>
 
-    </Item> <!-- End Tab Menu -->
+    </Item> <!-- End Tab Container 0 -->
 
     <Item origin="8 -72" name="unit_tab0" align="t" hidden="false">
 

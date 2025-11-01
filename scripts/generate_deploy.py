@@ -241,28 +241,32 @@ def generate_base_deploy(units, output_path):
         f.write(output)
 
 
-def generate_tab_button(tab_num, unit):
+def generate_tab_button(tab_num, unit, total_tabs, container_num):
     """Generate a tab button for GIRL deploy screen."""
     unit_name = unit["name"]
 
     # Extract squad name from unit (e.g., GFL-UNIT-DEFY -> defy)
     squad = unit_name.replace("GFL-UNIT-", "").lower()
 
-    # Position calculation: tab buttons are 72px apart
-    x_pos = -304 + (tab_num * 72)
+    # Position calculation: 5 tabs per row, each 72px apart horizontally
+    # Within each container, tabs are positioned at Y=0 (all in same row)
+    tabs_per_row = 5
+    col = tab_num % tabs_per_row
+    x_pos = -304 + (col * 72)
+    y_pos = 0
 
     default_state = "CheckedState" if tab_num == 0 else "UncheckedState"
 
-    # Build list of other tabs to uncheck
-    other_tabs = [f"tab{i}_cbox" for i in range(5) if i != tab_num]
-    uncheck_actions = "\n\t\t\t\t\t".join(
+    # Build list of other tabs to uncheck (dynamic based on total tabs)
+    other_tabs = [f"tab{i}_cbox" for i in range(total_tabs) if i != tab_num]
+    uncheck_actions = "\n                    ".join(
         [f'<Action type="Uncheck" target="{t}" />' for t in other_tabs]
     )
 
     template = f'''        <!-- Tab {tab_num}: {unit_name} -->
         <Checkbox
                 name="tab{tab_num}_cbox"
-                origin="{x_pos} 0"
+                origin="{x_pos} {y_pos}"
                 align="r"
                 stealFocus="true"
                 defaultState="{default_state}"
@@ -350,7 +354,7 @@ def generate_tab_button(tab_num, unit):
     return template
 
 
-def generate_tab_content(tab_num, unit, starting_slot):
+def generate_tab_content(tab_num, unit, starting_slot, tab_content_y):
     """Generate content for a single tab in GIRL deploy screen."""
 
     classes = unit["classes"]
@@ -363,7 +367,7 @@ def generate_tab_content(tab_num, unit, starting_slot):
 
     hidden = "false" if tab_num == 0 else "true"
 
-    output = f'\t<Item origin="8 -72" name="unit_tab{tab_num}" align="t" hidden="{hidden}">\n'
+    output = f'    <Item origin="8 {tab_content_y}" name="unit_tab{tab_num}" align="t" hidden="{hidden}">\n'
 
     # Generate class items
     slot_num = starting_slot
@@ -381,11 +385,17 @@ def generate_tab_content(tab_num, unit, starting_slot):
 
         output += "\n"
         output += generate_class_item_girl(
-            class_name, x_origin, y_origin, slot_num, width, flag_color, indent="\t\t"
+            class_name,
+            x_origin,
+            y_origin,
+            slot_num,
+            width,
+            flag_color,
+            indent="        ",
         )
         slot_num += 1
 
-    output += "\n\t</Item> <!-- End Tab " + str(tab_num) + " Content -->\n\n"
+    output += "\n    </Item> <!-- End Tab " + str(tab_num) + " Content -->\n\n"
 
     return output
 
@@ -393,20 +403,46 @@ def generate_tab_content(tab_num, unit, starting_slot):
 def generate_girl_deploy(units, output_path):
     """Generate gfl_deploy_girl.xml with tabbed interface."""
 
-    output = """<GUIItems>
+    total_tabs = len(units)
+    tabs_per_row = 5
+
+    # Calculate number of tab containers needed (each holds up to 5 tabs)
+    num_containers = (total_tabs + tabs_per_row - 1) // tabs_per_row
+
+    # The first container should always be at the same screen position
+    # Container 0 is at Y=0 within GIRL, so GIRL origin determines screen position
+    # Keep GIRL at -312 so first container stays in same place
+    # Additional containers stack below at Y=-72, Y=-144, etc.
+    girl_origin_y = -312
+
+    # Tab content starts 72px below the GIRL origin (after first container)
+    # Additional containers add 72px each
+    tab_content_start_y = -72 - ((num_containers - 1) * 72)
+
+    output = f"""<GUIItems>
 <EventActionBatch name="GAME_GUI_LOADTIME_ACTIONS">
     <Action type="Show" target="GFL-UNIT-GIRL" />
 </EventActionBatch>
 
-<Item name="GFL-UNIT-GIRL" origin="0 -312" hidden="true" align="rt" sizeX="396">
+<Item name="GFL-UNIT-GIRL" origin="0 {girl_origin_y}" hidden="true" align="rt" sizeX="396">
     <OnOpen>
         <Action type="AddMeToParent" target="#unit_header" />
     </OnOpen>
 
-    <!-- Tab Menu Bar (64px height) -->
+"""
+
+    # Generate each tab container
+    for container_idx in range(num_containers):
+        container_y = 0 - (container_idx * 72)
+
+        # Calculate which tabs go in this container
+        start_tab = container_idx * tabs_per_row
+        end_tab = min(start_tab + tabs_per_row, total_tabs)
+
+        output += f"""    <!-- Tab Container {container_idx} (tabs {start_tab}-{end_tab - 1}) -->
     <Item
-            origin="0 0"
-            name="girl_tab_menu"
+            origin="0 {container_y}"
+            name="girl_tab_menu_{container_idx}"
             align="rt"
             sizeX="396"
             sizeY="64"
@@ -431,16 +467,19 @@ def generate_girl_deploy(units, output_path):
 
 """
 
-    # Generate tab buttons
-    for i, unit in enumerate(units):
-        output += generate_tab_button(i, unit)
+        # Generate tabs for this container
+        for tab_idx in range(start_tab, end_tab):
+            output += generate_tab_button(
+                tab_idx, units[tab_idx], total_tabs, container_idx
+            )
 
-    output += "\t</Item> <!-- End Tab Menu -->\n\n"
+        output += (
+            "    </Item> <!-- End Tab Container " + str(container_idx) + " -->\n\n"
+        )
 
-    # Generate tab contents
     slot_counter = 0
     for i, unit in enumerate(units):
-        output += generate_tab_content(i, unit, slot_counter)
+        output += generate_tab_content(i, unit, slot_counter, tab_content_start_y)
         slot_counter += unit["count"]
 
     output += "</Item> <!-- End GFL-UNIT-GIRL -->\n</GUIItems>\n"

@@ -1,15 +1,15 @@
 <Equipment>
 <!-- Valid <Params> attributes:
-    roundsPerSecond            - required
-    audibleSoundRadius        - required, in meters
-    physicsImpactForce        - required, only affect hit objects
+    roundsPerSecond         - required
+    audibleSoundRadius      - required, in meters
+    physicsImpactForce      - required, only affect hit objects
 
-    numPellets                - optional, overrides weapon default number of pellets
+    numPellets              - optional, overrides weapon default number of pellets
     accuracyAdd             - optional, default 0
-    accuracyMultiplier         - optional, default 100 - In percents. Multiplies final accuracy amount ( after scopes, attack types and accuracyAdd are applied )
+    accuracyMultiplier      - optional, default 100 - In percents. Multiplies final accuracy amount ( after scopes, attack types and accuracyAdd are applied )
     silenced                - optional, default 0 - Set to 1 for silent shooting
-    overpenetrates            - optional, default 0 - Set to 1 will make shots pierce first hit human
-    damageType                - optional, default 0 - Can be changed for rare modding reasons to fake more powerful weapons
+    overpenetrates          - optional, default 0 - Set to 1 will make shots pierce first hit human
+    damageType              - optional, default 0 - Can be changed for rare modding reasons to fake more powerful weapons
  -->
     <Ammo
         name="473x33_Caseless_G11"
