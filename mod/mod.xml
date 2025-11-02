@@ -1,8 +1,4 @@
-<Mod
-    title="Girls&apos; Frontline 2: Door Kickers"
-    gameVersion="112"
-    author="beanpuppy"
-    description="[h2]Girls&apos; Frontline 2: Door Kickers[/h2]
+<Mod title="Girls&apos; Frontline 2: Door Kickers" gameVersion="112" author="beanpuppy" description="[h2]Girls&apos; Frontline 2: Door Kickers[/h2]
 
 
 
@@ -39,7 +35,7 @@ This mod imports tactical dolls from Girls&apos; Frontline 2: Exilium as playabl
 [b]Groza Squad:[/b] Groza, Nemesis, Krolik, Colphne, Vepley
 
 
-[b]Elmo Combined Echelon:[/b] Peritya, Sabrina, Qiuhua, Peri, Florence, Nikketa
+[b]Elmo Combined Echelon:[/b] Peritya, Sabrina, Qiuhua, Peri, Florence, Nikketa, Helen, Lewis
 
 [i]Note: Only dolls currently available in GFL2 are/will be included.[/i]
 
@@ -71,7 +67,7 @@ Want to help or contribute? Visit the [url=https://github.com/beanpuppy/girl-kic
 
 [h3]Known Limitations[/h3]
 
-Door Kickers 2 expects uniform model sizes, causing visual issues when importing GFL2 dolls with varying heights and builds. Tall, skinny dolls like Nemesis and short dolls like Colphne are particularly affected by these scaling requirements. Some elements like Nemesis&apos;s cape were removed due to skeletal rigging constraints. I&apos;m working to minimise these issues while keeping dolls in their correct outfits.
+Door Kickers 2 expects uniform model sizes, causing visual issues when importing GFL2 dolls with varying heights and builds. Tall, skinny dolls like Nemesis and short dolls like Colphne are particularly affected by these scaling requirements. I&apos;m working to minimise these issues while keeping dolls in their correct outfits.
 
 
 
@@ -87,8 +83,10 @@ Contributors:
 
 [*] beanpuppy
 
+[*] Setlys
 [*] Housenflou
 
+[*] MistressAshai
 [/list]
 
 
@@ -105,10 +103,7 @@ Special thanks to:
 
 [*] Everyone giving suggestions and reporting bugs
 
-[/list]"
-    changeNotes="Fix PA-15 unable to equip iron sights.
-Fix typo causing error when reloading PKP-SP."
-    languageMod=""
-    tags="Playable Units,Equipment,UI"
-    ugcId="3580762170"
-/>
+[/list]" changeNotes="Add Helen and Lewis to ELMO-CE (requires making new squad).
+Rename Type97 to Type97S in internal files (requires making new squad).
+Give Nemesis her cape back - I figured it out are you proud of me :3
+Fix attack types for PKP-SP to use LMG instead of rifle attacks." languageMod="" tags="Playable Units,Equipment,UI" ugcId="3580762170"/>
