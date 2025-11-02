@@ -240,10 +240,10 @@ This script will:
 **Next:** Generate transcriptions of the voice lines:
 
 ```bash
-python scripts/transcribe_voices.py CharacterName
+python scripts/transcribe_voices.py
 ```
 
-This creates a `_trans.txt` file showing what each voice line says. This is essential for matching them to appropriate game events if you don't speak Japanese.
+This creates a `_trans.txt` file for all directories that don't have one, showing what each voice line says (machine translated, so far from perfect). This is essential for matching them to appropriate game events if you don't speak Japanese.
 
 #### Step 2: Create Voice Pack XML
 
