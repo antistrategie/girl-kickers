@@ -258,7 +258,7 @@ The voice pack maps various in-game events (combat, movement, status changes) to
 - `VOX_TRPR_GO_GO_GO` - Battle start/movement commands
 - `VOX_TRPR_MOVING` - Movement acknowledgement
 - `VOX_TRPR_ROGER` - Command acknowledgement
-- `VOX_TRPR_CLEAR` - Mission complete
+- `VOX_TRPR_CLEAR` - Clear command
 - `VOX_WARN_GRENADE` - Grenade warning
 - Many more tactical callouts...
 
@@ -323,9 +323,7 @@ These files are created from the base definitions in `gfl_humans.xml`, `gfl_unit
 
 ## Automation Scripts
 
-### Generation Scripts
-
-#### `scripts/generate_girls.py`
+### `scripts/generate_girls.py`
 Generates GIRL unit variants from base squad entities and units.
 
 **Usage:**
@@ -338,10 +336,10 @@ python scripts/generate_girls.py --units    # Generate only units
 **What it does:**
 - Reads from `gfl_humans.xml` → generates `gfl_humans_girl.xml`
 - Reads from `gfl_unit.xml` → generates `gfl_unit_girl.xml`
-- Creates GIRL- prefixed entity variants
+- Creates 'GIRL-' prefixed entity variants
 - Consolidates all classes into the GFL-UNIT-GIRL unit
 
-#### `scripts/generate_deploy.py`
+### `scripts/generate_deploy.py`
 Generates deployment screen GUI from unit definitions.
 
 **Usage:**
@@ -360,7 +358,7 @@ python scripts/generate_deploy.py
 
 Follow these steps in order when adding a new character:
 
-### 1: Asset Preparation
+### Asset Preparation
 
 1. Ensure all models, textures, and portraits are in place (see Required Assets section)
 2. Process voice files:
@@ -369,7 +367,7 @@ Follow these steps in order when adding a new character:
    python scripts/transcribe_voices.py
    ```
 
-### 2: Manual XML Entries
+### Manual XML Entries
 
 3. Add weapon to `/mod/equipment/gfl_weapons.xml`
 4. Add class bindings to `/mod/equipment/gfl_binds.xml`
@@ -381,14 +379,14 @@ Follow these steps in order when adding a new character:
 10. Add voice pack to `/mod/sounds/gfl_voice_lines_{squad}.xml`
 11. Add localisation to `/mod/localization/gfl_game.txt`
 
-### 3: Validation
+### Validation
 
 12. Validate voice files:
     ```bash
     python scripts/validate_voice_files.py
     ```
 
-### 4: Generation
+### Generation
 
 13. Generate GIRL variants:
     ```bash
@@ -400,7 +398,7 @@ Follow these steps in order when adding a new character:
     python scripts/generate_deploy.py
     ```
 
-### 5: Testing & Cleanup
+### Testing & Cleanup
 
 15. Test in-game to verify everything works
 16. Clean up unused voice files:
