@@ -687,6 +687,7 @@
 
     <Bind to="GFL-DOLL-VECTOR">
         <eqp name="GFL-WEAP-VECTOR" />
+        <eqp name="GFL-GEAR-VECTOR-GRENADE" />
 
         <eqp name="GFL_ReactiveShielding" />
         <eqp name="GFL_CombatMatrix" />
