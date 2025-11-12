@@ -88,7 +88,7 @@
             bodyTemplate="SmokeGrenade"
 		    trailParticles="SmokeGrenadeTrail"
 		    pathIconTexture="data/textures/gui/contextual/pathicon_flashbang_active.tga"
-		    soundExplosion=""
+		    soundExplosion="flash_expl"
 		    soundOnSpawn="smoke_throw"
 		    soundFollow="smoke_loop"
 		    soundHitFloor="grenade_hit_floor"
