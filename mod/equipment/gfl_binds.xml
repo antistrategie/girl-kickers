@@ -770,14 +770,20 @@
         <eqp name="M9 Pistol" />
         <eqp name="M17 Pistol" />
         <eqp name="M18 Pistol" />
-        <eqp name="G19X Pistol" />
-        <eqp name="G2240 Pistol" />
+        <eqp name="G17 Pistol CIA BOps" />
+        <eqp name="G19 Pistol CIA BOps" />
+        <eqp name="G19Custom Pistol CIA BOps" />
+        <eqp name="G19X Pistol CIA BOps" />
+        <eqp name="G2240 Pistol CIA BOps" />
         <eqp name="1911 Pistol" />
+        <eqp name="HS45 Pistol NWS" />
+        <eqp name="TSS4 Pistol" />
+        <eqp name="PPK Pistol" />
+        <eqp name="HK45CT CIA UCov" />
 
         <!-- Utility -->
         <eqp name="Stinger Single" />
         <eqp name="Stinger" />
-        <eqp name="Slap Charge Kit" />
         <eqp name="Smoke Grenade Single" />
         <eqp name="Smoke Grenade" />
         <eqp name="Smoke Grenade Kit" />
