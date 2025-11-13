@@ -90,7 +90,7 @@
 		    pathIconTexture="data/textures/gui/contextual/pathicon_flashbang_active.tga"
 		    soundExplosion="flash_expl"
 		    soundOnSpawn="smoke_throw"
-		    soundFollow="smoke_loop"
+		    soundFollow="fire"
 		    soundHitFloor="grenade_hit_floor"
 		    friendlyFire="false"
 		    triggerOnImpact="false"
@@ -109,6 +109,8 @@
 		    entity3="Light_FireLarge"
 		    deleteAfterMS3="15000"
 	    />
+
+		<Shrapnel projectileSource="VECTOR_Extra_MolotovShrapnel" min="6" max="6" spreadRadius="2.5" />
 	
 		<EffectRange radiusMeters="2.0">
 		    <StunEffect 
@@ -123,26 +125,159 @@
 		    />
 		    <FireEffect durationMSec="9000"/>
 		    <DOTEffect 
-		        durationMSec="15000" 
-		        dps="15.0"
+		        durationMSec="15000"
+		        dps="20.0"
 		    />
 		</EffectRange>
 
 		<EffectRange radiusMeters="2.5">
-			<ScatterEffect chancePercent="100"/>
-			<SuppressEffect amount="30"/>
-        </EffectRange>
+			<ScatterEffect 
+				chancePercent="100"
+				durationMSec="8000"
+			/>
+			<SuppressEffect 
+				amount="30" 
+				durationMSec="8000"
+			/>
+        	</EffectRange>
 			
 		<EffectRange radiusMeters="3">
 			<ScatterEffect 
 			    chancePercent="100" 
 			    armorPenetration="0" 
 			    innerRangeTimeMSec="8000" 
-			    outerRangeTimeMSec="5000"/>
-				<SuppressEffect amount="15"/>
+			    outerRangeTimeMSec="5000"
+			/>
+			<SuppressEffect amount="15"/>
 		</EffectRange>			
 			
-	</Projectile>	
+	</Projectile>
     </Grenade>
-  
+
+<!-- Searing Finale Scatter Effect -->
+
+	<Grenade name="VECTOR_Extra_MolotovShrapnel" inventoryBinding="UtilityPouch"
+			animationSet="grenade"
+	>
+
+		<Projectile
+			bodyTemplate="MolotovShrapnel"
+			trailParticles="Molotov_ExtraTrail"
+			lightTemplate="Light_FireSmall"
+			friendlyFire="false"
+			triggerOnImpact="true"
+			triggerTimeAfterTargetHitMsec="1500"
+
+			physicsDetonationForce="2"
+			audibleLaunchSoundRadius="0"
+			audibleDetonationSoundRadius="0">
+
+			<!-- spawn these when exploding -->
+			<FX
+				particles="Molotov_Explosion"
+				entity1="scorch_mark_molotov_central"
+				randRotation1="true"
+				entity2="Light_FireLarge"
+				deleteAfterMS2="15000"
+			/>
+
+	<Shrapnel projectileSource="VECTORX_Extra_MolotovShrapnel" min="6" max="6" spreadRadius="2.5" />
+
+		<EffectRange radiusMeters="2.0">
+		    <DamageEffect 
+		        chancePercent="100" 
+		        damage="55" damageType="0"  
+		        armorPenetration="0"
+		    />
+		    <FireEffect durationMSec="9000"/>
+		    <DOTEffect 
+		        durationMSec="15000"
+		        dps="20.0"
+		    />
+		</EffectRange>
+
+		<EffectRange radiusMeters="2.5">
+			<ScatterEffect 
+				chancePercent="100"
+				durationMSec="8000"
+			/>
+			<SuppressEffect 
+				amount="30" 
+				durationMSec="8000"
+			/>
+        	</EffectRange>
+			
+		<EffectRange radiusMeters="3">
+			<ScatterEffect 
+			    chancePercent="100" 
+			    armorPenetration="0" 
+			    innerRangeTimeMSec="8000" 
+			    outerRangeTimeMSec="5000"
+			/>
+			<SuppressEffect amount="15"/>
+		</EffectRange>
+		</Projectile>
+	</Grenade>
+
+	<Grenade name="VECTORX_Extra_MolotovShrapnel" inventoryBinding="UtilityPouch"
+			animationSet="grenade"
+	>
+
+		<Projectile
+			bodyTemplate="MolotovShrapnel"
+			trailParticles="Molotov_ExtraTrail"
+			lightTemplate="Light_FireSmall"
+			friendlyFire="false"
+			triggerOnImpact="true"
+			triggerTimeAfterTargetHitMsec="1500"
+
+			physicsDetonationForce="2"
+			audibleLaunchSoundRadius="0"
+			audibleDetonationSoundRadius="0">
+
+			<!-- spawn these when exploding -->
+			<FX
+				particles="Molotov_Explosion"
+				entity1="scorch_mark_molotov_central"
+				randRotation1="true"
+				entity2="Light_FireLarge"
+				deleteAfterMS2="15000"
+			/>
+
+		<EffectRange radiusMeters="2.0">
+		    <DamageEffect 
+		        chancePercent="100" 
+		        damage="55" damageType="0"  
+		        armorPenetration="0"
+		    />
+		    <FireEffect durationMSec="1000"/>
+		    <DOTEffect 
+		        durationMSec="15000"
+		        dps="20.0"
+		    />
+		</EffectRange>
+
+		<EffectRange radiusMeters="2.5">
+			<ScatterEffect 
+				chancePercent="100"
+				durationMSec="8000"
+			/>
+			<SuppressEffect 
+				amount="30" 
+				durationMSec="8000"
+			/>
+        	</EffectRange>
+			
+		<EffectRange radiusMeters="3">
+			<ScatterEffect 
+			    chancePercent="100" 
+			    armorPenetration="0" 
+			    innerRangeTimeMSec="8000" 
+			    outerRangeTimeMSec="5000"
+			/>
+			<SuppressEffect amount="15"/>
+		</EffectRange>
+		</Projectile>
+	</Grenade>
+
 </Equipment>
