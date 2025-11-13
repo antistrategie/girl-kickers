@@ -65,6 +65,11 @@
 @ammo_45acp_fmj_vector_desc=Standard FMJ optimized for the Vector's high rate of fire.
 @ammo_45acp_jhp_vector_desc=Hollow point rounds for maximum damage in CQB situations.
 
+@GEAR-VECTOR-GRENADE-NAME=x5 Searing Finale
+@GEAR-VECTOR-GRENADE-DESC=Incendiary Grenades with a small explosive charge that spreads its fiery payload farther all the while stunning nearby enemies at the explosion point. Paint terror into their bones and clear your canvas.
+@GEAR-VECTOR-GRENADE-TTIP=Throw Searing Finale
+
+
 @GFL-UNIT-CAFE-NAME=Zucchero Café
 @GFL-UNIT-CAFE-DESC=A group of service and support dolls operating from a café base, providing backup services and logistics while maintaining their cover as hospitality workers in civilian territory.
 @#GFL-UNIT-CAFE-NAME-RND=Zucchero Café
@@ -331,6 +336,8 @@
 @GEAR-MEDIC-GRENADE-NAME=2x Medic Grenade
 @GEAR-MEDIC-GRENADE-DESC=Experimental grenade that repairs damage to all units within the blast radius. Use with caution in mixed engagements to avoid healing enemy units.
 @GEAR-MEDIC-GRENADE-TTIP=Throw medic grenade
+
+
 
 @GFL-UNIT-ELMOCE-NAME=Elmo Combined Echelon
 @GFL-UNIT-ELMOCE-DESC=The Combined echelon of the Elmo MCV, made of wandering dolls who joined the Elmo after the Mephisto Agreement was relaxed.
