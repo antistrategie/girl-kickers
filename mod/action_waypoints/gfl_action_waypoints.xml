@@ -11,7 +11,7 @@
     <wp
         type="THROW_GRENADE"
         equipment="GFL-GEAR-VECTOR-GRENADE"
-        ui_prefix="data/textures/gui_ingame/waypoints/flash_grenade"
+        ui_prefix="data/textures/gui_ingame/waypoints/flashbang"
         ttip="@GEAR-VECTOR-GRENADE-TTIP"
         ttip_disabled="@menu_generic_cannot_use"
         ttip_empty="@menu_game_smoke_none_ttip"
