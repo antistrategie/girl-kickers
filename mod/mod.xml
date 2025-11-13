@@ -38,7 +38,7 @@ Want to help or contribute? Visit the [url=https://github.com/beanpuppy/girl-kic
 
 [h3]Known Limitations[/h3]
 
-Door Kickers 2 expects uniform model sizes, causing visual issues when importing GFL2 dolls with varying heights and builds. Tall, skinny dolls like Nemesis and short dolls like Colphne are particularly affected by these scaling requirements. I&apos;m working to minimise these issues while keeping dolls in their correct outfits.
+Door Kickers 2 expects uniform model sizes, causing visual issues when importing GFL2 dolls with varying heights and builds. Tall, skinny dolls like Nemesis and short dolls like Colphne are particularly affected by these scaling requirements. We are working to minimise these issues while keeping dolls in their correct outfits.
 
 Due to these limitations, models are optimised for the default top-down view rather than freelook mode. Any visual issues only visible in freelook will not be considered bugs.
 
@@ -68,4 +68,5 @@ Special thanks to:
 [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3586738239]Chinese localisation[/url]
 [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3595646925]Korean localisation[/url]
 [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3604169235]Frauleins Patch-A[/url] - A balance patch to reduce the health and FOV of the dolls to provide a more challenging experience
-[/list]" changeNotes="Adjust some voice lines." languageMod="" tags="Playable Units,Equipment,UI" ugcId="3580762170"/>
+[/list]" changeNotes="Give each doll more pistols to equip.
+Add a special gadget/grenade for Vector: &quot;Searing Finale&quot;." languageMod="" tags="Playable Units,Equipment,UI" ugcId="3580762170"/>
