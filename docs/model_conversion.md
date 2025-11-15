@@ -174,7 +174,7 @@ In the section under that you should see **File Name and Type** be something lik
 
 Now you can click **Render**. This will render it and save it as `qbz191DiffuseMap.dds` or whatever you named it in the path we saw previously.
 
-Once that's done, you can close the rendering windows and then delete the skylight we made. Select the model again and delete the **Unwrap UVW** modifier by right clicking it.
+Once that's done, you can close the rendering windows and then delete the skylight we made. Select the model again and delete the **Unwrap UVW** modifier by right clicking it and clicking **Delete**.
 
 In the modifier list, find and create an **Edit Poly** modifier and drag this to be under **Skin** but above **Editable Mesh** in the list. Click on the modifier and in the **Selection** section, click the polygon option (the blue square), use **Ctrl-A** to select all polygons. Then find the **Polygon: Material IDs** section (it should be near the end), and enter "1" into the **Set ID** field and press **Enter**. When you do that, the **Select ID** field should then also become "1".
 
