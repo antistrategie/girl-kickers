@@ -48,8 +48,8 @@ This guide assumes you have basic familiarity with 3ds Max. Before starting, you
 ### Download MMD Models
 
 You can get GFL2 MMD models from either:
-- https://gf2exilium.sunborngame.com/main/art (official, models from Global only)
-- https://www.aplaybox.com/u/636064186/model (unofficial, all CN models ripped from game files, requires phone number to sign up)
+- https://gf2exilium.sunborngame.com/main/art (models from Global only)
+- https://www.aplaybox.com/u/636064186/model (all CN models, requires phone number to sign up)
 
 ## Part 1: Configure 3ds Max and Import Model
 
