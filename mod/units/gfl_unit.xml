@@ -885,7 +885,7 @@
         description="@GFL-UNIT-FROST-DESC"
         flagTex="data/textures/gfl_frost_bg.dds"
         flagColor="E4E4E4"
-        movie="data/movies/unlock_swat.ogv"
+        movie="data/movies/gfl_unlock_frost.ogv"
         rndNameEntry="@#GFL-UNIT-FROST-NAME-RND"
         voicepack="commander_eng"
         incapacitationChance="90"
