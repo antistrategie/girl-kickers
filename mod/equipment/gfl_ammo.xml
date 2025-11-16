@@ -289,6 +289,52 @@
         </Params>
     </Ammo>
 
+    <!-- LEWIS'S .303 FMJ -->
+    <Ammo
+        name="303BRITFMJ_LEWIS"
+        tooltip="@ammo_303brit_lewis_name"
+        description="@ammo_303brit_lewis_desc"
+        img="data/models/weapons/attachments/m855_ammo_ui.dds"
+    >
+        <Params
+            roundsPerSecond="10"
+            audibleSoundRadius="50"
+            physicsImpactForce="5.0"
+        >
+            <Damage start="35" end="30" startDist="0" endDist="100" />
+            <CriticalChancePercent
+                start="15"
+                end="20"
+                startDist="0"
+                endDist="100"
+            />
+            <ArmorPenetration start="50" end="40" startDist="0" endDist="100" />
+        </Params>
+    </Ammo>
+
+    <!-- LEWIS'S .303 AP -->
+    <Ammo
+        name="303BRITAP_LEWIS"
+        tooltip="@ammo_303brit_ap_lewis_name"
+        description="@ammo_303brit_ap_lewis_desc"
+        img="data/models/weapons/attachments/m855_ammo_ui.dds"
+    >
+        <Params
+            roundsPerSecond="10"
+            audibleSoundRadius="50"
+            physicsImpactForce="5.0"
+        >
+            <Damage start="30" end="25" startDist="0" endDist="100" />
+            <CriticalChancePercent
+                start="10"
+                end="15"
+                startDist="0"
+                endDist="100"
+            />
+            <ArmorPenetration start="65" end="65" startDist="0" endDist="100" />
+        </Params>
+    </Ammo>
+
     <Ammo
         name="58x42DBP191_QBZ191"
         tooltip="@ammo_58x42_dbp191_name"
