@@ -2170,8 +2170,8 @@
 
 <!-- Lewis Gun -->
     <Bind eqp="GFL-WEAP-LEWIS">
-        <to name="762FMJM80A1_MK17STD" />
-        <to name="762FMJM118LR_MK17STD" />
+        <to name="303BRITFMJ_LEWIS" />
+        <to name="303BRITAP_LEWIS" />
 
         <to name="IronSights" />
         <to name="M68CCO" />
@@ -2224,7 +2224,7 @@
         />
 
         <Params
-            caliberInfoText="@firearm_caliber_762x51_name"
+            caliberInfoText="@firearm_caliber_303_name"
             operationInfoText="@firearm_operation_fullauto_name"
             ejectingShellEntity="BulletCasingLarge"
             magazineEntity="m240l_mag"
