@@ -1,0 +1,217 @@
+# Voice Line Translations for Tololo
+# Generated automatically using OpenAI Whisper
+# Total files: 71
+
+Series_Battle_Start__VO_Tololo_Series_Chosen_Auto__VO_Tololo_Series_Move_Start__VO_Tololo_Series_Set_Fall__VO_Tololo_Series_Tone_Positive_006.wav
+  Target confirmed.
+
+Series_Battle_Start__VO_Tololo_Series_Chosen_Auto__VO_Tololo_Series_Move_Start__VO_Tololo_Series_Tone_Positive_010.wav
+  I won't let you get away.
+
+Series_Battle_Start__VO_Tololo_Series_Move_Start__VO_Tololo_Series_Tone_Positive_009.wav
+  I'll crush you!
+
+Series_Battle_Start__VO_Tololo_Series_Tone_Positive_007.wav
+  I'll eliminate them.
+
+Series_Daily_001.wav
+  By entrusting so many magnificent ideas and wonderful fantasies, humans have become symbols of something. When I read such works, my heart is moved.
+
+Series_Daily_002.wav
+  Even things that seem so far away will never reach us. Just like how humans went to the skies and grabbed the stars, individual ideals should be granted.
+
+Series_Daily_003.wav
+  The light is what people open their eyes to see first. The light is always bright and warm, and it attracts people no matter how far they are.
+
+Series_Daily_004.wav
+  Is there something troubling you? Then let's work together to solve it. ...Hmph. Even if it's me, I'm not that unrealistic.
+
+Series_Daily_005.wav
+  A beautiful moonstone that makes the sky look beautiful... This is a hair ornament sent by Captain Keikyu.
+
+Series_Daily_006.wav
+  If it becomes a meteor, the stars will die, but what about humans and dolls?
+
+Series_Daily_007.wav
+  We're all in the dobu. But there are people who are looking at the stars from there. Don't you think this word is really wonderful?
+
+Series_Daily_008.wav
+  I talked a lot with Groza about red wine. It's unexpected to meet a doll who can drink.
+
+Series_Daily_009.wav
+  Compared to the vast universe, we are not enough to be taken in. However, even if we are small in time and space, we do exist.
+
+Series_Daily_010.wav
+  Speaking of places I want to go, I want to go to the Cerro Tororoten Monastery, which also has my name on it.
+
+Series_Hit__VO_Tololo_Single_Hit_001.wav
+  Shine, the light of the stars!
+
+Series_HittedLast.wav
+  Please believe in me.
+
+Series_HittedLast__VO_Tololo_Series_Tone_Negative_001.wav
+  I failed...
+
+Series_Kill__VO_Tololo_Single_Kill_001.wav
+  Sleep well.
+
+Series_Lose__VO_Tololo_Single_Lose_001.wav
+  I couldn't protect everyone...
+
+Series_Skill01__VO_Tololo_Single_Skill_001.wav
+  Fall, like a meteor.
+
+Series_Skill02__VO_Tololo_Single_Skill_002.wav
+  This is your final shine.
+
+Series_Tone_Negative_002.wav
+  Please believe in me.
+
+Series_Tone_Positive_004.wav
+  Be careful!
+
+Series_Ultimate__VO_Tololo_Single_Ultimate_SSR_001.wav
+  Hoshiboshi...
+
+Series_Up_001.wav
+  Thank you very much.
+
+Series_Up_002.wav
+  Power is a responsibility.
+
+Series_Up_003.wav
+  It's a beautiful feeling like a spirit.
+
+Series_Up_004.wav
+  I'll take care of it.
+
+Series_Up_005.wav
+  It's really unexpected.
+
+Series_Up_006.wav
+  I will protect you.
+
+Series_Up_007.wav
+  I won't let you say that I'm a little bit more.
+
+Series_Up_008.wav
+  The road is lit.
+
+Series_Win__VO_Tololo_Single_Win_001.wav
+  Now, it's time to do what you like.
+
+Single_Acquire_R_001.wav
+  Five years later, ten years later... I want to watch the stars while drinking together like this.
+
+Single_Acquire_SSR_001.wav
+  This album has a record of all the night skies that have passed from the day I met you to the day I met you. I'll send this to you. I hope you like it.
+
+Single_Anniversary_001.wav
+  In the album I sent you this time, there are photos of the sky in the White Area. I miss that clear blue sky, but I have no regrets meeting you again. Of course, I also miss riding the Elmo.
+
+Single_Birthday_R_001.wav
+  You are the main character of today's event. Happy birthday, Commander!
+
+Single_Birthday_SSR_001.wav
+  Like the stars that stand in the sky, I want you to shine forever. Happy birthday, Commander.
+
+Single_Birthday_SSR_002.wav
+  Not only is it warm, but the commander who illuminates the night sky is like a top student. Happy birthday!
+
+Single_Children_001.wav
+  It's a day when children can enjoy themselves. Helena's eyes look like a shooting star.
+
+Single_Christmas_001.wav
+  Tonight, the stars descend from the night sky and are connected to the trees. They no longer exist a few years later, and I no longer feel lonely.
+
+Single_Christmas_002.wav
+  Speaking of Christmas, Santa is the one that I'm most interested in, but I like you more. You're not that noticeable, but you're so wonderful on a day like today. What do you think, Commander?
+
+Single_Duanwu_001.wav
+  People say that people think of important people by naming them. I wonder if this anniversary is also a day to think of important people.
+
+Single_Friendliness_001.wav
+  It's not like I'm nice or anything, so please don't get too close.
+
+Single_Friendliness_002.wav
+  When I'm free, I look at the starry sky and contact my friends. I learned to be honest and depend on others from that incident.
+
+Single_Friendliness_003.wav
+  I find everything within victory, just What?
+
+Single_Friendliness_004.wav
+  Our minds and souls are very similar. Both are distant and beautiful. The question to the stars is also the question to myself.
+
+Single_Friendliness_005.wav
+  It's only natural that beauty and wholeness are two different things, so I can't deny the barbarity and the wickedness. Because of our opposite nature, we can see each other's existence.
+
+Single_Friendliness_006.wav
+  Would you like to fill in this starry sky album with me? I just thought the lead role wasn't enough.
+
+Single_Friendliness_007.wav
+  Let's listen to Mozart together. Just listening to that melody will make you feel happy.
+
+Single_Friendliness_008.wav
+  When you drink, drink until you feel like it. You don't need to worry about getting drunk. I'm by your side.
+
+Single_Friendliness_009.wav
+  The stars in the sky are very far from us, but there are some very close stars.
+
+Single_Friendliness_010.wav
+  Each of the atoms in our bodies comes from a dead, fallen planet. The left and right hands of humans may have been from different planets. If we go back in time, will our bodies have come from the same planet?
+
+Single_Friendliness_011.wav
+  A sci-fi novel is the creation of the author's ideals. Would you like to draw your ideals with me? And then, someday, in reality...
+
+Single_Friendliness_012.wav
+  I won't lie to myself anymore. I'm sorry to hurt someone with such a dirty word again.
+
+Single_Friendliness_013.wav
+  Let's illuminate your heart like the sun. It's a famous writer's poem. Don't you think it's wonderful?
+
+Single_Login_001.wav
+  You're here. Well then, let's get to work.
+
+Single_MidAutumn_001.wav
+  The drink Meirin brought looks like chocolate. What does it taste like with beer? Shall we try it together?
+
+Single_MidAutumn_002.wav
+  Tonight, I will write a wish on the ceiling and send it to the sky, and the stars that heard it will grant my wish. Why don't we try it together?
+
+Single_NewYear_001.wav
+  I've crossed the border of the old city and the new city. Let's make various things come true this year.
+
+Single_NewYear_002.wav
+  Yesterday is history, tomorrow is unknown. To be able to enjoy the scent of time while drinking beer... This is the most beautiful moment of my life written in a book. How about a drink, Commander?
+
+Single_Obon_001.wav
+  According to one theory, the people who died became stars and watch over us, so when they look at the stars, they feel their love. Is it because the stars love us that the stars are so beautiful?
+
+Single_Obtain_SSR_001.wav
+  With the power of gravity, the star's miracle was changed, and we were able to meet. Tororo, I will now enter.
+
+Single_Passive_SSR_001.wav
+  No어..
+
+Single_SpringFes_001.wav
+  This excitement is just like the light of a comet cutting through the sky.
+
+Single_SpringFes_002.wav
+  The fireworks... are beautiful. The contrast between the star's radiance and the fireworks is especially... I'm thinking of putting it on camera, but how about you, Commander?
+
+Single_ThanksGiving_001.wav
+  you gain something from it or stay with it. To前奉一御神, any thanks are appreciated in fact, if the color of your husband's blood기 has been the same. As a person of good nature, your family people must be RBIs. When you all remember that however, you're taking responsibility regarding K different kinds of violence
+
+Single_Title_001.wav
+  Dolls Front Line 2 Exilium
+
+Single_Valentine_001.wav
+  Hot chocolate is perfect for a day like today. Would you like to try some, Commander?
+
+Single_Valentine_002.wav
+  The comet will return after traveling through the distant galaxy, but our bond is the same. Even if we are separated, we will be drawn to each other.
+
+Single_WhiteVale_001.wav
+  I heard today is Valentine's Day. But I don't think this day was made in a bad way. It's not strange to make a anniversary like making a machine or a doll.
+

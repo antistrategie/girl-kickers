@@ -1,0 +1,226 @@
+# Voice Line Translations for Qiongjiu
+# Generated automatically using OpenAI Whisper
+# Total files: 74
+
+Series_Attack__VO_Qiongjiu_Series_Tone_Positive_003.wav
+  Sure thing.
+
+Series_Battle_Start__VO_Qiongjiu_Series_Tone_Positive_002.wav
+  Roger that.
+
+Series_Chosen_Auto__VO_Qiongjiu_Series_Tone_Positive_007.wav
+  Follow me.
+
+Series_Chosen__VO_Qiongjiu_Series_Tone_Positive_006.wav
+  Now!
+
+Series_Daily_001.wav
+  The mission report is stored in order of numbers. Clothes must be stored in different colors and types. Don't tell me everyone is different?
+
+Series_Daily_002.wav
+  When I'm free, I scrape the water and make small accessories. Doing so will ease my tension.
+
+Series_Daily_003.wav
+  In this day and age, you can't just be stupidly serious. Sometimes, there's no need to be so perverted. If you're a commander, you know better than I do.
+
+Series_Daily_004.wav
+  I've only learned about alcohol because I needed it for work. If only I could have a relationship with my boss's words for work.
+
+Series_Daily_005.wav
+  The name of the sword is taken from the poem. Read it, Keikyu. It means to be modest and beautiful. I must be diligent to make this name come true.
+
+Series_Daily_006.wav
+  Commander, you don't have to worry about work. We have to keep an eye on the Kiren so that it doesn't fall.
+
+Series_Daily_007.wav
+  The Elmo dolls seem to be full of freaks and are about to burn their hands. You're going to learn to feel close to Captain Groza.
+
+Series_Daily_008.wav
+  The total amount of the general staff's capital this season is over 35%. I was prepared for this long ago, but... Seriously... Who's the cause? Cheetah? Or Linda?
+
+Series_Daily_009.wav
+  If you don't act with discipline, you won't be able to make a good performance. As the captain, you don't have to be strict with the crew. I intend to be more careful with Chita.
+
+Series_Daily_010.wav
+  With the power of the General Staff, I can make any request you want. Hm? You're planning to take over my job? If that's what you're thinking...
+
+Series_Die__VO_Qiongjiu_Series_Tone_Negative_001.wav
+  Ugh!
+
+Series_Dying__VO_Qiongjiu_Series_HittedLast__VO_Qiongjiu_Series_Tone_Negative_002.wav
+  One more time!
+
+Series_Hit__VO_Qiongjiu_Single_Hit_001.wav
+  Where are you looking?
+
+Series_HittedLast.wav
+  Ugh!
+
+Series_Kill__VO_Qiongjiu_Single_Kill_001.wav
+  It's over.
+
+Series_Lose__VO_Qiongjiu_Single_Lose_001.wav
+  I'm sorry, I wasn't considerate enough. I'll withdraw for now. I'll be careful next time.
+
+Series_Set_Click__VO_Qiongjiu_Series_Tone_Positive_004.wav
+  Yoi!
+
+Series_Skill01__VO_Qiongjiu_Single_Skill_001.wav
+  I'll protect you!
+
+Series_Skill02__VO_Qiongjiu_Single_Skill_002.wav
+  Now!
+
+Series_Tone_Positive_008.wav
+  Keep your guard up!
+
+Series_Tone_Positive_009.wav
+  What are you doing?
+
+Series_Tone_Positive_010.wav
+  Wait here for a moment.
+
+Series_Ultimate__VO_Qiongjiu_Single_Ultimate_SSR_001.wav
+  If you polish the bullets, you will not have a vessel!
+
+Series_Up_001.wav
+  Don't worry.
+
+Series_Up_002.wav
+  It's going well.
+
+Series_Up_003.wav
+  I think you can still do it.
+
+Series_Up_004.wav
+  Not a big deal.
+
+Series_Up_005.wav
+  If we don't come up with a new plan...
+
+Series_Up_006.wav
+  Leave it to me.
+
+Series_Up_007.wav
+  This is surprising.
+
+Series_Up_008.wav
+  I'm looking forward to it.
+
+Series_Win__VO_Qiongjiu_Single_Win_001.wav
+  The battlefield is clear. Everyone, well done.
+
+Single_Acquire_R_001.wav
+  We've been busy for the past year. I hope we can calm down a little more from now on.
+
+Single_Acquire_SSR_001.wav
+  In Buddhist novels, there is a saying that means, I thought that I wouldn't be able to reunite with you in this vast world, but that thought has changed in this year. The world may be surprisingly small.
+
+Single_Anniversary_001.wav
+  In this year, it seems that Kiren has also gone through a lot. Just by looking at the strategy record, there was a lot to gain. From now on, I will learn from Kiren, Commander.
+
+Single_Birthday_R_001.wav
+  Happy birthday! There's nothing to be so surprised about. Everyone's birthdays are put in the calendar and the notifications are coming. If it's a miracle, then even more so.
+
+Single_Birthday_SSR_001.wav
+  Commander, I'm glad that you've grown another year. I'm thinking of learning how to eat soba from you, but... I'm going to study the recipe, so can you wait for me? I'll be there in a few minutes.
+
+Single_Birthday_SSR_002.wav
+  Commander, happy birthday. As you can see, I'm free today. I can go out with you no matter what. Now, please make a proposal without hesitation.
+
+Single_Children_001.wav
+  Cheetah's toys, Rindo's candy, and Tororo's photo book... They're all here. Why did Soregashi give them their protective gear? That's right, Commander! I had prepared a loli-pop candy for Kiden. Rindo has a secret, after all.
+
+Single_Christmas_001.wav
+  Santa Claus... How suspicious... It really is suspicious! Jumping over the roof, riding on a sleigh, and sending various presents without even seeking a return... Wait... This is like... a fairy tale... saving the weak, crushing the strong... Isn't it a beautiful answer?
+
+Single_Christmas_002.wav
+  Commander, we've searched every exit today, but we haven't found anyone like Santa Claus yet. Since everyone's asking for it, we should build a substitute Santa Claus here.
+
+Single_Duanwu_001.wav
+  Raise your head, stretch your chest, straighten your body, and raise your back. Yes, that's right. And then if you drink the Yu-O-Shu, you can get rid of your sickness and dizziness, Commander.
+
+Single_Friendliness_001.wav
+  Why are you staying here? If there's anything, just say it.
+
+Single_Friendliness_002.wav
+  I have an idea for the future of the Hermo. I'll send you a detailed plan by mail, so can you take a look?
+
+Single_Friendliness_003.wav
+  The remaining tasks are... I see, there are only 7 left. I'll put them all together one by one, so don't worry.
+
+Single_Friendliness_004.wav
+  Commander, wouldn't you mind staying put? Haha, alright! My collar was already torn, I guess. Ack. A sliver sharp huh.
+
+Single_Friendliness_005.wav
+  Cheetah is playing pranks on Kiden? Sorry, I'll scold you later. But, that hairstyle... It looks surprisingly good on you.
+
+Single_Friendliness_006.wav
+  Commander, do you understand traditional theater? I sing it sometimes, but I can't get the hang of it. In this field, dolls are still in development.
+
+Single_Friendliness_007.wav
+  It's more important to achieve your mission than to be evaluated by others. But even if that's the case, I'm curious about what everyone thinks. Commander, why are you looking away?
+
+Single_Friendliness_008.wav
+  A horn? Ah, where did you hear that from? It's something that can be said to be the black history of the Soregashi. If you talk, it will be long. So this time, can I talk to you slowly?
+
+Single_Friendliness_009.wav
+  I thought that Kiden was always being too strict with me. Maybe Sregashi was closer to Kiden than this.
+
+Single_Friendliness_010.wav
+  Commander, how about a drink? No, what... I thought that if you were by my side, the taste of the sake would change.
+
+Single_Friendliness_011.wav
+  I thought it was extremely inefficient to have a half-sword up to the front. However, after meeting with the Commander, that thought has been wavering. Ah, is this the one from the pre-war novel, the one called Satori?
+
+Single_Friendliness_012.wav
+  Commander, lately, you've been... ...sticking to me like a thorn. In other words, is that really okay?
+
+Single_Friendliness_013.wav
+  Commander, I understand how you feel. It's a shame that we can't travel together, but when you encounter danger, I'll protect you. I swear on this gun.
+
+Single_Login_001.wav
+  Commander, you don't seem to be in a bad mood. Well then, let's go!
+
+Single_MidAutumn_001.wav
+  Raise the cup and welcome the moon of light. Make a three-person shadow. The moon is beautiful tonight. Why don't you relax and enjoy the peace?
+
+Single_MidAutumn_002.wav
+  The sky that glows in the bright moon. It's truly the best day. Commander, let's have a look at the moon with the
+
+Single_NewYear_001.wav
+  Commander, let's hope for a new year with a new heart. By the way, I've prepared a New Year's card, but I wonder if it would be better to say the words of celebration. ... I wish you and everyone else a safe trip to Ermo! Happy New Year!
+
+Single_NewYear_002.wav
+  Happy New Year, Commander. Ah, I've been waiting for you to come out. I wanted to be the first doll you meet in the new year. Hm? It's not a big reason, but... If I may say so... I thought it would be a good year.
+
+Single_Obon_001.wav
+  Commander? I didn't know I wouldn't even be heard, ah, were you Ryouha Bτό's maid? Hurrying and going at the same time, went out of my way to вамit.
+
+Single_Obtain_SSR_001.wav
+  I'm glad to be able to work with you again. I'll do my best to become a support for you.
+
+Single_Passive_SSR_001.wav
+  ひぎ! いっせん!
+
+Single_SpringFes_001.wav
+  On a day like this, Elmo-sum City just benighted. With Gizeh here, I can find a sense of kindness. Today, I came to offer leave to all of the General Staff. ...And I brought some good sake.
+
+Single_SpringFes_002.wav
+  I managed to make it in time for the new outfit. I'm planning to wear it tonight, but how is it, Commander? Doesn't it look good on you? There's still time until the wedding. I'll have to fix it a little more.
+
+Single_ThanksGiving_001.wav
+  It seems that a hydrangea has the effect of changing the flow of luck. I put a hydrangea necklace I made in a hurry in Kiden's room, but I wonder if he'll like it. Umm, or was Turkey better?
+
+Single_Title_001.wav
+  Dolls Front Line 2 Exilium
+
+Single_Valentine_001.wav
+  Commander, you've already obtained quite a lot of chocolates today, haven't you? Now, which of the chocolates that Soregas sent you, will Kiden understand?
+
+Single_Valentine_002.wav
+  I made the cressential shape for the chocolates delivered to Kiden. If this would help to somehow constrain would to I hope.
+
+Single_WhiteVale_001.wav
+  I found a box tied up in a rope in front of the break room, but what is this? Huh? Commander, was this a return gift from Kiden? I'm sorry, but in that sense...
+

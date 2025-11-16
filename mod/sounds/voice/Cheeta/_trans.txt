@@ -1,0 +1,232 @@
+# Voice Line Translations for Cheeta
+# Generated automatically using OpenAI Whisper
+# Total files: 76
+
+Series_Battle_Start.wav
+  Ta-da! Coming up next is the greatest genius of the century, the all-purpose doll, Cheetah!
+
+Series_Cancel.wav
+  Oh, dear.
+
+Series_Chosen__VO_Cheeta_Series_Chosen_Auto__VO_Cheeta_Series_Chosen_Finished.wav
+  Ah! What are you looking at?
+
+Series_Daily_001.wav
+  Oh, it's a zookeeper! Today, too, you have a face that says, I want to sleep early because I'm tired of work.
+
+Series_Daily_002.wav
+  Don't look at me like that. I'm not that small because I like you. It's all because of the Shikuin of the Shikuin!
+
+Series_Daily_003.wav
+  Have you seen Honey Badger? I-I'm not that interested in it, but... I don't want her to lose to someone first!
+
+Series_Daily_004.wav
+  Seaqueen, buy a new game! Eh? Why? Seaqueen is there to feed the genius cheetah-chan, right?
+
+Series_Daily_005.wav
+  Wow... I'm really tired of having a video meeting with the captain... I might as well have my dummy sit next time! And I can also add a function that allows me to answer whatever you ask!
+
+Series_Daily_006.wav
+  The fact that I dropped the drone the other day... Keep it to the zookeeper's zookeeper! Or else it'll be really noisy!
+
+Series_Daily_007.wav
+  Seekin, Seekin! The Tororo guy won't let me in the room! Isn't that terrible? Geniuses are always lonely in the world.
+
+Series_Daily_008.wav
+  Tch... If the speed of rotation is over a certain value, then I just put the alarm system on the engine. Why is Meirin so noisy? Yes, yes, I understand. I'll be careful next time. This is fine, right?
+
+Series_Daily_009.wav
+  Hello, Sea Queen! Hm? That reaction... Did you forget my new name? Cheetah! It's Cheetah! Cheetah who eats Lattel! Waaah! No, it wasn't... I think... Chin chin!
+
+Series_Daily_010.wav
+  Alright! The next experiment is ready! This is an important step towards defeating Honey Badger! I'll help you, too, Sequin!
+
+Series_Die.wav
+  I-I lost!?
+
+Series_Hit__VO_Cheeta_Single_Hit_001.wav
+  YAHOO!
+
+Series_HittedLast__VO_Cheeta_Series_Tone_Positive_002.wav
+  Boring.
+
+Series_Kill__VO_Cheeta_Single_Kill_001.wav
+  Bye bye!
+
+Series_Lose.wav
+  It's definitely because the information was wrong!
+
+Series_Move_Start__VO_Cheeta_Series_Set_Fall__VO_Cheeta_Series_Tone_Positive_010.wav
+  Look! Look!
+
+Series_Move_Start__VO_Cheeta_Series_Tone_Positive_003.wav
+  I'm an idiot!
+
+Series_Move_Start__VO_Cheeta_Series_Tone_Positive_008.wav
+  Yes, yes.
+
+Series_Set_Click__VO_Cheeta_Series_Tone_Positive_004.wav
+  Yay! Yay!
+
+Series_Set_Fall.wav
+  Hello, Seaqueen!
+
+Series_Skill01__VO_Cheeta_Single_Skill_001.wav
+  Over here!
+
+Series_Skill02__VO_Cheeta_Single_Skill_002.wav
+  That's enough!
+
+Series_Tone_Positive_006.wav
+  And become r 귀여 building!
+
+Series_Tone_Positive_007.wav
+  Tch, you're in my way.
+
+Series_Tone_Positive_009.wav
+  What a pain.
+
+Series_Ultimate__VO_Cheeta_Single_Ultimate_SR_001.wav
+  Let's give it a try!
+
+Series_Up_001.wav
+  Umm, I guess it's not too bad.
+
+Series_Up_002.wav
+  You're still going to do it?
+
+Series_Up_003.wav
+  It's fine now, right?
+
+Series_Up_004.wav
+  I-I still have more! Give me all of them!
+
+Series_Up_005.wav
+  Wow, nice! ... I was told to use the persistently親切的詞料理 , then I wrote it. ... Brother's script is nice my way, is not it? Yeah. It's quite Brasilian, but quite nelus online.
+
+Series_Up_006.wav
+  I'm not enough!
+
+Series_Up_007.wav
+  Heh, I don't think you can do it, honey-vajar!
+
+Series_Up_008.wav
+  This genius has become the final form!
+
+Series_Win__VO_Cheeta_Single_Win_001.wav
+  Fufu, as long as I'm here, there's nothing to worry about!
+
+Single_Acquire_R_001.wav
+  To be able to stay by this genius for a year... Well, the zookeeper is lucky too!
+
+Single_Acquire_SR_001.wav
+  Seekin, Seekin! Today is the anniversary of the 1st anniversary chosen by genius Cheetah! Let's celebrate it together in a match game! Hehe, don't worry, I'll secretly make up for it!
+
+Single_Anniversary_001.wav
+  A anniversary? Is it that special? Hmm... I don't know, but if you want to be a zookeeper, why not make it a day of celebration?
+
+Single_Birthday_R_001.wav
+  Ah, today is the day the Seekuin was shipped, right? Well, well, the meaning is roughly the same. Congratulations on the ship's anniversary, Seekuin!
+
+Single_Birthday_SR_001.wav
+  Seekin, I'll give you this cake. Hurry up and open it! Hurry up! No, what's wrong with looking at such a doubtful look? There's no way there's a balloon in it! Absolutely not!
+
+Single_Birthday_SSR_002.wav
+  Today is the day of the Seekers' commemoration! No, it's their birthday! Fufu! Actually, I've made a new invention for this day! It's called the Multidimensional Reconstruction Replicator! You'll be surprised to see it!
+
+Single_Children_001.wav
+  I heard the staff today, that... Umm... It's a day when you can't punish children! In other words, I can do whatever I want, right? Yahoo!
+
+Single_Christmas_001.wav
+  Ms. Santa, please make me the savior of the Griffins. Please let the honey badger kneel at my feet. If you can't, then... Just make the body the size of the original...
+
+Single_Christmas_002.wav
+  I hope Santa will come this year. I'm always a good girl, but why can't I earn all the time? Seriously, everyone has no eyes to see. I'd rather have everyone correct their sense of my invention so that they can understand my ingenuity.
+
+Single_Duanwu_001.wav
+  Uee... Ah, Sequin? Si, don't talk! I'm seriously praying for my medicine today. I heard today is the best day to pay off bad luck. No, even a genius can't be lucky.
+
+Single_Friendliness_001.wav
+  You know those dear now are like these? The ones that say they are small, them! You knew that, didn't you?!해�'re hiding there!! Really?
+
+Single_Friendliness_002.wav
+  Hmm... I don't care what the strategy is. Anyway, a genius doesn't lose. Ah, yes, yes. I'll look at the strategy materials. It's true.
+
+Single_Friendliness_003.wav
+  Oh! What are you looking at, Seaqueen? 100,000 great ideas for inventions? I'll look at them too!
+
+Single_Friendliness_004.wav
+  Sequin, let's play a game together! Come on, wake up! Geez, you can't rest if you don't sleep every day. Human bodies are too troublesome. Should I make something for you?
+
+Single_Friendliness_005.wav
+  Seekuin? What are you doing? Haha, so you were secretly practicing a race game while hiding from me? It's a hundred years too early to say that I, the genius, should win!
+
+Single_Friendliness_006.wav
+  You know, Sequin and I are pretty close, aren't we? We're friends, aren't we? Yeah. Then, you know... You're not mad about the explosion in the warehouse, are you?
+
+Single_Friendliness_007.wav
+  Uuuh, I don't want to work... I should just skip work. Ah, but I have a mission today. W-Will you go instead of me? Hey, can't I?
+
+Single_Friendliness_008.wav
+  The new invention is about to appear! Are you excited? You're excited, right? Alright! Then, get ready to worship me!
+
+Single_Friendliness_009.wav
+  Which do you prefer, the previous one or the current one? I-I don't care! I just asked for a reason. I'm going to change it to the original one anyway.
+
+Single_Friendliness_010.wav
+  Seaqueen! My new invention! I made a perfect eye-catching machine! If you put this on when you're sleepy, you can pretend to be awake! What do you think? Isn't it amazing?
+
+Single_Friendliness_011.wav
+  Seekuin, how much time do you have left before work? Let's play with the special elite together! I can help you!
+
+Single_Friendliness_012.wav
+  Ta-da! I'm going to be appearing in this century's greatest genius, the all-powerful doll, Cheetah! If there's anything you want to achieve, I'll be your strength. Um... As far as I can!
+
+Single_Friendliness_013.wav
+  Have you seen the latest strategy report? I'm too amazing to blow up the enemy in the strategy area at once! Eh? The mobile base was also involved in a little while ago? No, I don't care about such small things!
+
+Single_Login_001.wav
+  Let's go! Our goal is to defeat Honey Badger!
+
+Single_Lose_001.wav
+  I-I lost!? It's definitely because I got the wrong information!
+
+Single_MidAutumn_001.wav
+  Tch, I wonder how beautiful the moon is. Anyway, look at my linear float shoes. If you wear these, you might be able to go to the moon.
+
+Single_MidAutumn_002.wav
+  Seekin, are you looking at the moon again? Well, today's moon is big and beautiful, but... Hm? Is it big because it's a medium-sized moon? Then I'll show you when you want to see it! Make a big and round-shaped artificial moon all year round! Then you can enjoy it every day!
+
+Single_NewYear_001.wav
+  No matter how many years pass, my only goal is to leave Honey Badger to you 100 times!
+
+Single_NewYear_002.wav
+  Oh, it's the new year again! I'm so happy to spend a year with such a genius inventor! Actually, I have a new invention prepared to make you happy this year, so let's go see it together!
+
+Single_Obon_001.wav
+  Don! Do-don! Don! Ahaha! This is so fun! Seaqueen, hurry up and watch my new invention! Hybrid Z-type automatic drum! Today is the day to play drums, right? With this, the rhythm will never be disturbed!
+
+Single_Obtain_SR_001.wav
+  Another job? Wait, you're a farmer, right? I can't help it! The greatest genius of the century will help you!
+
+Single_SpringFes_001.wav
+  Are you ready, Seaqueen? We're leaving! Huh? You didn't know? Meirin said that there would be a lot of people going to the store during the spring festival... Umm... What was it again? The day of the festival or something like that... Come on, don't just sit there and listen to me! Go change!
+
+Single_SpringFes_002.wav
+  Sequin! Hurry up! This year, I've prepared Meirin and the Ultra Hyper Ultimate Mode fireworks! If you see them, no one will be disappointed! Hm? What kind of mode is it? Hehe, that's something to look forward to!
+
+Single_ThanksGiving_001.wav
+  Sequin Sequin! I will offer my thanks to the greatest genius of the century, Cheetah-chan, for a year! Ahahahahahah!
+
+Single_Title_001.wav
+  Dolls Front Line 2! Exilium!
+
+Single_Valentine_001.wav
+  Eh? The day when we communicate our feelings to each other? It's the day when the company buys the product, right? I get it, I get it. Then I'll give you this special full-color fireworks launcher. It's completely automatic, and it mixes colors nicely. Instead, it might explode... Ah, no, it's nothing!
+
+Single_Valentine_002.wav
+  Nwaah, I'm so tired. Seriously, what's Valentine's Day? Making chocolate is so easy! Huh? Are you underestimating my cooking skills, Sea Queen? I was going to give you chocolate, but I'm not going to! I won't go home until you eat it in front of me and praise me!
+
+Single_WhiteVale_001.wav
+  Hmm, what do I want... I want a large body over 1.7 meters in height! Could it be that Sea Queen will give me a present? Then buy it!
+

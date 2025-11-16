@@ -424,3 +424,33 @@
 @ammo_303brit_lewis_desc=Standard full metal jacket .303 British ammunition for the Lewis Gun. Balanced performance for suppressive fire.
 @ammo_303brit_ap_lewis_name=.303 British AP
 @ammo_303brit_ap_lewis_desc=Armor-piercing .303 British ammunition. Enhanced penetration at the cost of reduced stopping power.
+
+@GFL-UNIT-FROST-NAME=Frostfall
+@GFL-UNIT-FROST-DESC=Operating under Griffin & Kryuger in the post-Contamination era, they represent the PMC's enduring presence despite its diminished status.
+@#GFL-UNIT-FROST-NAME-RND=Frostfall
+
+@DOLL-QBZ191-NAME=QIONGJIU
+@DOLL-QBZ191-DESC=A Doll who steps up to shoulder heavy responsibilities. She dedicates her time and energy to Griffin, while perfectly maintaining her individuality, thanks to her precise and efficient work planning. She never deviates, never breaks the rules; rather than changing the plan, she prefers to change reality.
+@WEAP-QBZ191-NAME=QBZ-191
+@WEAP-QBZ191-DESC=The QBZ-191 is a modular assault rifle developed as China's next-generation standard infantry weapon. Chambered in 5.8×42mm, it features improved ergonomics, modularity, and reliability compared to its predecessors.
+
+@DOLL-AKALFA-NAME=TOLOLO
+@DOLL-AKALFA-DESC=A serene Doll who finds solace under the starry sky. Hidden beneath her reticence is a delicate and sensitive soul. When the world slumbers, she confides in the vast cosmos and delights in the stars that seem to shine just for her.
+@WEAP-AKALFA-NAME=AK-Alfa
+@WEAP-AKALFA-DESC=The AK-Alfa is a modernized variant of the legendary Kalashnikov platform, featuring enhanced accuracy, reduced recoil, and improved ergonomics while maintaining the AK's legendary reliability.
+
+@DOLL-AA12-NAME=LIND
+@DOLL-AA12-DESC=Created as a clinical test subject Doll, Lind distinguished herself with her outstanding gunplay and overwhelming firepower. A member of the original Griffin & Kryuger, she remained in the PMC after its downsizing. After her open-mic late-night radio show stopped, her sweets allowance was cut down and her personal network was upended, Lind’s withdrawal symptoms worsened her social anxiety disorder, but as long as her comrades can be patient with her, she’ll be able to confidently face the future.
+@WEAP-AA12-NAME=AA-12
+@WEAP-AA12-DESC=The Atchisson Assault Shotgun is a fully automatic shotgun with extremely low recoil. Its high capacity drum magazine and devastating firepower make it ideal for close-quarters combat and breaching operations.
+
+@DOLL-MP7-NAME=CHEETA
+@DOLL-MP7-DESC=This Doll with a ceaseless fountain of inspiration is Griffin's Queen of Inventions. Undeterred by countless setbacks, her mind churns out a whirlwind of quirky, headache-inducing ideas. Yet, when the moment demands it, she always manages to come up with ingenious solutions.
+@WEAP-MP7-NAME=MP7
+@WEAP-MP7-DESC=The Heckler & Koch MP7 is a compact personal defense weapon firing 4.6×30mm armor-piercing ammunition. Its high rate of fire and excellent penetration make it effective against armored targets despite its compact size.
+
+@ammo_58x42_dbp191_name=5.8×42mm DBP191
+@ammo_58x42_dbp191_desc=Current standard 5.8×42mm ammunition for the QBZ-191.
+@ammo_58x42_dbp88_name=5.8×42mm DBP88 Heavy
+@ammo_58x42_dbp88_desc=Heavy variant with longer streamlined bullet and steel core. Enhanced performance at extended ranges with superior penetration.
+@firearm_caliber_58x42_name=5.8×42mm

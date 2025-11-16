@@ -272,6 +272,46 @@
                 upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
                 maxUpgradeable="2"
             />
+            <Class
+                name="GFL-DOLL-QBZ191"
+                nameUI="@DOLL-QBZ191-NAME"
+                description="@DOLL-QBZ191-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+            <Class
+                name="GFL-DOLL-AKALFA"
+                nameUI="@DOLL-AKALFA-NAME"
+                description="@DOLL-AKALFA-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+            <Class
+                name="GFL-DOLL-AA12"
+                nameUI="@DOLL-AA12-NAME"
+                description="@DOLL-AA12-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
+            <Class
+                name="GFL-DOLL-MP7"
+                nameUI="@DOLL-MP7-NAME"
+                description="@DOLL-MP7-DESC"
+                numSlots="1"
+                supply="100"
+                iconTex="data/textures/gui/deploy/class_icon_undercover.dds"
+                upgrades="BH_Defence1, BH_Offence1, BH_Defence2, BH_Offence2"
+                maxUpgradeable="2"
+            />
         </Classes>
 
         <TrooperRanks>

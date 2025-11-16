@@ -128,4 +128,43 @@
             critChanceAdd="10"
         />
     </AttackType>
+
+    <AttackType name="AA12_AutoFire">
+        <ModifiableParams
+            minAimTime="250"
+            maxAimTime="300"
+            minShots="4"
+            maxShots="8"
+            resetTime="180"
+            accuracyAdd="0"
+            followupShotAccuracyAdd="-4"
+            critChanceAdd="5"
+        />
+    </AttackType>
+
+    <AttackType name="AA12_BurstFire">
+        <ModifiableParams
+            minAimTime="350"
+            maxAimTime="450"
+            minShots="2"
+            maxShots="4"
+            resetTime="250"
+            accuracyAdd="5"
+            followupShotAccuracyAdd="-2"
+            critChanceAdd="0"
+        />
+    </AttackType>
+
+    <AttackType name="AA12_SingleShot">
+        <ModifiableParams
+            minAimTime="400"
+            maxAimTime="600"
+            minShots="1"
+            maxShots="1"
+            resetTime="500"
+            accuracyAdd="10"
+            followupShotAccuracyAdd="0"
+            critChanceAdd="-5"
+        />
+    </AttackType>
 </FirearmAttackTypes>

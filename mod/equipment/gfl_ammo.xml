@@ -290,6 +290,52 @@
     </Ammo>
 
     <Ammo
+        name="58x42DBP191_QBZ191"
+        tooltip="@ammo_58x42_dbp191_name"
+        description="@ammo_58x42_dbp191_desc"
+        img="data/models/weapons/attachments/m855_ammo_ui.dds"
+    >
+        <Params
+            roundsPerSecond="12"
+            audibleSoundRadius="75"
+            physicsImpactForce="1.0"
+        >
+            <Damage start="26" end="22" startDist="0" endDist="60" />
+            <CriticalChancePercent
+                start="32"
+                end="22"
+                startDist="0"
+                endDist="50"
+            />
+            <ArmorPenetration start="60" end="50" startDist="0" endDist="50" />
+        </Params>
+    </Ammo>
+
+    <Ammo
+        name="58x42DBP88_QBZ191"
+        unlockCost="3"
+        tooltip="@ammo_58x42_dbp88_name"
+        description="@ammo_58x42_dbp88_desc"
+        img="data/models/weapons/attachments/m855_ammo_ui.dds"
+    >
+        <Params
+            roundsPerSecond="12"
+            audibleSoundRadius="75"
+            physicsImpactForce="1.0"
+            accuracyAdd="15"
+        >
+            <Damage start="29" end="25" startDist="0" endDist="70" />
+            <CriticalChancePercent
+                start="40"
+                end="28"
+                startDist="0"
+                endDist="60"
+            />
+            <ArmorPenetration start="70" end="60" startDist="0" endDist="60" />
+        </Params>
+    </Ammo>
+
+    <Ammo
         name="hare_no_ammo"
         tooltip="@no_ammo_name"
         description="@no_ammo_desc"

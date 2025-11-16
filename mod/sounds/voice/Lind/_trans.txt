@@ -1,0 +1,157 @@
+# Voice Line Translations for Lind
+# Generated automatically using OpenAI Whisper
+# Total files: 51
+
+Series_Attack__VO_Lind_Series_Tone_Positive_003.wav
+  Ready?
+
+Series_Battle_Start__VO_Lind_Series_Tone_Positive_002.wav
+  Let's end this smartly.
+
+Series_Chosen_Auto__VO_Lind_Series_Tone_Positive_007.wav
+  What do you want to say?
+
+Series_Chosen__VO_Lind_Series_Tone_Positive_006.wav
+  Huh?
+
+Series_Daily_001.wav
+  It's not good for the body to take too much sugar, but if you don't take it, your mental will be damaged. Then you should take it. Yeah.
+
+Series_Daily_002.wav
+  What are you looking at? I'm not good at playing alone, so ask someone else to play with you.
+
+Series_Daily_003.wav
+  Why do I get irritated when I'm a doll and I don't have enough sugar? Ugh... I'll just lick the candy.
+
+Series_Daily_004.wav
+  When you're feeling down, you can lick the lollipop. Here.
+
+Series_Daily_005.wav
+  There were a lot of rumors about you on the radio last night. Let me hear how true it is.
+
+Series_Die__VO_Lind_Series_Tone_Negative_001.wav
+  I don't have enough sugar...
+
+Series_Dying__VO_Lind_Series_Tone_Negative_002.wav
+  It can't be true...
+
+Series_Hit__VO_Lind_Single_Hit_001.wav
+  I'm serious.
+
+Series_Kill__VO_Lind_Single_Kill_001.wav
+  Die!
+
+Series_Lose__VO_Lind_Single_Lose_001.wav
+  I knew it, I wasn't the right person for him.
+
+Series_Set_Click__VO_Lind_Series_Tone_Positive_004.wav
+  Hurry up.
+
+Series_Set_Fall__VO_Lind_Series_Tone_Positive_005.wav
+  Yes.
+
+Series_Shield_Broken__VO_Lind_Series_Tone_Negative_003.wav
+  How disgusting. Impatient, Koihime saw a moose. I'll end the offer with the moose. All four who didn't take anything for granted run to the 對不對 ... Baby, you're actually lying... So, we 열 Well, Hang ensure that you don't break your word, for once. Agh... ......
+
+Series_Skill01__VO_Lind_Single_Skill_001.wav
+  I'll make it easy for you.
+
+Series_Skill02__VO_Lind_Single_Skill_002.wav
+  Tch, what a pain.
+
+Series_Tone_Positive_001.wav
+  Do you want to fill your body with sugar?
+
+Series_Ultimate__VO_Lind_Single_Ultimate_SSR_001.wav
+  Shitt, you won't disappear
+
+Series_Up_001.wav
+  Not bad, I guess.
+
+Series_Up_002.wav
+  It's good to have a good salary.
+
+Series_Up_003.wav
+  What are you expecting?
+
+Series_Up_004.wav
+  I'm pretty strong.
+
+Series_Up_005.wav
+  Let's get serious.
+
+Series_Win__VO_Lind_Single_Win_001.wav
+  By harsh power I could I could visit your heart
+
+Single_Birthday_SSR_001.wav
+  This is for you... Uhm... Na- C- Happy birthday... ...I did call you that. Eh- I want answers!
+
+Single_Birthday_SSR_002.wav
+  Today's my birthday, right? Then, this... Ugiii, how many presents have you gotten? You can't get any more than that. But... Is mine different from the others? If you say so, then I guess I can't help it.
+
+Single_Christmas_001.wav
+  You're kidding, right? Why are you awake? Ohon! I'm Santa Claus, the passing Santa. If I don't go to bed right now, I'll be able to sleep with all my might!
+
+Single_Christmas_002.wav
+  Here's your Christmas present. Don't watch too much of the broadcast. I'm not good at that kind of stuff. But... I'm sure you'll like what's inside. W-W-Wait! So, I mean... Do you ever open it in front of me? I-I'm embarrassed, so stop it!
+
+Single_Friendliness_001.wav
+  The candy you gave me was sweet.
+
+Single_Friendliness_002.wav
+  Why are you doing this to me? You're not thinking of anything strange, are you?
+
+Single_Friendliness_003.wav
+  I'll say this first, but I can't speak in a way you'd expect.
+
+Single_Friendliness_004.wav
+  You listen to the radio at night? I see... It doesn't mean anything deep, but I think it's good to listen to it.
+
+Single_Friendliness_005.wav
+  You should also be careful with your words. Or else, someone like me will come out and make a mistake.
+
+Single_Friendliness_006.wav
+  Why didn't you give me the lipstick back last night? Were you sleeping? Ah... If it was that time, then...
+
+Single_Friendliness_007.wav
+  I'm dependent on people and things that make me feel good, right? No, it's nothing!
+
+Single_Friendliness_008.wav
+  Where are you going? I told you, I have a dependency. I can't live without you.
+
+Single_Login_001.wav
+  ... Oh, did you wake up too, Commander?
+
+Single_MidAutumn_001.wav
+  I bought a sweet and sweet mooncake. If you're going to appear on the radio where I'm doing personality, I can give you a share, though? Hey, what's with those evil eyes?
+
+Single_MidAutumn_002.wav
+  This is the moon viewing? Ah, no, I just thought that every year I would be able to see the moon like this.
+
+Single_NewYear_001.wav
+  It's New Year's Eve, so why don't we have a night out together today?
+
+Single_NewYear_002.wav
+  I've already prepared snacks and drinks, so when it's 10 o'clock at night, you can come to my room... Hm? It's obvious that we're going to watch the special program at the end of the year! What else is there?
+
+Single_Obtain_SSR_001.wav
+  I'm too lazy to introduce myself, so I won't. Name? I'll just go with Rindo.
+
+Single_Passive_SSR_001.wav
+  Regeneration complete!
+
+Single_SpringFes_001.wav
+  I thought it was just a noisy time of the new year, but this year is not bad. Happy New Year. Come on, open your mouth. This is a special candy. What's with that face? If you want to laugh, do it.
+
+Single_SpringFes_002.wav
+  I hope the number of viewers increases, and I hope the Commander becomes more honest. It's weird to pray for New Year's.
+
+Single_Title_001.wav
+  Rolls Front Line 2 Exilium
+
+Single_Valentine_001.wav
+  Oh, I got so many chocolates. So the rumor is true. Here, this is mine. I added three times the sugar, so I guarantee it's sweet. If you can't eat all the other chocolates, give them to me.
+
+Single_Valentine_002.wav
+  Everyone's giving me chocolates, so I have to make one too. Ugh, I haven't done anything big, but I wonder why they're so happy about it.
+

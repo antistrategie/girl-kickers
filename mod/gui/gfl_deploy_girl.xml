@@ -65,6 +65,7 @@
                     <Action type="Uncheck" target="tab2_cbox" />
                     <Action type="Uncheck" target="tab3_cbox" />
                     <Action type="Uncheck" target="tab4_cbox" />
+                    <Action type="Uncheck" target="tab5_cbox" />
                 </OnClick>
                 <OnHover>
                     <RenderObject2D
@@ -89,7 +90,7 @@
                         color="080808cc"
                     />
                 <OnOpen>
-                    <Action type="SetOrigin" target="#deploy_squad_buttons" params="-8 -464" />
+                    <Action type="SetOrigin" target="#deploy_squad_buttons" params="-8 -608" />
                     <Action type="Show" target="unit_tab0" />
                     <Action type="Hide" target="icon_defy" />
                     <Action type="Show" target="icon_defy_active" />
@@ -155,6 +156,7 @@
                     <Action type="Uncheck" target="tab2_cbox" />
                     <Action type="Uncheck" target="tab3_cbox" />
                     <Action type="Uncheck" target="tab4_cbox" />
+                    <Action type="Uncheck" target="tab5_cbox" />
                 </OnClick>
                 <OnHover>
                     <RenderObject2D
@@ -179,7 +181,7 @@
                         color="080808cc"
                     />
                 <OnOpen>
-                    <Action type="SetOrigin" target="#deploy_squad_buttons" params="-8 -784" />
+                    <Action type="SetOrigin" target="#deploy_squad_buttons" params="-8 -928" />
                     <Action type="Show" target="unit_tab1" />
                     <Action type="Hide" target="icon_404" />
                     <Action type="Show" target="icon_404_active" />
@@ -245,6 +247,7 @@
                     <Action type="Uncheck" target="tab1_cbox" />
                     <Action type="Uncheck" target="tab3_cbox" />
                     <Action type="Uncheck" target="tab4_cbox" />
+                    <Action type="Uncheck" target="tab5_cbox" />
                 </OnClick>
                 <OnHover>
                     <RenderObject2D
@@ -269,7 +272,7 @@
                         color="080808cc"
                     />
                 <OnOpen>
-                    <Action type="SetOrigin" target="#deploy_squad_buttons" params="-8 -784" />
+                    <Action type="SetOrigin" target="#deploy_squad_buttons" params="-8 -928" />
                     <Action type="Show" target="unit_tab2" />
                     <Action type="Hide" target="icon_cafe" />
                     <Action type="Show" target="icon_cafe_active" />
@@ -335,6 +338,7 @@
                     <Action type="Uncheck" target="tab1_cbox" />
                     <Action type="Uncheck" target="tab2_cbox" />
                     <Action type="Uncheck" target="tab4_cbox" />
+                    <Action type="Uncheck" target="tab5_cbox" />
                 </OnClick>
                 <OnHover>
                     <RenderObject2D
@@ -359,7 +363,7 @@
                         color="080808cc"
                     />
                 <OnOpen>
-                    <Action type="SetOrigin" target="#deploy_squad_buttons" params="-8 -624" />
+                    <Action type="SetOrigin" target="#deploy_squad_buttons" params="-8 -768" />
                     <Action type="Show" target="unit_tab3" />
                     <Action type="Hide" target="icon_groza" />
                     <Action type="Show" target="icon_groza_active" />
@@ -425,6 +429,7 @@
                     <Action type="Uncheck" target="tab1_cbox" />
                     <Action type="Uncheck" target="tab2_cbox" />
                     <Action type="Uncheck" target="tab3_cbox" />
+                    <Action type="Uncheck" target="tab5_cbox" />
                 </OnClick>
                 <OnHover>
                     <RenderObject2D
@@ -449,7 +454,7 @@
                         color="080808cc"
                     />
                 <OnOpen>
-                    <Action type="SetOrigin" target="#deploy_squad_buttons" params="-8 -784" />
+                    <Action type="SetOrigin" target="#deploy_squad_buttons" params="-8 -928" />
                     <Action type="Show" target="unit_tab4" />
                     <Action type="Hide" target="icon_elmoce" />
                     <Action type="Show" target="icon_elmoce_active" />
@@ -486,7 +491,126 @@
 
     </Item> <!-- End Tab Container 0 -->
 
-    <Item origin="8 -72" name="unit_tab0" align="t" hidden="false">
+    <!-- Tab Container 1 (tabs 5-5) -->
+    <Item
+            origin="0 -72"
+            name="girl_tab_menu_1"
+            align="rt"
+            sizeX="396"
+            sizeY="64"
+            hidden="false"
+        >
+        <StaticImage name="tab_background" origin="0 0" align="r">
+            <RenderObject2D
+                    texture="data/textures/gui/square.tga"
+                    sizeX="380"
+                    sizeY="64"
+                    color="211e1dcc"
+                />
+        </StaticImage>
+        <StaticImage name="#ClassBackgroundLeftBar" origin="0 0" align="l">
+            <RenderObject2D
+                    texture="data/textures/gui/square.tga"
+                    sizeX="8"
+                    sizeY="64"
+                    color="E3F6FD"
+                />
+        </StaticImage>
+
+        <!-- Tab 5: GFL-UNIT-FROST -->
+        <Checkbox
+                name="tab5_cbox"
+                origin="-304 0"
+                align="r"
+                stealFocus="true"
+                defaultState="UncheckedState"
+            >
+            <UncheckedState>
+                <RenderObject2D
+                        texture="data/textures/gui/square.tga"
+                        sizeX="64"
+                        sizeY="64"
+                        color="080808cc"
+                    />
+                <OnOpen>
+                    <Action type="Hide" target="unit_tab5" />
+                    <Action type="Hide" target="icon_frost_active" />
+                    <Action type="Show" target="icon_frost" />
+                </OnOpen>
+                <OnClick>
+                    <RenderObject2D
+                            texture="data/textures/gui/square.tga"
+                            sizeX="60"
+                            sizeY="60"
+                            color="E3F6FD"
+                        />
+                    <Action type="Uncheck" target="tab0_cbox" />
+                    <Action type="Uncheck" target="tab1_cbox" />
+                    <Action type="Uncheck" target="tab2_cbox" />
+                    <Action type="Uncheck" target="tab3_cbox" />
+                    <Action type="Uncheck" target="tab4_cbox" />
+                </OnClick>
+                <OnHover>
+                    <RenderObject2D
+                            texture="data/textures/gui/square.tga"
+                            sizeX="64"
+                            sizeY="64"
+                            color="E3F6FD"
+                        />
+                    <Action type="Hide" target="icon_frost" />
+                    <Action type="Show" target="icon_frost_hover" />
+                </OnHover>
+                <OnHoverEnd>
+                    <Action type="Hide" target="icon_frost_hover" />
+                    <Action type="Show" target="icon_frost" />
+                </OnHoverEnd>
+            </UncheckedState>
+            <CheckedState acceptInput="false">
+                <RenderObject2D
+                        texture="data/textures/gui/square.tga"
+                        sizeX="64"
+                        sizeY="64"
+                        color="080808cc"
+                    />
+                <OnOpen>
+                    <Action type="SetOrigin" target="#deploy_squad_buttons" params="-8 -928" />
+                    <Action type="Show" target="unit_tab5" />
+                    <Action type="Hide" target="icon_frost" />
+                    <Action type="Show" target="icon_frost_active" />
+                </OnOpen>
+            </CheckedState>
+
+            <StaticImage name="icon_frost" origin="0 0" hidden="true">
+                <RenderObject2D
+                        texture="data/textures/gui/deploy/gfl_class_icon_frost.dds"
+                        sizeX="28"
+                        sizeY="28"
+                        color="E3F6FD"
+                    />
+            </StaticImage>
+            <StaticImage name="icon_frost_hover" origin="0 0" hidden="true">
+                <RenderObject2D
+                        texture="data/textures/gui/deploy/gfl_class_icon_frost.dds"
+                        sizeX="28"
+                        sizeY="28"
+                        color="211e1d"
+                    />
+            </StaticImage>
+            <StaticImage name="icon_frost_active" origin="0 0" hidden="false">
+                <StaticImage name="#ClassBackgroundLeftBar">
+                    <RenderObject2D
+                            texture="data/textures/gui/deploy/gfl_class_icon_frost.dds"
+                            sizeX="28"
+                            sizeY="28"
+                            color="E3F6FD"
+                        />
+                </StaticImage>
+            </StaticImage>
+        </Checkbox>
+
+    </Item> <!-- End Tab Container 1 -->
+
+    <Item origin="8 -144" name="unit_tab0" align="t" hidden="false">
 
         <StaticImage name="GFL-DOLL-AN94" origin="0 0" align="t">
             <RenderObject2D
@@ -592,7 +716,7 @@
 
     </Item> <!-- End Tab 0 Content -->
 
-    <Item origin="8 -72" name="unit_tab1" align="t" hidden="true">
+    <Item origin="8 -144" name="unit_tab1" align="t" hidden="true">
 
         <StaticImage name="GFL-DOLL-HK416" origin="-101 0" align="t">
             <RenderObject2D
@@ -953,7 +1077,7 @@
 
     </Item> <!-- End Tab 1 Content -->
 
-    <Item origin="8 -72" name="unit_tab2" align="t" hidden="true">
+    <Item origin="8 -144" name="unit_tab2" align="t" hidden="true">
 
         <StaticImage name="GFL-DOLL-M1903" origin="0 0" align="t">
             <RenderObject2D
@@ -1161,7 +1285,7 @@
 
     </Item> <!-- End Tab 2 Content -->
 
-    <Item origin="8 -72" name="unit_tab3" align="t" hidden="true">
+    <Item origin="8 -144" name="unit_tab3" align="t" hidden="true">
 
         <StaticImage name="GFL-DOLL-OTS14" origin="-101 0" align="t">
             <RenderObject2D
@@ -1420,7 +1544,7 @@
 
     </Item> <!-- End Tab 3 Content -->
 
-    <Item origin="8 -72" name="unit_tab4" align="t" hidden="true">
+    <Item origin="8 -144" name="unit_tab4" align="t" hidden="true">
 
         <StaticImage name="GFL-DOLL-PKPSP" origin="-101 0" align="t">
             <RenderObject2D
@@ -1831,6 +1955,214 @@
         </StaticImage>
 
     </Item> <!-- End Tab 4 Content -->
+
+    <Item origin="8 -144" name="unit_tab5" align="t" hidden="true">
+
+        <StaticImage name="GFL-DOLL-QBZ191" origin="0 0" align="t">
+            <RenderObject2D
+                    texture="data/textures/gui/square.tga"
+                    sizeX="380"
+                    sizeY="148"
+                    color="211e1dcc"
+                />
+            <StaticImage name="#ClassHeader" origin="0 0" align="t">
+                <RenderObject2D
+                        texture="data/textures/gui/square.tga"
+                        sizeX="380"
+                        sizeY="46"
+                        color="4B4B4B"
+                    />
+            </StaticImage>
+            <StaticImage origin="0 0" align="lt">
+                <RenderObject2D
+                        texture="data/textures/gui/deploy/deploy_class_diagonalbars.dds"
+                        color="0c0b0b33"
+                    />
+            </StaticImage>
+            <StaticImage name="#ClassBackgroundLeftBar" origin="-16 0" align="lt">
+                <RenderObject2D
+                        texture="data/textures/gui/square.tga"
+                        sizeX="8"
+                        sizeY="148"
+                        color="E3F6FD"
+                    />
+            </StaticImage>
+            <StaticText
+                    name="#ClassName"
+                    origin="-6 50"
+                    text=""
+                    align="r"
+                    font="header_4"
+                    textColor="211e1d"
+                />
+            <StaticImage name="#ClassIcon" origin="8 50" align="l">
+                <RenderObject2D
+                        texture="data/textures/gui/deploy/class_name_icon_assaulter.dds"
+                    />
+            </StaticImage>
+            <Item origin="-2 -25">
+                <StaticImage name="#slot26" origin="0 0">
+                    <RenderObject2D
+                            texture="data/textures/gui/deploy/deploy_trooperbackground_01.tga"
+                        />
+                </StaticImage>
+            </Item>
+        </StaticImage>
+
+        <StaticImage name="GFL-DOLL-AKALFA" origin="0 -160" align="t">
+            <RenderObject2D
+                    texture="data/textures/gui/square.tga"
+                    sizeX="380"
+                    sizeY="148"
+                    color="211e1dcc"
+                />
+            <StaticImage name="#ClassHeader" origin="0 0" align="t">
+                <RenderObject2D
+                        texture="data/textures/gui/square.tga"
+                        sizeX="380"
+                        sizeY="46"
+                        color="4B4B4B"
+                    />
+            </StaticImage>
+            <StaticImage origin="0 0" align="lt">
+                <RenderObject2D
+                        texture="data/textures/gui/deploy/deploy_class_diagonalbars.dds"
+                        color="0c0b0b33"
+                    />
+            </StaticImage>
+            <StaticImage name="#ClassBackgroundLeftBar" origin="-16 0" align="lt">
+                <RenderObject2D
+                        texture="data/textures/gui/square.tga"
+                        sizeX="8"
+                        sizeY="148"
+                        color="E3F6FD"
+                    />
+            </StaticImage>
+            <StaticText
+                    name="#ClassName"
+                    origin="-6 50"
+                    text=""
+                    align="r"
+                    font="header_4"
+                    textColor="211e1d"
+                />
+            <StaticImage name="#ClassIcon" origin="8 50" align="l">
+                <RenderObject2D
+                        texture="data/textures/gui/deploy/class_name_icon_assaulter.dds"
+                    />
+            </StaticImage>
+            <Item origin="-2 -25">
+                <StaticImage name="#slot27" origin="0 0">
+                    <RenderObject2D
+                            texture="data/textures/gui/deploy/deploy_trooperbackground_01.tga"
+                        />
+                </StaticImage>
+            </Item>
+        </StaticImage>
+
+        <StaticImage name="GFL-DOLL-AA12" origin="0 -320" align="t">
+            <RenderObject2D
+                    texture="data/textures/gui/square.tga"
+                    sizeX="380"
+                    sizeY="148"
+                    color="211e1dcc"
+                />
+            <StaticImage name="#ClassHeader" origin="0 0" align="t">
+                <RenderObject2D
+                        texture="data/textures/gui/square.tga"
+                        sizeX="380"
+                        sizeY="46"
+                        color="4B4B4B"
+                    />
+            </StaticImage>
+            <StaticImage origin="0 0" align="lt">
+                <RenderObject2D
+                        texture="data/textures/gui/deploy/deploy_class_diagonalbars.dds"
+                        color="0c0b0b33"
+                    />
+            </StaticImage>
+            <StaticImage name="#ClassBackgroundLeftBar" origin="-16 0" align="lt">
+                <RenderObject2D
+                        texture="data/textures/gui/square.tga"
+                        sizeX="8"
+                        sizeY="148"
+                        color="E3F6FD"
+                    />
+            </StaticImage>
+            <StaticText
+                    name="#ClassName"
+                    origin="-6 50"
+                    text=""
+                    align="r"
+                    font="header_4"
+                    textColor="211e1d"
+                />
+            <StaticImage name="#ClassIcon" origin="8 50" align="l">
+                <RenderObject2D
+                        texture="data/textures/gui/deploy/class_name_icon_assaulter.dds"
+                    />
+            </StaticImage>
+            <Item origin="-2 -25">
+                <StaticImage name="#slot28" origin="0 0">
+                    <RenderObject2D
+                            texture="data/textures/gui/deploy/deploy_trooperbackground_01.tga"
+                        />
+                </StaticImage>
+            </Item>
+        </StaticImage>
+
+        <StaticImage name="GFL-DOLL-MP7" origin="0 -480" align="t">
+            <RenderObject2D
+                    texture="data/textures/gui/square.tga"
+                    sizeX="380"
+                    sizeY="148"
+                    color="211e1dcc"
+                />
+            <StaticImage name="#ClassHeader" origin="0 0" align="t">
+                <RenderObject2D
+                        texture="data/textures/gui/square.tga"
+                        sizeX="380"
+                        sizeY="46"
+                        color="4B4B4B"
+                    />
+            </StaticImage>
+            <StaticImage origin="0 0" align="lt">
+                <RenderObject2D
+                        texture="data/textures/gui/deploy/deploy_class_diagonalbars.dds"
+                        color="0c0b0b33"
+                    />
+            </StaticImage>
+            <StaticImage name="#ClassBackgroundLeftBar" origin="-16 0" align="lt">
+                <RenderObject2D
+                        texture="data/textures/gui/square.tga"
+                        sizeX="8"
+                        sizeY="148"
+                        color="E3F6FD"
+                    />
+            </StaticImage>
+            <StaticText
+                    name="#ClassName"
+                    origin="-6 50"
+                    text=""
+                    align="r"
+                    font="header_4"
+                    textColor="211e1d"
+                />
+            <StaticImage name="#ClassIcon" origin="8 50" align="l">
+                <RenderObject2D
+                        texture="data/textures/gui/deploy/class_name_icon_assaulter.dds"
+                    />
+            </StaticImage>
+            <Item origin="-2 -25">
+                <StaticImage name="#slot29" origin="0 0">
+                    <RenderObject2D
+                            texture="data/textures/gui/deploy/deploy_trooperbackground_01.tga"
+                        />
+                </StaticImage>
+            </Item>
+        </StaticImage>
+
+    </Item> <!-- End Tab 5 Content -->
 
 </Item> <!-- End GFL-UNIT-GIRL -->
 </GUIItems>

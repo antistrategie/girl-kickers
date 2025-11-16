@@ -367,4 +367,61 @@
         gender="0"
         customName="LEWIS"
     />
+
+    <Portrait
+        tex="data/textures/portraits/gfl_qbz191.dds"
+        unit="GFL-UNIT-FROST"
+        class="GFL-DOLL-QBZ191"
+        gender="0"
+        customName="QIONGJIU"
+    />
+    <Portrait
+        tex="data/textures/portraits/gfl_qbz191.dds"
+        unit="GFL-UNIT-GIRL"
+        class="GFL-DOLL-QBZ191"
+        gender="0"
+        customName="QIONGJIU"
+    />
+    <Portrait
+        tex="data/textures/portraits/gfl_akalfa.dds"
+        unit="GFL-UNIT-FROST"
+        class="GFL-DOLL-AKALFA"
+        gender="0"
+        customName="TOLOLO"
+    />
+    <Portrait
+        tex="data/textures/portraits/gfl_akalfa.dds"
+        unit="GFL-UNIT-GIRL"
+        class="GFL-DOLL-AKALFA"
+        gender="0"
+        customName="TOLOLO"
+    />
+    <Portrait
+        tex="data/textures/portraits/gfl_aa12.dds"
+        unit="GFL-UNIT-FROST"
+        class="GFL-DOLL-AA12"
+        gender="0"
+        customName="LIND"
+    />
+    <Portrait
+        tex="data/textures/portraits/gfl_aa12.dds"
+        unit="GFL-UNIT-GIRL"
+        class="GFL-DOLL-AA12"
+        gender="0"
+        customName="LIND"
+    />
+    <Portrait
+        tex="data/textures/portraits/gfl_mp7.dds"
+        unit="GFL-UNIT-FROST"
+        class="GFL-DOLL-MP7"
+        gender="0"
+        customName="CHEETA"
+    />
+    <Portrait
+        tex="data/textures/portraits/gfl_mp7.dds"
+        unit="GFL-UNIT-GIRL"
+        class="GFL-DOLL-MP7"
+        gender="0"
+        customName="CHEETA"
+    />
 </HumanIdentities>
