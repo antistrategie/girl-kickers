@@ -303,7 +303,7 @@
         >
             <Damage start="35" end="30" startDist="0" endDist="100" />
             <CriticalChancePercent
-                start="15"
+                start="22"
                 end="20"
                 startDist="0"
                 endDist="100"
@@ -326,7 +326,7 @@
         >
             <Damage start="30" end="25" startDist="0" endDist="100" />
             <CriticalChancePercent
-                start="10"
+                start="18"
                 end="15"
                 startDist="0"
                 endDist="100"
