@@ -170,7 +170,7 @@
         <Sounds>
             <Equip name="rifle_eqp" />
             <Unequip name="rifle_neqp" />
-            <重新加载 name="rifle_reld" />
+            <Reload name="rifle_reld" />
             <ReloadEmpty name="rifle_reldempt" />
             <Fire name="akm_fire" />
             <ShellDrop name="rifle_shell_drop" />
@@ -180,18 +180,18 @@
 
 <!-- HK416 -->
     <Bind eqp="GFL-WEAP-HK416">
-        <到 name="556FMJM855_M4" />
-        <到 name="556FMJM855A1_M4" />
-        <到 name="556FMJMk318_M4" />
+        <to name="556FMJM855_M4" />
+        <to name="556FMJM855A1_M4" />
+        <to name="556FMJMk318_M4" />
 
-        <到 name="IronSights" />
-        <到 name="M68CCO" />
-        <到 name="Holosight" />
+        <to name="IronSights" />
+        <to name="M68CCO" />
+        <to name="Holosight" />
         <to name="HoloMag3X" />
-        <到 name="M150RCO" />
-        <到 name="SpecterDR" />
+        <to name="M150RCO" />
+        <to name="SpecterDR" />
         <to name="LPVO_6X" />
-        <到 name="LPVO_8X" />
+        <to name="LPVO_8X" />
     </Bind>
     <Firearm
         name="GFL-WEAP-HK416"
@@ -434,7 +434,7 @@
         <Sounds>
             <Equip name="rifle_eqp" />
             <Unequip name="rifle_neqp" />
-            <重新加载 name="rifle_reld" />
+            <Reload name="rifle_reld" />
             <ReloadEmpty name="rifle_reldempt" />
             <Fire name="m4_fire" />
             <ShellDrop name="rifle_shell_drop" />
@@ -445,14 +445,14 @@
 <!-- G28 -->
     <Bind eqp="GFL-WEAP-G28">
         <to name="762FMJM80A1_MK17STD" />
-        <到 name="762FMJM118LR_MK17STD" />
+        <to name="762FMJM118LR_MK17STD" />
 
-        <到 name="IronSights" />
-        <到 name="M68CCO" />
-        <到 name="Holosight" />
-        <到 name="HoloMag3X" />
-        <到 name="M150RCO" />
-        <到 name="SpecterDR" />
+        <to name="IronSights" />
+        <to name="M68CCO" />
+        <to name="Holosight" />
+        <to name="HoloMag3X" />
+        <to name="M150RCO" />
+        <to name="SpecterDR" />
         <to name="LPVO_6X" />
         <to name="LPVO_8X" />
     </Bind>
@@ -1143,7 +1143,7 @@
         <Sounds>
             <Equip name="smg_eqp" />
             <Unequip name="smg_neqp" />
-            <重新加载 name="smg_reld" />
+            <Reload name="smg_reld" />
             <ReloadEmpty name="smg_reldempt" />
             <Fire name="mp5a_fire" />
             <ShellDrop name="smg_shell_drop" />
@@ -1153,17 +1153,17 @@
 
 <!-- OTS-14 (Groza) -->
     <Bind eqp="GFL-WEAP-OTS14">
-        <到 name="762x39FMJ7N23_Type56NWS" />
-        <到 name="762x39FMJM43_Type56NWS" />
+        <to name="762x39FMJ7N23_Type56NWS" />
+        <to name="762x39FMJM43_Type56NWS" />
         <to name="762x39FMJM43_Type56CIA" />
 
-        <到 name="IronSights" />
+        <to name="IronSights" />
         <to name="M68CCO" />
-        <到 name="Holosight" />
-        <到 name="HoloMag3X" />
-        <到 name="M150RCO" />
-        <到 name="SpecterDR" />
-        <到 name="LPVO_6X" />
+        <to name="Holosight" />
+        <to name="HoloMag3X" />
+        <to name="M150RCO" />
+        <to name="SpecterDR" />
+        <to name="LPVO_6X" />
         <to name="LPVO_8X" />
     </Bind>
     <Firearm
@@ -1812,7 +1812,7 @@
         <Sounds>
             <Equip name="870br_eqp" />
             <Unequip name="870br_neqp" />
-            <重新加载 name="870br_reld" />
+            <Reload name="870br_reld" />
             <ReloadEmpty name="870br_reld" />
             <Fire name="m1014_fire" />
             <ShellDrop name="shotgun_shell_drop" />
@@ -1822,14 +1822,14 @@
 
 <!-- MP5 -->
     <Bind eqp="GFL-WEAP-MP5">
-        <到 name="919FMJM882_Mp5ASMG" />
-        <到 name="919FMJM1152_Mp5ASMG" />
-        <到 name="919JHPM1153_Mp5ASMG" />
+        <to name="919FMJM882_Mp5ASMG" />
+        <to name="919FMJM1152_Mp5ASMG" />
+        <to name="919JHPM1153_Mp5ASMG" />
 
-        <到 name="IronSights" />
-        <到 name="M68CCO" />
-        <到 name="Holosight" />
-        <到 name="M150RCO" />
+        <to name="IronSights" />
+        <to name="M68CCO" />
+        <to name="Holosight" />
+        <to name="M150RCO" />
     </Bind>
 
     <Firearm
@@ -1980,7 +1980,7 @@
         <Sounds>
             <Equip name="pistol_eqp" />
             <Unequip name="pistol_neqp" />
-            <重新加载 name="pistol_reld" />
+            <Reload name="pistol_reld" />
             <ReloadEmpty name="pistol_reldempt" />
             <Fire name="m9_fire" />
             <ShellDrop name="pistol_shell_drop" />
@@ -1990,16 +1990,16 @@
 
 <!-- VSK-94 -->
     <Bind eqp="GFL-WEAP-VSK94">
-        <到 name="9x39SP5_VSSCIA" />
-        <到 name="9x39APSP6_VSSCIA" />
+        <to name="9x39SP5_VSSCIA" />
+        <to name="9x39APSP6_VSSCIA" />
 
-        <到 name="IronSights" />
-        <到 name="M68CCO" />
-        <到 name="Holosight" />
-        <到 name="HoloMag3X" />
-        <到 name="M150RCO" />
-        <到 name="SpecterDR" />
-        <到 name="LPVO_6X" />
+        <to name="IronSights" />
+        <to name="M68CCO" />
+        <to name="Holosight" />
+        <to name="HoloMag3X" />
+        <to name="M150RCO" />
+        <to name="SpecterDR" />
+        <to name="LPVO_6X" />
         <to name="LPVO_8X" />
     </Bind>
     <Firearm
@@ -2160,7 +2160,7 @@
         <Sounds>
             <Equip name="870br_eqp" />
             <Unequip name="870br_neqp" />
-            <重新加载 name="870br_reld" />
+            <Reload name="870br_reld" />
             <ReloadEmpty name="870br_reld" />
             <Fire name="m1014_fire" />
             <ShellDrop name="shotgun_shell_drop" />
@@ -2170,15 +2170,15 @@
 
 <!-- Lewis Gun -->
     <Bind eqp="GFL-WEAP-LEWIS">
-        <到 name="303BRITFMJ_LEWIS" />
-        <到 name="303BRITAP_LEWIS" />
+        <to name="303BRITFMJ_LEWIS" />
+        <to name="303BRITAP_LEWIS" />
 
-        <到 name="IronSights" />
-        <到 name="M68CCO" />
-        <到 name="Holosight" />
-        <到 name="HoloMag3X" />
+        <to name="IronSights" />
+        <to name="M68CCO" />
+        <to name="Holosight" />
+        <to name="HoloMag3X" />
         <to name="M150RCO" />
-        <到 name="SpecterDR" />
+        <to name="SpecterDR" />
     </Bind>
     <Firearm
         name="GFL-WEAP-LEWIS"
@@ -2254,7 +2254,7 @@
         <Sounds>
             <Equip name="rifle_eqp" />
             <Unequip name="rifle_neqp" />
-            <重新加载 name="rifle_reld" />
+            <Reload name="rifle_reld" />
             <ReloadEmpty name="rifle_reldempt" />
             <Fire name="m110csass_fire" />
             <ShellDrop name="rifle_shell_drop" />
@@ -2264,13 +2264,13 @@
 
 <!-- QBZ-191 (Qiongjiu) -->
     <Bind eqp="GFL-WEAP-QBZ191">
-        <到 name="58x42DBP191_QBZ191" />
-        <到 name="58x42DBP88_QBZ191" />
+        <to name="58x42DBP191_QBZ191" />
+        <to name="58x42DBP88_QBZ191" />
 
-        <到 name="IronSights" />
+        <to name="IronSights" />
         <to name="M68CCO" />
         <to name="Holosight" />
-        <到 name="HoloMag3X" />
+        <to name="HoloMag3X" />
         <to name="M150RCO" />
         <to name="SpecterDR" />
         <to name="LPVO_6X" />
