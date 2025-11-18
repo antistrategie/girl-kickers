@@ -1,0 +1,167 @@
+<DoctrineNodes>
+    <Node
+        name="GFL_FROST_CommonRail"
+        nameUI="@doctrine_gfl_frost_commonrail_name"
+        description="@doctrine_gfl_frost_commonrail_descr"
+        texturePrefix="data/textures/gui/doctrines/doctrine_empty"
+    >
+        <GiveBuff
+            nodeName="GFL_FROST_CommonRail_Apply"
+            target="self"
+            targetClass="GFL-DOLL-QBZ191"
+        />
+    </Node>
+    <Node name="GFL_FROST_CommonRail_Apply">
+        <GiveBuff
+            nodeName="GFL_FROST_CommonRail_Buff"
+            target="friends_in_radius"
+            radius="8.0"
+            durationMs="5000"
+            when="kill"
+        />
+    </Node>
+    <Node name="GFL_FROST_CommonRail_Buff" description="@buff_gfl_frost_commonrail">
+        <EquipmentModifier suppressionRecoveryAdd="20" />
+        <AttackTypeModifier
+            minRange="0"
+            maxRange="999"
+            accuracyAdd="15"
+        />
+    </Node>
+
+    <Node
+        name="GFL_FROST_AuroraCurtain"
+        nameUI="@doctrine_gfl_frost_auroracurtain_name"
+        description="@doctrine_gfl_frost_auroracurtain_descr"
+        texturePrefix="data/textures/gui/doctrines/doctrine_empty"
+    >
+        <GiveBuff
+            nodeName="GFL_FROST_AuroraCurtain_Apply"
+            target="self"
+            targetClass="GFL-DOLL-AKALFA"
+        />
+    </Node>
+    <Node name="GFL_FROST_AuroraCurtain_Apply">
+        <GiveBuff
+            nodeName="GFL_FROST_AuroraCascade"
+            target="self"
+            durationMs="4000"
+            when="kill"
+        />
+    </Node>
+    <Node name="GFL_FROST_AuroraCascade" description="@buff_gfl_frost_auroracascade">
+        <AttackTypeModifier
+            target="rifle"
+            minRange="0"
+            maxRange="999"
+            resetTime="-80"
+            quickSwitchAimTimeMultiplier="70"
+            nearbyTargetBonusCloseness="60"
+        />
+    </Node>
+
+    <Node
+        name="GFL_FROST_SweetsStockpile"
+        nameUI="@doctrine_gfl_frost_sweetsstockpile_name"
+        description="@doctrine_gfl_frost_sweetsstockpile_descr"
+        texturePrefix="data/textures/gui/doctrines/doctrine_empty"
+    >
+        <GiveBuff
+            nodeName="GFL_FROST_SweetsStockpile_Apply"
+            target="self"
+            targetClass="GFL-DOLL-AA12"
+        />
+    </Node>
+    <Node name="GFL_FROST_SweetsStockpile_Apply">
+        <GiveBuff
+            nodeName="GFL_FROST_Honeytrap"
+            target="enemies_in_radius"
+            radius="8.0"
+        />
+    </Node>
+    <Node name="GFL_FROST_Honeytrap" description="@buff_gfl_frost_honeytrap">
+        <EquipmentModifier suppressionRecoveryAdd="-10" />
+        <AttackTypeModifier
+            minRange="0"
+            maxRange="999"
+            minAimTime="+25"
+            maxAimTime="+25"
+        />
+    </Node>
+
+    <Node
+        name="GFL_FROST_SpicyCandy"
+        nameUI="@doctrine_gfl_frost_spicycandy_name"
+        description="@doctrine_gfl_frost_spicycandy_descr"
+        texturePrefix="data/textures/gui/doctrines/doctrine_empty"
+    >
+        <GiveBuff
+            nodeName="GFL_FROST_SpicyCandy_Apply"
+            target="self"
+            targetClass="GFL-DOLL-MP7"
+        />
+    </Node>
+    <Node name="GFL_FROST_SpicyCandy_Apply">
+        <GiveBuff
+            nodeName="GFL_FROST_SpicyCandy_Buff"
+            target="friends_in_radius"
+            radius="8.0"
+        />
+    </Node>
+    <Node name="GFL_FROST_SpicyCandy_Buff" description="@buff_gfl_frost_spicycandy">
+        <EquipmentModifier conditioning="5" />
+        <AttackTypeModifier
+            minRange="0"
+            maxRange="999"
+            onlyWhenDamaged="true"
+            critChanceAdd="6"
+        />
+    </Node>
+
+    <Node
+        name="GFL_FROST_CombatReadiness"
+        nameUI="@doctrine_gfl_frost_combatreadiness_name"
+        description="@doctrine_gfl_frost_combatreadiness_descr"
+        texturePrefix="data/textures/gui/doctrines/doctrine_empty"
+    >
+        <EquipmentModifier suppressionRecoveryAdd="15" flinchResistance="12" />
+    </Node>
+
+    <Node
+        name="GFL_FROST_GriffinEfficiency"
+        nameUI="@doctrine_gfl_frost_griffinefficiency_name"
+        description="@doctrine_gfl_frost_griffinefficiency_descr"
+        texturePrefix="data/textures/gui/doctrines/doctrine_empty"
+    >
+        <EquipmentModifier target="all" reloadSpeed="-80" changeInTime="-100" changeOutTime="-100" />
+    </Node>
+
+    <Node
+        name="GFL_FROST_AdvancedIntelNetwork"
+        nameUI="@doctrine_gfl_frost_advancedintelnetwork_name"
+        description="@doctrine_gfl_frost_advancedintelnetwork_descr"
+        texturePrefix="data/textures/gui/doctrines/doctrine_empty"
+    >
+        <Enable name="AdvanceIntel" value="2" />
+    </Node>
+
+    <Node
+        name="GFL_FROST_TacticalAdaptation"
+        nameUI="@doctrine_gfl_frost_tacticaladaptation_name"
+        description="@doctrine_gfl_frost_tacticaladaptation_descr"
+        texturePrefix="data/textures/gui/doctrines/doctrine_empty"
+    >
+        <AttackTypeModifier
+            minRange="0"
+            maxRange="30"
+            accuracyAdd="12"
+            minAimTime="-40"
+            maxAimTime="-50"
+        />
+        <AttackTypeModifier
+            minRange="30"
+            maxRange="999"
+            accuracyAdd="8"
+        />
+    </Node>
+</DoctrineNodes>
