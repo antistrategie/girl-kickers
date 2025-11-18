@@ -142,7 +142,7 @@
         description="@doctrine_gfl_frost_advancedintelnetwork_descr"
         texturePrefix="data/textures/gui/doctrines/doctrine_empty"
     >
-        <Enable name="AdvanceIntel" value="2" />
+        <Enable name="AdvanceIntel" value="1" />
     </Node>
 
     <Node

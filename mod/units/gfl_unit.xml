@@ -1035,7 +1035,7 @@
             <!-- Veteran -->
             <Node name="GFL_FROST_CombatReadiness" />
             <Node name="GFL_FROST_GriffinEfficiency" />
-            <Node name="GFL_FROST_AdvancedIntelNetwork" />
+            <Node name="GFL_FROST_AdvancedIntelNetwork" numLevels="3" />
             <Node name="GFL_FROST_TacticalAdaptation" />
         </Doctrine>
     </Unit>
