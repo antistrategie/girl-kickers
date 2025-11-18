@@ -2601,7 +2601,7 @@
             <Unequip name="rifle_neqp" />
             <Reload name="rifle_reld" />
             <ReloadEmpty name="rifle_reldempt" />
-            <Fire name="mp5_fire" />
+            <Fire name="mp5a_fire" />
             <ShellDrop name="rifle_shell_drop" />
             <Empty name="gen_empty" />
         </Sounds>
