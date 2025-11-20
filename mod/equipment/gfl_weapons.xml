@@ -2406,7 +2406,7 @@
             caliberInfoText="@firearm_caliber_762x39_name"
             operationInfoText="@firearm_operation_semifull_name"
             ejectingShellEntity="BulletCasingLarge"
-            magazineEntity="ak_mag"
+            magazineEntity="m4_mag"
             ai_rangeMin="1.0"
             ai_rangeOptimal="15.0"
             ai_rangeMax="45.0"
@@ -2457,7 +2457,7 @@
         tooltip="@WEAP-AA12-NAME"
         description="@WEAP-AA12-DESC"
         img="data/models/signatures/aa12_ui.dds"
-        animationSet="shotgun_auto"
+        animationSet="shotgun_m1014"
     >
         <MobilityModifiers
             moveSpeedModifierPercent="-5"

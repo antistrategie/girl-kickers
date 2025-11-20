@@ -36,6 +36,8 @@ This mod imports tactical dolls from Girls&apos; Frontline 2: Exilium as playabl
 
 [b]Frostfall Squad:[/b] Qiongju, Cheeta, Tololo, Lind
 
+
+
 [i]Note: Only dolls currently available in GFL2 are/will be included.[/i]
 
 
@@ -120,4 +122,5 @@ Special thanks to:
 
 [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3604169235]Frauleins Patch-A[/url] - A balance patch to reduce the health and FOV of the dolls to provide a more challenging experience
 
-[/list]" changeNotes="Fix MP7 not having sounds." languageMod="" tags="Playable Units,Equipment,UI" ugcId="3580762170"/>
+[/list]" changeNotes="Fix AK-Alfa reload error.
+Fix Lind animations." languageMod="" tags="Playable Units,Equipment,UI" ugcId="3580762170"/>
