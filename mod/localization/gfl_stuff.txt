@@ -1,0 +1,36 @@
+@scope_GFL_ironsights_name=Iron sights
+
+@scope_GFL_ironsights_desc=Standard ironsights for basic aim guidance. Technically Dolls do not need any sight attachments at close to medium range as they use their built-in sensor package to acquire targets in that range bracket, but thanks to continuous drilling, the Dolls that were once under the Shikikan's command noticably have improved elimination rates when using dedicated sights. Do not be that guy who says "rifle is fine", give your Dolls the attachments they need. 
+
+@scope_GFL_pistolreddot_name=Micro Red Dot 1x
+@scope_GFL_pistolreddot_desc=A red dot sight so small it can fit to pistol slides. Improves your Doll's crit rate dramatically within 12m, but conversely makes it harder to aim for precise spots at long range due to the red dot obstructing the shooters view. 
+
+@scope_GFL_riflereddot_name=M68 Red Dot 1x
+@scope_GFL_riflereddot_desc=Minimalistic sight that simply paints a red dot over the target. Most Dolls train with this attachment during shooting drills and thus are used to its heft. Improves your Doll's crit rate dramatically within 12m, but conversely makes it harder to aim for precise spots at long range due to the red dot obstructing the shooters view. 
+
+@scope_GFL_holosight_name=Holo-sight 1x
+@scope_GFL_holosight_desc=Magica- No... Magic is not real. Ahem, this sight projects a glowing sight over the target with drop marks, allowing it to be effective at medium range, but has no further magnification capabilities than that, making it suffer the same drawbacks as the Red Dot sight at longer ranges. The batteries makes it a bit heavier too as well.
+
+@scope_GFL_holomag3x_name=Holo / Magnifier 3x
+@scope_GFL_holomag3x_desc=Holo-sight with a 3x magnifier for those situations you need more magnification without losing too much on your close range benefits. It is a bit heavier though.
+
+@scope_GFL_4x_name=Combat Optic 4x
+@scope_GFL_4x_desc=Simple magnified optic for shooting at medium ranges, with little weight penalty, but makes close range shooting more difficult due to its static configuration.
+
+@scope_GFL_SpecterDR_name=Dual Role Optic 1/4x
+@scope_GFL_SpecterDR_desc=Excellent optic suited for close-in AND medium range work, though a little heavy. A small price to pay for an optic perfect for generalized use.
+
+@scope_GFL_lpvo6x_name=LPVO 1-6x
+@scope_GFL_lpvo6x_desc=A Low Power Variable Optic that works great at ranges up to 25m and even more. Excellent attachment for sniper Dolls that you still wish to participate in close quarters combat while maintaining their capability to take out targets at long range.
+
+@scope_GFL_lpvo8x_name=LPVO 1-8x
+@scope_GFL_lpvo8x_desc=A good all-around assaulter optic that truly shines at ranges farther than 25m. Another excellent attachment for sniper Dolls that you still wish to participate in close quarters combat while maintaining their capability to take out targets at long range, but a bit heavier than its 1-6x cousin.
+
+@scope_GFL_lromk4_name=LR Optic 3.5-10x
+@scope_GFL_lromk4_desc=Entry level optic for dedicated marksman duties. Provides powerful benefits at mid-to-long range, but is very heavy and very unwieldy at close range.
+
+@scope_GFL_lromk6_3_18_name=LR Optic 3-18x
+@scope_GFL_lromk6_3_18_desc=A marksman optic specialized in the 25 to 50m range zone, and adequate elsewhere. Provides powerful benefits at mid-to-long range, but is very heavy and very unwieldy at close range. It is recommended to bring a handgun to switch into if you decide to have your Doll's equipping this to have any chance dueling with any close targets.
+
+@scope_GFL_lropm5_25_name=LR Optic 5-25x
+@scope_GFL_lropm5_25_desc=A heavy and cumbersome optic that brings maximum precision from 25m out. Enhances the Doll's equipped weapon by intense degrees at long range, but suffers greatly at close range. It is a requirement to bring a reliable sidearm or have the Doll equipping this sit out any room-to-room fights.
