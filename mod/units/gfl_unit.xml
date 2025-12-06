@@ -1033,10 +1033,10 @@
             <Node name="GFL_FROST_SpicyCandy" />
 
             <!-- Veteran -->
-            <Node name="GFL_FROST_CombatReadiness" />
-            <Node name="GFL_FROST_GriffinEfficiency" />
-            <Node name="GFL_FROST_AdvancedIntelNetwork" numLevels="3" />
-            <Node name="GFL_FROST_TacticalAdaptation" />
+            <Node name="GFL_FROST_CombatReadiness" minSquadLevel="10" />
+            <Node name="GFL_FROST_GriffinEfficiency" minSquadLevel="10" />
+            <Node name="GFL_FROST_AdvancedIntelNetwork" minSquadLevel="10" numLevels="3" />
+            <Node name="GFL_FROST_TacticalAdaptation" minSquadLevel="10" />
         </Doctrine>
     </Unit>
 </Units>
