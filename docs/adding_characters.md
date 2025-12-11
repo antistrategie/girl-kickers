@@ -249,23 +249,96 @@ This creates a `_trans.txt` file for all directories that don't have one, showin
 
 Create a voice pack that maps game events to voice files. Add a new `<Pack>` entry to the appropriate squad's voice lines file.
 
-The voice pack maps various in-game events (combat, movement, status changes) to audio files:
-
-**Common voice events:**
-- `VOX_DYING` - Death/dying sounds (typically uses `HittedLast` files)
-- `VOX_INJURED` - Hit/damage sounds (typically uses `Hitted` files)
-- `VOX_TRPR_TANGODOWN` - Kill confirmation
-- `VOX_TRPR_GO_GO_GO` - Battle start/movement commands
-- `VOX_TRPR_MOVING` - Movement acknowledgement
-- `VOX_TRPR_ROGER` - Command acknowledgement
-- `VOX_TRPR_CLEAR` - Area cleared of enemies
-- `VOX_WARN_GRENADE` - Grenade warning
-- Many more tactical callouts...
+The voice pack maps various in-game events (combat, movement, status changes) to audio files.
 
 **Reference examples:**
 - Look at existing voice packs in the same squad file to see the complete structure
 - Voice file paths must exactly match the files in `/mod/sounds/voice/{CharacterName}/`
 - Use `data/sounds/voice/` prefix for all paths
+
+#### Step 2a: Voice Event Reference
+
+**Combat & Status:**
+| Event | Description | Good source files |
+|-------|-------------|-------------------|
+| `VOX_DYING` | Character death | `Series_Die__`, `HittedLast` files |
+| `VOX_INJURED` | Taking damage | `Series_Hitted` files |
+| `VOX_TRPR_TANGODOWN` | Killed an enemy | `Series_Kill__` files |
+| `VOX_TRPR_CLEAR` | Area cleared | Short positive lines |
+| `VOX_TRPR_PINNED_DOWN` | Under heavy fire | Pain sounds or distressed lines |
+| `VOX_TRPR_MANDOWN` | Teammate down | Empty or concerned lines |
+| `VOX_TRPR_CIV_DOWN` | Civilian killed | Empty or regretful lines |
+| `VOX_TRPR_HOST_DOWN` | Hostage killed | Empty or regretful lines |
+| `VOX_TRPR_VIP_DEAD` | VIP killed | Empty or regretful lines |
+
+**Movement & Commands:**
+| Event | Description | Good source files |
+|-------|-------------|-------------------|
+| `VOX_TRPR_GO_GO_GO` | Move out command | Battle start, energetic lines |
+| `VOX_TRPR_MOVING` | Acknowledging movement | Short acknowledgement |
+| `VOX_TRPR_ROGER` | Command acknowledged | `Series_Tone_Positive`, acknowledgements |
+| `VOX_TRPR_COME` | Follow me | Short command lines |
+| `VOX_TRPR_WAIT` | Hold position | Empty or short lines |
+| `VOX_TRPR_HOLDING` | Holding position | Empty or short lines |
+| `VOX_TRPR_ORDERS` | Awaiting orders | Empty (don't use positive lines) |
+| `VOX_TRPR_EVAC` | Evacuating | Empty or urgent lines |
+| `VOX_TRPR_TIME_TO_GO` | Time to leave | Short urgent lines |
+| `VOX_TRPR_DONE_HERE` | Mission complete | `Series_Win__` files (can be long) |
+
+**Tactical Callouts:**
+| Event | Description | Good source files |
+|-------|-------------|-------------------|
+| `VOX_TRPR_EYESONTARGET` | Spotted enemy | Short alert lines |
+| `VOX_TRPR_TANGOS` | Enemies spotted | Short alert lines |
+| `VOX_TRPR_FREEZE` | Ordering surrender | Commanding/threatening lines |
+| `VOX_TRPR_BOMB_LOCATED` | Found explosive | Short discovery lines |
+| `VOX_TRPR_BOMB_DEFUSING` | Defusing bomb | Empty or focused lines |
+| `VOX_TRPR_HVT_RUNNING` | High-value target fleeing | Empty (rare event) |
+
+**Equipment:**
+| Event | Description | Good source files |
+|-------|-------------|-------------------|
+| `VOX_RELOAD` | Reloading weapon | Short lines or empty |
+| `VOX_GEAR_FRAG` | Throwing frag grenade | `Series_Ultimate__`, attack lines |
+| `VOX_GEAR_FLASH` | Throwing flashbang | Attack lines |
+| `VOX_GEAR_SMOKE` | Throwing smoke | Short tactical lines |
+| `VOX_WARN_GRENADE` | Incoming grenade | Empty or short warning |
+| `VOX_WARN_RPG` | Incoming RPG | Empty or short warning |
+| `VOX_TRPR_GEAR_CHARGE_PLACE` | Placing breach charge | Empty or focused lines |
+| `VOX_TRPR_GEAR_CHARGE_RDY` | Charge ready | Empty |
+| `VOX_TRPR_HANDCUFF` | Restraining suspect | Empty |
+
+#### Step 2b: Mapping Guidelines
+
+> [!IMPORTANT]
+> **Keep lines short.** Most tactical callouts repeat frequently during gameplay. Long lines become annoying quickly. The only exception is `VOX_TRPR_DONE_HERE` which plays once at mission end.
+
+**Matching voice lines to events:**
+
+1. **Read the `_trans.txt` file** - Understand what each line actually says before mapping
+2. **Use semantic matching** - The line's meaning should fit the game event:
+   - "Take this!" works for throwing grenades
+   - "Roger that" works for command acknowledgement
+   - "Nice" doesn't work for reloading (no semantic connection)
+3. **Leave empty if no good match** - It's better to have no voice line than an inappropriate one
+4. **Avoid using long/complex lines** for frequently repeated events
+
+**Common GFL2 voice file patterns:**
+| Filename pattern | Typical content |
+|------------------|-----------------|
+| `Series_Kill__` | Kill confirmation ("The end", "Sleep", etc.) |
+| `Series_Hit__` | Attack vocalisations |
+| `Series_Hitted` | Pain/damage sounds |
+| `Series_HittedLast` | Near-death sounds |
+| `Series_Die__` | Death sounds |
+| `Series_Win__` | Victory lines (usually longer) |
+| `Series_Ultimate__` | Ultimate skill lines |
+| `Series_Skill01__`, `Series_Skill02__` | Skill activation |
+| `Series_Tone_Positive_*` | Short positive responses |
+| `Series_Tone_Negative_*` | Short negative responses |
+| `Series_Up_*` | Level up/buff lines |
+| `Series_Set_Fall__` | Deployment lines |
+| `Series_Chosen__` | Selection acknowledgement |
 
 > [!TIP]
 > Use the `_trans.txt` file in your character's voice directory to help match voice lines to appropriate game events based on their content.

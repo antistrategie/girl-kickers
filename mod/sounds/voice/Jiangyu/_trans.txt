@@ -1,0 +1,226 @@
+# Voice Line Translations for Jiangyu
+# Generated automatically using OpenAI Whisper
+# Total files: 74
+
+Series_Attack__VO_Jiangyu_Series_Tone_Positive_003.wav
+  fat
+
+Series_Battle_Start__VO_Jiangyu_Series_Tone_Positive_009.wav
+  Go ahead! In contact, the girl moved at a reasonable speed. who...... That
+
+Series_Cancel__VO_Jiangyu_Series_Tone_Positive_010.wav
+  Really?
+
+Series_Chosen_Auto__VO_Jiangyu_Series_Up_006.wav
+  I'm strong after all!
+
+Series_Chosen__VO_Jiangyu_Single_Passive_SSR_001.wav
+  I won't let you get me!
+
+Series_Daily_001.wav
+  Commander, I'll listen to Captain Groza, so please increase my duty.
+
+Series_Daily_002.wav
+  So this is what the outside world looked like. Let's go on a lot of adventures!
+
+Series_Daily_003.wav
+  If you're not with your sister, you don't have to work part-time or practice! This is freedom! Freedom, go!
+
+Series_Daily_004.wav
+  I wonder if everyone's been stressed out lately. They're not feeling well at all. Alright! I have to liven up the place!
+
+Series_Daily_005.wav
+  Hey, hey, Commander! I just defeated Caloric in the simulation! Isn't that amazing? I want to teach my sister soon!
+
+Series_Daily_006.wav
+  Beppu-li is amazing! She never forgets about the live performance even when she's fighting! I want my dancer to do that!
+
+Series_Daily_007.wav
+  Don't make that face, Commander. I'm sure you'll be fine.
+
+Series_Daily_008.wav
+  Commander, can you tell Nemesis when our band will become popular? Eh? You're being serious. Why are you looking at me like that?
+
+Series_Daily_009.wav
+  Even though I only go out for a few days, my sister sends me a lot of messages, such as, don't forget something, don't hesitate, and so on. I'm in trouble if I'm in a relationship.
+
+Series_Daily_010.wav
+  I've been to many places with my sister, but the living comfort of the Elmo is exceptional. I don't want to leave here anymore.
+
+Series_Die__VO_Jiangyu_Series_HittedLast__VO_Jiangyu_Series_Tone_Negative_001.wav
+  No way!
+
+Series_Dying__VO_Jiangyu_Series_HittedLast__VO_Jiangyu_Series_Shield_Broken__VO_Jiangyu_Series_Tone_Negative_002.wav
+  ouch!
+
+Series_Hit__VO_Jiangyu_Single_Hit_001.wav
+  Here I go!
+
+Series_HittedLast__VO_Jiangyu_Series_Shield_Broken__VO_Jiangyu_Series_Tone_Positive_004.wav
+  Hahaha…
+
+Series_Kill__VO_Jiangyu_Single_Kill_001.wav
+  Vendome Choo!
+
+Series_Lose__VO_Jiangyu_Single_Lose_001.wav
+  Oh no, oh no! If my sister finds out about this, she'll get mad again!
+
+Series_Set_Click__VO_Jiangyu_Series_Tone_Positive_005.wav
+  My turn?
+
+Series_Set_Fall__VO_Jiangyu_Series_Tone_Positive_007.wav
+  Leave it to me!
+
+Series_Skill01__VO_Jiangyu_Single_Skill_001.wav
+  Daruma-san fell!
+
+Series_Skill02__VO_Jiangyu_Single_Skill_002.wav
+  This is enough for me!
+
+Series_Tone_Positive_001.wav
+  Hi Hi!
+
+Series_Tone_Positive_002.wav
+  Woohoo!
+
+Series_Tone_Positive_006.wav
+  I got it, I got it.
+
+Series_Tone_Positive_008.wav
+  Let's do it!
+
+Series_Ultimate__VO_Jiangyu_Single_Ultimate_SSR_001.wav
+  Let me do it!
+
+Series_Up_002.wav
+  Nice, nice!
+
+Series_Up_003.wav
+  This is just normal!
+
+Series_Up_004.wav
+  As expected of me!
+
+Series_Up_005.wav
+  Easy peasy!
+
+Series_Up_007.wav
+  Thank you!
+
+Series_Up_008.wav
+  Onee-chan will be surprised too!
+
+Series_Win__VO_Jiangyu_Single_Win_001.wav
+  I told you, right? I'm the 100th person elite doll!
+
+Single_Acquire_R_001.wav
+  It's been a year already... I was told not to forget how grateful I am to you, so I'll keep working hard for you, Commander!
+
+Single_Acquire_SSR_001.wav
+  Today is the day I will meet with the Commander and celebrate the anniversary of the first year. I have to celebrate it grandly! Hmm... Ah! How about painting the Hermogon red!?
+
+Single_Anniversary_001.wav
+  Commander, you've been doing the same thing for years, so you're amazing. I've never been doing this for three months. Ah, no, no, no. Commander, if I start to slouch, be sure to scold me.
+
+Single_Birthday_R_001.wav
+  Ta-da! Happy birthday, Commander! Huh? You forgot? Commander, you're such a bad forget-me-not!
+
+Single_Birthday_SSR_001.wav
+  Commander, I'll cast a spell that will make you a year older in a flash! Eh? That wasn't funny? I knew it, I didn't listen to Chouki!
+
+Single_Birthday_SSR_002.wav
+  You've gotten one more year older, Commander! I remember you saying that the older a person gets, the more they look different, but... Commander hasn't changed at all, has she? Well, no matter how old you get, you're still a Commander, right?
+
+Single_Children_001.wav
+  Don't treat me like a child. I don't like candy anymore. But... If it's in front of you, you can stay as a child for a day. Just for today.
+
+Single_Christmas_001.wav
+  How about we do something a little different this year? For example... We can make a tree with a costume! We can surprise everyone who comes to get a present! Isn't that interesting?
+
+Single_Christmas_002.wav
+  It's okay to get off the chimney. If you really are there, you're definitely a master of martial arts, aren't you? Huh? That means... Do I have the right to be Santa? Where should I put the Commander's present? The bedroom? The warehouse? Or somewhere else?
+
+Single_Duanwu_001.wav
+  I saw Meirin take two flyers and leave... Air Dragon Boat? There's no water, so at least the atmosphere is fine? Ehh! Sounds fun! I'll do it too!
+
+Single_Friendliness_001.wav
+  Come on, you're not a kid, so don't pat my head.
+
+Single_Friendliness_002.wav
+  I'm not skipping today! I know the structure of the Ermo!
+
+Single_Friendliness_003.wav
+  If you're not busy, I'll go home. I'm going to practice with you online.
+
+Single_Friendliness_004.wav
+  My sister told me not to let you stay up late, so go to bed early today!
+
+Single_Friendliness_005.wav
+  Umm... Commander, is there any way to get the money quickly? The band seems to be in trouble, so I wonder if I can do something.
+
+Single_Friendliness_006.wav
+  Look, look, Commander! I learned a new skill from Caloric! I'll surprise you this time!
+
+Single_Friendliness_007.wav
+  Today's your day off, right? Why are you staring at the terminal again? I'm looking for you!
+
+Single_Friendliness_008.wav
+  Commander, you're always sitting down, right? Come on, let's exercise together and move your body!
+
+Single_Friendliness_009.wav
+  I feel like the Commander has been getting more and more like my sister lately. I-I don't think she's being mean or anything. I'm just not used to it.
+
+Single_Friendliness_010.wav
+  Ahem! Commander, I'm an elite doll, so you can rely on me anytime if you have any problems.
+
+Single_Friendliness_011.wav
+  I'm not a kid, so why do I always do dangerous things? Ah, I was a little like a big sister just now!
+
+Single_Friendliness_012.wav
+  Why am I the only one who can write this psychological test in the name of the person I like? I love you and the Commander so much... Ah, come on! I quit, I quit!
+
+Single_Friendliness_013.wav
+  Don't worry about me! I'll make your stomach and belly fat all plump! So don't make that face and smile, Commander!
+
+Single_Login_001.wav
+  Hello, Commander! How are you? I'm just as good as before!
+
+Single_MidAutumn_001.wav
+  Tonight's moon is round, big, and it's like a light bulb! Commander, why don't we go see it together?
+
+Single_MidAutumn_002.wav
+  Commander! I heard a legend about the Chushu legend from my sister, so I'll tell you! Well, one day, suddenly, ten moon... Huh? No... Did I remember it wrong?
+
+Single_NewYear_001.wav
+  Happy New Year! Happy New Year! Or something like that. I don't have to continue the work that didn't end last year, right?
+
+Single_NewYear_002.wav
+  3, 2, 1! Ah! Can you hear it? It's the sound of the bell! Hey, did you know? If you celebrate the new year with someone, you can stay together forever! This way, we'll be together forever this year!
+
+Single_Obon_001.wav
+  I wonder if Chouki and Onee-chan are having a bonfire party right now. It's a bit disappointing that we can't spend it together. Commander, why don't we go to the rooftop to light the lanterns? I secretly took one.
+
+Single_Obtain_SSR_001.wav
+  Did something troublesome happen? Then leave it to me!
+
+Single_SpringFes_001.wav
+  Happy New Year, Commander! Was I the best? Hehe, give me a year's worth of money!
+
+Single_SpringFes_002.wav
+  Happy New Year, Commander! I came to say hello to my sister, but I wanted to see her soon, so I left her behind. When my sister arrives, let's all eat together!
+
+Single_ThanksGiving_001.wav
+  Today is the day of gratitude, so I brought a lot of pumpkin! Use it in the pumpkin race, and you can make pumpkin pie! How is it? You're interested, right?
+
+Single_Title_001.wav
+  Dolls Front Line 2 Exilium!
+
+Single_Valentine_001.wav
+  I'm not as good as you are, so I made a chocolate soup with lots of love. This is the opposite of the idea! Sasa, try it!
+
+Single_Valentine_002.wav
+  I've been making chocolate seriously this year! I'm putting my heart into Valentine's chocolate! I've prepared a lot of chocolate to show you how big my heart is!
+
+Single_WhiteVale_001.wav
+  Do you remember that I like red? Eh? That doesn't mean anything, though? W-Wait! I told you my favorite color, why didn't you prepare a present for me?
+

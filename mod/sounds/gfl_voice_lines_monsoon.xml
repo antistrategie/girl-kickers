@@ -1,0 +1,828 @@
+<Sounds>
+  <Pack name="Daiyan-Voice" channel="voice">
+    <Sound ID="VOX_DYING">
+      <!-- "The rhythm is... disturbed..." -->
+      <Path name="data/sounds/voice/Daiyan/Series_Die__VO_Daiyan_Series_HittedLast__VO_Daiyan_Series_Tone_Negative_002.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_FLASH">
+      <!-- "This is the end!" -->
+      <Path name="data/sounds/voice/Daiyan/Series_Ultimate__VO_Daiyan_Single_Ultimate_SSR_001.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_FRAG">
+      <!-- "This is the end!" -->
+      <Path name="data/sounds/voice/Daiyan/Series_Ultimate__VO_Daiyan_Single_Ultimate_SSR_001.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_LAUNCHER">
+      <!-- "This is the end!" -->
+      <Path name="data/sounds/voice/Daiyan/Series_Ultimate__VO_Daiyan_Single_Ultimate_SSR_001.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_MOLOTOV">
+      <!-- "This is the end!" -->
+      <Path name="data/sounds/voice/Daiyan/Series_Ultimate__VO_Daiyan_Single_Ultimate_SSR_001.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_ROCKET">
+      <!-- "This is the end!" -->
+      <Path name="data/sounds/voice/Daiyan/Series_Ultimate__VO_Daiyan_Single_Ultimate_SSR_001.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_SMOKE">
+      <!-- "Listen carefully." -->
+      <Path name="data/sounds/voice/Daiyan/Series_Chosen_Auto__VO_Daiyan_Series_Set_Fall__VO_Daiyan_Series_Tone_Positive_001.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_STINGER">
+      <!-- "This is the end!" -->
+      <Path name="data/sounds/voice/Daiyan/Series_Ultimate__VO_Daiyan_Single_Ultimate_SSR_001.wav" />
+    </Sound>
+    <Sound ID="VOX_INJURED">
+      <!-- "Ah!" (pain sound) -->
+      <Path name="data/sounds/voice/Daiyan/Series_Hitted.wav" />
+    </Sound>
+    <Sound ID="VOX_RELOAD_PUMP">
+      <!-- "Yes, the sound has become smoother." -->
+      <Path name="data/sounds/voice/Daiyan/Series_Up_005.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_BOMB_DEFUSING">
+      <!-- "Step by step, steadily..." -->
+      <Path name="data/sounds/voice/Daiyan/Series_Up_004.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_BOMB_LOCATED">
+      <!-- "Here it is." -->
+      <Path name="data/sounds/voice/Daiyan/Series_Chosen__VO_Daiyan_Series_Tone_Positive_009.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_CANT">
+    </Sound>
+    <Sound ID="VOX_TRPR_CAN_I_SHOOT">
+    </Sound>
+    <Sound ID="VOX_TRPR_CIV_DOWN">
+      <!-- "Are you okay?" -->
+      <Path name="data/sounds/voice/Daiyan/Series_HittedLast__VO_Daiyan_Series_Tone_Positive_010.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_CLEAR">
+      <!-- "The investigation is complete." -->
+      <Path name="data/sounds/voice/Daiyan/Series_Up_007.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_COME">
+      <!-- "Step by step, steadily..." -->
+      <Path name="data/sounds/voice/Daiyan/Series_Up_004.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_DONE_HERE">
+      <!-- "That was a wonderful tactic, Commander..." (long OK) -->
+      <Path name="data/sounds/voice/Daiyan/Series_Win__VO_Daiyan_Single_Win_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_EVAC">
+      <!-- "I'll endure it." -->
+      <Path name="data/sounds/voice/Daiyan/Series_HittedLast__VO_Daiyan_Series_Tone_Negative_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_EYES_HOSTAGE">
+    </Sound>
+    <Sound ID="VOX_TRPR_EYESONTARGET">
+      <!-- "Here it is." -->
+      <Path name="data/sounds/voice/Daiyan/Series_Chosen__VO_Daiyan_Series_Tone_Positive_009.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_EYESONTARGET_QUIET">
+      <!-- "Here it is." -->
+      <Path name="data/sounds/voice/Daiyan/Series_Chosen__VO_Daiyan_Series_Tone_Positive_009.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_FREEZE">
+      <!-- "Please calm down." -->
+      <Path name="data/sounds/voice/Daiyan/Series_Cancel__VO_Daiyan_Series_Tone_Positive_006.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_GEAR_CHARGE_PLACE">
+      <!-- "Step by step, steadily..." -->
+      <Path name="data/sounds/voice/Daiyan/Series_Up_004.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_GEAR_CHARGE_RDY">
+    </Sound>
+    <Sound ID="VOX_TRPR_GETDOWN">
+    </Sound>
+    <Sound ID="VOX_TRPR_GO_GO_GO">
+      <!-- "Step by step" -->
+      <Path name="data/sounds/voice/Daiyan/Series_Up_004.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_GO_LOUD">
+    </Sound>
+    <Sound ID="VOX_TRPR_HANDCUFF">
+      <!-- "Please calm down." -->
+      <Path name="data/sounds/voice/Daiyan/Series_Cancel__VO_Daiyan_Series_Tone_Positive_006.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_HOLDING">
+      <!-- "Listen carefully." -->
+      <Path name="data/sounds/voice/Daiyan/Series_Chosen_Auto__VO_Daiyan_Series_Set_Fall__VO_Daiyan_Series_Tone_Positive_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_HOST_DOWN">
+      <!-- "Are you okay?" -->
+      <Path name="data/sounds/voice/Daiyan/Series_HittedLast__VO_Daiyan_Series_Tone_Positive_010.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_HOST_SEC">
+      <!-- "Listen carefully." -->
+      <Path name="data/sounds/voice/Daiyan/Series_Chosen_Auto__VO_Daiyan_Series_Set_Fall__VO_Daiyan_Series_Tone_Positive_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_HVT_RUNNING">
+    </Sound>
+    <Sound ID="VOX_TRPR_KEEPMOVINGOFF">
+    </Sound>
+    <Sound ID="VOX_TRPR_KEEPMOVINGON">
+    </Sound>
+    <Sound ID="VOX_TRPR_MANDOWN">
+      <!-- "Are you okay?" -->
+      <Path name="data/sounds/voice/Daiyan/Series_HittedLast__VO_Daiyan_Series_Tone_Positive_010.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_MATCHSPEEDON">
+    </Sound>
+    <Sound ID="VOX_TRPR_MOVING">
+      <!-- "Step by step, steadily..." -->
+      <Path name="data/sounds/voice/Daiyan/Series_Up_004.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_NOTANGOS">
+    </Sound>
+    <Sound ID="VOX_TRPR_ONTARGET">
+      <!-- "Here it is." -->
+      <Path name="data/sounds/voice/Daiyan/Series_Chosen__VO_Daiyan_Series_Tone_Positive_009.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_ALPHA">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_BRAVO">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_CHARLIE">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_DELTA">
+    </Sound>
+    <Sound ID="VOX_TRPR_ORDERS">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_ALPHA">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_BRAVO">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_CHARLIE">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_DELTA">
+    </Sound>
+    <Sound ID="VOX_TRPR_PINNED_DOWN">
+      <!-- "I'll endure it." -->
+      <Path name="data/sounds/voice/Daiyan/Series_HittedLast__VO_Daiyan_Series_Tone_Negative_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_PUMPUP">
+      <!-- "I'm getting inspired!" -->
+      <Path name="data/sounds/voice/Daiyan/Series_Up_008.wav" />
+    </Sound>
+    <Sound ID="VOX_RELOAD">
+      <!-- "Step by step, steadily..." -->
+      <Path name="data/sounds/voice/Daiyan/Series_Up_004.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_ROGER">
+      <!-- "Listen carefully." -->
+      <Path name="data/sounds/voice/Daiyan/Series_Chosen_Auto__VO_Daiyan_Series_Set_Fall__VO_Daiyan_Series_Tone_Positive_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_SILENTOFF">
+      <!-- "I'm getting inspired!" -->
+      <Path name="data/sounds/voice/Daiyan/Series_Up_008.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_SILENTON">
+      <!-- "Listen carefully." -->
+      <Path name="data/sounds/voice/Daiyan/Series_Chosen_Auto__VO_Daiyan_Series_Set_Fall__VO_Daiyan_Series_Tone_Positive_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_SUSP_SEC">
+    </Sound>
+    <Sound ID="VOX_TRPR_TANGODOWN">
+      <!-- "The end." -->
+      <Path name="data/sounds/voice/Daiyan/Series_Kill__VO_Daiyan_Single_Kill_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_TANGOS">
+      <!-- "Here it is." -->
+      <Path name="data/sounds/voice/Daiyan/Series_Chosen__VO_Daiyan_Series_Tone_Positive_009.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_TARGET_SEC">
+      <!-- "Here it is." -->
+      <Path name="data/sounds/voice/Daiyan/Series_Chosen__VO_Daiyan_Series_Tone_Positive_009.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_TIME_TO_GO">
+      <!-- "I'm getting inspired!" -->
+      <Path name="data/sounds/voice/Daiyan/Series_Up_008.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_VIP_DEAD">
+      <!-- "I'll endure it." -->
+      <Path name="data/sounds/voice/Daiyan/Series_HittedLast__VO_Daiyan_Series_Tone_Negative_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_WAIT">
+      <!-- "Listen carefully." -->
+      <Path name="data/sounds/voice/Daiyan/Series_Chosen_Auto__VO_Daiyan_Series_Set_Fall__VO_Daiyan_Series_Tone_Positive_001.wav" />
+    </Sound>
+    <Sound ID="VOX_WARN_GRENADE">
+      <!-- "This is the end!" -->
+      <Path name="data/sounds/voice/Daiyan/Series_Ultimate__VO_Daiyan_Single_Ultimate_SSR_001.wav" />
+    </Sound>
+    <Sound ID="VOX_WARN_RPG">
+      <!-- "This is the end!" -->
+      <Path name="data/sounds/voice/Daiyan/Series_Ultimate__VO_Daiyan_Single_Ultimate_SSR_001.wav" />
+    </Sound>
+  </Pack>
+  <Pack name="Jiangyu-Voice" channel="voice">
+    <Sound ID="VOX_DYING">
+      <!-- "No way!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Die__VO_Jiangyu_Series_HittedLast__VO_Jiangyu_Series_Tone_Negative_001.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_FLASH">
+      <!-- "Let me do it!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Ultimate__VO_Jiangyu_Single_Ultimate_SSR_001.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_FRAG">
+      <!-- "This is enough for me!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Skill02__VO_Jiangyu_Single_Skill_002.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_LAUNCHER">
+      <!-- "Let me do it!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Ultimate__VO_Jiangyu_Single_Ultimate_SSR_001.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_MOLOTOV">
+      <!-- "This is enough for me!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Skill02__VO_Jiangyu_Single_Skill_002.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_ROCKET">
+      <!-- "Let me do it!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Ultimate__VO_Jiangyu_Single_Ultimate_SSR_001.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_SMOKE">
+      <!-- "Leave it to me!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Set_Fall__VO_Jiangyu_Series_Tone_Positive_007.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_STINGER">
+      <!-- "Let me do it!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Ultimate__VO_Jiangyu_Single_Ultimate_SSR_001.wav" />
+    </Sound>
+    <Sound ID="VOX_INJURED">
+      <!-- (pain sound) -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Hitted.wav" />
+    </Sound>
+    <Sound ID="VOX_RELOAD_PUMP">
+      <!-- "Let's do it!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Tone_Positive_008.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_BOMB_DEFUSING">
+      <!-- "Leave it to me!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Set_Fall__VO_Jiangyu_Series_Tone_Positive_007.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_BOMB_LOCATED">
+      <!-- "I got it, I got it." -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Tone_Positive_006.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_CANT">
+    </Sound>
+    <Sound ID="VOX_TRPR_CAN_I_SHOOT">
+    </Sound>
+    <Sound ID="VOX_TRPR_CIV_DOWN">
+    </Sound>
+    <Sound ID="VOX_TRPR_CLEAR">
+      <!-- "Nice, nice!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Up_002.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_COME">
+      <!-- "Leave it to me!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Set_Fall__VO_Jiangyu_Series_Tone_Positive_007.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_DONE_HERE">
+      <!-- "I told you, right? I'm the 100th person elite doll!" (long OK) -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Win__VO_Jiangyu_Single_Win_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_EVAC">
+    </Sound>
+    <Sound ID="VOX_TRPR_EYES_HOSTAGE">
+    </Sound>
+    <Sound ID="VOX_TRPR_EYESONTARGET">
+      <!-- "Here I go!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Hit__VO_Jiangyu_Single_Hit_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_EYESONTARGET_QUIET">
+      <!-- "My turn?" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Set_Click__VO_Jiangyu_Series_Tone_Positive_005.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_FREEZE">
+      <!-- "I won't let you get me!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Chosen__VO_Jiangyu_Single_Passive_SSR_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_GEAR_CHARGE_PLACE">
+      <!-- "Leave it to me!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Set_Fall__VO_Jiangyu_Series_Tone_Positive_007.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_GEAR_CHARGE_RDY">
+    </Sound>
+    <Sound ID="VOX_TRPR_GETDOWN">
+    </Sound>
+    <Sound ID="VOX_TRPR_GO_GO_GO">
+      <!-- "Let's do it!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Tone_Positive_008.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_GO_LOUD">
+    </Sound>
+    <Sound ID="VOX_TRPR_HANDCUFF">
+      <!-- "This is just normal!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Up_003.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_HOLDING">
+      <!-- "As expected of me!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Up_004.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_HOST_DOWN">
+    </Sound>
+    <Sound ID="VOX_TRPR_HOST_SEC">
+      <!-- "Leave it to me!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Set_Fall__VO_Jiangyu_Series_Tone_Positive_007.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_HVT_RUNNING">
+    </Sound>
+    <Sound ID="VOX_TRPR_KEEPMOVINGOFF">
+    </Sound>
+    <Sound ID="VOX_TRPR_KEEPMOVINGON">
+    </Sound>
+    <Sound ID="VOX_TRPR_MANDOWN">
+    </Sound>
+    <Sound ID="VOX_TRPR_MATCHSPEEDON">
+    </Sound>
+    <Sound ID="VOX_TRPR_MOVING">
+      <!-- "Leave it to me!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Set_Fall__VO_Jiangyu_Series_Tone_Positive_007.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_NOTANGOS">
+    </Sound>
+    <Sound ID="VOX_TRPR_ONTARGET">
+      <!-- "Here I go!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Hit__VO_Jiangyu_Single_Hit_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_ALPHA">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_BRAVO">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_CHARLIE">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_DELTA">
+    </Sound>
+    <Sound ID="VOX_TRPR_ORDERS">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_ALPHA">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_BRAVO">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_CHARLIE">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_DELTA">
+    </Sound>
+    <Sound ID="VOX_TRPR_PINNED_DOWN">
+      <!-- "ouch!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Dying__VO_Jiangyu_Series_Tone_Negative_002.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_PUMPUP">
+      <!-- "Onee-chan will be surprised too!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Up_008.wav" />
+    </Sound>
+    <Sound ID="VOX_RELOAD">
+      <!-- "Let's do it!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Tone_Positive_008.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_ROGER">
+      <!-- "Hi Hi!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Tone_Positive_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_SILENTOFF">
+      <!-- "I'm strong after all!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Chosen_Auto__VO_Jiangyu_Series_Up_006.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_SILENTON">
+      <!-- "As expected of me!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Up_004.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_SUSP_SEC">
+    </Sound>
+    <Sound ID="VOX_TRPR_TANGODOWN">
+      <!-- "Vendome Choo!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Kill__VO_Jiangyu_Single_Kill_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_TANGOS">
+      <!-- "Here I go!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Hit__VO_Jiangyu_Single_Hit_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_TARGET_SEC">
+      <!-- "My turn?" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Set_Click__VO_Jiangyu_Series_Tone_Positive_005.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_TIME_TO_GO">
+      <!-- "I'm strong after all!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Chosen_Auto__VO_Jiangyu_Series_Up_006.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_VIP_DEAD">
+      <!-- "No way!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Die__VO_Jiangyu_Series_HittedLast__VO_Jiangyu_Series_Tone_Negative_001.wav" />
+    </Sound>
+    <Sound ID="VOX_WARN_GRENADE">
+      <!-- "This is enough for me!" -->
+      <Path name="data/sounds/voice/Jiangyu/Series_Skill02__VO_Jiangyu_Single_Skill_002.wav" />
+    </Sound>
+    <Sound ID="VOX_WARN_RPG">
+    </Sound>
+    <Sound ID="VOX_TRPR_WAIT">
+    </Sound>
+  </Pack>
+  <Pack name="Faye-Voice" channel="voice">
+    <Sound ID="VOX_DYING">
+      <!-- "Damn it!" -->
+      <Path name="data/sounds/voice/Faye/Series_Die__VO_Faye_Series_Tone_Negative_002.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_FLASH">
+      <!-- "Take this!" -->
+      <Path name="data/sounds/voice/Faye/Series_Tone_Positive_008.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_FRAG">
+      <!-- "Take this!" -->
+      <Path name="data/sounds/voice/Faye/Series_Tone_Positive_008.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_LAUNCHER">
+      <!-- "Take this!" -->
+      <Path name="data/sounds/voice/Faye/Series_Tone_Positive_008.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_MOLOTOV">
+      <!-- "Take this!" -->
+      <Path name="data/sounds/voice/Faye/Series_Tone_Positive_008.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_ROCKET">
+      <!-- "Take this!" -->
+      <Path name="data/sounds/voice/Faye/Series_Tone_Positive_008.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_SMOKE">
+      <!-- "Take this!" -->
+      <Path name="data/sounds/voice/Faye/Series_Tone_Positive_008.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_STINGER">
+      <!-- "Take this!" -->
+      <Path name="data/sounds/voice/Faye/Series_Tone_Positive_008.wav" />
+    </Sound>
+    <Sound ID="VOX_INJURED">
+      <!-- "Thank you for watching!" (pain sound) -->
+      <Path name="data/sounds/voice/Faye/Series_Hitted__VO_Faye_Series_HittedLast__VO_Faye_Series_Shield_Broken.wav" />
+    </Sound>
+    <Sound ID="VOX_RELOAD_PUMP">
+      <!-- "One more time!" -->
+      <Path name="data/sounds/voice/Faye/Series_Up_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_BOMB_DEFUSING">
+    </Sound>
+    <Sound ID="VOX_TRPR_BOMB_LOCATED">
+      <!-- "It's full of holes!" -->
+      <Path name="data/sounds/voice/Faye/Series_Tone_Positive_005.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_CANT">
+    </Sound>
+    <Sound ID="VOX_TRPR_CAN_I_SHOOT">
+    </Sound>
+    <Sound ID="VOX_TRPR_CIV_DOWN">
+      <!-- "Ugh!" -->
+      <Path name="data/sounds/voice/Faye/Series_Tone_Negative_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_CLEAR">
+      <!-- "Hmph, it's not bad." -->
+      <Path name="data/sounds/voice/Faye/Series_Up_002.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_COME">
+      <!-- "Let's go!" -->
+      <Path name="data/sounds/voice/Faye/Series_Set_Fall__VO_Faye_Series_Tone_Positive_002.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_DONE_HERE">
+      <!-- "The promise to protect you, it wasn't a lie, right?" (long OK) -->
+      <Path name="data/sounds/voice/Faye/Series_Win__VO_Faye_Single_Win_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_EVAC">
+      <!-- "Ugh!" -->
+      <Path name="data/sounds/voice/Faye/Series_Tone_Negative_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_EYES_HOSTAGE">
+    </Sound>
+    <Sound ID="VOX_TRPR_EYESONTARGET">
+      <!-- "Get out of here." -->
+      <Path name="data/sounds/voice/Faye/Series_Hit__VO_Faye_Single_Hit_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_EYESONTARGET_QUIET">
+      <!-- "Get out of here." -->
+      <Path name="data/sounds/voice/Faye/Series_Hit__VO_Faye_Single_Hit_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_FREEZE">
+      <!-- "You...!" -->
+      <Path name="data/sounds/voice/Faye/Series_Cancel__VO_Faye_Series_Tone_Positive_004.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_GEAR_CHARGE_PLACE">
+    </Sound>
+    <Sound ID="VOX_TRPR_GEAR_CHARGE_RDY">
+    </Sound>
+    <Sound ID="VOX_TRPR_GETDOWN">
+    </Sound>
+    <Sound ID="VOX_TRPR_GO_GO_GO">
+      <!-- "Let's go!" -->
+      <Path name="data/sounds/voice/Faye/Series_Set_Fall__VO_Faye_Series_Tone_Positive_002.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_GO_LOUD">
+    </Sound>
+    <Sound ID="VOX_TRPR_HANDCUFF">
+    </Sound>
+    <Sound ID="VOX_TRPR_HOLDING">
+    </Sound>
+    <Sound ID="VOX_TRPR_HOST_DOWN">
+      <!-- "Ugh!" -->
+      <Path name="data/sounds/voice/Faye/Series_Tone_Negative_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_HOST_SEC">
+      <!-- "Let's go!" -->
+      <Path name="data/sounds/voice/Faye/Series_Set_Fall__VO_Faye_Series_Tone_Positive_002.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_HVT_RUNNING">
+      <!-- "Get out of here." -->
+      <Path name="data/sounds/voice/Faye/Series_Hit__VO_Faye_Single_Hit_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_KEEPMOVINGOFF">
+    </Sound>
+    <Sound ID="VOX_TRPR_KEEPMOVINGON">
+    </Sound>
+    <Sound ID="VOX_TRPR_MANDOWN">
+      <!-- "Ugh!" -->
+      <Path name="data/sounds/voice/Faye/Series_Tone_Negative_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_MATCHSPEEDON">
+    </Sound>
+    <Sound ID="VOX_TRPR_MOVING">
+      <!-- "Let's go!" -->
+      <Path name="data/sounds/voice/Faye/Series_Set_Fall__VO_Faye_Series_Tone_Positive_002.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_NOTANGOS">
+    </Sound>
+    <Sound ID="VOX_TRPR_ONTARGET">
+      <!-- "Get out of here." -->
+      <Path name="data/sounds/voice/Faye/Series_Hit__VO_Faye_Single_Hit_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_ALPHA">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_BRAVO">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_CHARLIE">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_DELTA">
+    </Sound>
+    <Sound ID="VOX_TRPR_ORDERS">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_ALPHA">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_BRAVO">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_CHARLIE">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_DELTA">
+    </Sound>
+    <Sound ID="VOX_TRPR_PINNED_DOWN">
+      <!-- "Ugh!" -->
+      <Path name="data/sounds/voice/Faye/Series_Tone_Negative_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_PUMPUP">
+      <!-- "Take this!" -->
+      <Path name="data/sounds/voice/Faye/Series_Tone_Positive_008.wav" />
+    </Sound>
+    <Sound ID="VOX_RELOAD">
+      <!-- "One more time!" -->
+      <Path name="data/sounds/voice/Faye/Series_Up_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_ROGER">
+      <!-- "Roger that." -->
+      <Path name="data/sounds/voice/Faye/Series_Chosen__VO_Faye_Series_Tone_Positive_009.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_SILENTOFF">
+      <!-- "Let's go!" -->
+      <Path name="data/sounds/voice/Faye/Series_Set_Fall__VO_Faye_Series_Tone_Positive_002.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_SILENTON">
+      <!-- "One more time!" -->
+      <Path name="data/sounds/voice/Faye/Series_Up_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_SUSP_SEC">
+    </Sound>
+    <Sound ID="VOX_TRPR_TANGODOWN">
+      <!-- "Knockout" -->
+      <Path name="data/sounds/voice/Faye/Series_Kill__VO_Faye_Single_Kill_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_TANGOS">
+      <!-- "Get out of here." -->
+      <Path name="data/sounds/voice/Faye/Series_Hit__VO_Faye_Single_Hit_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_TARGET_SEC">
+      <!-- "Get out of here." -->
+      <Path name="data/sounds/voice/Faye/Series_Hit__VO_Faye_Single_Hit_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_TIME_TO_GO">
+      <!-- "Let's go!" -->
+      <Path name="data/sounds/voice/Faye/Series_Set_Fall__VO_Faye_Series_Tone_Positive_002.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_VIP_DEAD">
+      <!-- "Ugh!" -->
+      <Path name="data/sounds/voice/Faye/Series_Tone_Negative_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_WAIT">
+    </Sound>
+    <Sound ID="VOX_WARN_GRENADE">
+      <!-- "You're in my way!" -->
+      <Path name="data/sounds/voice/Faye/Series_Tone_Positive_007.wav" />
+    </Sound>
+    <Sound ID="VOX_WARN_RPG">
+      <!-- "You're in my way!" -->
+      <Path name="data/sounds/voice/Faye/Series_Tone_Positive_007.wav" />
+    </Sound>
+  </Pack>
+  <Pack name="ZhaoHui-Voice" channel="voice">
+    <Sound ID="VOX_DYING">
+      <!-- "Ambush" -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Die__VO_ZhaoHui_Series_Tone_Negative_002.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_FLASH">
+      <!-- "It's useless to resist." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Ultimate__VO_ZhaoHui_Single_Ultimate_SSR_001.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_FRAG">
+      <!-- "5, 4, 1..." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Skill02__VO_ZhaoHui_Single_Skill_002.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_LAUNCHER">
+      <!-- "It's useless to resist." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Ultimate__VO_ZhaoHui_Single_Ultimate_SSR_001.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_MOLOTOV">
+      <!-- "5, 4, 1..." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Skill02__VO_ZhaoHui_Single_Skill_002.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_ROCKET">
+      <!-- "It's useless to resist." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Ultimate__VO_ZhaoHui_Single_Ultimate_SSR_001.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_SMOKE">
+      <!-- "If we could all do it..." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Skill01__VO_ZhaoHui_Single_Skill_001.wav" />
+    </Sound>
+    <Sound ID="VOX_GEAR_STINGER">
+      <!-- "It's useless to resist." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Ultimate__VO_ZhaoHui_Single_Ultimate_SSR_001.wav" />
+    </Sound>
+    <Sound ID="VOX_INJURED">
+      <!-- (pain sound) -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Hitted__VO_ZhaoHui_Series_HittedLast.wav" />
+    </Sound>
+    <Sound ID="VOX_RELOAD_PUMP">
+      <!-- "Nice." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Up_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_BOMB_DEFUSING">
+      <!-- "If we could all do it..." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Skill01__VO_ZhaoHui_Single_Skill_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_BOMB_LOCATED">
+      <!-- "I won't let you pass through here." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Tone_Positive_006.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_CANT">
+    </Sound>
+    <Sound ID="VOX_TRPR_CAN_I_SHOOT">
+    </Sound>
+    <Sound ID="VOX_TRPR_CIV_DOWN">
+    </Sound>
+    <Sound ID="VOX_TRPR_CLEAR">
+      <!-- "Not bad." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Up_002.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_COME">
+      <!-- "I'll start right away." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Chosen_Auto__VO_ZhaoHui_Series_Up_005.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_DONE_HERE">
+      <!-- "Let's start the party when we get back. Just kidding." (long OK) -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Win__VO_ZhaoHui_Single_Win_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_EVAC">
+    </Sound>
+    <Sound ID="VOX_TRPR_EYES_HOSTAGE">
+    </Sound>
+    <Sound ID="VOX_TRPR_EYESONTARGET">
+      <!-- "I won't let you pass through here." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Tone_Positive_006.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_EYESONTARGET_QUIET">
+      <!-- "I won't let you pass through here." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Tone_Positive_006.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_FREEZE">
+      <!-- "I won't let you pass through here." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Tone_Positive_006.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_GEAR_CHARGE_PLACE">
+    </Sound>
+    <Sound ID="VOX_TRPR_GEAR_CHARGE_RDY">
+    </Sound>
+    <Sound ID="VOX_TRPR_GETDOWN">
+    </Sound>
+    <Sound ID="VOX_TRPR_GO_GO_GO">
+      <!-- "I'll start right away." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Chosen_Auto__VO_ZhaoHui_Series_Up_005.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_GO_LOUD">
+    </Sound>
+    <Sound ID="VOX_TRPR_HANDCUFF">
+      <!-- "I look forward to your cooperation." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Up_004.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_HOLDING">
+      <!-- "Nice." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Up_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_HOST_DOWN">
+    </Sound>
+    <Sound ID="VOX_TRPR_HOST_SEC">
+      <!-- "Nice." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Up_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_HVT_RUNNING">
+      <!-- "I won't let you pass through here." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Tone_Positive_006.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_KEEPMOVINGOFF">
+    </Sound>
+    <Sound ID="VOX_TRPR_KEEPMOVINGON">
+    </Sound>
+    <Sound ID="VOX_TRPR_MANDOWN">
+    </Sound>
+    <Sound ID="VOX_TRPR_MATCHSPEEDON">
+    </Sound>
+    <Sound ID="VOX_TRPR_MOVING">
+      <!-- "I'll start right away." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Chosen_Auto__VO_ZhaoHui_Series_Up_005.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_NOTANGOS">
+    </Sound>
+    <Sound ID="VOX_TRPR_ONTARGET">
+      <!-- "I won't let you pass through here." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Tone_Positive_006.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_ALPHA">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_BRAVO">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_CHARLIE">
+    </Sound>
+    <Sound ID="VOX_TRPR_ON_DELTA">
+    </Sound>
+    <Sound ID="VOX_TRPR_ORDERS">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_ALPHA">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_BRAVO">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_CHARLIE">
+    </Sound>
+    <Sound ID="VOX_TRPR_PASS_DELTA">
+    </Sound>
+    <Sound ID="VOX_TRPR_PINNED_DOWN">
+      <!-- (pain sound) -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Hitted__VO_ZhaoHui_Series_HittedLast.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_PUMPUP">
+      <!-- "I feel like my performance has improved." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Up_007.wav" />
+    </Sound>
+    <Sound ID="VOX_RELOAD">
+      <!-- "Not bad." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Up_002.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_ROGER">
+      <!-- "Roger that." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Tone_Positive_003.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_SILENTOFF">
+      <!-- "I'll start right away." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Chosen_Auto__VO_ZhaoHui_Series_Up_005.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_SILENTON">
+    </Sound>
+    <Sound ID="VOX_TRPR_SUSP_SEC">
+    </Sound>
+    <Sound ID="VOX_TRPR_TANGODOWN">
+      <!-- "Sleep." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Kill__VO_ZhaoHui_Single_Kill_001.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_TANGOS">
+      <!-- "I won't let you pass through here." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Tone_Positive_006.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_TARGET_SEC">
+      <!-- "I won't let you pass through here." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Tone_Positive_006.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_TIME_TO_GO">
+      <!-- "I'll start right away." -->
+      <Path name="data/sounds/voice/ZhaoHui/Series_Chosen_Auto__VO_ZhaoHui_Series_Up_005.wav" />
+    </Sound>
+    <Sound ID="VOX_TRPR_VIP_DEAD">
+    </Sound>
+    <Sound ID="VOX_TRPR_WAIT">
+    </Sound>
+    <Sound ID="VOX_WARN_GRENADE">
+    </Sound>
+    <Sound ID="VOX_WARN_RPG">
+    </Sound>
+  </Pack>
+</Sounds>

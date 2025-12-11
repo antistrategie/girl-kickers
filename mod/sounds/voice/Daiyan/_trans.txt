@@ -1,0 +1,226 @@
+# Voice Line Translations for Daiyan
+# Generated automatically using OpenAI Whisper
+# Total files: 74
+
+Series_Battle_Start__VO_Daiyan_Series_Chosen_Auto__VO_Daiyan_Series_Move_Start__VO_Daiyan_Series_Tone_Positive_002.wav
+  ONE HOUR LATER
+
+Series_Battle_Start__VO_Daiyan_Series_Chosen__VO_Daiyan_Series_Tone_Positive_003.wav
+  I'll sharpen your nerves.
+
+Series_Battle_Start__VO_Daiyan_Series_Move_Start__VO_Daiyan_Series_Set_Fall__VO_Daiyan_Series_Tone_Positive_004.wav
+  ...beảng
+
+Series_Battle_Start__VO_Daiyan_Series_Tone_Positive_007.wav
+  Please relax.
+
+Series_Cancel__VO_Daiyan_Series_Chosen__VO_Daiyan_Series_Move_Start__VO_Daiyan_Series_Set_Click__VO_Daiyan_Series_Shield_Broken__VO_Daiyan_Series_Tone_Positive_006.wav
+  Please calm down.
+
+Series_Chosen_Auto__VO_Daiyan_Series_Set_Fall__VO_Daiyan_Series_Tone_Positive_001.wav
+  Listen carefully.
+
+Series_Chosen__VO_Daiyan_Series_Chosen_Auto__VO_Daiyan_Series_Set_Click__VO_Daiyan_Series_Tone_Positive_009.wav
+  Here it is.
+
+Series_Daily_001.wav
+  Listening to my performance, my heart is at ease? Yes, if I have helped you, I am happy.
+
+Series_Daily_002__VO_Daiyan_Series_Selected.wav
+  I do feel a bit of luck, but she's working hard to fix that. Please give her some time.
+
+Series_Daily_003__VO_Daiyan_Series_Selected.wav
+  I've been very helpful to you in both creation and battle. You have a cool appearance and a passionate heart. Is that all?
+
+Series_Daily_004__VO_Daiyan_Series_Selected.wav
+  I was invited by Vepri-san to join the live. At first I thought it wouldn't be a good idea, but it turned out to be surprisingly good.
+
+Series_Daily_005.wav
+  ...otaiva? Hmm... No...
+
+Series_Daily_006.wav
+  I want to travel the world, and write down the scenery, people, and events I've seen.
+
+Series_Daily_007__VO_Daiyan_Series_Selected.wav
+  Have you heard of the song called Sentai Fu? The purchase list that Meirin-san gave me had a score of that song, but... It was... ...very expensive...
+
+Series_Daily_008.wav
+  I don't like fighting, but if it's to protect everyone, I'm willing to let go of my own self and get the weapon.
+
+Series_Daily_009.wav
+  Commander, I'd like to hold a music meeting that was suggested by Corfen-san. Please come with me, Meilin-san.
+
+Series_Daily_010.wav
+  The emotions that are conveyed through music are more pure and vivid. So, why don't you teach Nemesis-san to play the instrument?
+
+Series_Die__VO_Daiyan_Series_HittedLast__VO_Daiyan_Series_Tone_Negative_002.wav
+  The rhythm is... disturbed...
+
+Series_Die__VO_Daiyan_Series_Shield_Broken__VO_Daiyan_Series_Tone_Positive_008.wav
+  That added to your bad performance.
+
+Series_Hit__VO_Daiyan_Single_Hit_001.wav
+  There is no break.
+
+Series_Hitted.wav
+  Ah!
+
+Series_HittedLast__VO_Daiyan_Series_Tone_Negative_001.wav
+  I'll endure it.
+
+Series_HittedLast__VO_Daiyan_Series_Tone_Positive_010.wav
+  Are you okay?
+
+Series_Kill__VO_Daiyan_Single_Kill_001.wav
+  The end.
+
+Series_Lose__VO_Daiyan_Single_Lose_001.wav
+  Even if the strings are cut, the sound will not stop. Let's do our best next time.
+
+Series_Skill01__VO_Daiyan_Single_Skill_001.wav
+  If you're lying down, you're a instrument. If you're standing, you're a weapon!
+
+Series_Skill02__VO_Daiyan_Single_Skill_002.wav
+  2 Up Newton
+
+Series_Ultimate__VO_Daiyan_Single_Ultimate_SSR_001.wav
+  This is the end!
+
+Series_Up_002.wav
+  We need an adjustment.
+
+Series_Up_003.wav
+  úc
+
+Series_Up_004.wav
+  Step by step, steadily...
+
+Series_Up_005.wav
+  Yes, the sound has become smoother.
+
+Series_Up_006.wav
+  You must not let go of the strings.
+
+Series_Up_007.wav
+  The investigation is complete.
+
+Series_Up_008.wav
+  I'm getting inspired!
+
+Series_Win__VO_Daiyan_Single_Win_001.wav
+  That was a wonderful tactic, Commander. I shall now sing the song of victory.
+
+Single_Acquire_R_001.wav
+  When I was alone, Kosou was always by my side. It's as if he understood my thoughts. It's strange. Come to think of it, it's been a year since I met the Commander. There's another person who understands me.
+
+Single_Acquire_SSR_001.wav
+  I've realized that you're like a fog. Fog is a material of the ancient. It doesn't hurt even when hit by wind or sunlight. It doesn't hurt even when it rains or gets muddy. It's a very strong... Oh, no, I didn't mean to say that you're a Bokunenjin.
+
+Single_Anniversary_001.wav
+  After spending a year together, I made a new song to commemorate the first year. If you don't mind, can you be my first recipient?
+
+Single_Birthday_R_001.wav
+  Happy birthday, Commander. Speaking of human birthdays, it's the day when close friends gather to sing birthday songs, right? Then, how about I play the music and the others sing?
+
+Single_Birthday_SSR_001.wav
+  Songs are divided into many phrases, but life is also a story. Commander, happy birthday!
+
+Single_Birthday_SSR_002.wav
+  Commander, happy birthday. I've prepared a chouju mask for you. I heard that humans celebrate their partner's birthday with this mask. And I also made a bracelet. If you don't mind, shall we put it on now?
+
+Single_Children_001.wav
+  Commander, I was invited by the children to hold a dance party for the military. Do you know a song that suits the children? I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know.
+
+Single_Christmas_001.wav
+  Ah, I'm sorry. I was going to be Santa today, but I didn't have a costume that fit my size... I'll bring the surprise to Laina again. Merry Christmas, Commander.
+
+Single_Christmas_002.wav
+  Merry Christmas, Commander. Did you like our surprise? ... You have a strange expression. Was it that strange to play a Christmas song in your own voice?
+
+Single_Duanwu_001.wav
+  I sent a lot of pictures of Chimaki to everyone to choose from. The one that's thin and a little dented in the middle is... I think it was a beautiful Chimaki, right?
+
+Single_Friendliness_001.wav
+  Commander, do you need any help?
+
+Single_Friendliness_002.wav
+  There is a thousand years of history in the ancient
+
+Single_Friendliness_003.wav
+  Human fingers are very soft, so if you don't use a gauze, you'll easily get hurt. ...This is good. Well then, shall we play the strings, Commander?
+
+Single_Friendliness_004.wav
+  I'm familiar with the atmosphere of the Hermes, and it's very nostalgic. Is it because the Commander is here?
+
+Single_Friendliness_005.wav
+  Is it varios polytopova? Yes, so many ideas handy.... I have described to you Just to increase in discourse, but I'll go to the details, and for today I'll just record your kolil
+
+Single_Friendliness_006.wav
+  Even if it's just for a moment, if my music can soothe someone, that's enough. Was it a little blue?
+
+Single_Friendliness_007.wav
+  I want to understand more about human emotions and thoughts. If I do that, I can make a song that is more attractive and can be more sympathized with by someone. Commander, can you help me?
+
+Single_Friendliness_008.wav
+  Commander, are you free right now? I want to talk to you for a bit. Whenever I talk to you, I always get inspired.
+
+Single_Friendliness_009.wav
+  Um, Commander... Do you want to hear my new song? Ah, no, it's nothing... I've been nervous lately when I'm with you, Commander.
+
+Single_Friendliness_010.wav
+  Commander, I've sent you an email. My new song has been sent, so please wait! Please wait until I return to my room.
+
+Single_Friendliness_011.wav
+  I don't want to make you feel uncomfortable, but considering your safety in the contaminated area, why don't I write down your concerns?
+
+Single_Friendliness_012.wav
+  The parting of a moment is for the sake of being together for a longer time in the future. Commander, I'm glad that you have the same thoughts. If this is the case, wherever you are, you will feel Commander by your side.
+
+Single_Friendliness_013.wav
+  The future I long for is only as long as I have you with me, Commander.
+
+Single_Login_001.wav
+  What song are you going to play today?
+
+Single_MidAutumn_001.wav
+  In the music that Meirin-san gave me, there was a song called Heiko Shugetsu, which was perfect for tonight. Commander, would you like to watch it with me?
+
+Single_MidAutumn_002.wav
+  Commander, I've prepared a moon cake for tonight's moon viewing. Yes, I'm sure you'll like it. The taste? That's something to look forward to after you've eaten it.
+
+Single_NewYear_001.wav
+  Commander, are you free after work? I want to have all the time after this. Today is an important day, so I want to spend it with you. Um... Can I be alone?
+
+Single_NewYear_002.wav
+  I hope you can spend the new year in peace and health. I'm very happy to spend today with you.
+
+Single_Obon_001.wav
+  People were seeking ways to send their feelings to places they could not reach. To tell people that they can no longer meet, to tell them what they have been told. So, in order to not have regrets, we must cherish the present.
+
+Single_Obtain_R_001__VO_Daiyan_Single_Obtain_SSR_001.wav
+  I'm looking forward to what kind of song will be born in the reunion with you.
+
+Single_Passive_SSR_001.wav
+  End
+
+Single_SpringFes_001.wav
+  I wish for the new year to be filled with the health of the Commander and the wishes of everyone. Me? Hmm... If the God of Ideas will accept it, that will be enough.
+
+Single_SpringFes_002.wav
+  Happy New Year. This year's Elmo is also very lively. I have already given you a year's worth of money. I will secretly give you your share later.
+
+Single_ThanksGiving_001.wav
+  I've caused you a lot of trouble this year. How about the turkey bread I made as a thank you?
+
+Single_Title_001.wav
+  Dolls Frontline 2 Exilium
+
+Single_Valentine_001.wav
+  As expected, the Commander's room is overflowing with chocolates. However, it seems that my choice of present was not wrong. Huh? That face... Did I ruin the mood?
+
+Single_Valentine_002.wav
+  Commander, this is... Yes, it's chocolate. It's not something I gave to the Kou, it's a handmade chocolate for you. Did you get what I meant?
+
+Single_WhiteVale_001.wav
+  Is this... Is it really okay to receive such a valuable music score? Thank you very much, Commander. If you can play it, I'll let you know right away.
+

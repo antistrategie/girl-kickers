@@ -1,0 +1,214 @@
+# Voice Line Translations for ZhaoHui
+# Generated automatically using OpenAI Whisper
+# Total files: 70
+
+Series_Battle_Start__VO_ZhaoHui_Series_Tone_Positive_002.wav
+  Huh?
+
+Series_Chosen_Auto__VO_ZhaoHui_Series_Up_005.wav
+  I'll start right away.
+
+Series_Chosen__VO_ZhaoHui_Series_Up_003.wav
+  You can still get stronger.
+
+Series_Daily_001.wav
+  I got a new knife. Want to try it?
+
+Series_Daily_002.wav
+  Team management is the same as ensemble. We must take advantage of the strengths of each instrument and be aware of the harmony of the tones.
+
+Series_Daily_003.wav
+  I'm the leader of Soyoukaze, but I often seek advice from Lian. Kou and Fei are sometimes useful.
+
+Series_Daily_004.wav
+  The damage to my right arm hasn't been completely healed, but it doesn't affect the battle.
+
+Series_Daily_005.wav
+  No matter how good a weapon is, the important thing is the user's skill.
+
+Series_Daily_006.wav
+  No matter the past, it will be a way to the future.
+
+Series_Daily_007.wav
+  I don't think I can do the same as Groza, but I have a lot to learn. For example, how to make a problem.
+
+Series_Daily_008.wav
+  How to produce high quality work and promote it efficiently... There are so many things I have to think about for Soyoukaze. Hey, Commander. Where's Nemesis' room?
+
+Series_Daily_009.wav
+  The person in the background represents the essence of the moment. What to do after seeing it is the most difficult.
+
+Series_Daily_010.wav
+  People and things you believed in will easily betray and fall apart. So you have to be careful.
+
+Series_Die__VO_ZhaoHui_Series_Tone_Negative_002.wav
+  Ambush
+
+Series_Hit__VO_ZhaoHui_Single_Hit_001.wav
+  I don't need a change.
+
+Series_Kill__VO_ZhaoHui_Single_Kill_001.wav
+  Sleep.
+
+Series_Lose__VO_ZhaoHui_Single_Lose_001.wav
+  I'm making plans for the next episode. I won't repeat the same mistake.
+
+Series_Set_Click__VO_ZhaoHui_Series_Up_008.wav
+  Do you want to do it again?
+
+Series_Set_Fall__VO_ZhaoHui_Series_Tone_Positive_009.wav
+  I'll take your overtime.
+
+Series_Skill01__VO_ZhaoHui_Single_Skill_001.wav
+  If we could all do it...
+
+Series_Skill02__VO_ZhaoHui_Single_Skill_002.wav
+  5, 4, 1...
+
+Series_Tone_Positive_003.wav
+  Roger that.
+
+Series_Tone_Positive_004.wav
+  Eh?
+
+Series_Tone_Positive_006.wav
+  I won't let you pass through here.
+
+Series_Tone_Positive_007.wav
+  Too weak.
+
+Series_Tone_Positive_008.wav
+  How pathetic.
+
+Series_Tone_Positive_010.wav
+  Don't get carried away.
+
+Series_Ultimate__VO_ZhaoHui_Single_Ultimate_SSR_001.wav
+  It's useless to resist.
+
+Series_Up_001.wav
+  Nice.
+
+Series_Up_002.wav
+  Not bad.
+
+Series_Up_004.wav
+  I look forward to your cooperation.
+
+Series_Up_006.wav
+  Thank you.
+
+Series_Up_007.wav
+  I feel like my performance has improved.
+
+Series_Win__VO_ZhaoHui_Single_Win_001.wav
+  Let's start the party when we get back. Just kidding.
+
+Single_Acquire_SSR_001.wav
+  You like making anniversaries, don't you? Hm? No, it doesn't mean anything weird. My days with you are fun, so I don't think I need any anniversaries.
+
+Single_Anniversary_001.wav
+  I never thought I'd stay in the same place for so long. Not bad.
+
+Single_Birthday_SSR_001.wav
+  Happy birthday, Commander. I see. This is the feeling of celebrating your birthday.
+
+Single_Children_001.wav
+  Most children run away or cry when they see me, but why did I have to go on a live performance on Children's Day? Are you going to make me wear a fear mask?
+
+Single_Christmas_001.wav
+  Kou-kun told me that I practiced a Christmas song for the Christmas concert. Shall I listen to it?
+
+Single_Duanwu_001.wav
+  I think it's better to carry the nightdress than to hang it on the door.
+
+Single_Friendliness_001.wav
+  My room is a dead end? No, I don't care if there's a bedside table.
+
+Single_Friendliness_002.wav
+  It seems that the Danyens highly appreciate you, but I have my own opinions.
+
+Single_Friendliness_003.wav
+  Because the facial expression function is broken.
+
+Single_Friendliness_004.wav
+  It's good to complain about it in a rough way, but if you don't have the confidence to make it work, you shouldn't.
+
+Single_Friendliness_005.wav
+  I'm getting tired of this. Commander, will you go with me to practice? You can choose whatever you like from my collection.
+
+Single_Friendliness_006.wav
+  Scars? I don't intend to heal them. They can be a threat, and I'm good at keeping people who don't know me quiet.
+
+Single_Friendliness_007.wav
+  I'm in charge of the water-sailing instruments as a performer. What does it feel like? I just recently learned a new song, so I can let you hear it now.
+
+Single_Friendliness_008.wav
+  Those who share the same spirit don't need words. Right, Commander?
+
+Single_Friendliness_009.wav
+  Is my smile that weird? Kou-kun made me look creepy. Eh? The reason I laughed? I think it's because I was thinking about you.
+
+Single_Friendliness_010.wav
+  Ah, so you were here. I came to check on you. I don't have anything to do.
+
+Single_Friendliness_011.wav
+  I couldn't believe that there were so many important people in the past. For me now, bonds are not a wind of taste anymore. It's power.
+
+Single_Friendliness_012.wav
+  I don't like long stories, but if you want to hear them, I'll be there.
+
+Single_Friendliness_013.wav
+  Thank you for taking the same path as me, Commander.
+
+Single_Login_001.wav
+  Ready. I can go anytime.
+
+Single_MidAutumn_001.wav
+  Want to go see the moon? What? Is it that strange that you're inviting me? It's true that you can raise your head and look at the moon by yourself, but I want to know how it feels to look at it with someone.
+
+Single_NewYear_001.wav
+  I got a VIP ticket for the New Year's joint concert that Soyoukaze invited. I've taken your part, so come see it if you like.
+
+Single_Obon_001.wav
+  For a doll, the body that was abandoned is the cause of death. The number of bodies that I've ruined... I don't know. I don't care.
+
+Single_Obtain_SSR_001.wav
+  Nice to meet you. I'm Chouki. You're the commander of the Daien? I guess I should call you that too.
+
+Single_Passive_SSR_001.wav
+  I can't talk about it.
+
+Single_SpringFes_001.wav
+  A wish for the new year? No, I don't have one. I'm already satisfied with just having important people around.
+
+Single_ThanksGiving_001.wav
+  I got a flag of gratitude, but it had some funny words written on it. Eh? Was it that funny? More than my own story?
+
+Single_Title_001.wav
+  Dolls Front Line 2, Exilium.
+
+Single_Valentine_001.wav
+  Yes, I bought this chocolate from the office. The clerk said it was for someone important, so I'll give it to you. Why you? Because I like you. Maybe.
+
+Single_WhiteVale_001.wav
+  This is... a skeleton knife that was sold out. As a thank you for the chocolate? Thank you. I'll keep it carefully. It's a waste to use it.
+
+VO_Zhaohui_Single_Birthday_SSR_002.wav
+  You said you wanted a kiss the other day, right? I've prepared it, so how about cutting the cake with this today? Happy birthday, Commander.
+
+VO_Zhaohui_Single_Christmas_002.wav
+  I never really cared about Santa Claus's story. But if it's a good day to send something to you, it might not be so bad. Commander, what do you want today?
+
+VO_Zhaohui_Single_MidAutumn_002.wav
+  Congratulations. The commander who answers my riddle will receive a present later. I look forward to what you will receive.
+
+VO_Zhaohui_Single_NewYear_002.wav
+  Do you have any requests for the year-end banquet? If you do, I plan to take you on tonight's stage. I want to answer the captain's expectations first this year.
+
+VO_Zhaohui_Single_SpringFes_002.wav
+  I left the ball in the pillow. It's not a child-treatment, but I just want you to sleep and have a good New Year. I'll be by your side, so sleep well.
+
+VO_Zhaohui_Single_Valentine_002.wav
+  Ah, so you were listening. No, I was just practicing a special song for my date with the Commander. This will give it a more special feel, right?
+

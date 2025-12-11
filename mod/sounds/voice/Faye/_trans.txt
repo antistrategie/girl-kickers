@@ -1,0 +1,220 @@
+# Voice Line Translations for Faye
+# Generated automatically using OpenAI Whisper
+# Total files: 72
+
+Series_Battle_Start__VO_Faye_Series_Move_Start__VO_Faye_Series_Up_007.wav
+  Not yet!
+
+Series_Cancel__VO_Faye_Series_Tone_Positive_004.wav
+  You...!
+
+Series_Chosen_Auto__VO_Faye_Series_Tone_Positive_003.wav
+  Huh!
+
+Series_Chosen__VO_Faye_Series_Tone_Positive_009.wav
+  Roger that.
+
+Series_Daily_001.wav
+  I have a martial arts training from now on, will you come too?
+
+Series_Daily_002.wav
+  Hmph. If you underestimate me, I'll look you in the eye.
+
+Series_Daily_003.wav
+  Wait, I'm choosing words.
+
+Series_Daily_004.wav
+  The equipment of the Hermes is in the process of being quite old-fashioned, but should I go to Meirin?
+
+Series_Daily_005.wav
+  I will crush those who don't need it.
+
+Series_Daily_006.wav
+  This luggage? Yeah, I was told that I can't carry it, so I'm carrying it.
+
+Series_Daily_007.wav
+  I've sparred with Caloric. If I just get my hands on it, Ono is stronger.
+
+Series_Daily_008.wav
+  The Soyoukaze people accept me like this. Yeah, just like you.
+
+Series_Daily_009.wav
+  By the way, what is Nemesis going to fortune tell? I'm curious about her work luck.
+
+Series_Daily_010.wav
+  If I'm in the Hermo, I can go to many places with the Commander.
+
+Series_Die__VO_Faye_Series_Tone_Negative_002.wav
+  Damn it!
+
+Series_Hit__VO_Faye_Single_Hit_001.wav
+  Get out of here.
+
+Series_Hitted__VO_Faye_Series_HittedLast__VO_Faye_Series_Shield_Broken.wav
+  Thank you for watching!
+
+Series_Kill__VO_Faye_Single_Kill_001.wav
+  Knockout
+
+Series_Lose__VO_Faye_Single_Lose_001.wav
+  This kind of failure... Next time, I'll definitely...
+
+Series_Set_Click__VO_Faye_Series_Up_008.wav
+  I'm... I'm doing it right, right?
+
+Series_Set_Fall__VO_Faye_Series_Tone_Positive_002.wav
+  Let's go!
+
+Series_Skill01__VO_Faye_Single_Skill_001.wav
+  If you can do it, then try it!
+
+Series_Skill02__VO_Faye_Single_Skill_002.wav
+  I can try a new technique!
+
+Series_Tone_Negative_001.wav
+  Ugh!
+
+Series_Tone_Positive_005.wav
+  It's full of holes!
+
+Series_Tone_Positive_006.wav
+  Useless!
+
+Series_Tone_Positive_007.wav
+  You're in my way!
+
+Series_Tone_Positive_008.wav
+  Take this!
+
+Series_Tone_Positive_010.wav
+  How's that?
+
+Series_Ultimate__VO_Faye_Single_Ultimate_SSR_001.wav
+  Self-sacrifice.
+
+Series_Up_001.wav
+  One more time!
+
+Series_Up_002.wav
+  Hmph, it's not bad.
+
+Series_Up_003__VO_Faye_Single_Passive_SSR_001.wav
+  Sigh...
+
+Series_Up_004.wav
+  Me too!
+
+Series_Up_005.wav
+  More strongly...
+
+Series_Up_006.wav
+  Thank you.
+
+Series_Win__VO_Faye_Single_Win_001.wav
+  The promise to protect you, it wasn't a lie, right?
+
+Single_Acquire_SSR_001.wav
+  It's a special day, so why don't we watch a movie together? I put together a list of interesting action movies.
+
+Single_Anniversary_001.wav
+  Eh? Already? For a year? So you've accepted me, since you're still here in Ermo-go. No matter what happens, I'll protect you.
+
+Single_Birthday_SSR_001.wav
+  Happy birthday. Do you want to go to Bariag to celebrate? I'll lend you a axe.
+
+Single_Birthday_SSR_002.wav
+  Commander, happy birthday! I've got a cake for you. Wait, I forgot my knife. Um, can I use my axe?
+
+Single_Children_001.wav
+  I'll blow everyone who says, Happy Children's Day to me. I'll forgive you if you do.
+
+Single_Christmas_001.wav
+  Yup, yerba massage. I made this from origami though. What do you mean by that? Th-That's not even important! It's fine to dress it up on a tree.
+
+Single_Christmas_002.wav
+  Merry Christmas! Kuuu! White Christmas is beautiful, but it's so cold! Ah, what's wrong? You're so stuck... My body is warm? Hey... Don't treat me like a baby! Well, if it feels so good... Can I get a little closer?
+
+Single_Duanwu_001.wav
+  Meirin said that the blood sausage tastes good no matter what you put in it, so I made it into a strawberry an. Meirin's state when she said that? I remember drinking Mechoo.
+
+Single_Friendliness_001.wav
+  Hey, Sting. Let me through here.
+
+Single_Friendliness_002.wav
+  If you have something to say, just say it.
+
+Single_Friendliness_003.wav
+  I want to try out all sorts of melee weapons, but I don't have any budget. Then, I'll be fine.
+
+Single_Friendliness_004.wav
+  I have no pride in my fist that shakes without thinking.
+
+Single_Friendliness_005.wav
+  For humans, communication is a difficult matter. Otherwise, there wouldn't be so many books on conversation skills.
+
+Single_Friendliness_006.wav
+  I think there are many things that I can't do... Hey, why are you here? I'm just practicing talking...
+
+Single_Friendliness_007.wav
+  It's rounder than before? You have a good heart, don't you?
+
+Single_Friendliness_008.wav
+  My hair is like a flame, and it's beautiful. Thank you.
+
+Single_Friendliness_009.wav
+  Hey, did I say something that would hurt you? That face, could it be, really?
+
+Single_Friendliness_010.wav
+  I'm not good at dark things, but if you're here, it might be a little better.
+
+Single_Friendliness_011.wav
+  What is this? A conversation technique that changes your life? Please leave this kind of gift in my room.
+
+Single_Friendliness_012.wav
+  I don't really like the name before I joined the briefing. Well, if it's you, I can tell you.
+
+Single_Friendliness_013.wav
+  I can't say it well, but... No matter what kind of person you become, I will never leave you.
+
+Single_Login_001.wav
+  Commander, today's mission is...
+
+Single_MidAutumn_001.wav
+  Kou wants to play in Kato. Eh? The Commander too? Haa... Be careful with Hinoke.
+
+Single_MidAutumn_002.wav
+  Commander, I brought a blood-sucking weapon. This is a bomb-type weapon. I tried it with a sword earlier, but it didn't hurt at all. Eh? Taste? I haven't tasted it yet, but... Whoa! It's hard!
+
+Single_NewYear_001.wav
+  I'm thinking of performing at the New Year's party, would you like to see?
+
+Single_NewYear_002.wav
+  Phew... It's been a year already. We've checked the fire equipment and equipment of the Hermo. This year too, we will definitely be safe for a year! Happy New Year, Commander!
+
+Single_Obon_001.wav
+  I've seen a lot of people who lost their loved ones. For those who have been left behind, every day is a burden.
+
+Single_Obtain_SSR_001.wav
+  I'll take down all those who hinder your path.
+
+Single_SpringFes_001.wav
+  A new year, a new name, and a new encounter. The word new is kind of nice, isn't it?
+
+Single_SpringFes_002.wav
+  I like Shunsesu. We all gather together like in the past. Ah, of course, this time I'll try not to be in a hurry until the battery runs out. I was still immature at that time. Anyway, Shunsesu, happy new year! I'll be in your care from now on!
+
+Single_ThanksGiving_001.wav
+  I thought I couldn't convey it well with words, so I wrote it on a card. It's long, but read it properly.
+
+Single_Title_001.wav
+  Dolls Front Line 2 Exilium
+
+Single_Valentine_001.wav
+  You haven't eaten the chocolate I gave you yet? Oh, right, the chocolate shaped like a sandbag. Hurry and eat it.
+
+Single_Valentine_002.wav
+  Commander, this is my chocolate. W-What? Look around. Eat it quickly and let me hear your opinion on the taste.
+
+Single_WhiteVale_001.wav
+  Chocolate's... huh? This sandbag? Wow, you're really thoughtful. The one I'm using right now, I have to exchange it.
+
