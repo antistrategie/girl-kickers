@@ -1,0 +1,721 @@
+import hashlib
+import math
+import os
+
+import bpy
+import mathutils
+from mathutils import Vector
+
+from .binary_io import *
+from .khm_objects import *
+
+KHM_VERSION = 101
+KHM_MAX_OBJECT_NAME = 48
+KHM_MAX_BONE_INFLUENCES = 4
+KHM_MAX_BONES = 64
+
+
+def ReadSkin(file, pMesh):
+    print("ReadSkin", file.tell())
+    hasSkin = ReadUChar(file)
+    print("hasSkin", hasSkin)
+    if hasSkin == 0:
+        print("No Skin")
+        return  # no skin
+
+    pMesh.pSkinWeights = []
+    for i in range(pMesh.numVertices):
+        pMesh.pSkinWeights.append(ReadVector4(file))
+    pMesh.pSkinBoneIndices = []
+    for i in range(pMesh.numVertices):
+        pMesh.pSkinBoneIndices.append(ReadSBoneIndice(file))
+
+
+def ReadCollisionData(file, pMesh):
+    print("ReadCollisionData", file.tell())
+    pMesh.numCollisions = ReadInt(file)
+    if pMesh.numCollisions == 0:
+        print("no Collisions")
+
+    pMesh.pCollisions = []
+    for c in range(pMesh.numCollisions):
+        pMesh.pCollisions.append(sCollisionShape())
+        col = pMesh.pCollisions[c]
+        col.collisionType = ReadUInt(file)
+        col.transform = ReadMatrix(file)
+        if col.collisionType == 0:  # "SPHERE"
+            col.setSphere(ReadFloat(file))
+        elif col.collisionType == 1:  # "BOX"
+            x = ReadFloat(file)
+            y = ReadFloat(file)
+            z = ReadFloat(file)
+            col.setBox([x, -z, y])
+            print("Read the box matrix as", col.transform)
+        elif col.collisionType == 2:  # "CAPSULE"
+            col.setCapsule(ReadFloat(file), ReadFloat(file))
+        elif col.collisionType == 3:  # CONVEX_MESH"
+            col.setConvexMesh()
+            col.bShared = True
+
+            col.mesh.numPolys = ReadInt(file)
+            col.mesh.pPolygons = []
+            for p in range(col.mesh.numPolys):
+                col.mesh.pPolygons.append(sCollisionPolygon(file))
+
+            col.mesh.numIndices = ReadInt(file)
+            col.mesh.pIndices = []
+            for p in range(col.mesh.numIndices):
+                col.mesh.pIndices.append(ReadUShort(file))
+
+            col.mesh.numVertices = ReadInt(file)
+            col.mesh.pVertices = []
+            for p in range(col.mesh.numVertices):
+                col.mesh.pVertices.append(ReadVector3(file))
+        else:
+            print(
+                "[Error] CLoader::ReadCollisionData(file, pMesh) - unknown collision type"
+            )
+
+
+def ReadGeometry(file, pMesh):
+    print("ReadGeometry", file.tell())
+    # read verts
+    pMesh.numVertices = ReadInt(file)
+    pMesh.pVertices = []
+    for i in range(pMesh.numVertices):
+        pMesh.pVertices.append(ReadSwizzledVector3(file))
+
+    # read normals
+    pMesh.pNormals = []
+    for i in range(pMesh.numVertices):
+        pMesh.pNormals.append(ReadSwizzledVector3(file))
+
+    # read triangle indices
+    pMesh.numIndices = ReadInt(file)
+    pMesh.pIndices = []
+    for i in range(pMesh.numIndices):
+        pMesh.pIndices.append(ReadUShort(file))
+
+    # read face normals
+    uiNumFaces = int(pMesh.numIndices / 3)
+    pMesh.pFaceNormals = []
+    for i in range(uiNumFaces):
+        pMesh.pFaceNormals.append(ReadSwizzledVector3(file))
+
+    # read vtx colors
+    hasVertColors = ReadUChar(file)
+    if hasVertColors == 1:
+        pMesh.pColors = []
+        for i in range(pMesh.numVertices):
+            color_set = []
+            color_set.append(ReadUChar(file) / 255.0)
+            color_set.append(ReadUChar(file) / 255.0)
+            color_set.append(ReadUChar(file) / 255.0)
+            color_set.append(ReadUChar(file) / 255.0)
+            pMesh.pColors.append(color_set)
+            # pMesh.pColors.append(ReadUInt(file))
+
+    # read tx coords
+    pMesh.numTxCoordMaps = ReadUInt(file)
+    pMesh.pTexCoords = []
+    for i in range(pMesh.numTxCoordMaps):
+        if i == 1:
+            file.read(8 * pMesh.numVertices)
+        for j in range(pMesh.numVertices):
+            vectorCoord = (ReadFloat(file), 1 - ReadFloat(file))  # Flip Y
+            pMesh.pTexCoords.append(vectorCoord)
+
+    # read skin
+    ReadSkin(file, pMesh)
+
+    # read collision data
+    ReadCollisionData(file, pMesh)
+
+    print("ReadBounds", file.tell())
+
+    # read bounds
+    pMesh.min = ReadVector3(file)
+    pMesh.max = ReadVector3(file)
+
+    # compute volume at load time (TODO: this is exporter's job)
+    pMesh.volume = 0.0
+    for i in range(pMesh.numCollisions):
+        col = pMesh.pCollisions[i]
+        if col.collisionType == 3 or col.collisionType == 4:  # CONVEX_MESH or MESH
+            s = pMesh.max - pMesh.min
+            pMesh.volume += s[0] * s[1] * s[2]
+        else:
+            pMesh.volume += col.GetVolume()
+
+
+def ReadMeshes(file, pModelDefinition):
+    print("ReadMeshes", file.tell())
+    count = ReadUChar(file)
+    if count == 0:
+        print("No mesh")
+        return
+
+    pModelDefinition.pMesh = sObjectMesh()
+    pObject = pModelDefinition.pMesh
+    pObject.szName = ReadObjectName(file)
+    pObject.uiId = ReadInt(file)
+    pObject.uiParentId = ReadInt(file)
+    pObject.matLocal = ReadMatrix(file)
+    pObject.matGlobal = ReadMatrix(file)
+    # This fails assertion sometimes. Fix this
+    # assert pObject.uiId < 256
+    if pObject.uiId >= 256:
+        pObject.uiId = 255
+    if pObject.uiParentId > 256 and pObject.uiParentId < 4294967295:
+        # assert False;
+        pObject.uiParentId = 255
+
+    ReadGeometry(file, pModelDefinition.pMesh)
+
+
+def ReadBones(file, pModelDefinition):
+    print("ReadBones", file.tell())
+    count = ReadUChar(file)
+    if count == 0:
+        print("No Bones")
+        return
+    pModelDefinition.numBones = count
+    pModelDefinition.lBones = []
+    for i in range(pModelDefinition.numBones):
+        bone = sObjectBase()
+        bone.szName = ReadObjectName(file)
+        bone.uiId = ReadInt(file)
+        bone.uiParentId = ReadInt(file)
+        bone.matLocal = ReadMatrix(file)
+        bone.matGlobal = ReadMatrix(file)
+        pModelDefinition.lBones.append(bone)
+
+
+def ReadHelpers(file, pModelDefinition):
+    print("ReadHelpers", file.tell())
+    count = ReadUChar(file)
+    if count == 0:
+        print("No Helpers")
+        return
+    pModelDefinition.numHelpers = count
+    pModelDefinition.lHelpers = []
+    for i in range(pModelDefinition.numHelpers):
+        helper = sObjectBase()
+        helper.szName = ReadObjectName(file)
+        helper.uiId = ReadInt(file)
+        helper.uiParentId = ReadInt(file)
+        helper.matLocal = ReadMatrix(file)
+        helper.matGlobal = ReadMatrix(file)
+        pModelDefinition.lHelpers.append(helper)
+
+
+def ReadAnimation(file, pModelDefinition):
+    print("ReadAnimation", file.tell())
+    count = ReadUChar(file)
+    if count == 0:
+        print("No Animation")
+        return
+    pModelDefinition.pAnimation = sAnimation()
+    pAnimation = pModelDefinition.pAnimation
+    pAnimation.numNodes = ReadInt(file)
+    pAnimation.startTimeS = ReadFloat(file)
+    pAnimation.endTimeS = ReadFloat(file)
+    pAnimation.numNodeFrames = ReadInt(file)
+    assert pAnimation.startTimeS == 0.0
+    if pAnimation.startTimeS != 0.0:
+        print(
+            "[Error] Found non-zero StartTime when loading animation %s. Please export entire animation."
+        )
+        return
+    pAnimation.frameDurationMs = (
+        pAnimation.endTimeS * 1000.0 / max(pAnimation.numNodeFrames - 1, 1)
+    )
+
+    for node in range(pAnimation.numNodes):
+        pNodeAnimation = sNodeAnimation()
+        pNodeAnimation.uiNodeId = ReadUInt(file)
+        pNodeAnimation.szNodeName = ReadObjectName(file)
+        pAnimation.pNodeAnimations.append(pNodeAnimation)
+
+    for node in range(pAnimation.numNodes):
+        for frame in range(pAnimation.numNodeFrames):
+            pNodeTransform = sNodeTransform()
+            pNodeTransform.qRot = ReadQuaternion(file)
+            pNodeTransform.vTrans = ReadSwizzledVector3(file)
+            pNodeTransform.vScale = ReadVector3(file)
+            # if frame == 0:
+            pAnimation.pNodeTransforms.append(pNodeTransform)
+
+
+def ReadAnimationMask(file, pModelDefinition):
+    print("ReadAnimationMask", file.tell())
+    count = ReadUChar(file)
+    if count == 0:
+        print("No Animation Mask")
+        return
+    pAnimationMask = sAnimationMask()
+    pAnimationMask.numNodes = ReadUInt(file)
+    for i in range(pAnimationMask.numNodes):
+        pAnimationMaskEntry = sAnimationMaskEntry()
+        pAnimationMaskEntry.szNodeName = ReadObjectName(file)
+        pAnimationMaskEntry.mask = ReadInt(file)
+        pAnimationMask.sAnimationMaskEntry.append(pAnimationMaskEntry)
+    pModelDefinition.pAnimationMask = pAnimationMask
+
+
+def LoadModel(pszFilePath):
+    if os.path.exists(pszFilePath) == False:
+        return None  # could not open file
+
+    file = open(pszFilePath, mode="rb")
+
+    content = file.read()
+    file.seek(0)
+
+    fileHeader = sHeader(file)
+
+    if (
+        fileHeader.uiSig[0:1] != b"K"
+        or fileHeader.uiSig[1:2] != b"H"
+        or fileHeader.uiSig[2:3] != b"M"
+    ):
+        print(
+            "[Error] CLoader::LoadModel({0}) - KHM header mismatch.".format(pszFilePath)
+        )
+        return None  # different kind of file
+
+    if fileHeader.uiVer != KHM_VERSION:
+        print(
+            "[Error] CLoader::LoadModel({0}) - wrong file version {1}, expected {2}".format(
+                pszFilePath, fileHeader.uiVer, KHM_VERSION
+            )
+        )
+        return None  # version mismatch!
+
+    pModelDefinition = sModelDefinition()
+    pModelDefinition.membuff = file
+    pModelDefinition.sModelName = hashlib.md5(content)
+
+    #
+    # read bones
+    ReadBones(file, pModelDefinition)
+
+    #
+    # read helpers
+    ReadHelpers(file, pModelDefinition)
+
+    #
+    # read meshes
+    ReadMeshes(file, pModelDefinition)
+
+    #
+    # read animation
+    ReadAnimation(file, pModelDefinition)
+
+    #
+    # read animation mask
+    ReadAnimationMask(file, pModelDefinition)
+    print("pAnimationMask == None", pModelDefinition.numBones == None)
+
+    print("Num bones:", pModelDefinition.numBones)
+    print("Num helpers:", pModelDefinition.numHelpers)
+
+    print("EOF Position:", file.tell())
+    print("Actual file size:", len(content))
+
+    return pModelDefinition
+
+
+def SpawnAnimationMask(context, pModelDefinition):
+    print("SpawnAnimationMask")
+
+    if (
+        len(bpy.context.selected_objects) != 1
+        or bpy.context.selected_objects[0].type != "ARMATURE"
+    ):
+        print(
+            "[Error] SpawnAnimationMask: Please select an armature to load the animation mask."
+        )
+        return
+
+    b_obj = context.object
+
+    bpy.ops.object.mode_set(mode="POSE")
+    bones_to_highlight = []
+
+    for bone in pModelDefinition.pAnimationMask.sAnimationMaskEntry:
+        if bone.mask == 1:
+            bones_to_highlight.append(bone.szNodeName)
+
+    for pose_bone in b_obj.pose.bones:
+        if pose_bone.name in bones_to_highlight:
+            pose_bone.bone.select = True
+
+
+def SpawnAnimation(context, pModelDefinition):
+    if (
+        len(bpy.context.selected_objects) != 1
+        or bpy.context.selected_objects[0].type != "ARMATURE"
+    ):
+        print(
+            "[Error] SpawnAnimation: Please select an armature to load the animation."
+        )
+        return
+
+    b_obj = context.object
+
+    local_matrixes = []
+    bpy.ops.object.mode_set(mode="EDIT")
+
+    for n in range(pModelDefinition.pAnimation.numNodes):
+        if b_obj.data.edit_bones[n].parent != None:
+            local_matrix = (
+                b_obj.data.edit_bones[n].parent.matrix.inverted()
+                @ b_obj.data.edit_bones[n].matrix
+            )
+        else:
+            local_matrix = b_obj.data.edit_bones[n].matrix
+        local_matrixes.append(local_matrix)
+
+    for n in range(pModelDefinition.pAnimation.numNodes):
+        print("Local matrix", local_matrixes[n])
+
+    bpy.ops.object.mode_set(mode="POSE")
+
+    node_transform_counter = 0
+    for f in range(pModelDefinition.pAnimation.numNodeFrames):
+        for n in range(pModelDefinition.pAnimation.numNodes - 1):
+            node_transform_counter = (pModelDefinition.pAnimation.numNodeFrames * n) + f
+
+            loc = pModelDefinition.pAnimation.pNodeTransforms[
+                node_transform_counter
+            ].vTrans
+            rot = pModelDefinition.pAnimation.pNodeTransforms[
+                node_transform_counter
+            ].qRot
+            sca = pModelDefinition.pAnimation.pNodeTransforms[
+                node_transform_counter
+            ].vScale
+
+            loc -= local_matrixes[n].to_translation()
+
+            matrix = mathutils.Matrix.LocRotScale(loc, rot, sca)
+
+            matrix = (
+                matrix.transposed() @ local_matrixes[n]
+            ).transposed()  # take the difference between the new matrix and the local matrix
+
+            b_obj.pose.bones[n].matrix_basis = matrix
+
+            bpy.context.view_layer.update()
+
+        bpy.ops.pose.select_all(action="SELECT")
+
+        for n in range(pModelDefinition.pAnimation.numNodes - 1):
+            b_obj.pose.bones[n].keyframe_insert(data_path="location", frame=f)
+            b_obj.pose.bones[n].keyframe_insert(
+                data_path="rotation_quaternion", frame=f
+            )
+            b_obj.pose.bones[n].keyframe_insert(data_path="scale", frame=f)
+
+    context.scene.frame_end = pModelDefinition.pAnimation.numNodeFrames
+    fps = 1000 / pModelDefinition.pAnimation.frameDurationMs
+    print("FPS:", fps)
+    context.scene.render.fps = int(fps)
+
+
+def SpawnModel(context, pModelDefinition):
+    id_to_obj = {}
+    id_to_children_id = {}
+    spawned_extra_objects = []
+
+    if pModelDefinition.lBones != None:
+        amt = bpy.data.armatures.new("Armature")
+        from bpy_extras import object_utils
+
+        amt_ob = object_utils.object_data_add(context, amt)
+        amt_ob.location = (0.0, 0.0, 0.0)
+
+        bpy.ops.object.mode_set(mode="EDIT")
+
+        for bone in pModelDefinition.lBones:  # spawn the bones
+            bone_obj = amt.edit_bones.new(bone.szName)
+            bone_obj.head = Vector((0, 0, 0))
+            bone_obj.tail = Vector((0.001, 0, 0))
+            # bone_obj.matrix = bone.matGlobal
+            id_to_obj[bone.uiId] = bone_obj
+            if bone.uiParentId != -1:
+                if bone.uiParentId not in id_to_children_id:
+                    id_to_children_id[bone.uiParentId] = [bone.uiId]
+                else:
+                    id_to_children_id[bone.uiParentId].append(bone.uiId)
+
+    if pModelDefinition.lHelpers != None:
+        for helper in pModelDefinition.lHelpers:  # spawn the helpers
+            assert helper.uiId not in id_to_obj
+
+            bone_is_parent = False
+            if helper.uiParentId != -1 and helper.uiParentId in id_to_obj:
+                if type(id_to_obj[helper.uiParentId]) is bpy.types.EditBone:
+                    bone_is_parent = True
+
+            if bone_is_parent == True:
+                helper_obj = amt.edit_bones.new("HELPER_" + helper.szName)
+                helper_obj.head = Vector((0, 0, 0))
+                helper_obj.tail = Vector((0.001, 0, 0))
+                helper_obj.parent = id_to_obj[helper.uiParentId]
+                helper_obj.matrix = helper.matGlobal
+            else:
+                helper_obj = bpy.data.objects.new("HELPER_" + helper.szName, None)
+                context.view_layer.active_layer_collection.collection.objects.link(
+                    helper_obj
+                )
+                helper_obj.matrix_world = helper.matGlobal
+                spawned_extra_objects.append(helper_obj)
+            id_to_obj[helper.uiId] = helper_obj
+
+    if pModelDefinition.pMesh != None:
+        print("Spawning mesh", pModelDefinition.pMesh.szName)
+        pMesh = pModelDefinition.pMesh
+        b_mesh = bpy.data.meshes.new(pModelDefinition.pMesh.szName)
+        b_obj = bpy.data.objects.new(pModelDefinition.pMesh.szName, b_mesh)
+
+        assert pModelDefinition.pMesh.uiId not in id_to_obj
+        id_to_obj[pModelDefinition.pMesh.uiId] = b_obj
+        print(pModelDefinition.pMesh.uiId)
+
+        list_faces = []
+
+        for i in range(pModelDefinition.pMesh.numIndices):
+            if i % 3 == 0:
+                faceTuple = (
+                    pModelDefinition.pMesh.pIndices[i],
+                    pModelDefinition.pMesh.pIndices[i + 1],
+                    pModelDefinition.pMesh.pIndices[i + 2],
+                )
+                list_faces.append(faceTuple)
+
+        b_mesh.from_pydata(pModelDefinition.pMesh.pVertices, [], list_faces)
+
+        b_mesh.update()
+
+        if pModelDefinition.pMesh.pColors != None:
+            b_mesh.vertex_colors.new()
+
+        uvlayer = b_obj.data.uv_layers.new()
+        uv_count = 0
+
+        for i in range(0, pModelDefinition.pMesh.numIndices, 3):
+            uvlayer.data[uv_count].uv = pModelDefinition.pMesh.pTexCoords[
+                pModelDefinition.pMesh.pIndices[i]
+            ]
+            uvlayer.data[uv_count + 1].uv = pModelDefinition.pMesh.pTexCoords[
+                pModelDefinition.pMesh.pIndices[i + 1]
+            ]
+            uvlayer.data[uv_count + 2].uv = pModelDefinition.pMesh.pTexCoords[
+                pModelDefinition.pMesh.pIndices[i + 2]
+            ]
+            if pModelDefinition.pMesh.pColors != None:
+                b_obj.data.vertex_colors[0].data[
+                    uv_count
+                ].color = pModelDefinition.pMesh.pColors[
+                    pModelDefinition.pMesh.pIndices[i]
+                ]
+                b_obj.data.vertex_colors[0].data[
+                    uv_count + 1
+                ].color = pModelDefinition.pMesh.pColors[
+                    pModelDefinition.pMesh.pIndices[i + 1]
+                ]
+                b_obj.data.vertex_colors[0].data[
+                    uv_count + 2
+                ].color = pModelDefinition.pMesh.pColors[
+                    pModelDefinition.pMesh.pIndices[i + 2]
+                ]
+
+            uv_count += 3
+        # Build combined list of all skinnable objects (bones + helpers) indexed by their ID
+        skin_targets = {}  # id -> name mapping
+
+        if pModelDefinition.lBones != None:
+            for bone in pModelDefinition.lBones:
+                b_obj.vertex_groups.new(name=bone.szName)
+                skin_targets[bone.uiId] = bone.szName
+
+        # Helpers can also be skin targets - create vertex groups for them too
+        if pModelDefinition.lHelpers != None:
+            for helper in pModelDefinition.lHelpers:
+                # Helpers in the armature have HELPER_ prefix, but skin data uses the raw name
+                vg_name = "HELPER_" + helper.szName
+                b_obj.vertex_groups.new(name=vg_name)
+                skin_targets[helper.uiId] = vg_name
+
+        if pMesh.pSkinBoneIndices != None:
+            for i in range(len(pMesh.pSkinBoneIndices)):
+                for v in range(0, 4):
+                    bone_idx = pMesh.pSkinBoneIndices[i][v]
+                    weight = pMesh.pSkinWeights[i][v]
+
+                    if weight < 0.0001:
+                        continue
+
+                    if bone_idx not in skin_targets:
+                        continue
+
+                    vertex_group_name = skin_targets[bone_idx]
+                    vertex_group = b_obj.vertex_groups.get(vertex_group_name)
+                    if vertex_group is None:
+                        continue
+                    vertex_group.add([i], weight, "ADD")
+
+        b_mesh.update(calc_edges=True)
+        context.view_layer.active_layer_collection.collection.objects.link(b_obj)
+
+        bpy.context.view_layer.objects.active = b_obj
+        # bpy.ops.object.mode_set(mode='EDIT')
+        # bpy.ops.mesh.select_all(action='SELECT')
+        # bpy.ops.mesh.remove_doubles(threshold = 0.001)
+        # bpy.ops.mesh.select_all(action='DESELECT')
+        # bpy.ops.object.mode_set(mode='OBJECT')
+
+        for collision in pModelDefinition.pMesh.pCollisions:
+            print(
+                "Spawning collision",
+                sCollisionShape.eCollisionType[collision.collisionType],
+            )
+
+            if collision.collisionType == 0:  # Sphere
+                bpy.ops.mesh.primitive_uv_sphere_add()
+                col_obj = bpy.context.active_object
+                col_obj.name = "COL_SPHERE"
+                col_obj.matrix_world = collision.transform
+                col_obj.scale = (
+                    collision.sphere.radius,
+                    collision.sphere.radius,
+                    collision.sphere.radius,
+                )
+
+            elif collision.collisionType == 1:  # Box
+                bpy.ops.mesh.primitive_cube_add()
+
+                col_obj = bpy.context.active_object
+                bpy.ops.object.mode_set(mode="EDIT")
+
+                # col_obj.data.vertices[0].co = [0.0, 0.0, 0.0]
+
+                col_obj.name = "COL_BOX"
+                col_obj.matrix_world = collision.transform
+                col_obj.scale = collision.box.extents
+
+            elif collision.collisionType == 2:  # Capsule
+                bpy.ops.mesh.primitive_cylinder_add()
+                col_obj = bpy.context.active_object
+                col_obj.name = "COL_CAPSULE"
+                col_obj.matrix_world = collision.transform
+                # Since we spawn a cylinder rather than a capsule, adjust for the extra height with 0.2488
+                col_obj.scale = (
+                    collision.capsule.radius,
+                    collision.capsule.radius,
+                    collision.capsule.halfHeight + 0.2488,
+                )
+                bpy.ops.object.mode_set(mode="EDIT")
+                bpy.ops.mesh.select_all(action="SELECT")
+                bpy.ops.transform.rotate(value=math.radians(90.0), orient_axis="Y")
+
+            elif collision.collisionType == 3:  # Convex mesh
+                bpy.ops.object.empty_add(type="PLAIN_AXES")
+                col_obj = bpy.context.active_object
+                col_obj.name = "CONVEX_MESH"
+                print("[ERROR] Unimplimented collision type: Convex Mesh!")
+
+            spawned_extra_objects.append(col_obj)
+
+            # delete all the faces
+            bpy.ops.object.mode_set(mode="EDIT")
+            bpy.ops.mesh.delete(type="ONLY_FACE")
+            bpy.ops.mesh.select_all(action="DESELECT")
+            bpy.ops.object.mode_set(mode="OBJECT")
+
+        for obj in bpy.context.selected_objects:
+            obj.select_set(False)
+
+        # Skip remove_doubles for large meshes - causes crashes and is usually unnecessary
+        # User can run "Merge by Distance" manually if needed
+        bpy.context.view_layer.objects.active = b_obj
+        b_obj.select_set(True)
+
+    bpy.ops.object.mode_set(mode="OBJECT")
+
+    if pModelDefinition.lBones != None:
+        for bone in pModelDefinition.lBones:  # parent the bones
+            if bone.uiParentId != -1:
+                assert bone.uiParentId in id_to_obj
+                id_to_obj[bone.uiId].parent = id_to_obj[bone.uiParentId]
+
+        for bone in pModelDefinition.lBones:
+            id_to_obj[bone.uiId].matrix = bone.matGlobal
+
+        # for bone in pModelDefinition.lBones:
+        #     if bone.uiParentId != -1:
+        #        if bone.uiId in id_to_children_id: #parent tail = average of childrens heads
+        #            average_pos = Vector((0, 0, 0))
+        #            for child in id_to_children_id[bone.uiId]:
+        #                average_pos += id_to_obj[child].head
+        #            average_pos /= len(id_to_children_id[bone.uiId])
+        #            id_to_obj[bone.uiId].tail = average_pos
+
+        bpy.ops.object.mode_set(mode="OBJECT")
+        bpy.ops.object.select_all(action="DESELECT")
+        b_obj.select_set(True)
+        bpy.context.view_layer.objects.active = amt_ob
+        bpy.ops.object.parent_set(type="ARMATURE")
+        bpy.ops.object.mode_set(mode="OBJECT")
+        bpy.ops.object.select_all(action="DESELECT")
+
+        amt_ob.select_set(state=True)
+        context.view_layer.objects.active = amt_ob
+
+    if pModelDefinition.pMesh != None:
+        if pModelDefinition.pMesh.uiParentId != -1:
+            assert pModelDefinition.pMesh.uiParentId in id_to_obj
+            id_to_obj[pModelDefinition.pMesh.uiId].parent = id_to_obj[
+                pModelDefinition.pMesh.uiParentId
+            ]
+
+        for obj in spawned_extra_objects:
+            obj.parent = id_to_obj[pModelDefinition.pMesh.uiId]
+
+
+def load(
+    operator,
+    context,
+    filepath="",
+    use_manual_orientation=False,
+    global_matrix=None,
+):
+    pModelDefinition = LoadModel(filepath)
+    # file = open("H:\\DK2\\importjson.json", "w+")
+    # file.write(json.dumps(pModelDefinition.toJSON(), sort_keys=True, indent=4))
+    # file.close()
+
+    if pModelDefinition.pMesh != None:
+        SpawnModel(context, pModelDefinition)
+
+    if context.object != None:
+        # Skip animation loading - causes pose issues and not needed for model editing
+        # if pModelDefinition.pAnimation != None:
+        #     SpawnAnimation(context, pModelDefinition)
+
+        # if pModelDefinition.pAnimationMask != None:
+        #     SpawnAnimationMask(context, pModelDefinition)
+        pass
+
+    # Always end in object mode with pose reset to rest position
+    if context.object != None and context.object.type == "ARMATURE":
+        bpy.ops.object.mode_set(mode="POSE")
+        bpy.ops.pose.select_all(action="SELECT")
+        bpy.ops.pose.transforms_clear()
+        bpy.ops.object.mode_set(mode="OBJECT")
+        # Go to frame 0 to show rest pose
+        context.scene.frame_set(0)
+
+    return {"FINISHED"}

@@ -1,6 +1,11 @@
 .venv
 .ruff_cache
 
+__pycache__/
+tools/mmd_converter/output/*.png
+tools/mmd_converter/output/*.blend*
+
 # AssetStudio (extracted from zip)
 tools/Asset Studio/
+tools/khm_tools.zip
 tools/gfl2.map

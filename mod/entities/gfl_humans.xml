@@ -83,8 +83,8 @@
 
     <Entity name="404-HK416" type="Human" editorAutoHeight="false">
         <RenderObject3D
-            model="data/models/dolls/hk416.khm"
-            diffuseTex="data/models/dolls/hk416.dds"
+            model="data/models/dolls/mosinnagant.khm"
+            diffuseTex="data/models/dolls/mosinnagant.dds"
         />
 
         <Breakable
