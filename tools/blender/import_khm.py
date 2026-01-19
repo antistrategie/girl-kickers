@@ -364,28 +364,44 @@ def SpawnAnimation(context, pModelDefinition):
 
     b_obj = context.object
 
-    local_matrixes = []
+    # Build mapping from animation node names to armature bones
+    anim_nodes = pModelDefinition.pAnimation.pNodeAnimations
+    armature_bone_names = [b.name for b in b_obj.data.bones]
+
+    # Map animation node index -> armature bone name
+    node_to_bone = {}
+    for n, node_anim in enumerate(anim_nodes):
+        anim_bone_name = node_anim.szNodeName
+        if anim_bone_name in armature_bone_names:
+            node_to_bone[n] = anim_bone_name
+
+    # Get local matrices for matched bones
+    local_matrixes = {}
     bpy.ops.object.mode_set(mode="EDIT")
 
-    for n in range(pModelDefinition.pAnimation.numNodes):
-        if b_obj.data.edit_bones[n].parent != None:
+    for n, bone_name in node_to_bone.items():
+        edit_bone = b_obj.data.edit_bones[bone_name]
+        if edit_bone.parent != None:
             local_matrix = (
-                b_obj.data.edit_bones[n].parent.matrix.inverted()
-                @ b_obj.data.edit_bones[n].matrix
+                edit_bone.parent.matrix.inverted()
+                @ edit_bone.matrix
             )
         else:
-            local_matrix = b_obj.data.edit_bones[n].matrix
-        local_matrixes.append(local_matrix)
-
-    for n in range(pModelDefinition.pAnimation.numNodes):
-        print("Local matrix", local_matrixes[n])
+            local_matrix = edit_bone.matrix
+        local_matrixes[n] = local_matrix
 
     bpy.ops.object.mode_set(mode="POSE")
 
-    node_transform_counter = 0
-    for f in range(pModelDefinition.pAnimation.numNodeFrames):
-        for n in range(pModelDefinition.pAnimation.numNodes - 1):
-            node_transform_counter = (pModelDefinition.pAnimation.numNodeFrames * n) + f
+    num_frames = pModelDefinition.pAnimation.numNodeFrames
+    num_nodes = pModelDefinition.pAnimation.numNodes
+
+    for f in range(num_frames):
+        for n in range(num_nodes):
+            if n not in node_to_bone:
+                continue
+
+            bone_name = node_to_bone[n]
+            node_transform_counter = (num_frames * n) + f
 
             loc = pModelDefinition.pAnimation.pNodeTransforms[
                 node_transform_counter
@@ -403,25 +419,56 @@ def SpawnAnimation(context, pModelDefinition):
 
             matrix = (
                 matrix.transposed() @ local_matrixes[n]
-            ).transposed()  # take the difference between the new matrix and the local matrix
+            ).transposed()
 
-            b_obj.pose.bones[n].matrix_basis = matrix
+            b_obj.pose.bones[bone_name].matrix_basis = matrix
 
-            bpy.context.view_layer.update()
+        bpy.context.view_layer.update()
 
-        bpy.ops.pose.select_all(action="SELECT")
-
-        for n in range(pModelDefinition.pAnimation.numNodes - 1):
-            b_obj.pose.bones[n].keyframe_insert(data_path="location", frame=f)
-            b_obj.pose.bones[n].keyframe_insert(
+        for n, bone_name in node_to_bone.items():
+            b_obj.pose.bones[bone_name].keyframe_insert(data_path="location", frame=f)
+            b_obj.pose.bones[bone_name].keyframe_insert(
                 data_path="rotation_quaternion", frame=f
             )
-            b_obj.pose.bones[n].keyframe_insert(data_path="scale", frame=f)
+            b_obj.pose.bones[bone_name].keyframe_insert(data_path="scale", frame=f)
 
-    context.scene.frame_end = pModelDefinition.pAnimation.numNodeFrames
+    context.scene.frame_end = num_frames
     fps = 1000 / pModelDefinition.pAnimation.frameDurationMs
-    print("FPS:", fps)
     context.scene.render.fps = int(fps)
+
+
+def SpawnArmatureOnly(context, pModelDefinition):
+    """Spawn just the armature for animation-only files."""
+    id_to_obj = {}
+    id_to_children_id = {}
+
+    amt = bpy.data.armatures.new("Armature")
+    from bpy_extras import object_utils
+
+    amt_ob = object_utils.object_data_add(context, amt)
+    amt_ob.location = (0.0, 0.0, 0.0)
+
+    bpy.ops.object.mode_set(mode="EDIT")
+
+    for bone in pModelDefinition.lBones:
+        bone_obj = amt.edit_bones.new(bone.szName)
+        bone_obj.head = Vector((0, 0, 0))
+        bone_obj.tail = Vector((0.001, 0, 0))
+        id_to_obj[bone.uiId] = bone_obj
+        if bone.uiParentId != -1:
+            if bone.uiParentId not in id_to_children_id:
+                id_to_children_id[bone.uiParentId] = [bone.uiId]
+            else:
+                id_to_children_id[bone.uiParentId].append(bone.uiId)
+
+    # Set up bone hierarchy
+    for bone in pModelDefinition.lBones:
+        if bone.uiParentId != -1 and bone.uiParentId in id_to_obj:
+            id_to_obj[bone.uiId].parent = id_to_obj[bone.uiParentId]
+        id_to_obj[bone.uiId].matrix = bone.matGlobal
+
+    bpy.ops.object.mode_set(mode="OBJECT")
+    print(f"Created armature with {len(pModelDefinition.lBones)} bones")
 
 
 def SpawnModel(context, pModelDefinition):
@@ -699,23 +746,23 @@ def load(
 
     if pModelDefinition.pMesh != None:
         SpawnModel(context, pModelDefinition)
+    elif pModelDefinition.lBones != None and len(pModelDefinition.lBones) > 0:
+        # File with bones but no mesh - create armature
+        SpawnArmatureOnly(context, pModelDefinition)
+    elif pModelDefinition.pAnimation != None:
+        # Animation-only file - need existing armature selected
+        if context.object == None or context.object.type != "ARMATURE":
+            raise Exception(
+                "This is an animation-only file. "
+                "Please import a model with matching skeleton first, "
+                "select the armature, then import this animation."
+            )
 
     if context.object != None:
-        # Skip animation loading - causes pose issues and not needed for model editing
-        # if pModelDefinition.pAnimation != None:
-        #     SpawnAnimation(context, pModelDefinition)
+        if pModelDefinition.pAnimation != None:
+            SpawnAnimation(context, pModelDefinition)
 
-        # if pModelDefinition.pAnimationMask != None:
-        #     SpawnAnimationMask(context, pModelDefinition)
-        pass
-
-    # Always end in object mode with pose reset to rest position
-    if context.object != None and context.object.type == "ARMATURE":
-        bpy.ops.object.mode_set(mode="POSE")
-        bpy.ops.pose.select_all(action="SELECT")
-        bpy.ops.pose.transforms_clear()
-        bpy.ops.object.mode_set(mode="OBJECT")
-        # Go to frame 0 to show rest pose
-        context.scene.frame_set(0)
+        if pModelDefinition.pAnimationMask != None:
+            SpawnAnimationMask(context, pModelDefinition)
 
     return {"FINISHED"}
