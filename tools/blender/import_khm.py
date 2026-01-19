@@ -437,40 +437,6 @@ def SpawnAnimation(context, pModelDefinition):
     context.scene.render.fps = int(fps)
 
 
-def SpawnArmatureOnly(context, pModelDefinition):
-    """Spawn just the armature for animation-only files."""
-    id_to_obj = {}
-    id_to_children_id = {}
-
-    amt = bpy.data.armatures.new("Armature")
-    from bpy_extras import object_utils
-
-    amt_ob = object_utils.object_data_add(context, amt)
-    amt_ob.location = (0.0, 0.0, 0.0)
-
-    bpy.ops.object.mode_set(mode="EDIT")
-
-    for bone in pModelDefinition.lBones:
-        bone_obj = amt.edit_bones.new(bone.szName)
-        bone_obj.head = Vector((0, 0, 0))
-        bone_obj.tail = Vector((0.001, 0, 0))
-        id_to_obj[bone.uiId] = bone_obj
-        if bone.uiParentId != -1:
-            if bone.uiParentId not in id_to_children_id:
-                id_to_children_id[bone.uiParentId] = [bone.uiId]
-            else:
-                id_to_children_id[bone.uiParentId].append(bone.uiId)
-
-    # Set up bone hierarchy
-    for bone in pModelDefinition.lBones:
-        if bone.uiParentId != -1 and bone.uiParentId in id_to_obj:
-            id_to_obj[bone.uiId].parent = id_to_obj[bone.uiParentId]
-        id_to_obj[bone.uiId].matrix = bone.matGlobal
-
-    bpy.ops.object.mode_set(mode="OBJECT")
-    print(f"Created armature with {len(pModelDefinition.lBones)} bones")
-
-
 def SpawnModel(context, pModelDefinition):
     id_to_obj = {}
     id_to_children_id = {}
@@ -746,9 +712,6 @@ def load(
 
     if pModelDefinition.pMesh != None:
         SpawnModel(context, pModelDefinition)
-    elif pModelDefinition.lBones != None and len(pModelDefinition.lBones) > 0:
-        # File with bones but no mesh - create armature
-        SpawnArmatureOnly(context, pModelDefinition)
     elif pModelDefinition.pAnimation != None:
         # Animation-only file - need existing armature selected
         if context.object == None or context.object.type != "ARMATURE":
