@@ -33,6 +33,7 @@ def SerializeSkin(context, b_obj, all_vertexes, pMesh, pModelDefinition):
 
     pMesh.pSkinWeights = []
     pMesh.pSkinBoneIndices = []
+    warned_groups = set()
 
     for vertex in all_vertexes:
         indices = []
@@ -41,7 +42,12 @@ def SerializeSkin(context, b_obj, all_vertexes, pMesh, pModelDefinition):
         for group_idx, weight in vertex[3]:
             # Get vertex group name from index, then map to bone ID
             vg_name = b_obj.vertex_groups[group_idx].name
-            bone_id = vg_name_to_bone_id.get(vg_name, 0)
+            bone_id = vg_name_to_bone_id.get(vg_name)
+            if bone_id is None:
+                if vg_name not in warned_groups:
+                    print(f"[Warning] Vertex group '{vg_name}' does not match any bone/helper - weights will be lost")
+                    warned_groups.add(vg_name)
+                bone_id = 0
             indices.append(bone_id)
             weights.append(weight)
         while len(indices) < KHM_MAX_BONE_INFLUENCES:
@@ -187,7 +193,8 @@ def SerializeHelpersAndCollisions(context, b_obj, pModelDefinition):
                     collision.transform = mathutils.Matrix.LocRotScale(loc, rot, sca)
                     ob.scale = old_scale
                     pModelDefinition.pMesh.pCollisions.append(collision)
-                    collision.setBox([ob.scale[0], ob.scale[1], -ob.scale[2]])
+                    # Reverse the import swizzle: import does [x, -z, y], so export does [x, z, -y]
+                    collision.setBox([ob.scale[0], ob.scale[2], -ob.scale[1]])
 
                 elif col_type.startswith("CAPSULE"):
                     # Since we spawned a cylinder rather than a capsule, adjust for the extra height with -0.2488

@@ -382,10 +382,7 @@ def SpawnAnimation(context, pModelDefinition):
     for n, bone_name in node_to_bone.items():
         edit_bone = b_obj.data.edit_bones[bone_name]
         if edit_bone.parent != None:
-            local_matrix = (
-                edit_bone.parent.matrix.inverted()
-                @ edit_bone.matrix
-            )
+            local_matrix = edit_bone.parent.matrix.inverted() @ edit_bone.matrix
         else:
             local_matrix = edit_bone.matrix
         local_matrixes[n] = local_matrix
@@ -417,9 +414,7 @@ def SpawnAnimation(context, pModelDefinition):
 
             matrix = mathutils.Matrix.LocRotScale(loc, rot, sca)
 
-            matrix = (
-                matrix.transposed() @ local_matrixes[n]
-            ).transposed()
+            matrix = (matrix.transposed() @ local_matrixes[n]).transposed()
 
             b_obj.pose.bones[bone_name].matrix_basis = matrix
 
@@ -563,6 +558,19 @@ def SpawnModel(context, pModelDefinition):
                 skin_targets[helper.uiId] = vg_name
 
         if pMesh.pSkinBoneIndices != None:
+            # First pass: find all bone IDs referenced in skin data
+            for i in range(len(pMesh.pSkinBoneIndices)):
+                for v in range(0, 4):
+                    bone_idx = pMesh.pSkinBoneIndices[i][v]
+                    weight = pMesh.pSkinWeights[i][v]
+                    if weight >= 0.0001 and bone_idx not in skin_targets:
+                        # Create a placeholder vertex group for unknown bone IDs
+                        vg_name = f"Bone_{bone_idx}"
+                        b_obj.vertex_groups.new(name=vg_name)
+                        skin_targets[bone_idx] = vg_name
+                        print(f"[Warning] Created placeholder vertex group '{vg_name}' for unknown bone ID {bone_idx}")
+
+            # Second pass: assign weights
             for i in range(len(pMesh.pSkinBoneIndices)):
                 for v in range(0, 4):
                     bone_idx = pMesh.pSkinBoneIndices[i][v]
@@ -571,10 +579,10 @@ def SpawnModel(context, pModelDefinition):
                     if weight < 0.0001:
                         continue
 
-                    if bone_idx not in skin_targets:
+                    vertex_group_name = skin_targets.get(bone_idx)
+                    if vertex_group_name is None:
                         continue
 
-                    vertex_group_name = skin_targets[bone_idx]
                     vertex_group = b_obj.vertex_groups.get(vertex_group_name)
                     if vertex_group is None:
                         continue
@@ -651,10 +659,15 @@ def SpawnModel(context, pModelDefinition):
         for obj in bpy.context.selected_objects:
             obj.select_set(False)
 
-        # Skip remove_doubles for large meshes - causes crashes and is usually unnecessary
-        # User can run "Merge by Distance" manually if needed
+        # Merge duplicate vertices (but skip on large meshes to avoid crashes)
         bpy.context.view_layer.objects.active = b_obj
         b_obj.select_set(True)
+        if pMesh.numVertices < 50000:
+            bpy.ops.object.mode_set(mode="EDIT")
+            bpy.ops.mesh.select_all(action="SELECT")
+            bpy.ops.mesh.remove_doubles(threshold=0.001)
+            bpy.ops.mesh.select_all(action="DESELECT")
+            bpy.ops.object.mode_set(mode="OBJECT")
 
     bpy.ops.object.mode_set(mode="OBJECT")
 
