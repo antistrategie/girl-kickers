@@ -355,7 +355,7 @@ def SerializeModel(context, pModelDefinition):
 
 
 def KeyedChannels(b_obj):
-    """Which channels (location, rotation, scale) the assigned action keys, per bone.
+    """Which channels (location, rotation, scale) the assigned action keys or a driver drives, per bone.
 
     Returns None when no action is assigned, meaning the current pose is exported as is.
     """
@@ -371,6 +371,7 @@ def KeyedChannels(b_obj):
                     fcurves.extend(channelbag.fcurves)
     else:
         fcurves = list(action.fcurves)
+    fcurves.extend(anim.drivers)  # a driven channel counts as animated too
     keyed = {}
     for fcurve in fcurves:
         path = fcurve.data_path
