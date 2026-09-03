@@ -336,12 +336,74 @@ def SerializeModel(context, pModelDefinition):
             )
         b_obj = attached_meshes[0]
 
-    SerializeHelpersAndCollisions(context, b_obj, pModelDefinition)
-    SerializeGeometry(context, b_obj, pModelDefinition.pMesh, pModelDefinition)
+    # read the mesh in its rest pose so the current frame's pose is never baked in
+    armature = context.object if context.object.type == "ARMATURE" else None
+    saved_pose_position = armature.data.pose_position if armature else None
+    if armature:
+        armature.data.pose_position = "REST"
+        context.view_layer.update()
+    try:
+        SerializeHelpersAndCollisions(context, b_obj, pModelDefinition)
+        SerializeGeometry(context, b_obj, pModelDefinition.pMesh, pModelDefinition)
+    finally:
+        if armature:
+            armature.data.pose_position = saved_pose_position
 
     pObject.szName = b_obj.name
     pObject.uiId = pModelDefinition.numBones + pModelDefinition.numHelpers
     pObject.uiParentId = -1
+
+
+def KeyedChannels(b_obj):
+    """Which channels (location, rotation, scale) the assigned action keys, per bone.
+
+    Returns None when no action is assigned, meaning the current pose is exported as is.
+    """
+    anim = b_obj.animation_data
+    if anim is None or anim.action is None:
+        return None
+    action = anim.action
+    fcurves = []
+    if hasattr(action, "layers"):  # Blender 4.4+ slotted actions
+        for layer in action.layers:
+            for strip in layer.strips:
+                for channelbag in strip.channelbags:
+                    fcurves.extend(channelbag.fcurves)
+    else:
+        fcurves = list(action.fcurves)
+    keyed = {}
+    for fcurve in fcurves:
+        path = fcurve.data_path
+        if not path.startswith('pose.bones["'):
+            continue
+        name = path[len('pose.bones["'):path.index('"]')]
+        channel = path[path.index('"]') + 3:]
+        if channel.startswith("rotation"):
+            channel = "rotation"
+        keyed.setdefault(name, set()).add(channel)
+    return keyed
+
+
+def PoseBasis(pose_bone, keyed):
+    """The bone's pose relative to rest. Channels the action does not key are at rest,
+    so a pose left behind by another clip is never baked into this one."""
+    if keyed is None:
+        return pose_bone.matrix_basis.copy()
+    channels = keyed.get(pose_bone.name, set())
+    if {"location", "rotation", "scale"} <= channels:
+        return pose_bone.matrix_basis.copy()
+    # same construction Blender uses for matrix_basis, from the raw properties
+    loc = pose_bone.location.copy() if "location" in channels else mathutils.Vector((0.0, 0.0, 0.0))
+    sca = pose_bone.scale.copy() if "scale" in channels else mathutils.Vector((1.0, 1.0, 1.0))
+    if "rotation" not in channels:
+        rot = mathutils.Quaternion((1.0, 0.0, 0.0, 0.0))
+    elif pose_bone.rotation_mode == "QUATERNION":
+        rot = pose_bone.rotation_quaternion.normalized()
+    elif pose_bone.rotation_mode == "AXIS_ANGLE":
+        rot = mathutils.Quaternion(pose_bone.rotation_axis_angle[1:], pose_bone.rotation_axis_angle[0])
+    else:
+        rot = pose_bone.rotation_euler.to_quaternion()
+    return mathutils.Matrix.LocRotScale(loc, rot, sca)
 
 
 def SerializeAnimation(context, pModelDefinition):
@@ -380,6 +442,8 @@ def SerializeAnimation(context, pModelDefinition):
 
     bones_to_keyframes = {}
 
+    keyed = KeyedChannels(b_obj)
+
     local_matrixes = []
     bpy.ops.object.mode_set(mode="EDIT")
     for pose_bone in anim_bones:
@@ -404,9 +468,8 @@ def SerializeAnimation(context, pModelDefinition):
         for n, pose_bone in enumerate(anim_bones):
             transform = sNodeTransform()
 
-            matrix = (
-                pose_bone.matrix_basis.transposed() @ local_matrixes[n].inverted()
-            ).transposed()
+            basis = PoseBasis(pose_bone, keyed)
+            matrix = (basis.transposed() @ local_matrixes[n].inverted()).transposed()
 
             transform.vTrans, transform.qRot, transform.vScale = matrix.decompose()
             transform.vTrans += local_matrixes[n].to_translation()
