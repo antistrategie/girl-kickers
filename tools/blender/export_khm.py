@@ -35,30 +35,43 @@ def SerializeSkin(context, b_obj, all_vertexes, pMesh, pModelDefinition):
     pMesh.pSkinWeights = []
     pMesh.pSkinBoneIndices = []
     warned_groups = set()
+    trimmed = renormalised = unweighted = 0
 
     for vertex in all_vertexes:
-        indices = []
-        weights = []
-        # vertex[3] is now a tuple of (group_index, weight) pairs
+        pairs = []
+        # vertex[3] is a tuple of (group_index, weight) pairs
         for group_idx, weight in vertex[3]:
-            # Get vertex group name from index, then map to bone ID
             vg_name = b_obj.vertex_groups[group_idx].name
             bone_id = vg_name_to_bone_id.get(vg_name)
             if bone_id is None:
                 if vg_name not in warned_groups:
-                    print(f"[Warning] Vertex group '{vg_name}' does not match any bone/helper - weights will be lost")
+                    print(f"[Warning] Vertex group '{vg_name}' does not match any bone/helper - its weights are dropped")
                     warned_groups.add(vg_name)
-                bone_id = 0
-            indices.append(bone_id)
-            weights.append(weight)
-        while len(indices) < KHM_MAX_BONE_INFLUENCES:
-            indices.append(0)
-        indices = indices[:KHM_MAX_BONE_INFLUENCES]
-        while len(weights) < KHM_MAX_BONE_INFLUENCES:
-            weights.append(0)
-        weights = weights[:KHM_MAX_BONE_INFLUENCES]
-        pMesh.pSkinBoneIndices.append(indices)
-        pMesh.pSkinWeights.append(weights)
+                continue
+            if weight > 0:
+                pairs.append((bone_id, weight))
+        # the game takes four influences per vertex and does not renormalise,
+        # so keep the four largest and make them sum to 1
+        if len(pairs) > KHM_MAX_BONE_INFLUENCES:
+            pairs.sort(key=lambda p: -p[1])
+            pairs = pairs[:KHM_MAX_BONE_INFLUENCES]
+            trimmed += 1
+        total = sum(w for _, w in pairs)
+        if total <= 0:
+            unweighted += 1
+        elif abs(total - 1.0) > 1e-4:
+            pairs = [(b, w / total) for b, w in pairs]
+            renormalised += 1
+        padding = KHM_MAX_BONE_INFLUENCES - len(pairs)
+        pMesh.pSkinBoneIndices.append([b for b, _ in pairs] + [0] * padding)
+        pMesh.pSkinWeights.append([w for _, w in pairs] + [0.0] * padding)
+
+    if trimmed or renormalised or unweighted:
+        print(
+            f"[Warning] {b_obj.name}: {trimmed} vertices had more than {KHM_MAX_BONE_INFLUENCES} bone "
+            f"influences (kept the largest), {renormalised} had weights not summing to 1 (renormalised), "
+            f"{unweighted} have no weights at all"
+        )
 
 
 def VertexAlias(point1, point2):
@@ -352,14 +365,17 @@ def SerializeAnimation(context, pModelDefinition):
     # animations contain bones only).
     anim_bones = [pb for pb in b_obj.pose.bones if not pb.name.startswith("HELPER_")]
 
-    pModelDefinition.pAnimation.numNodeFrames = scene.frame_end
+    # frames scene.frame_start to scene.frame_end inclusive, the same range the timeline plays
+    frame_start = scene.frame_start
+    frame_count = scene.frame_end - scene.frame_start + 1
+    pModelDefinition.pAnimation.numNodeFrames = frame_count
     pModelDefinition.pAnimation.frameDurationMs = 1 / scene.render.fps * 1000
     pModelDefinition.pAnimation.numNodes = len(anim_bones)
     pModelDefinition.pAnimation.pNodeTransforms = []
     pModelDefinition.pAnimation.pNodeAnimations = []
     pModelDefinition.pAnimation.startTimeS = 0.0
     pModelDefinition.pAnimation.endTimeS = (
-        (scene.frame_end - 1) * pModelDefinition.pAnimation.frameDurationMs / 1000
+        (frame_count - 1) * pModelDefinition.pAnimation.frameDurationMs / 1000
     )
 
     bones_to_keyframes = {}
@@ -382,7 +398,7 @@ def SerializeAnimation(context, pModelDefinition):
         pNodeAnimation.szNodeName = pose_bone.name
         pModelDefinition.pAnimation.pNodeAnimations.append(pNodeAnimation)
 
-    for f in range(scene.frame_end):
+    for f in range(frame_start, scene.frame_end + 1):
         scene.frame_set(f)
 
         for n, pose_bone in enumerate(anim_bones):
@@ -417,7 +433,7 @@ def SerializeAnimation(context, pModelDefinition):
         for keyframe in bones_to_keyframes[bone]:
             pModelDefinition.pAnimation.pNodeTransforms.append(keyframe)
 
-    scene.frame_set(1)
+    scene.frame_set(frame_start)
     bpy.ops.object.mode_set(mode="OBJECT")
 
 
@@ -617,17 +633,31 @@ def SaveModel(file, pModelDefinition):
     SaveAnimationMask(file, pModelDefinition)
 
 
+def CheckTransformApplied(ob):
+    m = ob.matrix_world
+    identity = mathutils.Matrix.Identity(4)
+    if any(abs(m[i][j] - identity[i][j]) > 1e-4 for i in range(4) for j in range(4)):
+        raise Exception(
+            f"'{ob.name}' has an unapplied location, rotation or scale. The exporter only writes "
+            "what is inside the object, so select it and use Ctrl+A > All Transforms first."
+        )
+
+
 def ExportModel(
     context, filepath, export_mesh, export_animation, export_animation_mask
 ):
-    file = open(filepath, "wb")
-    sHeader.export(file)
-
     if len(bpy.context.selected_objects) == 0:
-        print("[Error] ExportModel: No object was selected to export.")
-        return {"FINISHED"}
+        raise Exception("Nothing selected. Select the armature to export.")
 
     selected_object = bpy.context.selected_objects[0]
+    CheckTransformApplied(selected_object)
+    if export_mesh and selected_object.type == "ARMATURE":
+        for ob in bpy.data.objects:
+            if ob.parent == selected_object and ob.type == "MESH" and "COL_" not in ob.name:
+                CheckTransformApplied(ob)
+
+    file = open(filepath, "wb")
+    sHeader.export(file)
 
     pModelDefinition = sModelDefinition()
 
