@@ -2,208 +2,6 @@
 
 <!-- DEV -->
 
-<!-- XCR SHARKRY, THE STANDARD OF ALL ASSAULT RIFLES -->
-
-    <Bind eqp="GFL-WEAP-XCR">
-        <!-- See notes on ammo -->
-        <to name="556FMJEPR_GFL_XCR" />
-        <to name="556APFSF_GFL_XCR" />
-
-        <to name="scope_GFL_IronSights" />
-        <to name="scope_GFL_RedDot" />
-        <to name="scope_GFL_Holosight" />
-        <to name="scope_GFL_M68CCO" />
-        <to name="scope_GFL_M150RCO" />
-        <to name="scope_GFL_HoloMag3x" />
-        <to name="scope_GFL_SpecterDR" />
-        <to name="scope_GFL_LPVO_6X" />
-        <to name="scope_GFL_LPVO_8X" />
-        <to name="scope_GFL_LROMK4_3_10X" />
-        <to name="scope_GFL_LROMK6_3_18X" />
-        <to name="scope_GFL_LROPM_5_25X" />
-
-    </Bind>
-    <Firearm
-        name="GFL-WEAP-XCR"
-        inventoryBinding="PrimaryWeapon"
-        category="rifle"
-        unlockCost="0"
-        tooltip="@WEAP-XCR-NAME"
-        description="@WEAP-XCR-DESC"
-        img="data/models/signatures/xcr_ui.dds"
-        animationSet="rifle"
-    >
-        <!-- Unlike most vanilla primaries, it will be important to set the movespeed and turnspeed modifier of the signature weapons to 0, this way, this makes balancing easier and making sense in the lore: Dolls are imprinted on their weapons which means these weapons are so familiar to them intrinsically that one can consider them as an extension of their own body. -->
-        <MobilityModifiers
-            moveSpeedModifierPercent="0"
-            turnSpeedModifierPercent="0"
-        />
-        <!-- Concealment is important for the equipment to allow for scouting. The default values will be from HG, SMG, AR, SG, RF, LMG; 0, -2, -4, -4, -6, -8. -->
-        <ConcealmentModifier add="-4" />
-
-        <RenderObject3D
-            model="data/models/signatures/xcr.khm"
-            attachSlot="prop_front_rifle"
-            skipGOSSAO="true"
-            diffuseTex="data/models/signatures/xcr.dds"
-        />
-        <!-- Parameters are on the basis that the Dolls are very familiar with their weapons. Note that accuracy will always be at 200 on start and end, we will modify accuracy on the attack types to make things simpler.-->
-        <ModifiableParams
-            numPellets="1"
-            roundsPerMagazine="30"
-            closedBolt="1"
-            cyclicReload="0"
-            reloadTime="1700"
-            reloadEmptyTime="1800"
-            changeInTime="0"
-            changeOutTime="0"
-            readyTime="340"
-            guardTime="160"
-            accuracyStart="85"
-            accuracyEnd="80"
-            accuracyStartDist="4"
-            accuracyEndDist="50"
-        />
-
-        <Params
-            caliberInfoText="@firearm_caliber_556x45_name"
-            operationInfoText="@firearm_operation_semifull_name"
-            ejectingShellEntity="BulletCasingLarge"
-            magazineEntity="m4_mag"
-            suppressedSwitch="GFL-WEAP-XCR-SUP"
-            ai_rangeMin="1.0"
-            ai_rangeOptimal="18.0"
-            ai_rangeMax="45.0"
-            ai_stopWhenShooting="false"
-        />
-
-        <AttackTypes>
-
-            <AttackType name="GFL_CQC_XCR" rangeMeters="4" />
-            <AttackType name="GFL_Near_XCR" rangeMeters="8" />
-            <AttackType name="GFL_Close_XCR" rangeMeters="12" />
-            <AttackType name="GFL_Medium_XCR" rangeMeters="16" />
-            <AttackType name="GFL_MedEdge_XCR" rangeMeters="20" />
-            <AttackType name="GFL_Extended_XCR" rangeMeters="9999" />
-
-        </AttackTypes>
-
-        <MuzzleFlash lightTemplate="ShotLightLarge" tracerTemplate="Tracer_Rifle">
-            <Flare particles="FX_MUZZLE_FLASH_RIFLE_01" />
-            <Flare particles="FX_MUZZLE_FLASH_RIFLE_02" />
-            <Flare particles="FX_MUZZLE_FLASH_RIFLE_03" />
-            <Flare particles="FX_MUZZLE_FLASH_RIFLE_04" />
-        </MuzzleFlash>
-
-        <Sounds>
-            <Equip name="rifle_eqp" />
-            <Unequip name="rifle_neqp" />
-            <Reload name="rifle_reld" />
-            <ReloadEmpty name="rifle_reldempt" />
-            <Fire name="m4_fire" />
-            <ShellDrop name="rifle_shell_drop" />
-            <Empty name="gen_empty" />
-        </Sounds>
-    </Firearm>
-
-    <Bind eqp="GFL-WEAP-XCR-SUP">
-
-        <to name="556FMJEPR_GFL_XCR-SUP" />
-
-        <to name="scope_GFL_IronSights" />
-        <to name="scope_GFL_RedDot" />
-        <to name="scope_GFL_Holosight" />
-        <to name="scope_GFL_M68CCO" />
-        <to name="scope_GFL_M150RCO" />
-        <to name="scope_GFL_HoloMag3x" />
-        <to name="scope_GFL_SpecterDR" />
-        <to name="scope_GFL_LPVO_6X" />
-        <to name="scope_GFL_LPVO_8X" />
-        <to name="scope_GFL_LROMK4_3_10X" />
-        <to name="scope_GFL_LROMK6_3_18X" />
-        <to name="scope_GFL_LROPM_5_25X" />
-
-    </Bind>
-    <Firearm
-        name="GFL-WEAP-XCR-SUP"
-        inventoryBinding="PrimaryWeaponMuzzle"
-        category="rifle"
-        unlockCost="0"
-        tooltip="@WEAP-XCR-NAME"
-        description="@WEAP-XCR-DESC"
-        img="data/models/signatures/xcr_ui.dds"
-        animationSet="rifle"
-    >
-        <!-- Unlike most vanilla primaries, it will be important to set the movespeed and turnspeed modifier of the signature weapons to 0, this way, this makes balancing easier and making sense in the lore: Dolls are imprinted on their weapons which means these weapons are so familiar to them intrinsically that one can consider them as an extension of their own body. -->
-        <MobilityModifiers
-            moveSpeedModifierPercent="0"
-            turnSpeedModifierPercent="0"
-        />
-        <!-- Concealment is important for the equipment to allow for scouting. The default values will be from HG, SMG, AR, SG, RF, LMG; 0, -2, -4, -4, -6, -8. -->
-        <ConcealmentModifier add="-4" />
-
-        <RenderObject3D model="data/models/signatures/xcr.khm" attachSlot="prop_front_rifle" skipGOSSAO="true" diffuseTex="data/models/signatures/xcr.dds"/>
-        <RenderObject3D model="data/models/weapons/attachments/silencer_01.khm" attachSlot="silencer_socket" skipGOSSAO="true" diffuseTex="data/models/weapons/attachments/silencer_01a.dds"/>
-        <!-- Parameters are on the basis that the Dolls are very familiar with their weapons. Note that accuracy will always be at 200 on start and end, we will modify accuracy on the attack types to make things simpler.-->
-        <ModifiableParams
-            numPellets="1"
-            roundsPerMagazine="30"
-            closedBolt="1"
-            cyclicReload="0"
-            reloadTime="1700"
-            reloadEmptyTime="1800"
-            changeInTime="0"
-            changeOutTime="0"
-            readyTime="340"
-            guardTime="160"
-            accuracyStart="85"
-            accuracyEnd="80"
-            accuracyStartDist="4"
-            accuracyEndDist="50"
-        />
-
-        <Params
-            caliberInfoText="@firearm_caliber_556x45_name"
-            operationInfoText="@firearm_operation_semifull_name"
-            ejectingShellEntity="BulletCasingLarge"
-            magazineEntity="m4_mag"
-            suppressedSwitch="GFL-WEAP-XCR"
-            suppressedImg="data/models/weapons/attachments/basic_silencer_ui.dds"
-            ai_rangeMin="1.0"
-            ai_rangeOptimal="18.0"
-            ai_rangeMax="45.0"
-            ai_stopWhenShooting="false"
-        />
-
-        <AttackTypes>
-
-            <AttackType name="GFL_CQC_XCR" rangeMeters="4" />
-            <AttackType name="GFL_Near_XCR" rangeMeters="8" />
-            <AttackType name="GFL_Close_XCR" rangeMeters="12" />
-            <AttackType name="GFL_Medium_XCR" rangeMeters="16" />
-            <AttackType name="GFL_MedEdge_XCR" rangeMeters="20" />
-            <AttackType name="GFL_Extended_XCR" rangeMeters="9999" />
-
-        </AttackTypes>
-
-        <MuzzleFlash lightTemplate="ShotLightSmall" tracerTemplate="Tracer_Rifle">
-            <Flare particles="FX_MUZZLE_FLASH_RIFLE_05" />
-            <Flare particles="FX_MUZZLE_FLASH_RIFLE_06" />
-            <Flare particles="FX_MUZZLE_FLASH_RIFLE_07" />
-            <Flare particles="FX_MUZZLE_FLASH_RIFLE_08" />
-        </MuzzleFlash>
-
-        <Sounds>
-            <Equip name="rifle_eqp" />
-            <Unequip name="rifle_neqp" />
-            <Reload name="rifle_reld" />
-            <ReloadEmpty name="rifle_reldempt" />
-            <Fire name="m4sup_fire" />
-            <ShellDrop name="rifle_shell_drop" />
-            <Empty name="gen_empty" />
-        </Sounds>
-    </Firearm>
-
 <!-- PA-15 FLORENCE, THE STANDARD OF ALL HANDGUNS -->
 
     <Bind eqp="GFL-WEAP-PA15">
@@ -2867,6 +2665,208 @@
             <AttackType name="GFL_Medium_G36" rangeMeters="16" />
             <AttackType name="GFL_MedEdge_G36" rangeMeters="20" />
             <AttackType name="GFL_Extended_G36" rangeMeters="9999" />
+
+        </AttackTypes>
+
+        <MuzzleFlash lightTemplate="ShotLightSmall" tracerTemplate="Tracer_Rifle">
+            <Flare particles="FX_MUZZLE_FLASH_RIFLE_05" />
+            <Flare particles="FX_MUZZLE_FLASH_RIFLE_06" />
+            <Flare particles="FX_MUZZLE_FLASH_RIFLE_07" />
+            <Flare particles="FX_MUZZLE_FLASH_RIFLE_08" />
+        </MuzzleFlash>
+
+        <Sounds>
+            <Equip name="rifle_eqp" />
+            <Unequip name="rifle_neqp" />
+            <Reload name="rifle_reld" />
+            <ReloadEmpty name="rifle_reldempt" />
+            <Fire name="m4sup_fire" />
+            <ShellDrop name="rifle_shell_drop" />
+            <Empty name="gen_empty" />
+        </Sounds>
+    </Firearm>
+
+<!-- XCR SHARKRY -->
+
+    <Bind eqp="GFL-WEAP-XCR">
+        <!-- See notes on ammo -->
+        <to name="556FMJEPR_GFL_XCR" />
+        <to name="556APFSF_GFL_XCR" />
+
+        <to name="scope_GFL_IronSights" />
+        <to name="scope_GFL_RedDot" />
+        <to name="scope_GFL_Holosight" />
+        <to name="scope_GFL_M68CCO" />
+        <to name="scope_GFL_M150RCO" />
+        <to name="scope_GFL_HoloMag3x" />
+        <to name="scope_GFL_SpecterDR" />
+        <to name="scope_GFL_LPVO_6X" />
+        <to name="scope_GFL_LPVO_8X" />
+        <to name="scope_GFL_LROMK4_3_10X" />
+        <to name="scope_GFL_LROMK6_3_18X" />
+        <to name="scope_GFL_LROPM_5_25X" />
+
+    </Bind>
+    <Firearm
+        name="GFL-WEAP-XCR"
+        inventoryBinding="PrimaryWeapon"
+        category="rifle"
+        unlockCost="0"
+        tooltip="@WEAP-XCR-NAME"
+        description="@WEAP-XCR-DESC"
+        img="data/models/signatures/xcr_ui.dds"
+        animationSet="rifle"
+    >
+        <!-- Unlike most vanilla primaries, it will be important to set the movespeed and turnspeed modifier of the signature weapons to 0, this way, this makes balancing easier and making sense in the lore: Dolls are imprinted on their weapons which means these weapons are so familiar to them intrinsically that one can consider them as an extension of their own body. -->
+        <MobilityModifiers
+            moveSpeedModifierPercent="0"
+            turnSpeedModifierPercent="0"
+        />
+        <!-- Concealment is important for the equipment to allow for scouting. The default values will be from HG, SMG, AR, SG, RF, LMG; 0, -2, -4, -4, -6, -8. -->
+        <ConcealmentModifier add="-4" />
+
+        <RenderObject3D
+            model="data/models/signatures/xcr.khm"
+            attachSlot="prop_front_rifle"
+            skipGOSSAO="true"
+            diffuseTex="data/models/signatures/xcr.dds"
+        />
+        <!-- Parameters are on the basis that the Dolls are very familiar with their weapons. Note that accuracy will always be at 200 on start and end, we will modify accuracy on the attack types to make things simpler.-->
+        <ModifiableParams
+            numPellets="1"
+            roundsPerMagazine="30"
+            closedBolt="1"
+            cyclicReload="0"
+            reloadTime="1700"
+            reloadEmptyTime="1800"
+            changeInTime="0"
+            changeOutTime="0"
+            readyTime="340"
+            guardTime="160"
+            accuracyStart="85"
+            accuracyEnd="80"
+            accuracyStartDist="4"
+            accuracyEndDist="50"
+        />
+
+        <Params
+            caliberInfoText="@firearm_caliber_556x45_name"
+            operationInfoText="@firearm_operation_semifull_name"
+            ejectingShellEntity="BulletCasingLarge"
+            magazineEntity="m4_mag"
+            suppressedSwitch="GFL-WEAP-XCR-SUP"
+            ai_rangeMin="1.0"
+            ai_rangeOptimal="18.0"
+            ai_rangeMax="45.0"
+            ai_stopWhenShooting="false"
+        />
+
+        <AttackTypes>
+
+            <AttackType name="GFL_CQC_XCR" rangeMeters="4" />
+            <AttackType name="GFL_Near_XCR" rangeMeters="8" />
+            <AttackType name="GFL_Close_XCR" rangeMeters="12" />
+            <AttackType name="GFL_Medium_XCR" rangeMeters="16" />
+            <AttackType name="GFL_MedEdge_XCR" rangeMeters="20" />
+            <AttackType name="GFL_Extended_XCR" rangeMeters="9999" />
+
+        </AttackTypes>
+
+        <MuzzleFlash lightTemplate="ShotLightLarge" tracerTemplate="Tracer_Rifle">
+            <Flare particles="FX_MUZZLE_FLASH_RIFLE_01" />
+            <Flare particles="FX_MUZZLE_FLASH_RIFLE_02" />
+            <Flare particles="FX_MUZZLE_FLASH_RIFLE_03" />
+            <Flare particles="FX_MUZZLE_FLASH_RIFLE_04" />
+        </MuzzleFlash>
+
+        <Sounds>
+            <Equip name="rifle_eqp" />
+            <Unequip name="rifle_neqp" />
+            <Reload name="rifle_reld" />
+            <ReloadEmpty name="rifle_reldempt" />
+            <Fire name="m4_fire" />
+            <ShellDrop name="rifle_shell_drop" />
+            <Empty name="gen_empty" />
+        </Sounds>
+    </Firearm>
+
+    <Bind eqp="GFL-WEAP-XCR-SUP">
+
+        <to name="556FMJEPR_GFL_XCR-SUP" />
+
+        <to name="scope_GFL_IronSights" />
+        <to name="scope_GFL_RedDot" />
+        <to name="scope_GFL_Holosight" />
+        <to name="scope_GFL_M68CCO" />
+        <to name="scope_GFL_M150RCO" />
+        <to name="scope_GFL_HoloMag3x" />
+        <to name="scope_GFL_SpecterDR" />
+        <to name="scope_GFL_LPVO_6X" />
+        <to name="scope_GFL_LPVO_8X" />
+        <to name="scope_GFL_LROMK4_3_10X" />
+        <to name="scope_GFL_LROMK6_3_18X" />
+        <to name="scope_GFL_LROPM_5_25X" />
+
+    </Bind>
+    <Firearm
+        name="GFL-WEAP-XCR-SUP"
+        inventoryBinding="PrimaryWeaponMuzzle"
+        category="rifle"
+        unlockCost="0"
+        tooltip="@WEAP-XCR-NAME"
+        description="@WEAP-XCR-DESC"
+        img="data/models/signatures/xcr_ui.dds"
+        animationSet="rifle"
+    >
+        <!-- Unlike most vanilla primaries, it will be important to set the movespeed and turnspeed modifier of the signature weapons to 0, this way, this makes balancing easier and making sense in the lore: Dolls are imprinted on their weapons which means these weapons are so familiar to them intrinsically that one can consider them as an extension of their own body. -->
+        <MobilityModifiers
+            moveSpeedModifierPercent="0"
+            turnSpeedModifierPercent="0"
+        />
+        <!-- Concealment is important for the equipment to allow for scouting. The default values will be from HG, SMG, AR, SG, RF, LMG; 0, -2, -4, -4, -6, -8. -->
+        <ConcealmentModifier add="-4" />
+
+        <RenderObject3D model="data/models/signatures/xcr.khm" attachSlot="prop_front_rifle" skipGOSSAO="true" diffuseTex="data/models/signatures/xcr.dds"/>
+        <RenderObject3D model="data/models/weapons/attachments/silencer_01.khm" attachSlot="silencer_socket" skipGOSSAO="true" diffuseTex="data/models/weapons/attachments/silencer_01a.dds"/>
+        <!-- Parameters are on the basis that the Dolls are very familiar with their weapons. Note that accuracy will always be at 200 on start and end, we will modify accuracy on the attack types to make things simpler.-->
+        <ModifiableParams
+            numPellets="1"
+            roundsPerMagazine="30"
+            closedBolt="1"
+            cyclicReload="0"
+            reloadTime="1700"
+            reloadEmptyTime="1800"
+            changeInTime="0"
+            changeOutTime="0"
+            readyTime="340"
+            guardTime="160"
+            accuracyStart="85"
+            accuracyEnd="80"
+            accuracyStartDist="4"
+            accuracyEndDist="50"
+        />
+
+        <Params
+            caliberInfoText="@firearm_caliber_556x45_name"
+            operationInfoText="@firearm_operation_semifull_name"
+            ejectingShellEntity="BulletCasingLarge"
+            magazineEntity="m4_mag"
+            suppressedSwitch="GFL-WEAP-XCR"
+            suppressedImg="data/models/weapons/attachments/basic_silencer_ui.dds"
+            ai_rangeMin="1.0"
+            ai_rangeOptimal="18.0"
+            ai_rangeMax="45.0"
+            ai_stopWhenShooting="false"
+        />
+
+        <AttackTypes>
+
+            <AttackType name="GFL_CQC_XCR" rangeMeters="4" />
+            <AttackType name="GFL_Near_XCR" rangeMeters="8" />
+            <AttackType name="GFL_Close_XCR" rangeMeters="12" />
+            <AttackType name="GFL_Medium_XCR" rangeMeters="16" />
+            <AttackType name="GFL_MedEdge_XCR" rangeMeters="20" />
+            <AttackType name="GFL_Extended_XCR" rangeMeters="9999" />
 
         </AttackTypes>
 
