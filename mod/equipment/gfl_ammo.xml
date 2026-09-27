@@ -25,108 +25,6 @@
     SSI Assault = 100 HP, 25 supprecovery, 60 protlevel, 30 protlevel helm
 -->
 
-<!-- XCR SHARKRY -->
-
-    <Ammo
-        name="556FMJEPR_GFL_XCR"
-        tooltip="@ammo_556_fmj_epr_name"
-        description="@ammo_556_fmj_epr_desc"
-        img="data/models/weapons/attachments/m855a1_ammo_ui.dds"
-    >
-        <!-- Rounds per Second should reflect the actual RPM of the gun/60. -->
-        <Params
-            roundsPerSecond="14.2"
-            audibleSoundRadius="100"
-            physicsImpactForce="2.0"
-        >
-            <Damage
-                start="28"
-                end="24"
-                startDist="0"
-                endDist="100"
-            />
-            <CriticalChancePercent
-                start="0"
-                end="0"
-                startDist="0"
-                endDist="100"
-            />
-            <ArmorPenetration
-                start="50"
-                end="50"
-                startDist="0"
-                endDist="100"
-            />
-        </Params>
-    </Ammo>
-
-    <Ammo
-        name="556APFSF_GFL_XCR" unlockCost="6"
-        tooltip="@ammo_556_apf_sf_name"
-        description="@ammo_556_apf_sf_desc"
-        img="data/models/weapons/attachments/mk318_ammo_ui.dds"
-    >
-        <!-- Rounds per Second should reflect the actual RPM of the gun/60. -->
-        <Params
-            roundsPerSecond="14.2"
-            audibleSoundRadius="100"
-            physicsImpactForce="2.0"
-        >
-            <Damage
-                start="36"
-                end="32"
-                startDist="0"
-                endDist="40"
-            />
-            <CriticalChancePercent
-                start="0"
-                end="0"
-                startDist="0"
-                endDist="100"
-            />
-            <ArmorPenetration
-                start="70"
-                end="20"
-                startDist="5"
-                endDist="20"
-            />
-        </Params>
-    </Ammo>
-
-    <Ammo
-        name="556FMJEPR_GFL_XCR-SUP"
-        tooltip="@ammo_556_fmj_epr_name"
-        description="@ammo_556_fmj_epr_desc"
-        img="data/models/weapons/attachments/m855a1_ammo_ui.dds"
-    >
-        <!-- Rounds per Second should reflect the actual RPM of the gun/60. -->
-        <Params
-            roundsPerSecond="14.2"
-            audibleSoundRadius="40"
-            physicsImpactForce="2.0"
-            silenced="1"
-        >
-            <Damage
-                start="28"
-                end="24"
-                startDist="0"
-                endDist="100"
-            />
-            <CriticalChancePercent
-                start="0"
-                end="0"
-                startDist="0"
-                endDist="100"
-            />
-            <ArmorPenetration
-                start="50"
-                end="50"
-                startDist="0"
-                endDist="100"
-            />
-        </Params>
-    </Ammo>
-
 <!-- PA-15 FLORENCE -->
 
     <Ammo
@@ -1619,6 +1517,108 @@
             />
         </Params>
     </Ammo>
+
+    <!-- XCR SHARKRY -->
+
+        <Ammo
+            name="556FMJEPR_GFL_XCR"
+            tooltip="@ammo_556_fmj_epr_name"
+            description="@ammo_556_fmj_epr_desc"
+            img="data/models/weapons/attachments/m855a1_ammo_ui.dds"
+        >
+            <!-- Rounds per Second should reflect the actual RPM of the gun/60. -->
+            <Params
+                roundsPerSecond="14.2"
+                audibleSoundRadius="100"
+                physicsImpactForce="2.0"
+            >
+                <Damage
+                    start="28"
+                    end="24"
+                    startDist="0"
+                    endDist="100"
+                />
+                <CriticalChancePercent
+                    start="0"
+                    end="0"
+                    startDist="0"
+                    endDist="100"
+                />
+                <ArmorPenetration
+                    start="50"
+                    end="50"
+                    startDist="0"
+                    endDist="100"
+                />
+            </Params>
+        </Ammo>
+
+        <Ammo
+            name="556APFSF_GFL_XCR" unlockCost="6"
+            tooltip="@ammo_556_apf_sf_name"
+            description="@ammo_556_apf_sf_desc"
+            img="data/models/weapons/attachments/mk318_ammo_ui.dds"
+        >
+            <!-- Rounds per Second should reflect the actual RPM of the gun/60. -->
+            <Params
+                roundsPerSecond="14.2"
+                audibleSoundRadius="100"
+                physicsImpactForce="2.0"
+            >
+                <Damage
+                    start="36"
+                    end="32"
+                    startDist="0"
+                    endDist="40"
+                />
+                <CriticalChancePercent
+                    start="0"
+                    end="0"
+                    startDist="0"
+                    endDist="100"
+                />
+                <ArmorPenetration
+                    start="70"
+                    end="20"
+                    startDist="5"
+                    endDist="20"
+                />
+            </Params>
+        </Ammo>
+
+        <Ammo
+            name="556FMJEPR_GFL_XCR-SUP"
+            tooltip="@ammo_556_fmj_epr_name"
+            description="@ammo_556_fmj_epr_desc"
+            img="data/models/weapons/attachments/m855a1_ammo_ui.dds"
+        >
+            <!-- Rounds per Second should reflect the actual RPM of the gun/60. -->
+            <Params
+                roundsPerSecond="14.2"
+                audibleSoundRadius="40"
+                physicsImpactForce="2.0"
+                silenced="1"
+            >
+                <Damage
+                    start="28"
+                    end="24"
+                    startDist="0"
+                    endDist="100"
+                />
+                <CriticalChancePercent
+                    start="0"
+                    end="0"
+                    startDist="0"
+                    endDist="100"
+                />
+                <ArmorPenetration
+                    start="50"
+                    end="50"
+                    startDist="0"
+                    endDist="100"
+                />
+            </Params>
+        </Ammo>
 
 <!-- OTS-14 GROZA -->
 
