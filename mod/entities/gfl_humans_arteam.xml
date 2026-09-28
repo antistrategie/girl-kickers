@@ -1,5 +1,7 @@
 <Entities>
 
+<!-- RO635 ROBELLA -->
+
     <Entity name="ARTEAM-RO635" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/cubebodies/ro635.khm"
@@ -40,6 +42,8 @@
         </Human>
     </Entity>
 
+<!-- M4 SOPMOD II SOPPO -->
+
     <Entity name="ARTEAM-SOPMODII" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/sopmodii.khm"
@@ -78,6 +82,8 @@
             </Equipment>
         </Human>
     </Entity>
+
+<!-- ST AR-15 ASTERIA -->
 
     <Entity name="ARTEAM-AR15" type="Human" editorAutoHeight="false">
         <RenderObject3D

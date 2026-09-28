@@ -1,4 +1,7 @@
 <Entities>
+
+<!-- AN-94 ALVA -->
+
     <Entity name="DEFY-AN94" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/cubebodies/an94.khm"
@@ -39,6 +42,8 @@
         </Human>
     </Entity>
 
+<!-- AK-15 VOYMASTINA -->
+
     <Entity name="DEFY-AK15" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/cubebodies/ak15.khm"
@@ -78,6 +83,8 @@
             </Equipment>
         </Human>
     </Entity>
+
+<!-- AK-12 KOLEDA -->
 
     <Entity name="DEFY-AK12" type="Human" editorAutoHeight="false">
         <RenderObject3D

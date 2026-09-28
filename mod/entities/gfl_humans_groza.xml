@@ -1,4 +1,7 @@
 <Entities>
+
+<!-- OTS-14 GROZA -->
+
     <Entity name="GROZA-OTS14" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/cubebodies/ots14.khm"
@@ -39,6 +42,8 @@
         </Human>
     </Entity>
 
+<!-- OM-50 NEMESIS -->
+
     <Entity name="GROZA-OM50" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/om50.khm"
@@ -77,6 +82,8 @@
             </Equipment>
         </Human>
     </Entity>
+
+<!-- HARE KROLIK -->
 
     <Entity name="GROZA-HARE" type="Human" editorAutoHeight="false">
         <RenderObject3D
@@ -117,6 +124,8 @@
         </Human>
     </Entity>
 
+<!-- CURVA (TAURUS CURVE) COLPHNE -->
+
     <Entity name="GROZA-CURVA" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/curva.khm"
@@ -155,6 +164,8 @@
             </Equipment>
         </Human>
     </Entity>
+
+<!-- VEPR-12 VEPLEY -->
 
     <Entity name="GROZA-VEPR12" type="Human" editorAutoHeight="false">
         <RenderObject3D

@@ -1,4 +1,7 @@
 <Entities>
+
+<!-- QBZ-191 QIONGJIU -->
+
     <Entity name="FROST-QBZ191" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/qbz191.khm"
@@ -37,6 +40,8 @@
             </Equipment>
         </Human>
     </Entity>
+
+<!-- AK-ALFA TOLOLO -->
 
     <Entity name="FROST-AKALFA" type="Human" editorAutoHeight="false">
         <RenderObject3D
@@ -78,6 +83,8 @@
         </Human>
     </Entity>
 
+<!-- AA-12 LIND -->
+
     <Entity name="FROST-AA12" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/aa12.khm"
@@ -116,6 +123,8 @@
             </Equipment>
         </Human>
     </Entity>
+
+<!-- MP7 CHEETA -->
 
     <Entity name="FROST-MP7" type="Human" editorAutoHeight="false">
         <RenderObject3D

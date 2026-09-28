@@ -1,4 +1,7 @@
 <Entities>
+
+<!-- STECHKIN KSENIA -->
+
     <Entity name="POL03-STECHKIN" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/stechkin.khm"
@@ -37,6 +40,8 @@
             </Equipment>
         </Human>
     </Entity>
+
+<!-- M1895 NAGANT -->
 
     <Entity name="POL03-NAGANT" type="Human" editorAutoHeight="false">
         <RenderObject3D
@@ -77,6 +82,8 @@
         </Human>
     </Entity>
 
+<!-- MOSIN-NAGANT -->
+
     <Entity name="POL03-MOSINNAGANT" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/cubebodies/mosinnagant.khm"
@@ -116,6 +123,8 @@
             </Equipment>
         </Human>
     </Entity>
+
+<!-- PPSH-41 PAPASHA -->
 
     <Entity name="POL03-PPSH41" type="Human" editorAutoHeight="false">
         <RenderObject3D

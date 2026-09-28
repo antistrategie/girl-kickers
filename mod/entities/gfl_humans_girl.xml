@@ -1,4 +1,7 @@
 <Entities>
+
+<!-- COMMANDER (F) -->
+
     <Entity name="GIRL-SKKF" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/skkf.khm"
@@ -37,6 +40,8 @@
         </Human>
     </Entity>
 
+<!-- COMMANDER (M) -->
+
     <Entity name="GIRL-SKKM" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/skkm.khm"
@@ -74,6 +79,8 @@
             <Doctrine name="GFL_CommandAura" />
         </Human>
     </Entity>
+
+<!-- UMP40 LAINIE -->
 
     <Entity name="GIRL-UMP40" type="Human" editorAutoHeight="false">
         <RenderObject3D
@@ -114,6 +121,8 @@
         </Human>
     </Entity>
 
+<!-- K2 YOOHEE -->
+
     <Entity name="GIRL-K2" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/k2.khm"
@@ -152,6 +161,8 @@
             </Equipment>
         </Human>
     </Entity>
+
+<!-- DSR-50 LORELEI -->
 
     <Entity name="GIRL-DSR50" type="Human" editorAutoHeight="false">
         <RenderObject3D

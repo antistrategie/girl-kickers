@@ -1,4 +1,7 @@
 <Entities>
+
+<!-- M1903 SPRINGFIELD -->
+
     <Entity name="CAFE-M1903" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/cubebodies/m1903.khm"
@@ -38,6 +41,8 @@
             </Equipment>
         </Human>
     </Entity>
+
+<!-- WA2000 MAKIATTO -->
 
     <Entity name="CAFE-WA2000" type="Human" editorAutoHeight="false">
         <RenderObject3D
@@ -79,6 +84,8 @@
         </Human>
     </Entity>
 
+<!-- G36 CENTAUREISSI -->
+
     <Entity name="CAFE-G36" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/g36.khm"
@@ -117,6 +124,8 @@
             </Equipment>
         </Human>
     </Entity>
+
+<!-- XCR SHARKRY -->
 
     <Entity name="CAFE-XCR" type="Human" editorAutoHeight="false">
         <RenderObject3D

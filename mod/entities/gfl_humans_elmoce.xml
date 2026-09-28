@@ -1,4 +1,7 @@
 <Entities>
+
+<!-- PKP-SP PERITYA -->
+
     <Entity name="ELMOCE-PKPSP" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/cubebodies/pkpsp.khm"
@@ -39,6 +42,8 @@
         </Human>
     </Entity>
 
+<!-- SPAS-12 SABRINA -->
+
     <Entity name="ELMOCE-SPAS12" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/spas12.khm"
@@ -77,6 +82,8 @@
             </Equipment>
         </Human>
     </Entity>
+
+<!-- Type 97S QIUHUA -->
 
     <Entity name="ELMOCE-TYPE97S" type="Human" editorAutoHeight="false">
         <RenderObject3D
@@ -117,6 +124,8 @@
         </Human>
     </Entity>
 
+<!-- MP5 PERI -->
+
     <Entity name="ELMOCE-MP5" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/mp5.khm"
@@ -155,6 +164,8 @@
             </Equipment>
         </Human>
     </Entity>
+
+<!-- PA-15 FLORENCE-->
 
     <Entity name="ELMOCE-PA15" type="Human" editorAutoHeight="false">
         <RenderObject3D
@@ -195,6 +206,8 @@
         </Human>
     </Entity>
 
+<!-- VSK-94 NIKKETA -->
+
     <Entity name="ELMOCE-VSK94" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/vsk94.khm"
@@ -234,6 +247,8 @@
         </Human>
     </Entity>
 
+<!-- DP-12 HELEN -->
+
     <Entity name="ELMOCE-DP12" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/dp12.khm"
@@ -272,6 +287,8 @@
             </Equipment>
         </Human>
     </Entity>
+
+<!-- MODEL 1914 LEWIS -->
 
     <Entity name="ELMOCE-LEWIS" type="Human" editorAutoHeight="false">
         <RenderObject3D

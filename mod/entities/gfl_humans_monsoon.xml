@@ -1,4 +1,7 @@
 <Entities>
+
+<!-- QBZ-95 DAIYAN -->
+
     <Entity name="MONSOON-QBZ95" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/type95.khm"
@@ -37,6 +40,8 @@
             </Equipment>
         </Human>
     </Entity>
+
+<!-- QBZ-97 JIANGYU -->
 
     <Entity name="MONSOON-QBZ97" type="Human" editorAutoHeight="false">
         <RenderObject3D
@@ -77,6 +82,8 @@
         </Human>
     </Entity>
 
+<!-- CS/LS06 ZHAOHUI -->
+
     <Entity name="MONSOON-CSLS06" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/csls06.khm"
@@ -115,6 +122,8 @@
             </Equipment>
         </Human>
     </Entity>
+
+<!-- CZ75 FAYE -->
 
     <Entity name="MONSOON-CZ75" type="Human" editorAutoHeight="false">
         <RenderObject3D

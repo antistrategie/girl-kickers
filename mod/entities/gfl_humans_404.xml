@@ -1,4 +1,7 @@
 <Entities>
+
+<!-- HK416 KLUKAI -->
+
     <Entity name="404-HK416" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/cubebodies/hk416.khm"
@@ -39,6 +42,8 @@
         </Human>
     </Entity>
 
+<!-- G11 MECHTY -->
+
     <Entity name="404-G11" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/g11.khm"
@@ -77,6 +82,8 @@
             </Equipment>
         </Human>
     </Entity>
+
+<!-- G36K ANDORIS -->
 
     <Entity name="404-G36K" type="Human" editorAutoHeight="false">
         <RenderObject3D
@@ -117,6 +124,8 @@
         </Human>
     </Entity>
 
+<!-- G28 BELKA -->
+
     <Entity name="404-G28" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/g28.khm"
@@ -155,6 +164,8 @@
             </Equipment>
         </Human>
     </Entity>
+
+<!-- UMP45 LEVA -->
 
     <Entity name="404-UMP45" type="Human" editorAutoHeight="false">
         <RenderObject3D
@@ -196,6 +207,8 @@
         </Human>
     </Entity>
 
+<!-- UMP9 LENNA -->
+
     <Entity name="404-UMP9" type="Human" editorAutoHeight="false">
         <RenderObject3D
             model="data/models/dolls/ump9.khm"
@@ -234,6 +247,8 @@
             </Equipment>
         </Human>
     </Entity>
+
+<!-- VECTOR VIVI -->
 
     <Entity name="404-VECTOR" type="Human" editorAutoHeight="false">
         <RenderObject3D
