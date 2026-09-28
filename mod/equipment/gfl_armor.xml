@@ -1,51 +1,5 @@
 <Equipment>
 
-<!-- Basic Girlkick -->
-
-    <FeetOfSteel name="GFL_FeetOfGunmetal" inventoryBinding="SupportGear3">
-        <ModifiableParams
-            efficiencyPercent="200"
-            audibleSoundRadius="12.0"
-            timePerKickMsec="1000"
-            damagePerKick="80"
-            damageType="1"
-        />
-        <MobilityModifiers moveSpeedModifierPercent="0" turnSpeedModifierPercent="0" />
-    </FeetOfSteel>
-
-<!-- Voymastina Girlkick -->
-
-    <FeetOfSteel name="GFL_FeetOfTitanium" inventoryBinding="SupportGear3">
-        <ModifiableParams
-            efficiencyPercent="200"
-            audibleSoundRadius="16.0"
-            timePerKickMsec="800"
-            damagePerKick="200"
-            damageType="2"
-        />
-        <MobilityModifiers moveSpeedModifierPercent="0" turnSpeedModifierPercent="0" />
-    </FeetOfSteel>
-
-<!-- Doll Lockpick -->
-
-    <Lockpick name="GFL_Lockpick" inventoryBinding="SupportGear2"
-            tooltip="@support_gear_lockpick_name"
-            img="data/models/equipment/lockpick_ui.dds"
-
-            animationSet="generic_device"
-            soundUse="lockpick_use"
-            crouchOnUse="true"
-        >
-        <!-- the efficiency percent is multiplied by the door's lockpick time to get the final lockpicking time -->
-        <ModifiableParams
-            efficiencyPercent="400"
-            changeInTime="100"
-            changeOutTime="100"
-            audibleSoundRadius="1.5"
-        />
-        <MobilityModifiers moveSpeedModifierPercent="0" turnSpeedModifierPercent="0"/>
-    </Lockpick>
-
 <!-- Recreation Frame -->
 
     <Armor
