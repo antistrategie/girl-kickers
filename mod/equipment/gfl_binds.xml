@@ -1,2864 +1,2933 @@
 <Equipment>
 
-    <Bind to="GFL-DOLL-AK15">
-        <eqp name="GFL-WEAP-AK15" />
-        <eqp name="GFL-GEAR-MEDIC-GRENADE" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfTitanium" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-AN94">
-        <eqp name="GFL-WEAP-AN94" />
-        <eqp name="GFL-GEAR-MEDIC-GRENADE" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-    <Bind to="GFL-DOLL-AK12">
-        <eqp name="GFL-WEAP-AK12" />
-        <eqp name="GFL-GEAR-MEDIC-GRENADE" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-    <Bind to="GFL-DOLL-HK416">
-        <eqp name="GFL-WEAP-HK416" />
-
-        <!-- Pistols -->
-        <eqp name="G17 Pistol CIA BOps" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-G11">
-        <eqp name="GFL-WEAP-G11" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-G36K">
-        <eqp name="GFL-WEAP-G36K" />
-        <eqp name="GFL-GEAR-MEDIC-GRENADE" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-G28">
-        <eqp name="GFL-WEAP-G28" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-UMP45">
-        <eqp name="GFL-WEAP-UMP45" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-UMP9">
-        <eqp name="GFL-WEAP-UMP9" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-VECTOR">
-        <eqp name="GFL-WEAP-VECTOR" />
-        <eqp name="GFL-GEAR-VECTOR-GRENADE" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-M1903">
-        <eqp name="GFL-WEAP-M1903" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-WA2000">
-        <eqp name="GFL-WEAP-WA2000" />
-
-        <!-- Pistols -->
-        <eqp name="G17 Pistol CIA BOps" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-G36">
-        <eqp name="GFL-WEAP-G36" />
-        <eqp name="GFL-GEAR-MEDIC-GRENADE" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-    <Bind to="GFL-DOLL-XCR">
-        <eqp name="GFL-WEAP-XCR" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-OTS14">
-        <eqp name="GFL-WEAP-OTS14" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-OM50">
-        <eqp name="GFL-WEAP-OM50" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Armor
-        name="GFL-ARMOR-HARE"
-        inventoryBinding="Armor"
-        unlockCost="0"
-        tooltip="@armor_gfl_hare_name"
-        description="@armor_gfl_hare_desc"
-        img="data/models/equipment/shield_01_ui.dds"
-    >
-        <MobilityModifiers
-            moveSpeedModifierPercent="-2"
-            turnSpeedModifierPercent="-1"
-        />
-        <ConcealmentModifier add="-2" />
-
-        <Params>
-            <ProtectionArc degrees="90" coveragePercent="70" piercingProtectionLevel="70" />
-            <ProtectionArc
-                degrees="180"
-                coveragePercent="40"
-                piercingProtectionLevel="40"
+<!-- DEFY -->
+
+    <!-- AK-15 VOYMASTINA -->
+
+        <Bind to="GFL-DOLL-AK15">
+            <eqp name="GFL-WEAP-AK15" />
+            <eqp name="GFL-GEAR-MEDIC-GRENADE" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfTitanium" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+
+        <Bind to="GFL-DOLL-AN94">
+            <eqp name="GFL-WEAP-AN94" />
+            <eqp name="GFL-GEAR-MEDIC-GRENADE" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- AN-94 ALVA -->
+
+        <Bind to="GFL-DOLL-AK12">
+            <eqp name="GFL-WEAP-AK12" />
+            <eqp name="GFL-GEAR-MEDIC-GRENADE" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+<!-- H.I.D.E. 404 -->
+
+    <!-- HK416 KLUKAI -->
+
+        <Bind to="GFL-DOLL-HK416">
+            <eqp name="GFL-WEAP-HK416" />
+
+            <!-- Pistols -->
+            <eqp name="G17 Pistol CIA BOps" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- G11 MECHTY -->
+
+        <Bind to="GFL-DOLL-G11">
+            <eqp name="GFL-WEAP-G11" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- G36K ANDORIS -->
+
+        <Bind to="GFL-DOLL-G36K">
+            <eqp name="GFL-WEAP-G36K" />
+            <eqp name="GFL-GEAR-MEDIC-GRENADE" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- G28 BELKA -->
+
+        <Bind to="GFL-DOLL-G28">
+            <eqp name="GFL-WEAP-G28" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- UMP45 LEVA -->
+
+        <Bind to="GFL-DOLL-UMP45">
+            <eqp name="GFL-WEAP-UMP45" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- UMP9 LENNA -->
+
+        <Bind to="GFL-DOLL-UMP9">
+            <eqp name="GFL-WEAP-UMP9" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- VECTOR VIVI -->
+
+        <Bind to="GFL-DOLL-VECTOR">
+            <eqp name="GFL-WEAP-VECTOR" />
+            <eqp name="GFL-GEAR-VECTOR-GRENADE" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+<!-- CAFE ZUCCHERO -->
+
+    <!-- M1903 SPRINGFIELD -->
+
+        <Bind to="GFL-DOLL-M1903">
+            <eqp name="GFL-WEAP-M1903" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- WA2000 MAKIATTO -->
+
+        <Bind to="GFL-DOLL-WA2000">
+            <eqp name="GFL-WEAP-WA2000" />
+
+            <!-- Pistols -->
+            <eqp name="G17 Pistol CIA BOps" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- G36 CENTAUREISSI -->
+
+        <Bind to="GFL-DOLL-G36">
+            <eqp name="GFL-WEAP-G36" />
+            <eqp name="GFL-GEAR-MEDIC-GRENADE" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- XCR SHARKRY -->
+
+        <Bind to="GFL-DOLL-XCR">
+            <eqp name="GFL-WEAP-XCR" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+<!-- GROZA SQUAD -->
+
+    <!-- OTS-14 GROZA -->
+
+        <Bind to="GFL-DOLL-OTS14">
+            <eqp name="GFL-WEAP-OTS14" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- OM-50 NEMESIS -->
+
+        <Bind to="GFL-DOLL-OM50">
+            <eqp name="GFL-WEAP-OM50" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- HARE KROLIK -->
+
+        <Armor
+            name="GFL-ARMOR-HARE"
+            inventoryBinding="Armor"
+            unlockCost="0"
+            tooltip="@armor_gfl_hare_name"
+            description="@armor_gfl_hare_desc"
+            img="data/models/equipment/shield_01_ui.dds"
+        >
+            <MobilityModifiers
+                moveSpeedModifierPercent="-2"
+                turnSpeedModifierPercent="-1"
             />
-            <ProtectionArc
-                degrees="360"
-                coveragePercent="30"
-                piercingProtectionLevel="20"
+            <ConcealmentModifier add="-2" />
+
+            <Params>
+                <ProtectionArc degrees="90" coveragePercent="70" piercingProtectionLevel="70" />
+                <ProtectionArc
+                    degrees="180"
+                    coveragePercent="40"
+                    piercingProtectionLevel="40"
+                />
+                <ProtectionArc
+                    degrees="360"
+                    coveragePercent="30"
+                    piercingProtectionLevel="20"
+                />
+            </Params>
+        </Armor>
+
+        <Armor
+            name="GFL-ARMOR-HARE-HEAVY"
+            inventoryBinding="Armor"
+            unlockCost="5"
+            tooltip="@armor_gfl_hare_heavy_name"
+            description="@armor_gfl_hare_heavy_desc"
+            img="data/models/equipment/shield_02_ui.dds"
+        >
+            <MobilityModifiers
+                moveSpeedModifierPercent="-13"
+                turnSpeedModifierPercent="-10"
             />
-        </Params>
-    </Armor>
-
-    <Armor
-        name="GFL-ARMOR-HARE-HEAVY"
-        inventoryBinding="Armor"
-        unlockCost="5"
-        tooltip="@armor_gfl_hare_heavy_name"
-        description="@armor_gfl_hare_heavy_desc"
-        img="data/models/equipment/shield_02_ui.dds"
-    >
-        <MobilityModifiers
-            moveSpeedModifierPercent="-13"
-            turnSpeedModifierPercent="-10"
-        />
-        <ConcealmentModifier add="-3" />
-
-        <Params>
-            <ProtectionArc degrees="90" coveragePercent="75" piercingProtectionLevel="75" />
-            <ProtectionArc
-                degrees="180"
-                coveragePercent="65"
-                piercingProtectionLevel="60"
-            />
-            <ProtectionArc
-                degrees="360"
-                coveragePercent="50"
-                piercingProtectionLevel="40"
-            />
-        </Params>
-    </Armor>
-
-    <Bind to="GFL-DOLL-HARE">
-        <eqp name="GFL-WEAP-HARE" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-CURVA">
-        <eqp name="GFL-WEAP-CURVA" />
-        <eqp name="GFL-GEAR-MEDIC-GRENADE" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-VEPR12">
-        <eqp name="GFL-WEAP-VEPR12" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-PKPSP">
-        <eqp name="GFL-WEAP-PKPSP" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-SPAS12">
-        <eqp name="GFL-WEAP-SPAS12" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-TYPE97S">
-        <eqp name="GFL-WEAP-TYPE97S" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-MP5">
-        <eqp name="GFL-WEAP-MP5" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-PA15">
-        <eqp name="GFL-WEAP-PA15" />
-        <eqp name="GFL-GEAR-MEDIC-GRENADE" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-VSK94">
-        <eqp name="GFL-WEAP-VSK94" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-DP12">
-        <eqp name="GFL-WEAP-DP12" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-LEWIS">
-        <eqp name="GFL-WEAP-LEWIS" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-QBZ191">
-        <eqp name="GFL-WEAP-QBZ191" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-AKALFA">
-        <eqp name="GFL-WEAP-AKALFA" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-AA12">
-        <eqp name="GFL-WEAP-AA12" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-MP7">
-        <eqp name="GFL-WEAP-MP7" />
-        <eqp name="GFL-GEAR-MEDIC-GRENADE" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-QBZ95">
-        <eqp name="GFL-WEAP-QBZ95" />
-        <eqp name="GFL-GEAR-MEDIC-GRENADE" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-QBZ97">
-        <eqp name="GFL-WEAP-QBZ97" />
-        <eqp name="GFL-GEAR-MEDIC-GRENADE" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-CSLS06">
-        <eqp name="GFL-WEAP-CSLS06" />
-        <eqp name="GFL-GEAR-MEDIC-GRENADE" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-CZ75">
-        <eqp name="GFL-WEAP-CZ75" />
-        <eqp name="GFL-GEAR-MEDIC-GRENADE" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-STECHKIN">
-        <eqp name="GFL-WEAP-STECHKIN" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-NAGANT">
-        <eqp name="GFL-WEAP-NAGANT" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-MOSINNAGANT">
-        <eqp name="GFL-WEAP-MOSINNAGANT" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-PPSH41">
-        <eqp name="GFL-WEAP-PPSH41" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-UMP40">
-        <eqp name="GFL-WEAP-UMP40" />
-        <eqp name="GFL-GEAR-MEDIC-GRENADE" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-K2">
-        <eqp name="GFL-WEAP-K2" />
-        <eqp name="GFL-GEAR-MEDIC-GRENADE" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-DSR50">
-        <eqp name="GFL-WEAP-DSR50" />
-        <eqp name="GFL-GEAR-MEDIC-GRENADE" />
-
-        <!-- Pistols -->
-        <eqp name="M9 Pistol" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-SKKM">
-        <eqp name="GFL-WEAP-MAKAROVPM" />
-
-        <!-- Armor -->
-        <eqp name="EmptyArmor" />
-        <eqp name="GFL_SoftVest" />
-        <eqp name="GFL_FrontVest" />
-        <eqp name="GFL_FullVest" />
-        <eqp name="GFL_TacticalVest" />
-
-        <!-- Helmet -->
-        <eqp name="EmptyHelmet" />
-        <eqp name="GFL_CombatHelmet" />
-        <eqp name="GFL_HeavyHelmet" />
-
-        <!-- NVG -->
-        <eqp name="NVG" />
-        <eqp name="NVG_02" />
-
-        <!-- Utility -->
-        <eqp name="FeetOfSteel" />
-        <eqp name="Lockpick Machine" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-SKKF">
-        <eqp name="GFL-WEAP-MAKAROVPM" />
-
-        <!-- Armor -->
-        <eqp name="EmptyArmor" />
-        <eqp name="GFL_SoftVest" />
-        <eqp name="GFL_FrontVest" />
-        <eqp name="GFL_FullVest" />
-        <eqp name="GFL_TacticalVest" />
-
-        <!-- Helmet -->
-        <eqp name="EmptyHelmet" />
-        <eqp name="GFL_CombatHelmet" />
-        <eqp name="GFL_HeavyHelmet" />
-
-        <!-- NVG -->
-        <eqp name="NVG" />
-        <eqp name="NVG_02" />
-
-        <!-- Utility -->
-        <eqp name="FeetOfSteel" />
-        <eqp name="Lockpick Machine" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-AR15">
-        <eqp name="GFL-WEAP-AR15" />
-
-        <!-- Pistols -->
-        <eqp name="G17 Pistol CIA BOps" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-SOPMODII">
-        <eqp name="GFL-WEAP-SOPMODII" />
-
-        <!-- Pistols -->
-        <eqp name="G17 Pistol CIA BOps" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
-
-
-    <Bind to="GFL-DOLL-RO635">
-        <eqp name="GFL-WEAP-RO635" />
-
-        <!-- Pistols -->
-        <eqp name="G17 Pistol CIA BOps" />
-
-        <!-- Armor -->
-        <eqp name="GFL_RecFrame" />
-        <eqp name="GFL_LawFrame" />
-        <eqp name="GFL_CombatFrame" />
-        <eqp name="GFL_EliteFrame" />
-        <eqp name="GFL_GrafFrame" />
-        <eqp name="GFL_RhinoFrame" />
-
-        <eqp name="GFL_BasicCore" />
-        <eqp name="GFL_VanguardCore" />
-        <eqp name="GFL_SentinelCore" />
-        <eqp name="GFL_BulwarkCore" />
-        <eqp name="GFL_SupportCore" />
-
-        <!-- NVG -->
-        <eqp name="GFL_NightVision" />
-
-        <!-- Utility -->
-        <eqp name="GFL_FeetOfGunmetal" />
-        <eqp name="GFL_Lockpick" />
-
-        <eqp name="Stinger" />
-        <eqp name="Smoke Grenade" />
-        <eqp name="Smoke Grenade Kit" />
-        <eqp name="Frag Grenade Single" />
-        <eqp name="Frag Grenade" />
-        <eqp name="Frag Grenade Kit" />
-        <eqp name="Flashbang" />
-        <eqp name="Flashbang Kit" />
-        <eqp name="Molotov Single" />
-        <eqp name="Molotov Pyro" />
-        <eqp name="Slap Charge" />
-        <eqp name="Slap Charge Kit" />
-        <eqp name="TEC Torch" />
-
-        <!-- Gear -->
-        <eqp name="Spy Camera" />
-        <eqp name="Dynamic Hammer" />
-        <eqp name="Bolt Cutter" />
-        <eqp name="Breaching Charge" />
-        <eqp name="Breacher Shotgun" />
-        <eqp name="AT4 Rocket Launcher" />
-        <eqp name="RPG 26 CIA BOps" />
-
-        <!-- Others -->
-        <eqp name="EmptyUtility" />
-        <eqp name="EmptySecondary" />
-        <eqp name="EmptyPrimary" />
-        <eqp name="EmptySupportGear" />
-        <eqp name="EmptyPrimaryMuzzle" />
-        <eqp name="EmptySecondaryMuzzle" />
-    </Bind>
+            <ConcealmentModifier add="-3" />
+
+            <Params>
+                <ProtectionArc degrees="90" coveragePercent="75" piercingProtectionLevel="75" />
+                <ProtectionArc
+                    degrees="180"
+                    coveragePercent="65"
+                    piercingProtectionLevel="60"
+                />
+                <ProtectionArc
+                    degrees="360"
+                    coveragePercent="50"
+                    piercingProtectionLevel="40"
+                />
+            </Params>
+        </Armor>
+
+        <Bind to="GFL-DOLL-HARE">
+            <eqp name="GFL-WEAP-HARE" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- CURVA (TAURUS CURVE) COLPHNE -->
+
+        <Bind to="GFL-DOLL-CURVA">
+            <eqp name="GFL-WEAP-CURVA" />
+            <eqp name="GFL-GEAR-MEDIC-GRENADE" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- VEPR-12 VEPLEY -->
+
+        <Bind to="GFL-DOLL-VEPR12">
+            <eqp name="GFL-WEAP-VEPR12" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+<!-- ELMO COMBINED ECHELON -->
+
+    <!-- PKP-SP PERITYA -->
+
+        <Bind to="GFL-DOLL-PKPSP">
+            <eqp name="GFL-WEAP-PKPSP" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- SPAS-12 SABRINA -->
+
+        <Bind to="GFL-DOLL-SPAS12">
+            <eqp name="GFL-WEAP-SPAS12" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- Type 97S QIUHUA -->
+
+        <Bind to="GFL-DOLL-TYPE97S">
+            <eqp name="GFL-WEAP-TYPE97S" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- MP5 PERI -->
+
+        <Bind to="GFL-DOLL-MP5">
+            <eqp name="GFL-WEAP-MP5" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- PA-15 FLORENCE-->
+
+        <Bind to="GFL-DOLL-PA15">
+            <eqp name="GFL-WEAP-PA15" />
+            <eqp name="GFL-GEAR-MEDIC-GRENADE" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- VSK-94 NIKKETA -->
+
+        <Bind to="GFL-DOLL-VSK94">
+            <eqp name="GFL-WEAP-VSK94" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- DP-12 HELEN -->
+
+        <Bind to="GFL-DOLL-DP12">
+            <eqp name="GFL-WEAP-DP12" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- MODEL 1914 LEWIS -->
+
+        <Bind to="GFL-DOLL-LEWIS">
+            <eqp name="GFL-WEAP-LEWIS" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+<!-- FROSTFALL SQUAD -->
+
+    <!-- QBZ-191 QIONGJIU -->
+
+        <Bind to="GFL-DOLL-QBZ191">
+            <eqp name="GFL-WEAP-QBZ191" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- AK-ALFA TOLOLO -->
+
+        <Bind to="GFL-DOLL-AKALFA">
+            <eqp name="GFL-WEAP-AKALFA" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- AA-12 LIND -->
+
+        <Bind to="GFL-DOLL-AA12">
+            <eqp name="GFL-WEAP-AA12" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- MP7 CHEETA -->
+
+        <Bind to="GFL-DOLL-MP7">
+            <eqp name="GFL-WEAP-MP7" />
+            <eqp name="GFL-GEAR-MEDIC-GRENADE" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+<!-- MONSOON SQUAD -->
+
+    <!-- QBZ-95 DAIYAN -->
+
+        <Bind to="GFL-DOLL-QBZ95">
+            <eqp name="GFL-WEAP-QBZ95" />
+            <eqp name="GFL-GEAR-MEDIC-GRENADE" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- QBZ-97 JIANGYU -->
+
+        <Bind to="GFL-DOLL-QBZ97">
+            <eqp name="GFL-WEAP-QBZ97" />
+            <eqp name="GFL-GEAR-MEDIC-GRENADE" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- CS/LS06 ZHAOHUI -->
+
+        <Bind to="GFL-DOLL-CSLS06">
+            <eqp name="GFL-WEAP-CSLS06" />
+            <eqp name="GFL-GEAR-MEDIC-GRENADE" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- CZ75 FAYE -->
+
+        <Bind to="GFL-DOLL-CZ75">
+            <eqp name="GFL-WEAP-CZ75" />
+            <eqp name="GFL-GEAR-MEDIC-GRENADE" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+<!-- POL03 SECURITY DIVISION -->
+
+    <!-- STECHKIN KSENIA -->
+
+        <Bind to="GFL-DOLL-STECHKIN">
+            <eqp name="GFL-WEAP-STECHKIN" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- M1895 NAGANT -->
+
+        <Bind to="GFL-DOLL-NAGANT">
+            <eqp name="GFL-WEAP-NAGANT" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- MOSIN-NAGANT -->
+
+        <Bind to="GFL-DOLL-MOSINNAGANT">
+            <eqp name="GFL-WEAP-MOSINNAGANT" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- PPSH-41 PAPASHA -->
+
+        <Bind to="GFL-DOLL-PPSH41">
+            <eqp name="GFL-WEAP-PPSH41" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+<!-- SQUADLESS -->
+
+    <!-- UMP40 LAINIE -->
+
+        <Bind to="GFL-DOLL-UMP40">
+            <eqp name="GFL-WEAP-UMP40" />
+            <eqp name="GFL-GEAR-MEDIC-GRENADE" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- K2 YOOHEE -->
+
+        <Bind to="GFL-DOLL-K2">
+            <eqp name="GFL-WEAP-K2" />
+            <eqp name="GFL-GEAR-MEDIC-GRENADE" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- DSR-50 LORELEI -->
+
+        <Bind to="GFL-DOLL-DSR50">
+            <eqp name="GFL-WEAP-DSR50" />
+            <eqp name="GFL-GEAR-MEDIC-GRENADE" />
+
+            <!-- Pistols -->
+            <eqp name="M9 Pistol" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- MAKAROV PM COMMANDER (M/F) -->
+
+        <Bind to="GFL-DOLL-SKKM">
+            <eqp name="GFL-WEAP-MAKAROVPM" />
+
+            <!-- Armor -->
+            <eqp name="EmptyArmor" />
+            <eqp name="GFL_SoftVest" />
+            <eqp name="GFL_FrontVest" />
+            <eqp name="GFL_FullVest" />
+            <eqp name="GFL_TacticalVest" />
+
+            <!-- Helmet -->
+            <eqp name="EmptyHelmet" />
+            <eqp name="GFL_CombatHelmet" />
+            <eqp name="GFL_HeavyHelmet" />
+
+            <!-- NVG -->
+            <eqp name="NVG" />
+            <eqp name="NVG_02" />
+
+            <!-- Utility -->
+            <eqp name="FeetOfSteel" />
+            <eqp name="Lockpick Machine" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+
+        <Bind to="GFL-DOLL-SKKF">
+            <eqp name="GFL-WEAP-MAKAROVPM" />
+
+            <!-- Armor -->
+            <eqp name="EmptyArmor" />
+            <eqp name="GFL_SoftVest" />
+            <eqp name="GFL_FrontVest" />
+            <eqp name="GFL_FullVest" />
+            <eqp name="GFL_TacticalVest" />
+
+            <!-- Helmet -->
+            <eqp name="EmptyHelmet" />
+            <eqp name="GFL_CombatHelmet" />
+            <eqp name="GFL_HeavyHelmet" />
+
+            <!-- NVG -->
+            <eqp name="NVG" />
+            <eqp name="NVG_02" />
+
+            <!-- Utility -->
+            <eqp name="FeetOfSteel" />
+            <eqp name="Lockpick Machine" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+<!-- AR TEAM -->
+
+    <!-- ST AR-15 ASTERIA -->
+
+        <Bind to="GFL-DOLL-AR15">
+            <eqp name="GFL-WEAP-AR15" />
+
+            <!-- Pistols -->
+            <eqp name="G17 Pistol CIA BOps" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- M4 SOPMOD II SOPPO -->
+
+        <Bind to="GFL-DOLL-SOPMODII">
+            <eqp name="GFL-WEAP-SOPMODII" />
+
+            <!-- Pistols -->
+            <eqp name="G17 Pistol CIA BOps" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
+
+    <!-- RO635 ROBELLA -->
+
+        <Bind to="GFL-DOLL-RO635">
+            <eqp name="GFL-WEAP-RO635" />
+
+            <!-- Pistols -->
+            <eqp name="G17 Pistol CIA BOps" />
+
+            <!-- Armor -->
+            <eqp name="GFL_RecFrame" />
+            <eqp name="GFL_LawFrame" />
+            <eqp name="GFL_CombatFrame" />
+            <eqp name="GFL_EliteFrame" />
+            <eqp name="GFL_GrafFrame" />
+            <eqp name="GFL_RhinoFrame" />
+
+            <eqp name="GFL_BasicCore" />
+            <eqp name="GFL_VanguardCore" />
+            <eqp name="GFL_SentinelCore" />
+            <eqp name="GFL_BulwarkCore" />
+            <eqp name="GFL_SupportCore" />
+
+            <!-- NVG -->
+            <eqp name="GFL_NightVision" />
+
+            <!-- Utility -->
+            <eqp name="GFL_FeetOfGunmetal" />
+            <eqp name="GFL_Lockpick" />
+
+            <eqp name="Stinger" />
+            <eqp name="Smoke Grenade" />
+            <eqp name="Smoke Grenade Kit" />
+            <eqp name="Frag Grenade Single" />
+            <eqp name="Frag Grenade" />
+            <eqp name="Frag Grenade Kit" />
+            <eqp name="Flashbang" />
+            <eqp name="Flashbang Kit" />
+            <eqp name="Molotov Single" />
+            <eqp name="Molotov Pyro" />
+            <eqp name="Slap Charge" />
+            <eqp name="Slap Charge Kit" />
+            <eqp name="TEC Torch" />
+
+            <!-- Gear -->
+            <eqp name="Spy Camera" />
+            <eqp name="Dynamic Hammer" />
+            <eqp name="Bolt Cutter" />
+            <eqp name="Breaching Charge" />
+            <eqp name="Breacher Shotgun" />
+            <eqp name="AT4 Rocket Launcher" />
+            <eqp name="RPG 26 CIA BOps" />
+
+            <!-- Others -->
+            <eqp name="EmptyUtility" />
+            <eqp name="EmptySecondary" />
+            <eqp name="EmptyPrimary" />
+            <eqp name="EmptySupportGear" />
+            <eqp name="EmptyPrimaryMuzzle" />
+            <eqp name="EmptySecondaryMuzzle" />
+        </Bind>
 
 </Equipment>
