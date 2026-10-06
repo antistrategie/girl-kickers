@@ -1,0 +1,115 @@
+<Equipment>
+	<!-- placeholder bow for the DEFY bow-and-sword doll. One arrow per draw: fire is the release, reload is nock and draw -->
+    <Ammo name="GFL-BOW-ARROW"
+            tooltip="Arrows"
+            description="Placeholder arrows."
+            img="data/models/weapons/attachments/m855_ammo_ui.dds"
+    >
+
+        <Params
+            roundsPerSecond="1.0"
+            audibleSoundRadius="100"
+            physicsImpactForce="2.0"
+            suppressionScale="0.3"
+        >
+            <Damage
+                start="70"
+                end="55"
+                startDist="0"
+                endDist="100"
+            />
+            <CriticalChancePercent
+                start="0"
+                end="0"
+                startDist="0"
+                endDist="100"
+            />
+            <ArmorPenetration
+                start="60"
+                end="50"
+                startDist="0"
+                endDist="100"
+            />
+        </Params>
+    </Ammo>
+
+    <Firearm
+        name="GFL-WEAP-BOW"
+        inventoryBinding="PrimaryWeapon"
+        category="rifle"
+        unlockCost="0"
+        tooltip="Bow"
+        description="Placeholder bow. One arrow per draw."
+        img="data/models/signatures/ak15_ui.dds"
+        animationSet="gfl_bow"
+    >
+        <MobilityModifiers moveSpeedModifierPercent="0" turnSpeedModifierPercent="0" />
+        <ConcealmentModifier add="-4" />
+
+        <RenderObject3D
+            model="data/models/signatures/gfl_bow.khm"
+            attachSlot="prop_front_rifle"
+            skipGOSSAO="true"
+            diffuseTex="data/models/signatures/gfl_bow.dds"
+        />
+
+        <ModifiableParams
+            numPellets="1"
+            roundsPerMagazine="1"
+            closedBolt="1"
+            cyclicReload="0"
+            reloadTime="1333"
+            reloadEmptyTime="1333"
+            changeInTime="0"
+            changeOutTime="0"
+            readyTime="340"
+            guardTime="160"
+            accuracyStart="85"
+            accuracyEnd="80"
+            accuracyStartDist="4"
+            accuracyEndDist="50"
+            suppressArea="0"
+            meleeDamageBonus="100"
+        />
+
+        <Params
+            caliberInfoText="Arrow"
+            operationInfoText="Bow"
+            ai_rangeMin="1.0"
+            ai_rangeOptimal="12.0"
+            ai_rangeMax="30.0"
+        />
+
+        <AttackTypes>
+
+            <AttackType name="GFL_CQC_AK15" rangeMeters="4" />
+            <AttackType name="GFL_Near_AK15" rangeMeters="8" />
+            <AttackType name="GFL_Close_AK15" rangeMeters="12" />
+            <AttackType name="GFL_Medium_AK15" rangeMeters="16" />
+            <AttackType name="GFL_MedEdge_AK15" rangeMeters="20" />
+            <AttackType name="GFL_Extended_AK15" rangeMeters="9999" />
+
+        </AttackTypes>
+
+        <AttackTypesSuppressiveFire>
+            <AttackType name="GFL_AreaSuppression_Auto" rangeMeters="9999" />
+        </AttackTypesSuppressiveFire>
+
+        <MuzzleFlash tracerTemplate="Tracer_Rifle"/>
+
+        <Sounds>
+            <Equip name="rifle_eqp" />
+            <Unequip name="rifle_neqp" />
+            <Reload name="rifle_reld" />
+            <ReloadEmpty name="rifle_reldempt" />
+            <Fire name="m9sup_fire" />
+            <ShellDrop name="rifle_shell_drop" />
+            <Empty name="gen_empty" />
+        </Sounds>
+    </Firearm>
+
+	<Bind eqp="GFL-WEAP-BOW">
+		<to name="GFL-BOW-ARROW" />
+		<to name="scope_GFL_IronSights" />
+	</Bind>
+</Equipment>

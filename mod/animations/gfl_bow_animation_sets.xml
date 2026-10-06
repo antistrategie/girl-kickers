@@ -1,0 +1,13 @@
+<AnimationSets>
+	<!-- everything below the waist, doors, deaths and so on come from the rifle set -->
+	<AnimationSet name="gfl_bow" inherit="rifle">
+		<Animation handle="idle" name="bow_idle_aim" />
+		<Animation handle="idle_low" name="bow_idle_low" />
+		<Animation handle="ready_weapon_hack" name="bow_idle_aim" />
+		<Animation handle="fire" name="bow_fire" />
+		<Animation handle="reload" name="bow_reload" />
+		<Animation handle="reloadempty" name="bow_reload" />
+		<Animation handle="raiseweapon" name="bow_raise" />
+		<Animation handle="lowerweapon" name="bow_lower" />
+	</AnimationSet>
+</AnimationSets>

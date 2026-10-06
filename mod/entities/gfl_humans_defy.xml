@@ -68,7 +68,7 @@
             </Mobility>
 
             <Equipment>
-                <Item name="GFL-WEAP-AK15" />
+                <Item name="GFL-WEAP-BOW" />
                 <Item name="GFL_FeetOfTitanium" />
                 <Item name="GFL_Lockpick" />
                 <Item name="GFL_BasicCore" />

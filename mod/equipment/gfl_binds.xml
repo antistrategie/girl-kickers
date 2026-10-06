@@ -2,6 +2,7 @@
 
     <Bind to="GFL-DOLL-AK15">
         <eqp name="GFL-WEAP-AK15" />
+        <eqp name="GFL-WEAP-BOW" />
         <eqp name="GFL-GEAR-MEDIC-GRENADE" />
 
         <!-- Pistols -->
