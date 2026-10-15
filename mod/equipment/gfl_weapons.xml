@@ -7466,7 +7466,157 @@
 
     <!-- KP/31 SUOMI -->
 
+        <Bind eqp="GFL-WEAP-KP31">
+            <to name="762x25TT_GFL_KP31" />
+
+            <to name="scope_GFL_IronSights" />
+            <to name="scope_GFL_RedDot" />
+            <to name="scope_GFL_Holosight" />
+            <to name="scope_GFL_M68CCO" />
+            <to name="scope_GFL_M150RCO" />
+            <to name="scope_GFL_HoloMag3x" />
+            <to name="scope_GFL_SpecterDR" />
+            <to name="scope_GFL_LPVO_6X" />
+            <to name="scope_GFL_LPVO_8X" />
+            <to name="scope_GFL_LROMK4_3_10X" />
+            <to name="scope_GFL_LROMK6_3_18X" />
+            <to name="scope_GFL_LROPM_5_25X" />
+        </Bind>
+
+        <Firearm
+            name="GFL-WEAP-KP31"
+            inventoryBinding="PrimaryWeapon"
+            category="smg"
+            unlockCost="0"
+            tooltip="@WEAP-KP31-NAME"
+            description="@WEAP-KP31-DESC"
+            img="data/models/signatures/kp31_ui.dds"
+            animationSet="rifle"
+        >
+            <MobilityModifiers moveSpeedModifierPercent="0" turnSpeedModifierPercent="0" />
+            <ConcealmentModifier add="-2" />
+
+            <RenderObject3D
+                model="data/models/signatures/kp31.khm"
+                attachSlot="prop_front_rifle"
+                skipGOSSAO="true"
+                diffuseTex="data/models/signatures/kp31.dds"
+            />
+
+            <ModifiableParams
+                numPellets="1"
+                roundsPerMagazine="40"
+                closedBolt="1"
+                cyclicReload="0"
+                reloadTime="1600"
+                reloadEmptyTime="1700"
+                changeInTime="0"
+                changeOutTime="0"
+                readyTime="340"
+                guardTime="160"
+                accuracyStart="85"
+                accuracyEnd="75"
+                accuracyStartDist="4"
+                accuracyEndDist="50"
+            />
+
+            <Params
+                caliberInfoText="@firearm_caliber_9x19_name"
+                operationInfoText="@firearm_operation_fullauto_name"
+                ejectingShellEntity="BulletCasingSmall"
+                magazineEntity="mp5_mag"
+                ai_rangeMin="1.0"
+                ai_rangeOptimal="10.0"
+                ai_rangeMax="25.0"
+                ai_stopWhenShooting="false"
+            />
+
+            <AttackTypes>
+
+                <AttackType name="GFL_CQC_KP31" rangeMeters="4" />
+                <AttackType name="GFL_Near_KP31" rangeMeters="8" />
+                <AttackType name="GFL_Close_KP31" rangeMeters="12" />
+                <AttackType name="GFL_Medium_KP31" rangeMeters="16" />
+                <AttackType name="GFL_MedEdge_KP31" rangeMeters="20" />
+                <AttackType name="GFL_Extended_KP31" rangeMeters="9999" />
+
+            </AttackTypes>
+
+            <MuzzleFlash lightTemplate="ShotLightLarge" tracerTemplate="Tracer_Pistol">
+                <Flare particles="FX_MUZZLE_FLASH_PISTOL_01" />
+                <Flare particles="FX_MUZZLE_FLASH_PISTOL_02" />
+                <Flare particles="FX_MUZZLE_FLASH_PISTOL_03" />
+                <Flare particles="FX_MUZZLE_FLASH_PISTOL_04" />
+            </MuzzleFlash>
+
+            <Sounds>
+                <Equip name="smg_eqp" />
+                <Unequip name="smg_neqp" />
+                <Reload name="smg_reld" />
+                <ReloadEmpty name="smg_reldempt" />
+                <Fire name="mp5a_fire" />
+                <ShellDrop name="smg_shell_drop" />
+                <Empty name="gen_empty" />
+            </Sounds>
+        </Firearm>
+
     <!-- PLUMA EDGE ULLRID -->
+
+        <Bind eqp="GFL-WEAP-PLUEDGE">
+            <to name="BLADE_GFL_PLUEDGE" />
+            <to name="NOTHINGBURGER_GFL" />
+        </Bind>
+        <Firearm
+            name="GFL-WEAP-PLUEDGE"
+            inventoryBinding="PrimaryWeapon"
+            category="melee"
+            unlockCost="6"
+            tooltip="@WEAP-PLUEDGE-NAME"
+            description="@WEAP-PLUEDGE-DESC"
+            img="data/models/signatures/pluedge_ui.dds"
+            animationSet="melee"
+        >
+            <MobilityModifiers
+                moveSpeedModifierPercent="0"
+                turnSpeedModifierPercent="0"
+            />
+            <RenderObject3D
+                model="data/models/signatures/pluedge.khm"
+                skipGOSSAO="true"
+                diffuseTex="data/models/signatures/pluedge.dds"
+            />
+
+            <ModifiableParams
+                changeInTime="0"
+                changeOutTime="0"
+                efficiencyPercent="100"
+                audibleSoundRadius="1.2"
+                meleeDamageBonus="50"
+                meleeReach="1.2"
+                meleeAttackCooldown="350"
+                meleeAttackDuration="300"
+                roundsPerMagazine="0"
+                reloadTime="5"
+                reloadEmptyTime="5"
+                readyTime="20"
+                guardTime="20"
+                accuracyStart="200"
+                accuracyEnd="200"
+                accuracyStartDist="4"
+                accuracyEndDist="100"
+            />
+
+            <Params operationInfoText="@firearm_operation_melee" />
+
+            <AttackTypes>
+                <AttackType name="GFL_PLUEDGE_MeleeAttack" rangeMeters="9999" />
+            </AttackTypes>
+
+            <Sounds>
+                <Fire name="melee_hit" />
+            </Sounds>
+        </Firearm>
+
 
     <!-- M1 SUPER 90 LOTTA -->
 
