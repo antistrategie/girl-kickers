@@ -4723,4 +4723,208 @@
             />
         </AttackType>
 
+
+<!-- DOLL COLLECTIVE -->
+
+    <!-- KP/31 SUOMI (copied from the PPSh-41) -->
+
+        <AttackType name="GFL_CQC_KP31">
+        <!-- Under 4m. -->
+            <ModifiableParams
+                minAimTime="320"
+                maxAimTime="320"
+                roundsPerSecondOverride="0"
+                minShots="5"
+                maxShots="-1"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="0"
+                critChanceAdd="0"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_Near_KP31">
+        <!-- Under 8m. -->
+            <ModifiableParams
+                minAimTime="320"
+                maxAimTime="320"
+                roundsPerSecondOverride="0"
+                minShots="5"
+                maxShots="-1"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="0"
+                critChanceAdd="0"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_Close_KP31">
+        <!-- Under 12m. -->
+            <ModifiableParams
+                minAimTime="330"
+                maxAimTime="380"
+                roundsPerSecondOverride="0"
+                minShots="5"
+                maxShots="6"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="0"
+                critChanceAdd="0"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_Medium_KP31">
+        <!-- Under 16m. -->
+            <ModifiableParams
+                minAimTime="330"
+                maxAimTime="430"
+                roundsPerSecondOverride="0"
+                minShots="5"
+                maxShots="6"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="0"
+                critChanceAdd="0"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_MedEdge_KP31">
+        <!-- Under 20m. -->
+            <ModifiableParams
+                minAimTime="330"
+                maxAimTime="430"
+                roundsPerSecondOverride="0"
+                minShots="5"
+                maxShots="6"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="0"
+                critChanceAdd="0"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_Extended_KP31">
+        <!-- Beyond 20m. -->
+            <ModifiableParams
+                minAimTime="330"
+                maxAimTime="480"
+                roundsPerSecondOverride="0"
+                minShots="5"
+                maxShots="6"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="0"
+                critChanceAdd="0"
+            />
+        </AttackType>
+
+    <!-- PLUMA EDGE ULLRID -->
+
+        <!-- the game's own sword uses a single aimed shot (Rangers_PumpAimedFire) -->
+        <AttackType name="GFL_PLUEDGE_MeleeAttack">
+            <ModifiableParams
+                minAimTime="300"
+                maxAimTime="400"
+                minShots="1"
+                maxShots="1"
+                resetTime="100"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="0"
+                critChanceAdd="0"
+            />
+        </AttackType>
+
+
+    <!-- MECHANICAL BOW ULLRID (the Mosin's bands, one arrow per draw at every range) -->
+
+        <AttackType name="GFL_CQC_ULLRID_BOW">
+        <!-- Under 4m. -->
+            <ModifiableParams
+                minAimTime="340"
+                maxAimTime="340"
+                roundsPerSecondOverride="0"
+                minShots="1"
+                maxShots="1"
+                resetTime="0"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="0"
+                critChanceAdd="20"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_Near_ULLRID_BOW">
+        <!-- Under 8m. -->
+            <ModifiableParams
+                minAimTime="340"
+                maxAimTime="340"
+                roundsPerSecondOverride="0"
+                minShots="1"
+                maxShots="1"
+                resetTime="0"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="0"
+                critChanceAdd="20"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_Close_ULLRID_BOW">
+        <!-- Under 12m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="400"
+                roundsPerSecondOverride="0"
+                minShots="1"
+                maxShots="1"
+                resetTime="0"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="0"
+                critChanceAdd="25"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_Medium_ULLRID_BOW">
+        <!-- Under 16m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="450"
+                roundsPerSecondOverride="0"
+                minShots="1"
+                maxShots="1"
+                resetTime="0"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="0"
+                critChanceAdd="10"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_MedEdge_ULLRID_BOW">
+        <!-- Under 20m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="450"
+                roundsPerSecondOverride="0"
+                minShots="1"
+                maxShots="1"
+                resetTime="0"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="0"
+                critChanceAdd="10"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_Extended_ULLRID_BOW">
+        <!-- Beyond 20m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="500"
+                roundsPerSecondOverride="0"
+                minShots="1"
+                maxShots="1"
+                resetTime="0"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="0"
+                critChanceAdd="25"
+            />
+        </AttackType>
+
 </FirearmAttackTypes>

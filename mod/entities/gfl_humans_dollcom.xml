@@ -1,0 +1,245 @@
+<Entities>
+
+<!-- placeholder portraits (SKK) and stand-in weapons until the real ones are in -->
+
+<!-- KP/31 SUOMI -->
+
+    <Entity name="DOLLCOM-KP31" type="Human" editorAutoHeight="false">
+        <RenderObject3D
+            model="data/models/dolls/kp31.khm"
+            diffuseTex="data/models/dolls/kp31.dds"
+        />
+
+        <Breakable
+            template="GenericTrooperGibs"
+            breakOnDamage="explosive"
+            deleteOnDeath="false"
+        />
+        <PhysicalParams health="100" />
+
+        <Human type="GoodGuy" unit="GFL-UNIT-DOLLCOM" class="GFL-DOLL-KP31">
+            <Id
+                name="DOLLCOM-KP31"
+                portrait="data/textures/portraits/gfl_skkf.dds"
+                gender="0"
+            />
+            <FOV degrees="90" distanceMeters="999" eyeRadiusMeters="1" />
+            <Brain suppressionRecovery="150.0" />
+
+            <Mobility>
+                <MoveSpeed min="1.3" defaultMetersPerSec="2.6" max="10" />
+                <TurnSpeed min="6" defaultMetersPerSec="16" max="20" />
+            </Mobility>
+
+            <Equipment>
+                <Item name="GFL-WEAP-PPSH41" />  <!-- stand-in, GFL-WEAP-KP31 once it is finished -->
+                <Item name="GFL_FeetOfGunmetal" />
+                <Item name="GFL_Lockpick" />
+                <Item name="GFL_BasicCore" />
+                <Item name="GFL_NightVision" />
+                <Item name="GFL_CombatFrame" />
+            </Equipment>
+        </Human>
+    </Entity>
+
+<!-- PLUMA EDGE ULLRID -->
+
+    <Entity name="DOLLCOM-PLUEDGE" type="Human" editorAutoHeight="false">
+        <RenderObject3D
+            model="data/models/dolls/pluedge.khm"
+            diffuseTex="data/models/dolls/pluedge.dds"
+        />
+
+        <Breakable
+            template="GenericTrooperGibs"
+            breakOnDamage="explosive"
+            deleteOnDeath="false"
+        />
+        <PhysicalParams health="100" />
+
+        <Human type="GoodGuy" unit="GFL-UNIT-DOLLCOM" class="GFL-DOLL-PLUEDGE">
+            <Id
+                name="DOLLCOM-PLUEDGE"
+                portrait="data/textures/portraits/gfl_skkf.dds"
+                gender="0"
+            />
+            <FOV degrees="90" distanceMeters="999" eyeRadiusMeters="1" />
+            <Brain suppressionRecovery="150.0" />
+
+            <Mobility>
+                <MoveSpeed min="1.3" defaultMetersPerSec="2.6" max="10" />
+                <TurnSpeed min="6" defaultMetersPerSec="16" max="20" />
+            </Mobility>
+
+            <Equipment>
+                <!-- <Item name="GFL-WEAP-PLUEDGE" /> primary, once the sword is finished -->
+                <Item name="GFL-WEAP-ULLRID-BOW" />
+                <Item name="GFL_FeetOfGunmetal" />
+                <Item name="GFL_Lockpick" />
+                <Item name="GFL_BasicCore" />
+                <Item name="GFL_NightVision" />
+                <Item name="GFL_CombatFrame" />
+            </Equipment>
+        </Human>
+    </Entity>
+
+<!-- M1 SUPER 90 LOTTA -->
+
+    <Entity name="DOLLCOM-M1SUPER90" type="Human" editorAutoHeight="false">
+        <RenderObject3D
+            model="data/models/dolls/m1super90.khm"
+            diffuseTex="data/models/dolls/m1super90.dds"
+        />
+
+        <Breakable
+            template="GenericTrooperGibs"
+            breakOnDamage="explosive"
+            deleteOnDeath="false"
+        />
+        <PhysicalParams health="100" />
+
+        <Human type="GoodGuy" unit="GFL-UNIT-DOLLCOM" class="GFL-DOLL-M1SUPER90">
+            <Id
+                name="DOLLCOM-M1SUPER90"
+                portrait="data/textures/portraits/gfl_skkf.dds"
+                gender="0"
+            />
+            <FOV degrees="90" distanceMeters="999" eyeRadiusMeters="1" />
+            <Brain suppressionRecovery="150.0" />
+
+            <Mobility>
+                <MoveSpeed min="1.3" defaultMetersPerSec="2.6" max="10" />
+                <TurnSpeed min="6" defaultMetersPerSec="16" max="20" />
+            </Mobility>
+
+            <Equipment>
+                <Item name="GFL-WEAP-SPAS12" />  <!-- stand-in -->
+                <Item name="GFL_FeetOfGunmetal" />
+                <Item name="GFL_Lockpick" />
+                <Item name="GFL_BasicCore" />
+                <Item name="GFL_NightVision" />
+                <Item name="GFL_CombatFrame" />
+            </Equipment>
+        </Human>
+    </Entity>
+
+<!-- GALIL ARM LITTARA -->
+
+    <Entity name="DOLLCOM-GALILARM" type="Human" editorAutoHeight="false">
+        <RenderObject3D
+            model="data/models/dolls/galilarm.khm"
+            diffuseTex="data/models/dolls/galilarm.dds"
+        />
+
+        <Breakable
+            template="GenericTrooperGibs"
+            breakOnDamage="explosive"
+            deleteOnDeath="false"
+        />
+        <PhysicalParams health="100" />
+
+        <Human type="GoodGuy" unit="GFL-UNIT-DOLLCOM" class="GFL-DOLL-GALILARM">
+            <Id
+                name="DOLLCOM-GALILARM"
+                portrait="data/textures/portraits/gfl_skkf.dds"
+                gender="0"
+            />
+            <FOV degrees="90" distanceMeters="999" eyeRadiusMeters="1" />
+            <Brain suppressionRecovery="150.0" />
+
+            <Mobility>
+                <MoveSpeed min="1.3" defaultMetersPerSec="2.6" max="10" />
+                <TurnSpeed min="6" defaultMetersPerSec="16" max="20" />
+            </Mobility>
+
+            <Equipment>
+                <Item name="GFL-WEAP-PKPSP" />  <!-- stand-in -->
+                <Item name="GFL_FeetOfGunmetal" />
+                <Item name="GFL_Lockpick" />
+                <Item name="GFL_BasicCore" />
+                <Item name="GFL_NightVision" />
+                <Item name="GFL_CombatFrame" />
+            </Equipment>
+        </Human>
+    </Entity>
+
+<!-- LS/26 BALTHILDE -->
+
+    <Entity name="DOLLCOM-LS26" type="Human" editorAutoHeight="false">
+        <RenderObject3D
+            model="data/models/dolls/ls26.khm"
+            diffuseTex="data/models/dolls/ls26.dds"
+        />
+
+        <Breakable
+            template="GenericTrooperGibs"
+            breakOnDamage="explosive"
+            deleteOnDeath="false"
+        />
+        <PhysicalParams health="100" />
+
+        <Human type="GoodGuy" unit="GFL-UNIT-DOLLCOM" class="GFL-DOLL-LS26">
+            <Id
+                name="DOLLCOM-LS26"
+                portrait="data/textures/portraits/gfl_skkf.dds"
+                gender="0"
+            />
+            <FOV degrees="90" distanceMeters="999" eyeRadiusMeters="1" />
+            <Brain suppressionRecovery="150.0" />
+
+            <Mobility>
+                <MoveSpeed min="1.3" defaultMetersPerSec="2.6" max="10" />
+                <TurnSpeed min="6" defaultMetersPerSec="16" max="20" />
+            </Mobility>
+
+            <Equipment>
+                <Item name="GFL-WEAP-LEWIS" />  <!-- stand-in -->
+                <Item name="GFL_FeetOfGunmetal" />
+                <Item name="GFL_Lockpick" />
+                <Item name="GFL_BasicCore" />
+                <Item name="GFL_NightVision" />
+                <Item name="GFL_CombatFrame" />
+            </Equipment>
+        </Human>
+    </Entity>
+
+<!-- GRAYTHORN PHAETUSA -->
+
+    <Entity name="DOLLCOM-GRAYTHORN" type="Human" editorAutoHeight="false">
+        <RenderObject3D
+            model="data/models/dolls/graythorn.khm"
+            diffuseTex="data/models/dolls/graythorn.dds"
+        />
+
+        <Breakable
+            template="GenericTrooperGibs"
+            breakOnDamage="explosive"
+            deleteOnDeath="false"
+        />
+        <PhysicalParams health="100" />
+
+        <Human type="GoodGuy" unit="GFL-UNIT-DOLLCOM" class="GFL-DOLL-GRAYTHORN">
+            <Id
+                name="DOLLCOM-GRAYTHORN"
+                portrait="data/textures/portraits/gfl_skkf.dds"
+                gender="0"
+            />
+            <FOV degrees="90" distanceMeters="999" eyeRadiusMeters="1" />
+            <Brain suppressionRecovery="150.0" />
+
+            <Mobility>
+                <MoveSpeed min="1.3" defaultMetersPerSec="2.6" max="10" />
+                <TurnSpeed min="6" defaultMetersPerSec="16" max="20" />
+            </Mobility>
+
+            <Equipment>
+                <Item name="GFL-WEAP-MP7" />  <!-- stand-in -->
+                <Item name="GFL_FeetOfGunmetal" />
+                <Item name="GFL_Lockpick" />
+                <Item name="GFL_BasicCore" />
+                <Item name="GFL_NightVision" />
+                <Item name="GFL_CombatFrame" />
+            </Equipment>
+        </Human>
+    </Entity>
+</Entities>

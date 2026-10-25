@@ -337,4 +337,47 @@
         gender="0"
         customName="ASTERIA"
     />
+
+    <Portrait
+        tex="data/textures/portraits/gfl_skkf.dds"
+        unit="GFL-UNIT-DOLLCOM"
+        class="GFL-DOLL-KP31"
+        gender="0"
+        customName="SUOMI"
+    />
+    <Portrait
+        tex="data/textures/portraits/gfl_skkf.dds"
+        unit="GFL-UNIT-DOLLCOM"
+        class="GFL-DOLL-PLUEDGE"
+        gender="0"
+        customName="ULLRID"
+    />
+    <Portrait
+        tex="data/textures/portraits/gfl_skkf.dds"
+        unit="GFL-UNIT-DOLLCOM"
+        class="GFL-DOLL-M1SUPER90"
+        gender="0"
+        customName="LOTTA"
+    />
+    <Portrait
+        tex="data/textures/portraits/gfl_skkf.dds"
+        unit="GFL-UNIT-DOLLCOM"
+        class="GFL-DOLL-GALILARM"
+        gender="0"
+        customName="LITTARA"
+    />
+    <Portrait
+        tex="data/textures/portraits/gfl_skkf.dds"
+        unit="GFL-UNIT-DOLLCOM"
+        class="GFL-DOLL-LS26"
+        gender="0"
+        customName="BALTHILDE"
+    />
+    <Portrait
+        tex="data/textures/portraits/gfl_skkf.dds"
+        unit="GFL-UNIT-DOLLCOM"
+        class="GFL-DOLL-GRAYTHORN"
+        gender="0"
+        customName="PHAETUSA"
+    />
 </HumanIdentities>

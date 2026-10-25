@@ -1,0 +1,35 @@
+@GFL-UNIT-DOLLCOM-NAME=Doll Community
+@GFL-UNIT-DOLLCOM-DESC=Placeholder.
+@#GFL-UNIT-DOLLCOM-NAME-RND=Doll Community
+
+@DOLL-KP31-NAME=SUOMI
+@DOLL-KP31-DESC=Placeholder.
+@WEAP-KP31-NAME=KP/31
+@WEAP-KP31-DESC=Placeholder.
+@ammo_762x25_fmj_kp31_name=7.62x25mm FMJ
+@ammo_762x25_fmj_kp31_desc=Placeholder.
+
+@DOLL-PLUEDGE-NAME=ULLRID
+@DOLL-PLUEDGE-DESC=Placeholder.
+@WEAP-PLUEDGE-NAME=Pluma Edge
+@WEAP-PLUEDGE-DESC=Placeholder.
+@ammo_blade_pluedge_name=Blade
+@ammo_blade_pluedge_desc=Placeholder.
+@WEAP-ULLRID-BOW-NAME=Mechanical Bow
+@WEAP-ULLRID-BOW-DESC=One arrow per draw.
+@ammo_arrow_ullrid_bow_name=Arrows
+@ammo_arrow_ullrid_bow_desc=Placeholder arrows.
+@firearm_caliber_arrow_name=Arrow
+@firearm_operation_bow_name=Bow
+
+@DOLL-M1SUPER90-NAME=LOTTA
+@DOLL-M1SUPER90-DESC=Placeholder.
+
+@DOLL-GALILARM-NAME=LITTARA
+@DOLL-GALILARM-DESC=Placeholder.
+
+@DOLL-LS26-NAME=BALTHILDE
+@DOLL-LS26-DESC=Placeholder.
+
+@DOLL-GRAYTHORN-NAME=PHAETUSA
+@DOLL-GRAYTHORN-DESC=Placeholder.

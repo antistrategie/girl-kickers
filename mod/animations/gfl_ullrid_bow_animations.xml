@@ -1,0 +1,21 @@
+<Animations>
+	<!-- Ullrid's bow clips: upper body only is authored, legs and spine come from the rifle clips -->
+	<Animation name="ullrid_bow_idle_aim" loop="true">
+		<File name="data/animations/khm/ullrid_bow/ullrid_bow_idle_aim.khm"/>
+	</Animation>
+	<Animation name="ullrid_bow_idle_low" loop="true">
+		<File name="data/animations/khm/ullrid_bow/ullrid_bow_idle_low.khm"/>
+	</Animation>
+	<Animation name="ullrid_bow_fire" loop="false">
+		<File name="data/animations/khm/ullrid_bow/ullrid_bow_fire.khm"/>
+	</Animation>
+	<Animation name="ullrid_bow_reload">
+		<File name="data/animations/khm/ullrid_bow/ullrid_bow_reload.khm"/>
+	</Animation>
+	<Animation name="ullrid_bow_lower">
+		<File name="data/animations/khm/ullrid_bow/ullrid_bow_lower.khm"/>
+	</Animation>
+	<Animation name="ullrid_bow_raise" speed="-1.0f">
+		<File name="data/animations/khm/ullrid_bow/ullrid_bow_lower.khm"/>
+	</Animation>
+</Animations>

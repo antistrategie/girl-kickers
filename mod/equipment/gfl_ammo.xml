@@ -3575,4 +3575,76 @@
                 </Params>
             </Ammo>
 
+
+<!-- DOLL COLLECTIVE -->
+
+    <!-- KP/31 SUOMI (copied from the PPSh-41, same round) -->
+
+        <Ammo
+            name="762x25TT_GFL_KP31"
+            tooltip="@ammo_762x25_fmj_kp31_name"
+            description="@ammo_762x25_fmj_kp31_desc"
+            img="data/models/weapons/attachments/m1152_ammo_ui.dds"
+        >
+            <Params
+                roundsPerSecond="20.8"
+                audibleSoundRadius="50"
+                physicsImpactForce="1.5"
+            >
+                <Damage
+                    start="24"
+                    end="20"
+                    startDist="0"
+                    endDist="50"
+                />
+                <CriticalChancePercent
+                    start="0"
+                    end="0"
+                    startDist="0"
+                    endDist="100"
+                />
+                <ArmorPenetration
+                    start="40"
+                    end="30"
+                    startDist="0"
+                    endDist="100"
+                />
+            </Params>
+        </Ammo>
+
+    <!-- PLUMA EDGE ULLRID -->
+
+        <!-- melee weapons still need an ammo entry, same as the game's own sword (melee_ammo) -->
+        <Ammo
+            name="BLADE_GFL_PLUEDGE"
+            tooltip="@ammo_blade_pluedge_name"
+            description="@ammo_blade_pluedge_desc"
+            img="data/models/weapons/attachments/m162_buckshot_ammo_ui.dds"
+        >
+            <Params
+                roundsPerSecond="1.4"
+                audibleSoundRadius="10"
+                physicsImpactForce="3.5"
+            >
+                <Damage
+                    start="10"
+                    end="5"
+                    startDist="0"
+                    endDist="4"
+                />
+                <CriticalChancePercent
+                    start="12"
+                    end="5"
+                    startDist="0"
+                    endDist="4"
+                />
+                <ArmorPenetration
+                    start="70"
+                    end="70"
+                    startDist="0"
+                    endDist="20"
+                />
+            </Params>
+        </Ammo>
+
 </Equipment>

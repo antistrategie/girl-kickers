@@ -1,0 +1,8 @@
+<Sounds>
+    <Sound ID="gfl_ullrid_bow_reld" channel="game" preload="false">
+        <Path name="data/sounds/sfx/ullrid_bow/ullrid_bow_reld.wav" />
+    </Sound>
+    <Sound ID="gfl_ullrid_bow_fire" channel="game" preload="false">
+        <Path name="data/sounds/sfx/ullrid_bow/ullrid_bow_fire.wav" />
+    </Sound>
+</Sounds>

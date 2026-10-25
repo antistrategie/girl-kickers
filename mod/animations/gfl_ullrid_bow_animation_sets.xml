@@ -1,0 +1,13 @@
+<AnimationSets>
+	<!-- everything below the waist, doors, deaths and so on come from the rifle set -->
+	<AnimationSet name="gfl_ullrid_bow" inherit="rifle">
+		<Animation handle="idle" name="ullrid_bow_idle_aim" />
+		<Animation handle="idle_low" name="ullrid_bow_idle_low" />
+		<Animation handle="ready_weapon_hack" name="ullrid_bow_idle_aim" />
+		<Animation handle="fire" name="ullrid_bow_fire" />
+		<Animation handle="reload" name="ullrid_bow_reload" />
+		<Animation handle="reloadempty" name="ullrid_bow_reload" />
+		<Animation handle="raiseweapon" name="ullrid_bow_raise" />
+		<Animation handle="lowerweapon" name="ullrid_bow_lower" />
+	</AnimationSet>
+</AnimationSets>
