@@ -500,7 +500,8 @@ def SpawnAnimation(context, pModelDefinition):
             )
             b_obj.pose.bones[bone_name].keyframe_insert(data_path="scale", frame=f)
 
-    context.scene.frame_end = num_frames
+    context.scene.frame_start = 0
+    context.scene.frame_end = num_frames - 1
     fps = 1000 / pModelDefinition.pAnimation.frameDurationMs
     context.scene.render.fps = round(fps)  # int() truncates 29.999 to 29
 

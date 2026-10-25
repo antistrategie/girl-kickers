@@ -1,4 +1,14 @@
 # Changelog:
+# v2.5 - Mesh export reads the rest pose whatever the armature is showing
+#      - Animation export writes bones the action does not key at rest, so a
+#        pose left over from scrubbing another clip cannot leak in. With no
+#        action assigned the current pose is exported as before
+# v2.4 - Skin export keeps the four largest influences per vertex and
+#        renormalises them; the game does neither
+#      - Animation export uses the timeline range start to end inclusive
+#        instead of frames 0 to end-1; import sets the range the same way
+#      - Export refuses objects with unapplied transforms instead of
+#        silently dropping them
 # v2.3 - Animation export leaves helper bones out: the game maps animation
 #        nodes to model nodes by index and the model lists helpers last
 #      - Animation import rounds the frame rate instead of truncating to 29
@@ -23,7 +33,7 @@ from bpy_extras.io_utils import (
 bl_info = {
     "name": "KHM Tools",
     "author": "Reuben Yu (original), Antistratégie (fixes)",
-    "version": (2, 3),
+    "version": (2, 5),
     "blender": (5, 1, 0),
     "location": "File > Import/Export > khm (.khm)",
     "description": "Import and export Door Kickers 2 model files",

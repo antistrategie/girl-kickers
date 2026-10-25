@@ -56,7 +56,7 @@ const GIRLDLE_DOLLS = [
     squad: "Frostfall Squad",
   },
   {
-    name: "Colphne",
+    name: "Colphne / Colphne Doppelganger",
     weapon: "HG",
     element: "Hydro",
     role: "Support",
@@ -446,6 +446,20 @@ const GIRLDLE_DOLLS = [
     element: "Burn",
     role: "Sentinel",
     squad: "Zucchero Café",
+  },
+  {
+    name: "Agent",
+    weapon: "MG",
+    element: "Hydro",
+    role: "Sentinel",
+    squad: "Sangvis Ferri Manufacturing",
+  },
+  {
+    name: "Igla",
+    weapon: "BLD",
+    element: "Physical",
+    role: "Support",
+    squad: "Elmo 3rd Generation Squad",
   },
 ];
 
