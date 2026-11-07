@@ -2935,8 +2935,7 @@
     <!-- KP/31 SUOMI -->
 
         <Bind to="GFL-DOLL-KP31">
-            <eqp name="GFL-WEAP-PPSH41" />
-            <!-- <eqp name="GFL-WEAP-KP31" /> once its model, ammo and attack types are in -->
+            <eqp name="GFL-WEAP-KP31" />
 
             <!-- Pistols -->
             <eqp name="G17 Pistol CIA BOps" />
@@ -2997,7 +2996,7 @@
     <!-- PLUMA EDGE ULLRID -->
 
         <Bind to="GFL-DOLL-PLUEDGE">
-            <!-- <eqp name="GFL-WEAP-PLUEDGE" /> primary, once its model, ammo and attack types are in -->
+            <eqp name="GFL-WEAP-PLUEDGE" />
 
             <!-- Secondary -->
             <eqp name="GFL-WEAP-ULLRID-BOW" />
@@ -3058,7 +3057,7 @@
     <!-- M1 SUPER 90 LOTTA -->
 
         <Bind to="GFL-DOLL-M1SUPER90">
-            <eqp name="GFL-WEAP-SPAS12" />
+            <eqp name="GFL-WEAP-M1SUPER90" />
 
             <!-- Pistols -->
             <eqp name="G17 Pistol CIA BOps" />
@@ -3119,7 +3118,7 @@
     <!-- GALIL ARM LITTARA -->
 
         <Bind to="GFL-DOLL-GALILARM">
-            <eqp name="GFL-WEAP-PKPSP" />
+            <eqp name="GFL-WEAP-GALILARM" />
 
             <!-- Pistols -->
             <eqp name="G17 Pistol CIA BOps" />
@@ -3180,7 +3179,7 @@
     <!-- LS/26 BALTHILDE -->
 
         <Bind to="GFL-DOLL-LS26">
-            <eqp name="GFL-WEAP-LEWIS" />
+            <eqp name="GFL-WEAP-LS26" />
 
             <!-- Pistols -->
             <eqp name="G17 Pistol CIA BOps" />
@@ -3241,7 +3240,7 @@
     <!-- GRAYTHORN PHAETUSA -->
 
         <Bind to="GFL-DOLL-GRAYTHORN">
-            <eqp name="GFL-WEAP-MP7" />
+            <eqp name="GFL-WEAP-GRAYTHORN" />
 
             <!-- Armor -->
             <eqp name="GFL_RecFrame" />

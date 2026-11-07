@@ -16,3 +16,8 @@ www/unit-builder/app/data/
 
 # Beta publish staging dir (built by beta/build.py)
 beta/_staging/
+
+# GFL2 art pulled by scripts/sprites/extract_art.py
+scripts/sprites/.cache/
+tools/weapons/src/
+tools/weapons/preview/

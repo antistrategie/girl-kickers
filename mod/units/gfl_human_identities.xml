@@ -339,42 +339,42 @@
     />
 
     <Portrait
-        tex="data/textures/portraits/gfl_skkf.dds"
+        tex="data/textures/portraits/gfl_kp31.dds"
         unit="GFL-UNIT-DOLLCOM"
         class="GFL-DOLL-KP31"
         gender="0"
         customName="SUOMI"
     />
     <Portrait
-        tex="data/textures/portraits/gfl_skkf.dds"
+        tex="data/textures/portraits/gfl_pluedge.dds"
         unit="GFL-UNIT-DOLLCOM"
         class="GFL-DOLL-PLUEDGE"
         gender="0"
         customName="ULLRID"
     />
     <Portrait
-        tex="data/textures/portraits/gfl_skkf.dds"
+        tex="data/textures/portraits/gfl_m1super90.dds"
         unit="GFL-UNIT-DOLLCOM"
         class="GFL-DOLL-M1SUPER90"
         gender="0"
         customName="LOTTA"
     />
     <Portrait
-        tex="data/textures/portraits/gfl_skkf.dds"
+        tex="data/textures/portraits/gfl_galilarm.dds"
         unit="GFL-UNIT-DOLLCOM"
         class="GFL-DOLL-GALILARM"
         gender="0"
         customName="LITTARA"
     />
     <Portrait
-        tex="data/textures/portraits/gfl_skkf.dds"
+        tex="data/textures/portraits/gfl_ls26.dds"
         unit="GFL-UNIT-DOLLCOM"
         class="GFL-DOLL-LS26"
         gender="0"
         customName="BALTHILDE"
     />
     <Portrait
-        tex="data/textures/portraits/gfl_skkf.dds"
+        tex="data/textures/portraits/gfl_graythorn.dds"
         unit="GFL-UNIT-DOLLCOM"
         class="GFL-DOLL-GRAYTHORN"
         gender="0"

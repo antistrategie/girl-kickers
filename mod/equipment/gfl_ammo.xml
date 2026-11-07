@@ -3647,4 +3647,178 @@
             </Params>
         </Ammo>
 
+    <!-- M1 SUPER 90 LOTTA (cloned from the SPAS-12) -->
+
+        <Ammo
+            name="12GA00BUCK_GFL_M1SUPER90"
+            tooltip="@ammo_12g00buck_m1super90_name"
+            description="@ammo_12g00buck_m1super90_desc"
+            img="data/models/weapons/attachments/m162_buckshot_ammo_ui.dds"
+        >
+            <!-- Rounds per Second should reflect the actual RPM of the gun/60. -->
+            <Params
+                roundsPerSecond="3.8"
+                audibleSoundRadius="100"
+                physicsImpactForce="2.0"
+                numPellets="9"
+                suppressionScale="0.25"
+            >
+                <Damage
+                    start="16"
+                    end="4"
+                    startDist="0"
+                    endDist="30"
+                />
+                <CriticalChancePercent
+                    start="0"
+                    end="0"
+                    startDist="0"
+                    endDist="100"
+                />
+                <ArmorPenetration
+                    start="40"
+                    end="20"
+                    startDist="0"
+                    endDist="20"
+                />
+            </Params>
+        </Ammo>
+
+        <Ammo
+            name="12GACALCIUMBIRDSHOT_GFL_M1SUPER90" unlockCost="6"
+            tooltip="@ammo_12gcalciumbirdshot_m1super90_name"
+            description="@ammo_12gcalciumbirdshot_m1super90_desc"
+            img="data/models/weapons/attachments/m257_buckshot_ammo24_ui.dds"
+        >
+            <!-- Rounds per Second should reflect the actual RPM of the gun/60. -->
+            <Params
+                roundsPerSecond="3.8"
+                audibleSoundRadius="100"
+                physicsImpactForce="2.0"
+                numPellets="32"
+                suppressionScale="0.01"
+                accuracyMultiplier="80"
+            >
+                <Damage
+                    start="6"
+                    end="2"
+                    startDist="0"
+                    endDist="15"
+                />
+                <CriticalChancePercent
+                    start="0"
+                    end="0"
+                    startDist="0"
+                    endDist="100"
+                />
+                <ArmorPenetration
+                    start="15"
+                    end="0"
+                    startDist="0"
+                    endDist="15"
+                />
+            </Params>
+        </Ammo>
+    <!-- GALIL ARM LITTARA (cloned from the PKP) -->
+
+        <Ammo
+            name="762x54RFMJNSU_GFL_GALILARM"
+            tooltip="@ammo_762x54r_fmj_nsu_galilarm_name"
+            description="@ammo_762x54r_fmj_nsu_galilarm_desc"
+            img="data/models/weapons/attachments/m80_ammo_ui.dds"
+        >
+            <Params
+                roundsPerSecond="10.8"
+                audibleSoundRadius="100"
+                physicsImpactForce="2.0"
+                suppressionScale="3.0"
+            >
+                <Damage
+                    start="34"
+                    end="30"
+                    startDist="0"
+                    endDist="100"
+                />
+                <CriticalChancePercent
+                    start="0"
+                    end="0"
+                    startDist="0"
+                    endDist="100"
+                />
+                <ArmorPenetration
+                    start="60"
+                    end="60"
+                    startDist="0"
+                    endDist="100"
+                />
+            </Params>
+        </Ammo>
+    <!-- LS/26 BALTHILDE (cloned from the Lewis) -->
+
+        <Ammo
+            name="303BRITFMJ_GFL_LS26"
+            tooltip="@ammo_303brit_ls26_name"
+            description="@ammo_303brit_ls26_desc"
+            img="data/models/weapons/attachments/m855_ammo_ui.dds"
+        >
+            <Params
+                roundsPerSecond="9.17"
+                audibleSoundRadius="100"
+                physicsImpactForce="2.5"
+                suppressionScale="4.0"
+            >
+                <Damage
+                    start="38"
+                    end="34"
+                    startDist="0"
+                    endDist="100"
+                />
+                <CriticalChancePercent
+                    start="0"
+                    end="0"
+                    startDist="0"
+                    endDist="100"
+                />
+                <ArmorPenetration
+                    start="70"
+                    end="70"
+                    startDist="0"
+                    endDist="100"
+                />
+            </Params>
+        </Ammo>
+    <!-- GRAYTHORN PHAETUSA (cloned from Hare's blade) -->
+
+        <Ammo
+            name="BLADE_GFL_GRAYTHORN"
+            tooltip="@no_ammo_name"
+            description="@no_ammo_desc"
+            img="data/models/signatures/attachments/no_ammo_ui.dds"
+        >
+            <Params
+                roundsPerSecond="2"
+                audibleSoundRadius="1.2"
+                physicsImpactForce="0"
+            >
+                <Damage
+                    start="150"
+                    end="150"
+                    startDist="0"
+                    endDist="4"
+                />
+                <CriticalChancePercent
+                    start="70"
+                    end="70"
+                    startDist="0"
+                    endDist="4"
+                />
+                <ArmorPenetration
+                    start="100"
+                    end="100"
+                    startDist="0"
+                    endDist="4"
+                />
+            </Params>
+        </Ammo>
+
 </Equipment>

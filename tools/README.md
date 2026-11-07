@@ -42,3 +42,14 @@ Copy `KHM_Importer.ms` to `C:\Program Files\Autodesk\3ds Max 2026\scripts\` (if 
 4. Choose a `.khm` file to import
 
 The script will import the model with all bones (as generic bones, I don't know how to make biped bones), meshes, skin weights, helpers, and collision objects. Depending on how complex the model is, this may take a while.
+
+## Signature weapons from GFL2
+
+`tools/weapons/build_weapon.py` builds `mod/models/signatures/<name>.khm` and `.dds` from a doll's standard (SR) weapon in the GFL2 CN client. Rows live in `tools/weapons/weapons.py`. See the script's docstring for the frames and helpers it sets up.
+
+```bash
+uv run --no-project --with UnityPy==1.25.0 --with lz4 --with numpy --with pillow \
+    python tools/weapons/build_weapon.py [name ...] [--rebuild] [--renders ~/Downloads/wrender]
+```
+
+The first run writes `tools/weapons/<name>.blend` with the doll posed in the rifle aim clip around her gun. Nudge `HELPER_IKHandL` (left hand) or the weapon mesh (right-hand grip) there, save, and rerun: later runs export from the `.blend`. `--renders` writes clean side renders to draw the `_ui.dds` icons over.

@@ -44,3 +44,10 @@ run = 'blender --background --python tools/mmd_converter/prepare_mmd.py --'
 [tasks.add-weights]
 description = "Add DK2 armature and automatic weights to prepared model"
 run = 'blender --background --python tools/mmd_converter/add_weights.py --'
+
+[tasks.sprites]
+description = "Extract GFL2 art and build portraits, flags and class icons for the rows in scripts/sprites/tables.py"
+run = '''
+uv run scripts/sprites/extract_art.py --dolls
+uv run scripts/sprites/make_sprites.py
+'''

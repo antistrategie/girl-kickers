@@ -47,7 +47,7 @@
 
         <RenderObject3D
             model="data/models/signatures/gfl_ullrid_bow.khm"
-            attachSlot="prop_front_rifle"
+            attachSlot="prop_back_rifle"
             skipGOSSAO="true"
             diffuseTex="data/models/signatures/gfl_ullrid_bow.dds"
         />

@@ -4834,6 +4834,496 @@
             />
         </AttackType>
 
+    <!-- M1 SUPER 90 LOTTA (cloned from the SPAS-12) -->
+
+        <AttackType name="GFL_CQC_M1SUPER90">
+        <!-- Under 4m. -->
+            <ModifiableParams
+                minAimTime="340"
+                maxAimTime="340"
+                roundsPerSecondOverride="0"
+                minShots="1"
+                maxShots="-1"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="0"
+                critChanceAdd="10"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_Near_M1SUPER90">
+        <!-- Under 8m. -->
+            <ModifiableParams
+                minAimTime="340"
+                maxAimTime="340"
+                roundsPerSecondOverride="0"
+                minShots="1"
+                maxShots="2"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="0"
+                critChanceAdd="5"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_Close_M1SUPER90">
+        <!-- Under 12m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="400"
+                roundsPerSecondOverride="0"
+                minShots="1"
+                maxShots="2"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="0"
+                critChanceAdd="5"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_Medium_M1SUPER90">
+        <!-- Under 16m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="450"
+                roundsPerSecondOverride="0"
+                minShots="1"
+                maxShots="2"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="0"
+                critChanceAdd="5"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_MedEdge_M1SUPER90">
+        <!-- Under 20m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="450"
+                roundsPerSecondOverride="0"
+                minShots="1"
+                maxShots="2"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="0"
+                critChanceAdd="5"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_Extended_M1SUPER90">
+        <!-- Beyond 20m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="500"
+                roundsPerSecondOverride="0"
+                minShots="1"
+                maxShots="2"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="0"
+                critChanceAdd="5"
+            />
+        </AttackType>
+    <!-- GALIL ARM LITTARA (cloned from the PKP) -->
+
+        <AttackType name="GFL_CQC_GALILARM">
+        <!-- Under 4m. -->
+            <ModifiableParams
+                minAimTime="340"
+                maxAimTime="340"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="-1"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="0"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_Near_GALILARM">
+        <!-- Under 8m. -->
+            <ModifiableParams
+                minAimTime="340"
+                maxAimTime="340"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="-1"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="0"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_Close_GALILARM">
+        <!-- Under 12m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="400"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="5"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="0"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_Medium_GALILARM">
+        <!-- Under 16m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="450"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="5"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="15"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_MedEdge_GALILARM">
+        <!-- Under 20m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="450"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="5"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="15"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_Extended_GALILARM">
+        <!-- Beyond 20m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="500"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="5"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="10"
+            />
+        </AttackType>
+
+    <AttackType name="GFL_AreaSuppression_Auto">
+        <ModifiableParams
+            minAimTime="250"
+            maxAimTime="250"
+            minShots="6"
+            maxShots="8"
+            resetTime="400"
+            critChanceAdd="-25"
+        />
+    </AttackType>
+
+        <AttackType name="GFL_CQCMounted_GALILARM">
+        <!-- Under 4m. -->
+            <ModifiableParams
+                minAimTime="340"
+                maxAimTime="340"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="-1"
+                resetTime="250"
+                accuracyAdd="50"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="0"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_NearMounted_GALILARM">
+        <!-- Under 8m. -->
+            <ModifiableParams
+                minAimTime="340"
+                maxAimTime="340"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="-1"
+                resetTime="250"
+                accuracyAdd="50"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="0"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_CloseMounted_GALILARM">
+        <!-- Under 12m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="400"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="-1"
+                resetTime="250"
+                accuracyAdd="50"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="0"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_MediumMounted_GALILARM">
+        <!-- Under 16m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="450"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="-1"
+                resetTime="250"
+                accuracyAdd="50"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="15"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_MedEdgeMounted_GALILARM">
+        <!-- Under 20m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="450"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="-1"
+                resetTime="250"
+                accuracyAdd="50"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="15"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_ExtendedMounted_GALILARM">
+        <!-- Beyond 20m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="500"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="5"
+                resetTime="250"
+                accuracyAdd="50"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="10"
+            />
+        </AttackType>
+    <!-- LS/26 BALTHILDE (cloned from the Lewis) -->
+
+        <AttackType name="GFL_CQC_LS26">
+        <!-- Under 4m. -->
+            <ModifiableParams
+                minAimTime="340"
+                maxAimTime="340"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="-1"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="10"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_Near_LS26">
+        <!-- Under 8m. -->
+            <ModifiableParams
+                minAimTime="340"
+                maxAimTime="340"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="-1"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="10"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_Close_LS26">
+        <!-- Under 12m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="400"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="5"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="0"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_Medium_LS26">
+        <!-- Under 16m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="450"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="5"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="0"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_MedEdge_LS26">
+        <!-- Under 20m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="450"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="5"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="15"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_Extended_LS26">
+        <!-- Beyond 20m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="500"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="5"
+                resetTime="250"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="10"
+            />
+        </AttackType>
+
+    <AttackType name="GFL_AreaSuppression_Auto">
+        <ModifiableParams
+            minAimTime="250"
+            maxAimTime="250"
+            minShots="6"
+            maxShots="8"
+            resetTime="400"
+            critChanceAdd="-25"
+        />
+    </AttackType>
+
+        <AttackType name="GFL_CQCMounted_LS26">
+        <!-- Under 4m. -->
+            <ModifiableParams
+                minAimTime="340"
+                maxAimTime="340"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="-1"
+                resetTime="250"
+                accuracyAdd="50"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="10"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_NearMounted_LS26">
+        <!-- Under 8m. -->
+            <ModifiableParams
+                minAimTime="340"
+                maxAimTime="340"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="-1"
+                resetTime="250"
+                accuracyAdd="50"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="10"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_CloseMounted_LS26">
+        <!-- Under 12m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="400"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="-1"
+                resetTime="250"
+                accuracyAdd="50"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="0"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_MediumMounted_LS26">
+        <!-- Under 16m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="450"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="-1"
+                resetTime="250"
+                accuracyAdd="50"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="0"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_MedEdgeMounted_LS26">
+        <!-- Under 20m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="450"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="-1"
+                resetTime="250"
+                accuracyAdd="50"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="15"
+            />
+        </AttackType>
+
+        <AttackType name="GFL_ExtendedMounted_LS26">
+        <!-- Beyond 20m. -->
+            <ModifiableParams
+                minAimTime="350"
+                maxAimTime="500"
+                roundsPerSecondOverride="0"
+                minShots="3"
+                maxShots="5"
+                resetTime="250"
+                accuracyAdd="50"
+                followupShotAccuracyAdd="2"
+                critChanceAdd="10"
+            />
+        </AttackType>
+    <!-- GRAYTHORN PHAETUSA (cloned from Hare's blade) -->
+
+        <AttackType name="GFL_GRAYTHORN_MeleeAttack">
+            <ModifiableParams
+                minAimTime="250"
+                maxAimTime="300"
+                minShots="1"
+                maxShots="1"
+                resetTime="100"
+                accuracyAdd="0"
+                followupShotAccuracyAdd="0"
+                critChanceAdd="0"
+            />
+        </AttackType>
+
 
     <!-- MECHANICAL BOW ULLRID (the Mosin's bands, one arrow per draw at every range) -->
 

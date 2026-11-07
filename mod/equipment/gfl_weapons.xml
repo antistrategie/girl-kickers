@@ -7618,15 +7618,372 @@
         </Firearm>
 
 
-    <!-- M1 SUPER 90 LOTTA -->
+    <!-- M1 SUPER 90 LOTTA (cloned from the SPAS-12) -->
 
-    <!-- GALIL ARM LITTARA -->
+        <Bind eqp="GFL-WEAP-M1SUPER90">
+            <to name="12GA00BUCK_GFL_M1SUPER90" />
+            <to name="12GACALCIUMBIRDSHOT_GFL_M1SUPER90" />
 
-    <!-- LS/26 BALTHILDE -->
+            <to name="scope_GFL_IronSights" />
+            <to name="scope_GFL_RedDot" />
+            <to name="scope_GFL_Holosight" />
+            <to name="scope_GFL_M68CCO" />
+            <to name="scope_GFL_M150RCO" />
+            <to name="scope_GFL_HoloMag3x" />
+            <to name="scope_GFL_SpecterDR" />
+            <to name="scope_GFL_LPVO_6X" />
+            <to name="scope_GFL_LPVO_8X" />
+            <to name="scope_GFL_LROMK4_3_10X" />
+            <to name="scope_GFL_LROMK6_3_18X" />
+            <to name="scope_GFL_LROPM_5_25X" />
+        </Bind>
+
+        <Firearm
+            name="GFL-WEAP-M1SUPER90"
+            inventoryBinding="PrimaryWeapon"
+            category="shotgun"
+            unlockCost="0"
+            tooltip="@WEAP-M1SUPER90-NAME"
+            description="@WEAP-M1SUPER90-DESC"
+            img="data/models/signatures/m1super90_ui.dds"
+            animationSet="shotgun_m1014"
+        >
+            <MobilityModifiers
+                moveSpeedModifierPercent="0"
+                turnSpeedModifierPercent="0"
+            />
+            <ConcealmentModifier add="-4" />
+
+            <RenderObject3D
+                model="data/models/signatures/m1super90.khm"
+                attachSlot="prop_front_rifle"
+                skipGOSSAO="true"
+                diffuseTex="data/models/signatures/m1super90.dds"
+            />
+
+            <ModifiableParams
+                numPellets="1"
+                roundsPerMagazine="8"
+                closedBolt="1"
+                cyclicReload="1"
+                reloadTime="440"
+                reloadEmptyTime="460"
+                changeInTime="0"
+                changeOutTime="0"
+                readyTime="340"
+                guardTime="160"
+                accuracyStart="80"
+                accuracyEnd="40"
+                accuracyStartDist="4"
+                accuracyEndDist="50"
+            />
+
+            <Params
+                caliberInfoText="@firearm_caliber_12gauge_name"
+                operationInfoText="@firearm_operation_semiauto_name"
+                ejectingShellEntity="BulletCasingShotgun"
+                ai_rangeMin="1.0"
+                ai_rangeOptimal="7.0"
+                ai_rangeMax="15.0"
+                ai_stopWhenShooting="false"
+            />
+
+            <AttackTypes>
+
+                <AttackType name="GFL_CQC_M1SUPER90" rangeMeters="4" />
+                <AttackType name="GFL_Near_M1SUPER90" rangeMeters="8" />
+                <AttackType name="GFL_Close_M1SUPER90" rangeMeters="12" />
+                <AttackType name="GFL_Medium_M1SUPER90" rangeMeters="16" />
+                <AttackType name="GFL_MedEdge_M1SUPER90" rangeMeters="20" />
+                <AttackType name="GFL_Extended_M1SUPER90" rangeMeters="9999" />
+
+            </AttackTypes>
+
+            <MuzzleFlash lightTemplate="ShotLightLarge" tracerTemplate="Tracer_Pistol">
+                <Flare particles="FX_MUZZLE_FLASH_SHOTGUN_01" />
+                <Flare particles="FX_MUZZLE_FLASH_SHOTGUN_02" />
+                <Flare particles="FX_MUZZLE_FLASH_SHOTGUN_03" />
+                <Flare particles="FX_MUZZLE_FLASH_SHOTGUN_04" />
+            </MuzzleFlash>
+
+            <Sounds>
+                <Equip name="870br_eqp" />
+                <Unequip name="870br_neqp" />
+                <Reload name="870br_reld" />
+                <ReloadEmpty name="870br_reld" />
+                <Fire name="m1014_fire" />
+                <ShellDrop name="shotgun_shell_drop" />
+                <Empty name="gen_empty" />
+            </Sounds>
+        </Firearm>
+
+
+    <!-- GALIL ARM LITTARA (cloned from the PKP) -->
+
+        <Bind eqp="GFL-WEAP-GALILARM">
+            <to name="762x54RFMJNSU_GFL_GALILARM" />
+
+            <to name="scope_GFL_IronSights" />
+            <to name="scope_GFL_RedDot" />
+            <to name="scope_GFL_Holosight" />
+            <to name="scope_GFL_M68CCO" />
+            <to name="scope_GFL_M150RCO" />
+            <to name="scope_GFL_HoloMag3x" />
+            <to name="scope_GFL_SpecterDR" />
+            <to name="scope_GFL_LPVO_6X" />
+            <to name="scope_GFL_LPVO_8X" />
+            <to name="scope_GFL_LROMK4_3_10X" />
+            <to name="scope_GFL_LROMK6_3_18X" />
+            <to name="scope_GFL_LROPM_5_25X" />
+
+        </Bind>
+        <Firearm
+            name="GFL-WEAP-GALILARM"
+            inventoryBinding="PrimaryWeapon"
+            category="lmg"
+            unlockCost="0"
+            tooltip="@WEAP-GALILARM-NAME"
+            description="@WEAP-GALILARM-DESC"
+            img="data/models/signatures/galilarm_ui.dds"
+            animationSet="rifle"
+        >
+            <MobilityModifiers
+                moveSpeedModifierPercent="0"
+                turnSpeedModifierPercent="0"
+            />
+            <ConcealmentModifier add="-8" />
+
+            <RenderObject3D
+                model="data/models/signatures/galilarm.khm"
+                attachSlot="prop_front_rifle"
+                skipGOSSAO="true"
+                diffuseTex="data/models/signatures/galilarm.dds"
+            />
+
+            <ModifiableParams
+                numPellets="1"
+                roundsPerMagazine="100"
+                closedBolt="0"
+                cyclicReload="0"
+                reloadTime="2200"
+                reloadEmptyTime="2300"
+                changeInTime="0"
+                changeOutTime="0"
+                readyTime="360"
+                guardTime="160"
+                accuracyStart="30"
+                accuracyEnd="30"
+                accuracyStartDist="4"
+                accuracyEndDist="50"
+                suppressArea="1"
+            />
+
+            <Params
+                caliberInfoText="@firearm_caliber_762x54_name"
+                operationInfoText="@firearm_operation_fullauto_name"
+                ejectingShellEntity="BulletCasingLarge"
+                magazineEntity="m240l_mag"
+                ai_rangeMin="5.0"
+                ai_rangeOptimal="25.0"
+                ai_rangeMax="70.0"
+            />
+
+            <AttackTypes>
+
+                <AttackType name="GFL_CQC_GALILARM" inCoverOverride="GFL_CQCMounted_GALILARM" rangeMeters="4" />
+                <AttackType name="GFL_Near_GALILARM" inCoverOverride="GFL_NearMounted_GALILARM" rangeMeters="8" />
+                <AttackType name="GFL_Close_GALILARM" inCoverOverride="GFL_CloseMounted_GALILARM" rangeMeters="12" />
+                <AttackType name="GFL_Medium_GALILARM" inCoverOverride="GFL_MediumMounted_GALILARM" rangeMeters="16" />
+                <AttackType name="GFL_MedEdge_GALILARM" inCoverOverride="GFL_MedEdgeMounted_GALILARM" rangeMeters="20" />
+                <AttackType name="GFL_Extended_GALILARM" inCoverOverride="GFL_ExtendedMounted_GALILARM" rangeMeters="9999" />
+
+            </AttackTypes>
+
+            <AttackTypesSuppressiveFire>
+                <AttackType name="GFL_AreaSuppression_Auto" rangeMeters="9999" />
+            </AttackTypesSuppressiveFire>
+
+            <MuzzleFlash lightTemplate="ShotLightLarge" tracerTemplate="Tracer_LMG">
+                <Flare particles="FX_MUZZLE_FLASH_LMG_01" />
+                <Flare particles="FX_MUZZLE_FLASH_LMG_02" />
+                <Flare particles="FX_MUZZLE_FLASH_LMG_03" />
+                <Flare particles="FX_MUZZLE_FLASH_LMG_04" />
+            </MuzzleFlash>
+
+            <Sounds>
+                <Equip name="rifle_eqp" />
+                <Unequip name="rifle_neqp" />
+                <Reload name="rifle_reld" />
+                <ReloadEmpty name="rifle_reldempt" />
+                <Fire name="pkm_fire" />
+                <ShellDrop name="rifle_shell_drop" />
+                <Empty name="gen_empty" />
+            </Sounds>
+        </Firearm>
+
+
+    <!-- LS/26 BALTHILDE (cloned from the Lewis) -->
+
+        <Bind eqp="GFL-WEAP-LS26">
+            <to name="303BRITFMJ_GFL_LS26" />
+
+            <to name="scope_GFL_IronSights" />
+            <to name="scope_GFL_RedDot" />
+            <to name="scope_GFL_Holosight" />
+            <to name="scope_GFL_M68CCO" />
+            <to name="scope_GFL_M150RCO" />
+            <to name="scope_GFL_HoloMag3x" />
+            <to name="scope_GFL_SpecterDR" />
+            <to name="scope_GFL_LPVO_6X" />
+            <to name="scope_GFL_LPVO_8X" />
+            <to name="scope_GFL_LROMK4_3_10X" />
+            <to name="scope_GFL_LROMK6_3_18X" />
+            <to name="scope_GFL_LROPM_5_25X" />
+        </Bind>
+        <Firearm
+            name="GFL-WEAP-LS26"
+            inventoryBinding="PrimaryWeapon"
+            category="lmg"
+            unlockCost="0"
+            tooltip="@WEAP-LS26-NAME"
+            description="@WEAP-LS26-DESC"
+            img="data/models/signatures/ls26_ui.dds"
+            animationSet="rifle"
+        >
+            <MobilityModifiers
+                moveSpeedModifierPercent="0"
+                turnSpeedModifierPercent="0"
+            />
+                <ConcealmentModifier add="-8" />
+
+                <RenderObject3D
+                model="data/models/signatures/ls26.khm"
+                attachSlot="prop_front_rifle"
+                skipGOSSAO="true"
+                diffuseTex="data/models/signatures/ls26.dds"
+            />
+
+            <ModifiableParams
+                numPellets="1"
+                roundsPerMagazine="47"
+                closedBolt="0"
+                cyclicReload="0"
+                reloadTime="1700"
+                reloadEmptyTime="1800"
+                changeInTime="0"
+                changeOutTime="0"
+                readyTime="360"
+                guardTime="160"
+                accuracyStart="30"
+                accuracyEnd="30"
+                accuracyStartDist="4"
+                accuracyEndDist="50"
+                suppressArea="1"
+            />
+
+            <Params
+                caliberInfoText="@firearm_caliber_303_name"
+                operationInfoText="@firearm_operation_fullauto_name"
+                ejectingShellEntity="BulletCasingLarge"
+                magazineEntity="m240l_mag"
+                ai_rangeMin="5.0"
+                ai_rangeOptimal="20.0"
+                ai_rangeMax="60.0"
+            />
+
+            <AttackTypes>
+
+                <AttackType name="GFL_CQC_LS26" inCoverOverride="GFL_CQCMounted_LS26" rangeMeters="4" />
+                <AttackType name="GFL_Near_LS26" inCoverOverride="GFL_NearMounted_LS26" rangeMeters="8" />
+                <AttackType name="GFL_Close_LS26" inCoverOverride="GFL_CloseMounted_LS26" rangeMeters="12" />
+                <AttackType name="GFL_Medium_LS26" inCoverOverride="GFL_MediumMounted_LS26" rangeMeters="16" />
+                <AttackType name="GFL_MedEdge_LS26" inCoverOverride="GFL_MedEdgeMounted_LS26" rangeMeters="20" />
+                <AttackType name="GFL_Extended_LS26" inCoverOverride="GFL_ExtendedMounted_LS26" rangeMeters="9999" />
+
+            </AttackTypes>
+
+            <AttackTypesSuppressiveFire>
+                <AttackType name="GFL_AreaSuppression_Auto" rangeMeters="9999" />
+            </AttackTypesSuppressiveFire>
+
+            <MuzzleFlash lightTemplate="ShotLightLarge" tracerTemplate="Tracer_LMG">
+                <Flare particles="FX_MUZZLE_FLASH_LMG_01" />
+                <Flare particles="FX_MUZZLE_FLASH_LMG_02" />
+                <Flare particles="FX_MUZZLE_FLASH_LMG_03" />
+                <Flare particles="FX_MUZZLE_FLASH_LMG_04" />
+            </MuzzleFlash>
+
+            <Sounds>
+                <Equip name="rifle_eqp" />
+                <Unequip name="rifle_neqp" />
+                <Reload name="rifle_reld" />
+                <ReloadEmpty name="rifle_reldempt" />
+                <Fire name="m110csass_fire" />
+                <ShellDrop name="rifle_shell_drop" />
+                <Empty name="gen_empty" />
+            </Sounds>
+        </Firearm>
+
 
     <!-- KSVK DUSHEVNAYA -->
 
-    <!-- GRAYTHORN PHAETUSA -->
+    <!-- GRAYTHORN PHAETUSA (cloned from Hare's blade) -->
+
+        <Bind eqp="GFL-WEAP-GRAYTHORN">
+            <to name="BLADE_GFL_GRAYTHORN" />
+            <to name="NOTHINGBURGER_GFL" />
+        </Bind>
+        <Firearm
+            name="GFL-WEAP-GRAYTHORN"
+            inventoryBinding="PrimaryWeapon"
+            category="melee"
+            unlockCost="6"
+            tooltip="@WEAP-GRAYTHORN-NAME"
+            description="@WEAP-GRAYTHORN-DESC"
+            img="data/models/signatures/graythorn_ui.dds"
+            animationSet="melee"
+        >
+            <MobilityModifiers
+                moveSpeedModifierPercent="0"
+                turnSpeedModifierPercent="0"
+            />
+            <RenderObject3D
+                model="data/models/signatures/graythorn.khm"
+                skipGOSSAO="true"
+                diffuseTex="data/models/signatures/graythorn.dds"
+            />
+
+            <ModifiableParams
+                changeInTime="0"
+                changeOutTime="0"
+                efficiencyPercent="100"
+                audibleSoundRadius="1.2"
+                meleeDamageBonus="50"
+                meleeReach="1.2"
+                meleeAttackCooldown="350"
+                meleeAttackDuration="300"
+                roundsPerMagazine="0"
+                reloadTime="5"
+                reloadEmptyTime="5"
+                readyTime="20"
+                guardTime="20"
+                accuracyStart="200"
+                accuracyEnd="200"
+                accuracyStartDist="4"
+                accuracyEndDist="100"
+            />
+
+            <Params operationInfoText="@firearm_operation_melee" />
+
+            <AttackTypes>
+                <AttackType name="GFL_GRAYTHORN_MeleeAttack" rangeMeters="9999" />
+            </AttackTypes>
+
+            <Sounds>
+                <Fire name="melee_hit" />
+            </Sounds>
+        </Firearm>
+
 
 <!-- UNRELEASED -->
 

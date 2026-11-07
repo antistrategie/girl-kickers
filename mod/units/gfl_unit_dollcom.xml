@@ -1,10 +1,10 @@
 <Units>
-    <!-- placeholder flag and unlock movie borrowed from the AR team -->
+    <!-- placeholder unlock movie borrowed from the AR team -->
     <Unit
         name="GFL-UNIT-DOLLCOM"
         nameUI="@GFL-UNIT-DOLLCOM-NAME"
         description="@GFL-UNIT-DOLLCOM-DESC"
-        flagTex="data/textures/gfl_arteam_bg.dds"
+        flagTex="data/textures/gfl_dollcom_bg.dds"
         flagColor="3FA7A0"
         movie="data/movies/gfl_unlock_arteam.ogv"
         rndNameEntry="@#GFL-UNIT-DOLLCOM-NAME-RND"

@@ -20,7 +20,7 @@
         <Human type="GoodGuy" unit="GFL-UNIT-DOLLCOM" class="GFL-DOLL-KP31">
             <Id
                 name="DOLLCOM-KP31"
-                portrait="data/textures/portraits/gfl_skkf.dds"
+                portrait="data/textures/portraits/gfl_kp31.dds"
                 gender="0"
             />
             <FOV degrees="90" distanceMeters="999" eyeRadiusMeters="1" />
@@ -32,7 +32,7 @@
             </Mobility>
 
             <Equipment>
-                <Item name="GFL-WEAP-PPSH41" />  <!-- stand-in, GFL-WEAP-KP31 once it is finished -->
+                <Item name="GFL-WEAP-KP31" />
                 <Item name="GFL_FeetOfGunmetal" />
                 <Item name="GFL_Lockpick" />
                 <Item name="GFL_BasicCore" />
@@ -60,7 +60,7 @@
         <Human type="GoodGuy" unit="GFL-UNIT-DOLLCOM" class="GFL-DOLL-PLUEDGE">
             <Id
                 name="DOLLCOM-PLUEDGE"
-                portrait="data/textures/portraits/gfl_skkf.dds"
+                portrait="data/textures/portraits/gfl_pluedge.dds"
                 gender="0"
             />
             <FOV degrees="90" distanceMeters="999" eyeRadiusMeters="1" />
@@ -72,7 +72,7 @@
             </Mobility>
 
             <Equipment>
-                <!-- <Item name="GFL-WEAP-PLUEDGE" /> primary, once the sword is finished -->
+                <Item name="GFL-WEAP-PLUEDGE" />
                 <Item name="GFL-WEAP-ULLRID-BOW" />
                 <Item name="GFL_FeetOfGunmetal" />
                 <Item name="GFL_Lockpick" />
@@ -101,7 +101,7 @@
         <Human type="GoodGuy" unit="GFL-UNIT-DOLLCOM" class="GFL-DOLL-M1SUPER90">
             <Id
                 name="DOLLCOM-M1SUPER90"
-                portrait="data/textures/portraits/gfl_skkf.dds"
+                portrait="data/textures/portraits/gfl_m1super90.dds"
                 gender="0"
             />
             <FOV degrees="90" distanceMeters="999" eyeRadiusMeters="1" />
@@ -113,7 +113,7 @@
             </Mobility>
 
             <Equipment>
-                <Item name="GFL-WEAP-SPAS12" />  <!-- stand-in -->
+                <Item name="GFL-WEAP-M1SUPER90" />
                 <Item name="GFL_FeetOfGunmetal" />
                 <Item name="GFL_Lockpick" />
                 <Item name="GFL_BasicCore" />
@@ -141,7 +141,7 @@
         <Human type="GoodGuy" unit="GFL-UNIT-DOLLCOM" class="GFL-DOLL-GALILARM">
             <Id
                 name="DOLLCOM-GALILARM"
-                portrait="data/textures/portraits/gfl_skkf.dds"
+                portrait="data/textures/portraits/gfl_galilarm.dds"
                 gender="0"
             />
             <FOV degrees="90" distanceMeters="999" eyeRadiusMeters="1" />
@@ -153,7 +153,7 @@
             </Mobility>
 
             <Equipment>
-                <Item name="GFL-WEAP-PKPSP" />  <!-- stand-in -->
+                <Item name="GFL-WEAP-GALILARM" />
                 <Item name="GFL_FeetOfGunmetal" />
                 <Item name="GFL_Lockpick" />
                 <Item name="GFL_BasicCore" />
@@ -181,7 +181,7 @@
         <Human type="GoodGuy" unit="GFL-UNIT-DOLLCOM" class="GFL-DOLL-LS26">
             <Id
                 name="DOLLCOM-LS26"
-                portrait="data/textures/portraits/gfl_skkf.dds"
+                portrait="data/textures/portraits/gfl_ls26.dds"
                 gender="0"
             />
             <FOV degrees="90" distanceMeters="999" eyeRadiusMeters="1" />
@@ -193,7 +193,7 @@
             </Mobility>
 
             <Equipment>
-                <Item name="GFL-WEAP-LEWIS" />  <!-- stand-in -->
+                <Item name="GFL-WEAP-LS26" />
                 <Item name="GFL_FeetOfGunmetal" />
                 <Item name="GFL_Lockpick" />
                 <Item name="GFL_BasicCore" />
@@ -221,7 +221,7 @@
         <Human type="GoodGuy" unit="GFL-UNIT-DOLLCOM" class="GFL-DOLL-GRAYTHORN">
             <Id
                 name="DOLLCOM-GRAYTHORN"
-                portrait="data/textures/portraits/gfl_skkf.dds"
+                portrait="data/textures/portraits/gfl_graythorn.dds"
                 gender="0"
             />
             <FOV degrees="90" distanceMeters="999" eyeRadiusMeters="1" />
@@ -233,7 +233,7 @@
             </Mobility>
 
             <Equipment>
-                <Item name="GFL-WEAP-MP7" />  <!-- stand-in -->
+                <Item name="GFL-WEAP-GRAYTHORN" />
                 <Item name="GFL_FeetOfGunmetal" />
                 <Item name="GFL_Lockpick" />
                 <Item name="GFL_BasicCore" />
